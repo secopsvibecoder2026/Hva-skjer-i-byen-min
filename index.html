@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="nb">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- SEO -->
+    <title>Hva skjer i Bergen? | Din lokale aktivitetsguide</title>
+    <meta
+      name="description"
+      content="Finn konserter, familieaktiviteter, barneeventer og gratis arrangementer i Bergen. Din komplette guide til hva som skjer i byen."
+    />
+    <meta name="keywords" content="Bergen, arrangementer, konserter, familieaktiviteter, gratis, hva skjer, by, aktiviteter" />
+
+    <!-- Open Graph (deling på sosiale medier) -->
+    <meta property="og:title" content="Hva skjer i Bergen?" />
+    <meta property="og:description" content="Din lokale aktivitetsguide – finn arrangementer, konserter og familieaktiviteter." />
+    <meta property="og:type" content="website" />
+    <!-- <meta property="og:image" content="https://dindomene.no/assets/og-image.png" /> -->
+
+    <!-- Favicon (bytt ut med egen) -->
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🏙️</text></svg>" />
+
+    <!-- =====================================================
+         Google AdSense
+         Erstatt `ca-pub-XXXXXXXXXX` med din publisher-ID
+         og fjern kommentarene for å aktivere annonser.
+         =====================================================
+    <script
+      async
+      src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXX"
+      crossorigin="anonymous"
+    ></script>
+    -->
+
+    <!-- Stilark -->
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+
+  <body>
+    <!-- =====================================================
+         HEADER / HERO
+         ===================================================== -->
+    <header class="site-header" role="banner">
+      <div class="container">
+        <!-- Logo / Sitenavn -->
+        <div class="site-header__logo">
+          🏙️ Hva skjer i <span>Bergen</span>?
+        </div>
+        <p class="site-header__tagline">
+          Din lokale guide til konserter, familieaktiviteter og mye mer
+        </p>
+
+        <!-- Byvelger – klar for fremtidig multi-by støtte -->
+        <div class="site-header__city-select">
+          <label for="city-picker" class="sr-only">Velg by</label>
+          <select id="city-picker" class="city-picker" aria-label="Velg by">
+            <option value="bergen" selected>📍 Bergen</option>
+            <!-- Legg til flere byer her etter hvert -->
+            <option value="oslo">Oslo (kommer snart)</option>
+            <option value="stavanger">Stavanger (kommer snart)</option>
+            <option value="trondheim">Trondheim (kommer snart)</option>
+          </select>
+        </div>
+      </div>
+    </header>
+
+    <!-- =====================================================
+         LEADERBOARD-ANNONSE (topp)
+         Fjern kommentarer og bytt ut med ekte AdSense-kode
+         ===================================================== -->
+    <div class="container">
+      <div class="ad-slot ad-slot--leaderboard" aria-label="Annonse" role="complementary">
+        <!-- Google AdSense leaderboard (728x90):
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-XXXXXXXXXX"
+             data-ad-slot="YYYYYYYYYY"
+             data-ad-format="auto"
+             data-full-width-responsive="true">
+        </ins>
+        <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+        -->
+        <div>
+          <div class="ad-slot__label">Annonse</div>
+          <span>728 × 90 – Leaderboard-annonse (Google AdSense)</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- =====================================================
+         SØKEFELT (sticky)
+         ===================================================== -->
+    <section class="search-section" aria-label="Søk etter arrangementer">
+      <div class="container">
+        <div class="search-bar" role="search">
+          <span class="search-bar__icon" aria-hidden="true">🔍</span>
+          <label for="search-input" class="sr-only">Søk etter arrangement</label>
+          <input
+            id="search-input"
+            type="search"
+            placeholder="Søk etter arrangement, kategori eller sted…"
+            autocomplete="off"
+            spellcheck="false"
+          />
+          <!-- Tøm-knapp – vises kun når det er tekst i feltet -->
+          <button id="search-clear" hidden aria-label="Tøm søk" title="Tøm søk">✕</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- =====================================================
+         HOVED-INNHOLD
+         ===================================================== -->
+    <main class="container" id="main-content">
+
+      <!-- FILTERKNAPPER -->
+      <section class="filter-section" aria-label="Filtrer arrangementer">
+        <p class="filter-section__title">Filtrer etter kategori</p>
+        <!-- Knapper genereres dynamisk av app.js fra CATEGORIES-arrayen -->
+        <div class="filter-buttons" id="filter-buttons" role="group" aria-label="Kategorifiltre">
+          <!-- Populeres av JavaScript -->
+        </div>
+        <div style="margin-top: 0.75rem;">
+          <button
+            id="reset-filters"
+            onclick="activeFilters.clear(); document.querySelectorAll('.filter-btn--active').forEach(b => { b.classList.remove('filter-btn--active'); b.setAttribute('aria-pressed','false'); }); renderEvents();"
+            title="Vis alle arrangementer"
+          >
+            ✕ Vis alle
+          </button>
+        </div>
+      </section>
+
+      <!-- AFFILIATE-SEKSJON
+           Bytt ut lenker med dine faktiske affiliate-partnere
+           Typiske affiliate-programmer: Ticketmaster, Eventbrite, booking-sider -->
+      <aside class="affiliate-section" aria-label="Anbefalte partnere">
+        <div class="affiliate-section__title">✨ Anbefalte partnere</div>
+        <div class="affiliate-links">
+          <!-- Disse lenkene bør ha rel="sponsored noopener" og ditt affiliate-ID -->
+          <a href="https://www.ticketmaster.no?ref=hvaSkjerIByenMin" class="affiliate-link" target="_blank" rel="sponsored noopener">
+            🎟️ Ticketmaster
+          </a>
+          <a href="https://www.finn.no/events?ref=hvaSkjerIByenMin" class="affiliate-link" target="_blank" rel="sponsored noopener">
+            🔍 FINN Arrangementer
+          </a>
+          <a href="https://www.visitbergen.com?ref=hvaSkjerIByenMin" class="affiliate-link" target="_blank" rel="sponsored noopener">
+            🌊 Visit Bergen
+          </a>
+          <a href="https://www.narvesen.no?ref=hvaSkjerIByenMin" class="affiliate-link" target="_blank" rel="sponsored noopener">
+            🛒 Narvesen Billetter
+          </a>
+        </div>
+      </aside>
+
+      <!-- RESULTATER-HEADER -->
+      <div class="results-header">
+        <h2>Kommende arrangementer</h2>
+        <span class="results-header__count">
+          Viser <strong id="event-count">–</strong> arrangementer
+        </span>
+      </div>
+
+      <!-- ARRANGEMENTS-GRID
+           Kort genereres dynamisk av app.js -->
+      <div
+        id="events-grid"
+        class="events-grid"
+        role="list"
+        aria-live="polite"
+        aria-label="Liste over arrangementer"
+      >
+        <!-- Populeres av JavaScript -->
+      </div>
+
+      <!-- TOM TILSTAND -->
+      <div id="no-results" class="no-results" hidden aria-live="assertive">
+        <div class="no-results__emoji">😕</div>
+        <h3>Ingen arrangementer funnet</h3>
+        <p>Prøv et annet søkeord eller fjern noen filtre.</p>
+      </div>
+
+      <!-- RECTANGLE-ANNONSE (midtsides)
+           Bytt ut med ekte AdSense-kode -->
+      <div style="margin: 2rem 0; text-align: center;" aria-label="Annonse" role="complementary">
+        <div class="ad-slot ad-slot--rectangle">
+          <!-- Google AdSense rectangle (300x250):
+          <ins class="adsbygoogle"
+               style="display:inline-block;width:300px;height:250px"
+               data-ad-client="ca-pub-XXXXXXXXXX"
+               data-ad-slot="ZZZZZZZZZZ">
+          </ins>
+          <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+          -->
+          <div>
+            <div class="ad-slot__label">Annonse</div>
+            <span>300 × 250 – Rectangle-annonse</span>
+          </div>
+        </div>
+      </div>
+
+    </main>
+
+    <!-- =====================================================
+         FOOTER
+         ===================================================== -->
+    <footer class="site-footer" role="contentinfo">
+      <div class="container">
+        <nav class="site-footer__links" aria-label="Fotternavigasjon">
+          <a href="#">Om oss</a>
+          <a href="#">Legg til arrangement</a>
+          <a href="#">Annonsering</a>
+          <a href="#">Personvern (GDPR)</a>
+          <a href="#">Kontakt</a>
+          <!-- Affiliate-program-side – viktig for inntjening -->
+          <a href="#">Samarbeidspartnere</a>
+        </nav>
+        <p class="site-footer__copy">
+          &copy; 2026 Hva skjer i Bergen &mdash; Nettsiden bruker affiliate-lenker.
+          Vi kan motta provisjon ved kjøp via våre lenker.
+        </p>
+      </div>
+    </footer>
+
+    <!-- =====================================================
+         JAVASCRIPT
+         Rekkefølge er viktig: events.js må lastes før app.js
+         ===================================================== -->
+    <script src="js/events.js"></script>
+    <script src="js/app.js"></script>
+  </body>
+</html>
