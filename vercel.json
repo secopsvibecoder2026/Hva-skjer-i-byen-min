@@ -1,0 +1,48 @@
+{
+  "version": 2,
+  "framework": null,
+  "buildCommand": null,
+  "outputDirectory": ".",
+  "functions": {
+    "api/**/*.js": {
+      "runtime": "nodejs20.x",
+      "maxDuration": 15
+    }
+  },
+  "routes": [
+    {
+      "src": "/api/(.*)",
+      "headers": {
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, OPTIONS",
+        "Cache-Control": "s-maxage=3600, stale-while-revalidate=86400"
+      }
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/$1"
+    }
+  ],
+  "crons": [
+    {
+      "path": "/api/events?city=bergen",
+      "schedule": "0 6 * * *"
+    },
+    {
+      "path": "/api/events?city=oslo",
+      "schedule": "0 6 * * *"
+    },
+    {
+      "path": "/api/events?city=trondheim",
+      "schedule": "0 6 * * *"
+    },
+    {
+      "path": "/api/events?city=stavanger",
+      "schedule": "0 6 * * *"
+    }
+  ],
+  "env": {
+    "TM_API_KEY": "@tm-api-key",
+    "EB_TOKEN":   "@eb-token"
+  }
+}

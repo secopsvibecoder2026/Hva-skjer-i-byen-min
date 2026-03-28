@@ -1,13 +1,28 @@
 /**
  * events.js
- * Inneholder eksempeldata for arrangementer.
- * Bytt ut med API-kall mot backend for produksjon.
+ * Lokal eksempeldata – brukes som fallback når API ikke er tilgjengelig.
  *
- * Fremtidig integrasjon:
- *   async function fetchEvents() {
- *     const res = await fetch('/api/events');
- *     return res.json();
- *   }
+ * Fremtidig API-integrasjon (Vercel serverless):
+ *   const events = await fetch('/api/events?city=bergen').then(r => r.json());
+ *
+ * Unified event-format (brukes både her og i API-responsen):
+ * {
+ *   id         {string|number}
+ *   title      {string}
+ *   description {string}
+ *   date       {string}  ISO "YYYY-MM-DD"
+ *   time       {string}  "HH:MM"
+ *   endTime    {string}  "HH:MM"
+ *   location   {string}
+ *   categories {string[]} – "familie" | "gratis" | "konsert" | "barn"
+ *   ticketUrl  {string|null}
+ *   affiliateUrl {string|null}  ← bruk denne for inntjening
+ *   imageUrl   {string|null}    ← ekte bilde-URL, picsum som placeholder
+ *   imageEmoji {string}         ← emoji-fallback
+ *   sponsored  {boolean}
+ *   featured   {boolean}        ← vises i featured-sonen øverst
+ *   source     {string}         ← "local" | "ticketmaster" | "eventbrite" | "scrape"
+ * }
  */
 
 const EVENTS = [
@@ -21,10 +36,13 @@ const EVENTS = [
     endTime: "18:00",
     location: "Byparken, Bergen",
     categories: ["familie", "barn", "gratis"],
-    ticketUrl: null, // Gratis arrangement
+    ticketUrl: null,
+    affiliateUrl: null,
+    imageUrl: "https://picsum.photos/seed/byparken/600/300",
     imageEmoji: "🌳",
     sponsored: false,
-    affiliateUrl: null,
+    featured: false,
+    source: "local",
   },
   {
     id: 2,
@@ -37,9 +55,12 @@ const EVENTS = [
     location: "Grieghallen, Bergen",
     categories: ["konsert", "uteliv"],
     ticketUrl: "https://www.ticketmaster.no",
+    affiliateUrl: "https://www.ticketmaster.no/?ref=hvaSkjerIByenMin",
+    imageUrl: "https://picsum.photos/seed/spellemann/600/300",
     imageEmoji: "🎵",
-    sponsored: true, // Sponset oppføring
-    affiliateUrl: "https://www.ticketmaster.no/?ref=hvaSkjerIByenMin", // Affiliate-lenke
+    sponsored: true,
+    featured: true,  // ← vises som fremhevet arrangement øverst
+    source: "local",
   },
   {
     id: 3,
@@ -52,9 +73,12 @@ const EVENTS = [
     location: "Torgallmenningen, Bergen",
     categories: ["konsert", "familie", "gratis"],
     ticketUrl: null,
+    affiliateUrl: null,
+    imageUrl: "https://picsum.photos/seed/filharmonisk/600/300",
     imageEmoji: "🎻",
     sponsored: false,
-    affiliateUrl: null,
+    featured: false,
+    source: "local",
   },
   {
     id: 4,
@@ -67,9 +91,12 @@ const EVENTS = [
     location: "Den Nationale Scene, Bergen",
     categories: ["barn", "familie"],
     ticketUrl: "https://www.dns.no",
+    affiliateUrl: "https://www.dns.no/billetter?ref=hvaSkjerIByenMin",
+    imageUrl: "https://picsum.photos/seed/askeladden/600/300",
     imageEmoji: "🎭",
     sponsored: false,
-    affiliateUrl: "https://www.dns.no/billetter?ref=hvaSkjerIByenMin",
+    featured: false,
+    source: "local",
   },
   {
     id: 5,
@@ -82,9 +109,12 @@ const EVENTS = [
     location: "Sentrale Bergen",
     categories: ["konsert", "uteliv"],
     ticketUrl: "https://www.nattjazz.no",
+    affiliateUrl: "https://www.nattjazz.no/billetter?ref=hvaSkjerIByenMin",
+    imageUrl: "https://picsum.photos/seed/nattjazz/600/300",
     imageEmoji: "🎷",
     sponsored: true,
-    affiliateUrl: "https://www.nattjazz.no/billetter?ref=hvaSkjerIByenMin",
+    featured: false,
+    source: "local",
   },
   {
     id: 6,
@@ -97,9 +127,12 @@ const EVENTS = [
     location: "Barnas Museum, Bergen",
     categories: ["barn", "familie"],
     ticketUrl: "https://www.barnasmuseum.no",
+    affiliateUrl: "https://www.barnasmuseum.no/billetter?ref=hvaSkjerIByenMin",
+    imageUrl: "https://picsum.photos/seed/barnasmuseum/600/300",
     imageEmoji: "🔬",
     sponsored: false,
-    affiliateUrl: "https://www.barnasmuseum.no/billetter?ref=hvaSkjerIByenMin",
+    featured: false,
+    source: "local",
   },
   {
     id: 7,
@@ -112,34 +145,40 @@ const EVENTS = [
     location: "Møhlenpris, Bergen",
     categories: ["familie", "gratis"],
     ticketUrl: null,
+    affiliateUrl: null,
+    imageUrl: "https://picsum.photos/seed/openwalls/600/300",
     imageEmoji: "🎨",
     sponsored: false,
-    affiliateUrl: null,
+    featured: false,
+    source: "local",
   },
   {
     id: 8,
-    title: "Club Night: DJ Kygo støtteshow",
+    title: "Club Night: Bergen DJ-kollektivet",
     description:
-      "En eksklusiv clubnight med bergenske DJ-talenter som hyllest til Kygo. Dansegulvet åpner kl. 22. Aldersgrense 20 år.",
+      "En eksklusiv clubnight med bergenske DJ-talenter. Dansegulvet åpner kl. 22. Aldersgrense 20 år. Begrenset antall billetter.",
     date: "2026-05-02",
     time: "22:00",
     endTime: "03:00",
     location: "USF Verftet, Bergen",
     categories: ["konsert", "uteliv"],
     ticketUrl: "https://www.usf.no",
+    affiliateUrl: "https://www.usf.no/billetter?ref=hvaSkjerIByenMin",
+    imageUrl: "https://picsum.photos/seed/clubnight/600/300",
     imageEmoji: "🎧",
     sponsored: false,
-    affiliateUrl: "https://www.usf.no/billetter?ref=hvaSkjerIByenMin",
+    featured: false,
+    source: "local",
   },
 ];
 
 /**
- * Kategorier med norsk label og ikon
- * Brukes for å generere filterknapper dynamisk
+ * Kategorier med id, norsk label og ikon.
+ * Brukes for å generere filterknapper dynamisk.
  */
 const CATEGORIES = [
-  { id: "familie",  label: "Familievennlig", icon: "👨‍👩‍👧‍👦" },
-  { id: "gratis",   label: "Gratis",          icon: "🆓" },
+  { id: "familie",  label: "Familievennlig",  icon: "👨‍👩‍👧‍👦" },
+  { id: "gratis",   label: "Gratis",           icon: "🆓" },
   { id: "konsert",  label: "Konsert / Uteliv", icon: "🎵" },
   { id: "barn",     label: "Barn",             icon: "🧒" },
 ];

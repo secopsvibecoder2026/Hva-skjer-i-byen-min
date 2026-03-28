@@ -1,0 +1,19 @@
+{
+  "name": "hva-skjer-i-byen-min",
+  "version": "1.0.0",
+  "description": "Lokal aktivitetsguide for norske byer",
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "dependencies": {
+    "node-html-parser": "^6.1.13"
+  },
+  "devDependencies": {
+    "vercel": "^35.0.0"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}
