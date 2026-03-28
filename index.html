@@ -5,13 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
     <!-- SEO -->
-    <title>Hva skjer i Bergen? | Din lokale aktivitetsguide</title>
-    <meta name="description" content="Finn konserter, familieaktiviteter, barneeventer og gratis arrangementer i Bergen. Din komplette guide til hva som skjer i byen." />
-    <meta name="keywords" content="Bergen, arrangementer, konserter, familieaktiviteter, gratis, hva skjer, by" />
+    <title>Hva skjer i byen din? | Din lokale aktivitetsguide</title>
+    <meta name="description" content="Finn konserter, familieaktiviteter, barneeventer og gratis arrangementer i din by. Din komplette guide til hva som skjer." />
+    <meta name="keywords" content="Bergen, Oslo, Trondheim, Stavanger, Eidsvoll, arrangementer, konserter, familieaktiviteter, gratis, hva skjer, by" />
 
     <!-- Open Graph -->
-    <meta property="og:title" content="Hva skjer i Bergen?" />
-    <meta property="og:description" content="Din lokale aktivitetsguide – finn arrangementer, konserter og familieaktiviteter." />
+    <meta property="og:title" content="Hva skjer i byen din?" />
+    <meta property="og:description" content="Din lokale aktivitetsguide – finn arrangementer, konserter og familieaktiviteter i din by." />
     <meta property="og:type" content="website" />
 
     <!-- Favicon -->
@@ -33,14 +33,17 @@
     <header class="site-header" role="banner">
       <div class="container">
 
-        <!-- Øvre by-indikator -->
-        <div class="site-header__location">
-          📍 <span id="current-city-label">Bergen</span>
+        <!-- Øvre by-indikator (skjult til by er valgt) -->
+        <div class="site-header__location" id="current-city-indicator" hidden>
+          📍 <span id="current-city-label"></span>
         </div>
 
         <!-- Logotekst -->
-        <div class="site-header__logo">
-          Hva skjer i <span id="current-city-name">Bergen</span>?
+        <div class="site-header__logo" id="hero-title-default">
+          Hva skjer i <span class="site-header__logo-highlight">byen din</span>?
+        </div>
+        <div class="site-header__logo" id="hero-title-city" hidden>
+          Hva skjer i <span id="current-city-name"></span>?
         </div>
         <p class="site-header__tagline">
           Konserter, familieaktiviteter, gratis events og mer – samlet på ett sted.
@@ -60,8 +63,8 @@
           <button id="search-clear" hidden aria-label="Tøm søk">✕</button>
         </div>
 
-        <!-- Live statistikk (oppdateres av JavaScript) -->
-        <div class="hero-stats" aria-live="polite">
+        <!-- Live statistikk (skjult til by er valgt) -->
+        <div class="hero-stats" id="hero-stats" hidden aria-live="polite">
           <div class="hero-stat">
             <span class="hero-stat__value" id="stat-total">–</span>
             <span class="hero-stat__label">Arrangementer</span>
@@ -78,7 +81,7 @@
 
         <!-- Byvelger – klar for multi-by støtte -->
         <div class="city-picker-row" role="group" aria-label="Velg by">
-          <button class="city-pill city-pill--active" data-city="bergen" data-lat="60.3913" data-lon="5.3221">🏔️ Bergen</button>
+          <button class="city-pill" data-city="bergen" data-lat="60.3913" data-lon="5.3221">🏔️ Bergen</button>
           <button class="city-pill" data-city="oslo" data-lat="59.9139" data-lon="10.7522">🏛️ Oslo</button>
           <button class="city-pill" data-city="trondheim" data-lat="63.4305" data-lon="10.3951">⚓ Trondheim</button>
           <button class="city-pill" data-city="stavanger" data-lat="58.9700" data-lon="5.7331">🛢️ Stavanger</button>
@@ -94,11 +97,25 @@
     </header>
 
     <!-- =====================================================
-         FEATURED EVENT
-         Det fremhevede / sponsede arrangementet
-         Populeres dynamisk av JavaScript
+         STARTSIDE – vises før by er valgt
          ===================================================== -->
-    <section class="featured-section" aria-label="Fremhevet arrangement" id="featured-section">
+    <section class="start-state" id="start-state" aria-label="Velg by for å komme i gang">
+      <div class="start-state__card">
+        <div class="start-state__icon">🗺️</div>
+        <h2 class="start-state__title">Velg en by for å komme i gang</h2>
+        <p class="start-state__text">
+          Vi har oversikt over konserter, familieaktiviteter, gratis events og mye mer
+          i Bergen, Oslo, Trondheim, Stavanger og Eidsvoll.
+        </p>
+        <p class="start-state__hint">👆 Trykk på en by i menyen over</p>
+      </div>
+    </section>
+
+    <!-- =====================================================
+         FEATURED EVENT
+         Skjult til by er valgt – populeres dynamisk av JavaScript
+         ===================================================== -->
+    <section class="featured-section" aria-label="Fremhevet arrangement" id="featured-section" hidden>
       <!-- Populeres av JavaScript -->
     </section>
 
@@ -127,9 +144,10 @@
     </div>
 
     <!-- =====================================================
-         HOVED-INNHOLD
+         HOVED-INNHOLD – skjult til by er valgt
          ===================================================== -->
     <main class="container" id="main-content">
+    <div id="city-content" hidden>
 
       <!-- FILTERKNAPPER -->
       <section class="filter-section" aria-label="Filtrer på kategori">
@@ -211,6 +229,7 @@
         </div>
       </div>
 
+    </div><!-- /#city-content -->
     </main>
 
     <!-- =====================================================

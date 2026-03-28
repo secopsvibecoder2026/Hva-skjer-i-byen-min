@@ -849,7 +849,52 @@ a:hover { color: var(--color-primary-dk); }
 }
 
 /* ============================================================
-   16. RESPONSIVT DESIGN
+   16. STARTSIDE (ingen by valgt)
+   ============================================================ */
+.start-state {
+  padding: 2rem 1.25rem 3rem;
+  display: flex;
+  justify-content: center;
+}
+
+.start-state__card {
+  background: #fff;
+  border-radius: 1.25rem;
+  box-shadow: 0 4px 24px rgba(0,0,0,.08);
+  padding: 2.5rem 2rem;
+  max-width: 480px;
+  width: 100%;
+  text-align: center;
+}
+
+.start-state__icon {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.start-state__title {
+  font-size: 1.35rem;
+  font-weight: 800;
+  color: var(--color-hero-bg);
+  margin-bottom: 0.75rem;
+}
+
+.start-state__text {
+  color: #64748b;
+  line-height: 1.6;
+  margin-bottom: 1.25rem;
+}
+
+.start-state__hint {
+  font-size: 0.9rem;
+  color: #94a3b8;
+  font-style: italic;
+}
+
+.site-header__logo-highlight { color: #fbbf24; }
+
+/* ============================================================
+   17. RESPONSIVT DESIGN
    ============================================================ */
 @media (max-width: 768px) {
   .site-header { padding: 2.25rem 1rem 3rem; }

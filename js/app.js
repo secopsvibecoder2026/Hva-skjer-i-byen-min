@@ -15,10 +15,10 @@
 /* ============================================================
    TILSTAND
    ============================================================ */
-let allEvents    = [];       // Alle innlastede arrangementer
+let allEvents    = [];
 let activeFilters = new Set();
 let searchQuery  = "";
-let currentCity  = "bergen";
+let currentCity  = null;   // null = ingen by valgt ennå
 
 /* ============================================================
    DATO-HJELPERE
@@ -395,10 +395,18 @@ function setupCityPicker() {
       currentCity = pill.dataset.city;
       const cityName = pill.textContent.trim().replace(/^[^\s]+\s/, "");
 
-      const labelEl = document.getElementById("current-city-label");
-      const nameEl  = document.getElementById("current-city-name");
-      if (labelEl) labelEl.textContent = cityName;
-      if (nameEl)  nameEl.textContent  = cityName;
+      // Oppdater by-navn i hero
+      document.getElementById("current-city-label").textContent = cityName.toUpperCase();
+      document.getElementById("current-city-name").textContent  = cityName;
+      document.getElementById("current-city-indicator").hidden  = false;
+      document.getElementById("hero-title-default").hidden      = true;
+      document.getElementById("hero-title-city").hidden         = false;
+
+      // Vis innhold, skjul startside
+      document.getElementById("start-state").hidden     = true;
+      document.getElementById("featured-section").hidden = false;
+      document.getElementById("city-content").hidden    = false;
+      document.getElementById("hero-stats").hidden      = false;
 
       allEvents = await fetchEvents(currentCity);
       updateStats(allEvents);
@@ -489,13 +497,10 @@ function setupGeolocation() {
 /* ============================================================
    OPPSTART
    ============================================================ */
-document.addEventListener("DOMContentLoaded", async () => {
+document.addEventListener("DOMContentLoaded", () => {
   buildFilters();
   setupSearch();
   setupCityPicker();
   setupGeolocation();
-
-  allEvents = await fetchEvents(currentCity);
-  updateStats(allEvents);
-  renderAll();
+  // Ingen by er valgt ennå – vis kun startsiden
 });
