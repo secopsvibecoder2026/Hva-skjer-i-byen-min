@@ -95,8 +95,9 @@ async function fetchEvents(city = "bergen") {
     const controller = new AbortController();
     const timeout    = setTimeout(() => controller.abort(), 8000); // 8 sek timeout
 
-    // Relativ path fungerer på GitHub Pages uavhengig av undermappe-URL
-    const res = await fetch(`./data/events-${city}.json`, {
+    // DATA_BASE settes av by-sider ("../") – index.html bruker standard "./"
+    const base = window.DATA_BASE || "./";
+    const res = await fetch(`${base}data/events-${city}.json`, {
       signal: controller.signal,
     });
     clearTimeout(timeout);
@@ -502,5 +503,10 @@ document.addEventListener("DOMContentLoaded", () => {
   setupSearch();
   setupCityPicker();
   setupGeolocation();
-  // Ingen by er valgt ennå – vis kun startsiden
+
+  // By-spesifikke sider: auto-velg forhåndsvalgt by (simuler klikk for å gjenbruke all logikk)
+  if (window.PRESELECTED_CITY) {
+    const pill = document.querySelector(`.city-pill[data-city="${window.PRESELECTED_CITY}"]`);
+    if (pill) pill.click();
+  }
 });
