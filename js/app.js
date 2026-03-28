@@ -566,15 +566,30 @@ function setupGeolocation() {
         const pills = [...document.querySelectorAll(".city-pill[data-lat]:not([disabled])")];
         if (pills.length === 0) { btn.disabled = false; btn.textContent = "📍 Finn meg"; return; }
 
-        let nearest = null, minDist = Infinity;
-        for (const pill of pills) {
-          const d = distanceKm(latitude, longitude, parseFloat(pill.dataset.lat), parseFloat(pill.dataset.lon));
-          if (d < minDist) { minDist = d; nearest = pill; }
-        }
+        // Beregn avstand til alle byer og sorter
+        const sorted = pills
+          .map((pill) => ({
+            pill,
+            dist: distanceKm(latitude, longitude, parseFloat(pill.dataset.lat), parseFloat(pill.dataset.lon)),
+          }))
+          .sort((a, b) => a.dist - b.dist);
+
+        // Fremhev top 3 nærmeste
+        pills.forEach((p) => p.classList.remove("city-pill--nearby"));
+        sorted.slice(0, 3).forEach(({ pill }) => pill.classList.add("city-pill--nearby"));
+
+        // Sorter by-pillene i DOM slik at nærmeste vises øverst (etter locate-btn)
+        const row = document.querySelector(".city-picker-row");
+        const locateBtn = document.getElementById("locate-btn");
+        sorted.forEach(({ pill }) => row.appendChild(pill));
+        row.insertBefore(locateBtn, row.firstChild);
 
         btn.disabled    = false;
         btn.textContent = "📍 Finn meg";
-        if (nearest && nearest.dataset.city !== currentCity) {
+
+        // Naviger til nærmeste by
+        const nearest = sorted[0].pill;
+        if (nearest.dataset.city !== currentCity) {
           const base = window.PRESELECTED_CITY ? "../" : "./";
           window.location.href = `${base}${nearest.dataset.city}/`;
         }
