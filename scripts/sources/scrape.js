@@ -55,6 +55,11 @@ const CITY_SOURCES = {
   ],
   lillestrom: [
     {
+      url:     "https://detskjerilillestrom.no/arrangementer/",
+      scraper: scrapeGeneric,
+      label:   "detskjerilillestrom.no",
+    },
+    {
       url:     "https://www.lillestromkultursenter.no/program/",
       scraper: scrapeGeneric,
       label:   "lillestromkultursenter.no",
