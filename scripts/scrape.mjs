@@ -24,7 +24,7 @@ import { fetchTicketmaster } from "./sources/ticketmaster.js";
 import { fetchEventbrite }   from "./sources/eventbrite.js";
 import { scrapeLocalSites }  from "./sources/scrape.js";
 
-const CITIES = ["bergen", "oslo", "trondheim", "stavanger", "eidsvoll"];
+const CITIES = ["bergen", "oslo", "trondheim", "stavanger", "eidsvoll", "lillestrom", "aurskog-holand"];
 
 await mkdir("data", { recursive: true });
 

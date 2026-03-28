@@ -1,0 +1,100 @@
+{
+  "events": [
+    {
+      "id": "lillestrom-1",
+      "title": "Lillestrøm Kulturhus – Familieforestilling",
+      "description": "Lillestrøm Kulturhus byr på en morsom og fargerik forestilling for hele familien. Interaktiv teateropplevelse for barn mellom 3 og 12 år.",
+      "date": "2026-04-18",
+      "time": "12:00",
+      "endTime": "13:30",
+      "location": "Lillestrøm Kulturhus, Lillestrøm",
+      "categories": ["barn", "familie"],
+      "ticketUrl": "https://www.lillestrominkulturhus.no",
+      "affiliateUrl": "https://www.lillestrominkulturhus.no/billetter?ref=hvaSkjerIByenMin",
+      "imageUrl": "https://picsum.photos/seed/lillestromkulturhus/600/300",
+      "imageEmoji": "🎭",
+      "sponsored": false,
+      "featured": true,
+      "source": "local"
+    },
+    {
+      "id": "lillestrom-2",
+      "title": "Gratis konsert: Lillestrøm Torget",
+      "description": "Lokale artister og band spiller gratis på Lillestrøm Torget. Hyggelig stemning midt i sentrum – ta med familie og venner.",
+      "date": "2026-05-09",
+      "time": "14:00",
+      "endTime": "18:00",
+      "location": "Lillestrøm Torget, Lillestrøm",
+      "categories": ["konsert", "familie", "gratis"],
+      "ticketUrl": null,
+      "affiliateUrl": null,
+      "imageUrl": "https://picsum.photos/seed/lillestromtorget/600/300",
+      "imageEmoji": "🎸",
+      "sponsored": false,
+      "featured": false,
+      "source": "local"
+    },
+    {
+      "id": "lillestrom-3",
+      "title": "17. mai feiring – Lillestrøm",
+      "description": "Bli med på Lillestrøms offisielle 17. mai-feiring! Barnetog, musikkorps, taler og folkefest i sentrum. Tradisjonsrikt og folksomt arrangement.",
+      "date": "2026-05-17",
+      "time": "10:00",
+      "endTime": "17:00",
+      "location": "Sentrum, Lillestrøm",
+      "categories": ["familie", "gratis"],
+      "ticketUrl": null,
+      "affiliateUrl": null,
+      "imageUrl": "https://picsum.photos/seed/lillestrom17mai/600/300",
+      "imageEmoji": "🇳🇴",
+      "sponsored": false,
+      "featured": false,
+      "source": "local"
+    },
+    {
+      "id": "lillestrom-4",
+      "title": "EASD – Lillestrøm Kunstsenter",
+      "description": "Åpent atelier-helg på Lillestrøm Kunstsenter. Lokale og regionale kunstnere viser frem nye verk. Gratis inngang, kunstsalg og omvisninger.",
+      "date": "2026-04-25",
+      "time": "11:00",
+      "endTime": "17:00",
+      "location": "Lillestrøm Kunstsenter, Lillestrøm",
+      "categories": ["familie", "gratis"],
+      "ticketUrl": null,
+      "affiliateUrl": null,
+      "imageUrl": "https://picsum.photos/seed/lillestromkunst/600/300",
+      "imageEmoji": "🖼️",
+      "sponsored": false,
+      "featured": false,
+      "source": "local"
+    },
+    {
+      "id": "lillestrom-5",
+      "title": "Barnas Dag – Kjeller Bibliotek",
+      "description": "Eventyrfortelling, tegning og kreative aktiviteter for barn. Gratis tilbud fra Lillestrøm kommune – ingen påmelding nødvendig.",
+      "date": "2026-05-02",
+      "time": "10:00",
+      "endTime": "13:00",
+      "location": "Kjeller Bibliotek, Lillestrøm",
+      "categories": ["barn", "familie", "gratis"],
+      "ticketUrl": null,
+      "affiliateUrl": null,
+      "imageUrl": "https://picsum.photos/seed/kjellerbibliotek/600/300",
+      "imageEmoji": "📚",
+      "sponsored": false,
+      "featured": false,
+      "source": "local"
+    }
+  ],
+  "meta": {
+    "city": "lillestrom",
+    "count": 5,
+    "fetchedAt": "2026-03-28T05:00:00.000Z",
+    "sources": {
+      "ticketmaster": 0,
+      "eventbrite": 0,
+      "scrape": 0,
+      "note": "Seed-data. Erstattes av GitHub Actions scraper ved neste kjøring."
+    }
+  }
+}

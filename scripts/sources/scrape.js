@@ -53,6 +53,25 @@ const CITY_SOURCES = {
       label:   "eidsvoll.kommune.no",
     },
   ],
+  lillestrom: [
+    {
+      url:     "https://www.skedsmo.kommune.no/kultur-idrett-og-fritid/",
+      scraper: scrapeGeneric,
+      label:   "lillestrom.kommune.no",
+    },
+    {
+      url:     "https://www.visitakershus.com/hva-skjer/",
+      scraper: scrapeGeneric,
+      label:   "visitakershus.com",
+    },
+  ],
+  "aurskog-holand": [
+    {
+      url:     "https://www.aurskog-holand.kommune.no/kultur-og-fritid/",
+      scraper: scrapeGeneric,
+      label:   "aurskog-holand.kommune.no",
+    },
+  ],
 };
 
 export async function scrapeLocalSites(city) {

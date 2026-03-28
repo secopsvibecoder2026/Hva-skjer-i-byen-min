@@ -30,7 +30,7 @@ En lokal aktivitetsguide for norske byer – konserter, familieaktiviteter, grat
 - **Fremhevet arrangement** med stor bildebanner øverst
 - **Filtrering** på kategori: Familievennlig, Gratis, Konsert/Uteliv, Barn
 - **Live-søk** etter tittel, sted og kategori
-- **Byer:** Bergen, Oslo, Trondheim, Stavanger, Eidsvoll
+- **Byer:** Bergen, Oslo, Trondheim, Stavanger, Eidsvoll, Lillestrøm, Aurskog-Høland
 - **Geo-deteksjon:** «Finn meg»-knapp velger nærmeste by automatisk via GPS
 - **Automatisk datahenting** via GitHub Actions – kjøres daglig kl. 06:00
 - **Utløpte events slettes automatisk** ved hver kjøring
@@ -52,7 +52,9 @@ GitHub Actions (cron daglig kl. 06:00 Oslo-tid)
        ├── data/events-oslo.json
        ├── data/events-trondheim.json
        ├── data/events-stavanger.json
-       └── data/events-eidsvoll.json
+       ├── data/events-eidsvoll.json
+       ├── data/events-lillestrom.json
+       └── data/events-aurskog-holand.json
                 │
                 └── GitHub Pages (statisk hosting)
                          │
@@ -80,7 +82,9 @@ hva-skjer-i-byen-min/
 │   ├── events-oslo.json
 │   ├── events-trondheim.json
 │   ├── events-stavanger.json
-│   └── events-eidsvoll.json
+│   ├── events-eidsvoll.json
+│   ├── events-lillestrom.json
+│   └── events-aurskog-holand.json
 ├── scripts/
 │   ├── scrape.mjs                  # Kjøres av GitHub Actions
 │   └── sources/
@@ -248,7 +252,7 @@ kristiansand: [
 **2.** `scripts/scrape.mjs` – legg til i `CITIES`:
 
 ```js
-const CITIES = ["bergen", "oslo", "trondheim", "stavanger", "eidsvoll", "kristiansand"];
+const CITIES = ["bergen", "oslo", "trondheim", "stavanger", "eidsvoll", "lillestrom", "aurskog-holand", "kristiansand"];
 ```
 
 **3.** `index.html` – legg til by-pill med GPS-koordinater:
@@ -321,7 +325,7 @@ For sponsede oppføringer: sett `"sponsored": true` og `"featured": true` i `dat
 - [ ] Skjema for arrangører til å sende inn eget event
 - [ ] Prisfilter (gratis / under 200 kr / over 200 kr)
 - [ ] E-post-varsler for nye events i valgt kategori
-- [ ] Legge til flere byer (Kristiansand, Tromsø, Ålesund …)
+- [ ] Legge til flere byer (Kristiansand, Tromsø, Ålesund, Fredrikstad …)
 
 ---
 
