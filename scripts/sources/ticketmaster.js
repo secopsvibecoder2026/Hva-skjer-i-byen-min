@@ -33,34 +33,41 @@ const TM_GENRE_MAP = {
 };
 
 // Koordinater og radius per by.
-// include-filter (inc) er fjernet – alle venues innenfor radius aksepteres.
-// Kjør scraper og sjekk Actions-loggen ("Venue-byer funnet:") for å se hvilke
-// stedsnavn Ticketmaster faktisk bruker. Bruk denne informasjonen til å legge
-// til et eksplisitt inc-filter dersom en by henter feil events.
+// inc (include-filter): kun events der venue.city.name er i denne listen aksepteres.
+// Tomme inc = ingen filtrering (ta alt innenfor radius).
+//
+// Venue-byer er verifisert fra Actions-loggen ("Venue-byer funnet for ...").
+// Oppdater inc-listen basert på reelle logg-data, ikke gjetning.
+//
+// Legg til ny by:
+//   1. Finn koordinater (Google Maps → høyreklikk → koordinater)
+//   2. Sett radius (km) – 25 for store byer, 20 for små
+//   3. Kjør workflow manuelt og sjekk loggen for "[TM] Venue-byer funnet for <by>:"
+//   4. Legg de riktige stedsnavn i inc (eller la inc stå tom for ingen filtrering)
 const CITY_COORDS = {
-  //                   latlong                radius
-  "bergen":         { ll: "60.3913,5.3221",   r: 25 },
-  "oslo":           { ll: "59.9139,10.7522",  r: 20 },
-  "trondheim":      { ll: "63.4305,10.3951",  r: 25 },
-  "stavanger":      { ll: "58.9700,5.7331",   r: 25 },
-  "eidsvoll":       { ll: "60.3268,11.2530",  r: 25 },
-  "lillestrom":     { ll: "59.9565,11.0511",  r: 25 },
-  "aurskog-holand": { ll: "59.9000,11.4500",  r: 25 },
-  "kristiansand":   { ll: "58.1467,7.9956",   r: 25 },
-  "tromso":         { ll: "69.6492,18.9553",  r: 25 },
-  "drammen":        { ll: "59.7440,10.2045",  r: 20 },
-  "fredrikstad":    { ll: "59.2181,10.9298",  r: 20 },
-  "alesund":        { ll: "62.4722,6.1549",   r: 25 },
-  "bodo":           { ll: "67.2827,14.3751",  r: 25 },
-  "hamar":          { ll: "60.7945,11.0679",  r: 20 },
-  "tonsberg":       { ll: "59.2672,10.4075",  r: 20 },
-  "moss":           { ll: "59.4338,10.6579",  r: 20 },
-  "haugesund":      { ll: "59.4134,5.2680",   r: 25 },
-  "sandefjord":     { ll: "59.1313,10.2169",  r: 20 },
-  "arendal":        { ll: "58.4615,8.7722",   r: 25 },
-  "molde":          { ll: "62.7380,7.1591",   r: 25 },
-  "voss":           { ll: "60.6282,6.4150",   r: 20 },
-  "kongsberg":      { ll: "59.6677,9.6507",   r: 20 },
+  //                   latlong                radius  inc (verifiserte TM-stedsnavn)
+  "bergen":         { ll: "60.3913,5.3221",   r: 25,  inc: [] },                                        // Bergen ✓
+  "oslo":           { ll: "59.9139,10.7522",  r: 20,  inc: [] },                                        // Oslo, Fornebu ✓
+  "trondheim":      { ll: "63.4305,10.3951",  r: 25,  inc: [] },                                        // Trondheim ✓
+  "stavanger":      { ll: "58.9700,5.7331",   r: 25,  inc: [] },                                        // Stavanger ✓
+  "eidsvoll":       { ll: "60.3268,11.2530",  r: 25,  inc: [] },                                        // Ikke verifisert (0 TM-events)
+  "lillestrom":     { ll: "59.9565,11.0511",  r: 25,  inc: ["Lillestrøm", "Lørenskog", "Skedsmo"] },   // TM bruker Oslo/Fornebu – filter blokkerer feil events
+  "aurskog-holand": { ll: "59.9000,11.4500",  r: 25,  inc: [] },                                        // Ikke verifisert (0 TM-events)
+  "kristiansand":   { ll: "58.1467,7.9956",   r: 25,  inc: ["Kristiansand S", "Kristiansand"] },        // TM bruker "Kristiansand S"
+  "tromso":         { ll: "69.6492,18.9553",  r: 25,  inc: [] },                                        // Ikke verifisert (0 TM-events)
+  "drammen":        { ll: "59.7440,10.2045",  r: 20,  inc: ["Drammen", "Lier", "Nedre Eiker"] },        // TM bruker Sandvika/Fornebu – filter blokkerer feil events
+  "fredrikstad":    { ll: "59.2181,10.9298",  r: 20,  inc: ["Fredrikstad", "Sarpsborg", "Halden"] },    // TM bruker Halden (naboby – beholdes)
+  "alesund":        { ll: "62.4722,6.1549",   r: 25,  inc: [] },                                        // Ikke verifisert (0 TM-events)
+  "bodo":           { ll: "67.2827,14.3751",  r: 25,  inc: [] },                                        // Ikke verifisert (0 TM-events)
+  "hamar":          { ll: "60.7945,11.0679",  r: 20,  inc: ["Hamar", "Stange", "Ringsaker"] },          // TM bruker Hamar ✓ (Gjøvik 60km – ekskludert)
+  "tonsberg":       { ll: "59.2672,10.4075",  r: 20,  inc: ["Tønsberg", "Horten", "Nøtterøy"] },        // TM bruker Tønsberg/Horten ✓
+  "moss":           { ll: "59.4338,10.6579",  r: 20,  inc: ["Moss", "Rygge", "Råde"] },                 // TM bruker Horten/Holmsbu – filter blokkerer feil events
+  "haugesund":      { ll: "59.4134,5.2680",   r: 25,  inc: [] },                                        // Ikke verifisert (0 TM-events)
+  "sandefjord":     { ll: "59.1313,10.2169",  r: 20,  inc: ["Sandefjord", "Stokke", "Larvik"] },        // TM bruker Tønsberg – filter blokkerer (for nær Tønsberg-radius)
+  "arendal":        { ll: "58.4615,8.7722",   r: 25,  inc: ["Arendal", "Grimstad"] },                   // TM bruker Grimstad (7km fra Arendal – beholdes) ✓
+  "molde":          { ll: "62.7380,7.1591",   r: 25,  inc: [] },                                        // Ikke verifisert (0 TM-events)
+  "voss":           { ll: "60.6282,6.4150",   r: 20,  inc: [] },                                        // Ikke verifisert (0 TM-events)
+  "kongsberg":      { ll: "59.6677,9.6507",   r: 20,  inc: ["Kongsberg"] },                             // Kongsberg ✓
 };
 
 /**
@@ -102,7 +109,7 @@ export async function fetchTicketmaster(city) {
   const data = await res.json();
   const rawEvents = data?._embedded?.events ?? [];
 
-  // Logg unike venue-byer Ticketmaster returnerer – nyttig for å bygge inc-filter
+  // Logg unike venue-byer Ticketmaster returnerer – nyttig for å verifisere inc-filter
   const venueCities = [...new Set(
     rawEvents.map((ev) => ev._embedded?.venues?.[0]?.city?.name).filter(Boolean)
   )];
@@ -110,10 +117,11 @@ export async function fetchTicketmaster(city) {
     console.log(`  [TM] Venue-byer funnet for ${city}: ${venueCities.join(", ")}`);
   }
 
-  return rawEvents.map((ev) => mapTicketmasterEvent(ev)).filter(Boolean);
+  const includeCities = cityConf.inc || [];
+  return rawEvents.map((ev) => mapTicketmasterEvent(ev, includeCities)).filter(Boolean);
 }
 
-function mapTicketmasterEvent(ev) {
+function mapTicketmasterEvent(ev, includeCities = []) {
   try {
     const dateObj  = ev.dates?.start;
     const date     = dateObj?.localDate || null;
@@ -122,6 +130,12 @@ function mapTicketmasterEvent(ev) {
 
     const venue     = ev._embedded?.venues?.[0];
     const venueCity = venue?.city?.name || "";
+
+    // Inkluder kun events fra godkjente stedsnavn (hvis liste er definert)
+    if (includeCities.length > 0 &&
+        !includeCities.some((c) => venueCity.toLowerCase() === c.toLowerCase())) {
+      return null;
+    }
 
     const location = venue
       ? [venue.name, venueCity].filter(Boolean).join(", ")
