@@ -63,6 +63,8 @@
    ============================================================ */
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 html { scroll-behavior: smooth; }
+/* Sikre at hidden-attributtet alltid fungerer uavhengig av display-regler */
+[hidden] { display: none !important; }
 
 body {
   font-family: var(--font-sans);
