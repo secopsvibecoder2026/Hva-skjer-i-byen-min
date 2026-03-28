@@ -387,8 +387,14 @@ For sponsede oppføringer: sett `"sponsored": true` og `"featured": true` i `dat
 - [x] SEO-optimaliserte undersider per by (`ibyenmin.no/bergen/` osv.)
 - [x] sitemap.xml og robots.txt for Google-indeksering
 - [x] 22 norske byer med daglig datahenting
+- [x] Eget domene `ibyenmin.no` med HTTPS
+- [x] Ticketmaster API-nøkkel aktivert (`TM_API_KEY` satt som GitHub Secret)
+- [x] Google Analytics 4 (G-FSLFBLRW2C)
+- [x] Google AdSense Auto Ads aktivert
+- [x] Fullstendig personvernerklæring (GDPR)
+- [x] Multi-by-valg på forsiden
 - [ ] Send inn sitemap til Google Search Console
-- [ ] Sette opp eget domene `ibyenmin.no`
+- [ ] Vent på Google AdSense-godkjenning
 - [ ] Ukentlig e-post / varsel «Hva skjer i helgen?» (Mailchimp)
 - [ ] Kartvisning (Leaflet.js) med pins per arrangement
 - [ ] «Lagre til favoritter» (localStorage)

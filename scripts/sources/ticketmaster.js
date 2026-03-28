@@ -44,7 +44,16 @@ export async function fetchTicketmaster(city) {
     return [];
   }
 
-  const cityName = city.charAt(0).toUpperCase() + city.slice(1);
+  // Mapper URL-slug til riktig norsk bynavn med spesialtegn
+  const CITY_NAMES = {
+    "lillestrom":    "Lillestrøm",
+    "tromso":        "Tromsø",
+    "alesund":       "Ålesund",
+    "bodo":          "Bodø",
+    "tonsberg":      "Tønsberg",
+    "aurskog-holand":"Aurskog-Høland",
+  };
+  const cityName = CITY_NAMES[city] || (city.charAt(0).toUpperCase() + city.slice(1));
 
   const params = new URLSearchParams({
     apikey:        apiKey,
