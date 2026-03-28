@@ -59,7 +59,7 @@ export async function fetchTicketmaster(city) {
   });
 
   const url = `https://app.ticketmaster.com/discovery/v2/events.json?${params}`;
-  const res  = await fetch(url, { next: { revalidate: 3600 } }); // Vercel Next cache
+  const res  = await fetch(url);
 
   if (!res.ok) {
     throw new Error(`Ticketmaster API svarte med ${res.status}: ${await res.text()}`);

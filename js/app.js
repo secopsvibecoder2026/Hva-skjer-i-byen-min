@@ -93,19 +93,20 @@ async function fetchEvents(city = "bergen") {
 
   try {
     const controller = new AbortController();
-    const timeout    = setTimeout(() => controller.abort(), 5000); // 5 sek timeout
+    const timeout    = setTimeout(() => controller.abort(), 8000); // 8 sek timeout
 
-    const res = await fetch(`/api/events?city=${encodeURIComponent(city)}`, {
+    // Hent statisk JSON-fil generert av GitHub Actions (scrape.yml)
+    const res = await fetch(`/data/events-${city}.json`, {
       signal: controller.signal,
     });
     clearTimeout(timeout);
 
-    if (!res.ok) throw new Error(`API svarte med ${res.status}`);
+    if (!res.ok) throw new Error(`Datafil ikke funnet (${res.status})`);
     const data = await res.json();
     return Array.isArray(data.events) ? data.events : data;
   } catch (err) {
-    // API ikke tilgjengelig (lokalt uten Vercel) → bruk eksempeldata
-    console.info("API ikke tilgjengelig, bruker lokal eksempeldata:", err.message);
+    // JSON-filen finnes ikke ennå (første deploy, lokal utvikling) → bruk eksempeldata
+    console.info("Datafil ikke tilgjengelig, bruker lokal eksempeldata:", err.message);
     return EVENTS;
   } finally {
     document.getElementById("loading-state").hidden = true;
