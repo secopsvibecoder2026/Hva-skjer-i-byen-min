@@ -51,16 +51,22 @@ jobs:
           TM_API_KEY: ${{ secrets.TM_API_KEY }}
           EB_TOKEN:   ${{ secrets.EB_TOKEN }}
 
-      - name: Commit og push oppdatert data
+      - name: Generer by-sider (SEO)
+        run: node scripts/generate-city-pages.mjs
+
+      - name: Commit og push oppdatert data og sider
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/
+          git add data/ sitemap.xml robots.txt
+          git add bergen/ oslo/ trondheim/ stavanger/ eidsvoll/ lillestrom/ aurskog-holand/ \
+                  kristiansand/ tromso/ drammen/ fredrikstad/ alesund/ bodo/ hamar/ \
+                  tonsberg/ moss/ haugesund/ sandefjord/ arendal/ molde/ voss/ kongsberg/
           # Commit kun om det er faktiske endringer
           if git diff --staged --quiet; then
-            echo "Ingen endringer i data – hopper over commit."
+            echo "Ingen endringer – hopper over commit."
           else
-            git commit -m "data: oppdater arrangementer $(date +%Y-%m-%d)"
+            git commit -m "data: oppdater arrangementer og by-sider $(date +%Y-%m-%d)"
             git push origin main
-            echo "✓ Oppdatert data pushet til main."
+            echo "✓ Oppdatert data og sider pushet til main."
           fi
