@@ -88,14 +88,15 @@ function getCategoryLabel(catId) {
  */
 async function fetchEvents(city = "bergen") {
   document.getElementById("loading-state").hidden = false;
+  document.getElementById("no-results").hidden = true;
   document.getElementById("events-container").innerHTML = "";
 
   try {
     const controller = new AbortController();
     const timeout    = setTimeout(() => controller.abort(), 8000); // 8 sek timeout
 
-    // Hent statisk JSON-fil generert av GitHub Actions (scrape.yml)
-    const res = await fetch(`/data/events-${city}.json`, {
+    // Relativ path fungerer på GitHub Pages uavhengig av undermappe-URL
+    const res = await fetch(`./data/events-${city}.json`, {
       signal: controller.signal,
     });
     clearTimeout(timeout);
