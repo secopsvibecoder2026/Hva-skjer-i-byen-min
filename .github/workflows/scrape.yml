@@ -1,0 +1,66 @@
+# .github/workflows/scrape.yml
+# Kjøres daglig kl. 06:00 Oslo-tid og lagrer event-data som JSON.
+#
+# Manuell kjøring:
+#   GitHub → Actions → "Scrape events" → Run workflow
+#
+# Nødvendige GitHub Secrets (Settings → Secrets → Actions):
+#   TM_API_KEY  – Ticketmaster Consumer Key  (https://developer.ticketmaster.com)
+#   EB_TOKEN    – Eventbrite Private Token    (https://www.eventbrite.com/platform/api)
+#
+# Siden fungerer UTEN nøkler – da brukes kun scraping av offentlige nettsider.
+
+name: Scrape events
+
+on:
+  schedule:
+    # 05:00 UTC = 06:00 Oslo (CET, vinter)
+    # Sommertid (CEST) = 07:00 Oslo – akseptabelt
+    - cron: '0 5 * * *'
+
+  # Tillat manuell kjøring fra Actions-fanen
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    name: Hent og lagre event-data
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write   # Nødvendig for å committe data/-filene
+
+    steps:
+      - name: Hent kode
+        uses: actions/checkout@v4
+        with:
+          # Hent alltid nyeste main slik at vi committer på toppen
+          ref: main
+
+      - name: Sett opp Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Installer avhengigheter
+        run: npm ci
+
+      - name: Kjør scraper
+        run: node scripts/scrape.mjs
+        env:
+          TM_API_KEY: ${{ secrets.TM_API_KEY }}
+          EB_TOKEN:   ${{ secrets.EB_TOKEN }}
+
+      - name: Commit og push oppdatert data
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          # Commit kun om det er faktiske endringer
+          if git diff --staged --quiet; then
+            echo "Ingen endringer i data – hopper over commit."
+          else
+            git commit -m "data: oppdater arrangementer $(date +%Y-%m-%d)"
+            git push origin main
+            echo "✓ Oppdatert data pushet til main."
+          fi

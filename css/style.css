@@ -250,6 +250,29 @@ a:hover { color: var(--color-primary-dk); }
   font-weight: 700;
 }
 
+.city-pill--locate {
+  border-style: dashed;
+  opacity: .85;
+}
+.city-pill--locate:hover {
+  opacity: 1;
+}
+.city-pill--locate:disabled {
+  opacity: .5;
+  cursor: wait;
+}
+
+.locate-notice {
+  font-size: .78rem;
+  color: rgba(255,255,255,.7);
+  margin-top: .6rem;
+  text-align: center;
+}
+.locate-notice__link {
+  color: rgba(255,255,255,.9);
+  text-decoration: underline;
+}
+
 /* ============================================================
    5. FEATURED EVENT – fremhevet arrangement
    ============================================================ */
@@ -816,6 +839,14 @@ a:hover { color: var(--color-primary-dk); }
 }
 
 .site-footer__copy { opacity: 0.6; font-size: 0.82rem; }
+
+.site-footer__privacy {
+  font-size: 0.78rem;
+  opacity: 0.55;
+  margin-top: 0.75rem;
+  max-width: 680px;
+  line-height: 1.5;
+}
 
 /* ============================================================
    16. RESPONSIVT DESIGN
