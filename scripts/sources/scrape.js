@@ -55,14 +55,19 @@ const CITY_SOURCES = {
   ],
   lillestrom: [
     {
-      url:     "https://www.skedsmo.kommune.no/kultur-idrett-og-fritid/",
+      url:     "https://www.lillestromkultursenter.no/program/",
+      scraper: scrapeGeneric,
+      label:   "lillestromkultursenter.no",
+    },
+    {
+      url:     "https://lillestrom.kommune.no/kultur-og-fritid/arrangementer/",
       scraper: scrapeGeneric,
       label:   "lillestrom.kommune.no",
     },
     {
-      url:     "https://www.visitakershus.com/hva-skjer/",
+      url:     "https://www.visitromerike.no/hva-skjer/",
       scraper: scrapeGeneric,
-      label:   "visitakershus.com",
+      label:   "visitromerike.no",
     },
   ],
   "aurskog-holand": [
