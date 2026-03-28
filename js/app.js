@@ -104,9 +104,9 @@ async function fetchEvents(city = "bergen") {
     const data = await res.json();
     return Array.isArray(data.events) ? data.events : data;
   } catch (err) {
-    // JSON-filen finnes ikke ennå (første deploy, lokal utvikling) → bruk eksempeldata
-    console.info("Datafil ikke tilgjengelig, bruker lokal eksempeldata:", err.message);
-    return EVENTS;
+    console.info("Datafil ikke tilgjengelig:", err.message);
+    // Bruk lokal fallback-data for Bergen; tom array for andre byer
+    return city === "bergen" ? EVENTS : [];
   } finally {
     document.getElementById("loading-state").hidden = true;
   }
@@ -386,7 +386,7 @@ function setupSearch() {
    ============================================================ */
 
 function setupCityPicker() {
-  document.querySelectorAll(".city-pill:not([disabled])").forEach((pill) => {
+  document.querySelectorAll(".city-pill:not([disabled]):not(.city-pill--locate)").forEach((pill) => {
     pill.addEventListener("click", async () => {
       document.querySelectorAll(".city-pill").forEach((p) => p.classList.remove("city-pill--active"));
       pill.classList.add("city-pill--active");
