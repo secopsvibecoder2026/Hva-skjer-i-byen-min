@@ -1,0 +1,61 @@
+{
+  "events": [
+    {
+      "id": "sandefjord-1",
+      "title": "Hvalfangstmuseet – Guidet omvisning",
+      "description": "Sandefjord er hvalfangstbyens hjerte. Opplev fascinerende utstillinger om Norges hvalfangsthistorie på verdens best bevarte hvalfangstmuseum.",
+      "date": "2026-04-19",
+      "time": "11:00",
+      "endTime": "15:00",
+      "location": "Hvalfangstmuseet, Sandefjord",
+      "categories": ["familie", "barn"],
+      "ticketUrl": "https://www.hvalfangstmuseet.no",
+      "affiliateUrl": "https://www.hvalfangstmuseet.no/billetter?ref=hvaSkjerIByenMin",
+      "imageUrl": "https://picsum.photos/seed/hvalfangst/600/300",
+      "imageEmoji": "🐋",
+      "sponsored": false,
+      "featured": true,
+      "source": "local"
+    },
+    {
+      "id": "sandefjord-2",
+      "title": "Sandefjord Lufthavn Konsert",
+      "description": "Sommerlig utendørskonsert ved Sandefjord sentrum. Lokale og regionale artister spiller for et bredt publikum. Gratis inngang.",
+      "date": "2026-06-20",
+      "time": "17:00",
+      "endTime": "21:00",
+      "location": "Byparken, Sandefjord",
+      "categories": ["konsert", "gratis"],
+      "ticketUrl": null,
+      "affiliateUrl": null,
+      "imageUrl": "https://picsum.photos/seed/sandefjordkonsert/600/300",
+      "imageEmoji": "🎤",
+      "sponsored": false,
+      "featured": false,
+      "source": "local"
+    },
+    {
+      "id": "sandefjord-3",
+      "title": "Familiedag – Gokstad-skipet utstilling",
+      "description": "Lær om vikingenes Gokstad-skip som ble funnet i Sandefjord-regionen! Familievennlig utstilling med aktiviteter og verksteder for barn.",
+      "date": "2026-05-23",
+      "time": "10:00",
+      "endTime": "16:00",
+      "location": "Kulturhuset, Sandefjord",
+      "categories": ["familie", "barn"],
+      "ticketUrl": "https://www.sandefjord.kommune.no",
+      "affiliateUrl": null,
+      "imageUrl": "https://picsum.photos/seed/gokstad/600/300",
+      "imageEmoji": "⛵",
+      "sponsored": false,
+      "featured": false,
+      "source": "local"
+    }
+  ],
+  "meta": {
+    "city": "sandefjord",
+    "count": 3,
+    "fetchedAt": "2026-03-28T05:00:00.000Z",
+    "sources": { "ticketmaster": 0, "eventbrite": 0, "scrape": 0, "note": "Seed-data." }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "events": [
+    {
+      "id": "drammen-1",
+      "title": "Drammens Teater – Høstsesongen 2026",
+      "description": "Drammens Teater åpner høstsesongen med premiere på et klassisk norsk skuespill. Opplev profesjonell teaterkunst i en av Norges flotteste teatersaler.",
+      "date": "2026-09-12",
+      "time": "19:00",
+      "endTime": "22:00",
+      "location": "Drammens Teater, Drammen",
+      "categories": ["familie"],
+      "ticketUrl": "https://www.drammensTeater.no",
+      "affiliateUrl": "https://www.drammensTeater.no/billetter?ref=hvaSkjerIByenMin",
+      "imageUrl": "https://picsum.photos/seed/drammenterater/600/300",
+      "imageEmoji": "🌉",
+      "sponsored": false,
+      "featured": true,
+      "source": "local"
+    },
+    {
+      "id": "drammen-2",
+      "title": "Spiralen Lysshow",
+      "description": "Drammen er kjent for den spektakulære Spiralen. Opplev lysinstallasjonene inne i fjellet og nyt panoramaet over byen fra toppen.",
+      "date": "2026-10-31",
+      "time": "19:00",
+      "endTime": "22:00",
+      "location": "Spiralen, Drammen",
+      "categories": ["familie"],
+      "ticketUrl": "https://www.drammen.kommune.no",
+      "affiliateUrl": "https://www.drammen.kommune.no/spiralen?ref=hvaSkjerIByenMin",
+      "imageUrl": "https://picsum.photos/seed/spiralen/600/300",
+      "imageEmoji": "🌀",
+      "sponsored": false,
+      "featured": false,
+      "source": "local"
+    },
+    {
+      "id": "drammen-3",
+      "title": "Drammen Elvefestival",
+      "description": "Sommerlig festival langs Drammenselva med musikk, mat og aktiviteter for hele familien. Byliv ved elven på sitt beste!",
+      "date": "2026-07-11",
+      "time": "12:00",
+      "endTime": "22:00",
+      "location": "Bragernes Torg, Drammen",
+      "categories": ["familie", "konsert", "gratis"],
+      "ticketUrl": null,
+      "affiliateUrl": null,
+      "imageUrl": "https://picsum.photos/seed/drammenelva/600/300",
+      "imageEmoji": "🌊",
+      "sponsored": false,
+      "featured": false,
+      "source": "local"
+    }
+  ],
+  "meta": {
+    "city": "drammen",
+    "count": 3,
+    "fetchedAt": "2026-03-28T05:00:00.000Z",
+    "sources": { "ticketmaster": 0, "eventbrite": 0, "scrape": 0, "note": "Seed-data." }
+  }
+}

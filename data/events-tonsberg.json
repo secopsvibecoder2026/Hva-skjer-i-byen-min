@@ -1,0 +1,61 @@
+{
+  "events": [
+    {
+      "id": "tonsberg-1",
+      "title": "Midtsommerfest Tønsberg – Verdens eldste by",
+      "description": "Tønsberg er Norges eldste by! Feir midtsommer med musikk, historia og festligheter i den sjarmerende kystbyen. Konserter, historiske guider og sjømatmarkeder.",
+      "date": "2026-06-21",
+      "time": "14:00",
+      "endTime": "22:00",
+      "location": "Nedre Langgate, Tønsberg",
+      "categories": ["familie", "konsert"],
+      "ticketUrl": "https://www.visittonsberg.no",
+      "affiliateUrl": "https://www.visittonsberg.no/hva-skjer/?ref=hvaSkjerIByenMin",
+      "imageUrl": "https://picsum.photos/seed/tonsbergmidtsommer/600/300",
+      "imageEmoji": "⛵",
+      "sponsored": false,
+      "featured": true,
+      "source": "local"
+    },
+    {
+      "id": "tonsberg-2",
+      "title": "Viking-marked ved Slottsfjell",
+      "description": "Det ikoniske Slottsfjell danner bakteppet for et autentisk vikingmarked. Opplev vikingtidens håndverk, kamper og tradisjoner på historisk grunn.",
+      "date": "2026-08-08",
+      "time": "11:00",
+      "endTime": "18:00",
+      "location": "Slottsfjell, Tønsberg",
+      "categories": ["familie", "barn"],
+      "ticketUrl": "https://www.tonsbergkommune.no",
+      "affiliateUrl": "https://www.visittonsberg.no/vikingtid?ref=hvaSkjerIByenMin",
+      "imageUrl": "https://picsum.photos/seed/slottsfjell/600/300",
+      "imageEmoji": "⚔️",
+      "sponsored": false,
+      "featured": false,
+      "source": "local"
+    },
+    {
+      "id": "tonsberg-3",
+      "title": "Tønsberg Havn Båtdag",
+      "description": "Opplev havnelivet i Tønsberg med båtutstillinger, havnekonserter og sjømatservering. En flott sommerdag for hele familien ved Oslofjorden.",
+      "date": "2026-07-12",
+      "time": "10:00",
+      "endTime": "19:00",
+      "location": "Tønsberg Havn, Tønsberg",
+      "categories": ["familie", "gratis"],
+      "ticketUrl": null,
+      "affiliateUrl": null,
+      "imageUrl": "https://picsum.photos/seed/tonsberghavn/600/300",
+      "imageEmoji": "⚓",
+      "sponsored": false,
+      "featured": false,
+      "source": "local"
+    }
+  ],
+  "meta": {
+    "city": "tonsberg",
+    "count": 3,
+    "fetchedAt": "2026-03-28T05:00:00.000Z",
+    "sources": { "ticketmaster": 0, "eventbrite": 0, "scrape": 0, "note": "Seed-data." }
+  }
+}

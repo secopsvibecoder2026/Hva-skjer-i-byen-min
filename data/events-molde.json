@@ -1,0 +1,61 @@
+{
+  "events": [
+    {
+      "id": "molde-1",
+      "title": "Moldejazz 2026",
+      "description": "En av Europas eldste jazzfestivaler fyller Roserenes by med musikk. Norske og internasjonale artister på utendørsscener med fjordene som bakteppe.",
+      "date": "2026-07-16",
+      "time": "18:00",
+      "endTime": "23:30",
+      "location": "Bjørnsonfestivalen, Molde",
+      "categories": ["konsert", "uteliv"],
+      "ticketUrl": "https://www.moldejazz.no",
+      "affiliateUrl": "https://www.moldejazz.no/billetter?ref=hvaSkjerIByenMin",
+      "imageUrl": "https://picsum.photos/seed/moldejazz/600/300",
+      "imageEmoji": "🌹",
+      "sponsored": false,
+      "featured": true,
+      "source": "local"
+    },
+    {
+      "id": "molde-2",
+      "title": "Bjørnson-festivalen 2026",
+      "description": "Kulturfestival til ære for nobelprisvinneren Bjørnstjerne Bjørnson. Teater, litteratur og kunstopplevelser i Bjørnsonhuset og rundt i Molde.",
+      "date": "2026-08-27",
+      "time": "17:00",
+      "endTime": "22:00",
+      "location": "Bjørnsonhuset, Molde",
+      "categories": ["familie"],
+      "ticketUrl": "https://www.bjornson.no",
+      "affiliateUrl": "https://www.bjornson.no/billetter?ref=hvaSkjerIByenMin",
+      "imageUrl": "https://picsum.photos/seed/bjornson/600/300",
+      "imageEmoji": "📖",
+      "sponsored": false,
+      "featured": false,
+      "source": "local"
+    },
+    {
+      "id": "molde-3",
+      "title": "Romsdalfjord-runden – Sykkeltur",
+      "description": "Guidet sykkeltur langs Romsdalfjorden med fantastisk utsikt over fjell og fjord. Passer for alle nivåer. Kaffe og kake inkludert.",
+      "date": "2026-06-06",
+      "time": "10:00",
+      "endTime": "15:00",
+      "location": "Rådhusplassen, Molde",
+      "categories": ["familie", "gratis"],
+      "ticketUrl": null,
+      "affiliateUrl": null,
+      "imageUrl": "https://picsum.photos/seed/romsdalfjord/600/300",
+      "imageEmoji": "🚴",
+      "sponsored": false,
+      "featured": false,
+      "source": "local"
+    }
+  ],
+  "meta": {
+    "city": "molde",
+    "count": 3,
+    "fetchedAt": "2026-03-28T05:00:00.000Z",
+    "sources": { "ticketmaster": 0, "eventbrite": 0, "scrape": 0, "note": "Seed-data." }
+  }
+}

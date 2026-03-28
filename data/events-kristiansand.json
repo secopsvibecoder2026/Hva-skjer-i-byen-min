@@ -1,0 +1,78 @@
+{
+  "events": [
+    {
+      "id": "kristiansand-1",
+      "title": "Quart-festival 2026",
+      "description": "Den ikoniske musikkfestivalen er tilbake i Kristiansand! Norske og internasjonale artister på scener i byens hjertet. En sommer-opplevelse ved Sørlandet.",
+      "date": "2026-07-02",
+      "time": "16:00",
+      "endTime": "23:30",
+      "location": "Festningsbakken, Kristiansand",
+      "categories": ["konsert", "uteliv"],
+      "ticketUrl": "https://www.visitsorlandet.com/hva-skjer/",
+      "affiliateUrl": "https://www.visitsorlandet.com/hva-skjer/?ref=hvaSkjerIByenMin",
+      "imageUrl": "https://picsum.photos/seed/kristiansandfest/600/300",
+      "imageEmoji": "🌊",
+      "sponsored": false,
+      "featured": true,
+      "source": "local"
+    },
+    {
+      "id": "kristiansand-2",
+      "title": "Familiedag på Dyreparken",
+      "description": "Opplev Norges mest populære familiepark med dyr, Kardemomme by og spennende attraksjoner for hele familien. En uforglemmelig dag ved Sørlandet.",
+      "date": "2026-05-23",
+      "time": "10:00",
+      "endTime": "18:00",
+      "location": "Kristiansand Dyrepark, Kristiansand",
+      "categories": ["familie", "barn"],
+      "ticketUrl": "https://www.dyreparken.no",
+      "affiliateUrl": "https://www.dyreparken.no/billetter?ref=hvaSkjerIByenMin",
+      "imageUrl": "https://picsum.photos/seed/dyreparken/600/300",
+      "imageEmoji": "🦁",
+      "sponsored": false,
+      "featured": false,
+      "source": "local"
+    },
+    {
+      "id": "kristiansand-3",
+      "title": "Sommerkonsert ved Bystranda",
+      "description": "Gratis utendørskonsert på Kristiansands vakre strandpromenade. Ta med picnic-teppet og nyt musikk med Sørlandet-solen i bakgrunnen.",
+      "date": "2026-06-27",
+      "time": "18:00",
+      "endTime": "21:00",
+      "location": "Bystranda, Kristiansand",
+      "categories": ["konsert", "gratis", "familie"],
+      "ticketUrl": null,
+      "affiliateUrl": null,
+      "imageUrl": "https://picsum.photos/seed/kristiansandstrand/600/300",
+      "imageEmoji": "🏖️",
+      "sponsored": false,
+      "featured": false,
+      "source": "local"
+    },
+    {
+      "id": "kristiansand-4",
+      "title": "Kristiansand Matfestival",
+      "description": "Lokale produsenter og kokker samles for å vise frem det beste fra Sørlandet. Smak på sjømat, lokale delikatesser og nyt en festlig stemning i sentrum.",
+      "date": "2026-08-15",
+      "time": "11:00",
+      "endTime": "20:00",
+      "location": "Torvet, Kristiansand",
+      "categories": ["familie", "gratis"],
+      "ticketUrl": null,
+      "affiliateUrl": null,
+      "imageUrl": "https://picsum.photos/seed/kristiansandmat/600/300",
+      "imageEmoji": "🦐",
+      "sponsored": false,
+      "featured": false,
+      "source": "local"
+    }
+  ],
+  "meta": {
+    "city": "kristiansand",
+    "count": 4,
+    "fetchedAt": "2026-03-28T05:00:00.000Z",
+    "sources": { "ticketmaster": 0, "eventbrite": 0, "scrape": 0, "note": "Seed-data." }
+  }
+}

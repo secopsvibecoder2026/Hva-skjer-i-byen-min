@@ -1,0 +1,78 @@
+{
+  "events": [
+    {
+      "id": "arendal-1",
+      "title": "Arendalsuka 2026",
+      "description": "Norges største politiske og samfunnsfestival samler debattanter, politikere og engasjerte borgere i en uke. Hundrevis av arrangementer, de fleste gratis.",
+      "date": "2026-08-10",
+      "time": "09:00",
+      "endTime": "22:00",
+      "location": "Sentrum, Arendal",
+      "categories": ["gratis", "familie"],
+      "ticketUrl": "https://www.arendalsuka.no",
+      "affiliateUrl": "https://www.arendalsuka.no?ref=hvaSkjerIByenMin",
+      "imageUrl": "https://picsum.photos/seed/arendalsuka/600/300",
+      "imageEmoji": "⛵",
+      "sponsored": false,
+      "featured": true,
+      "source": "local"
+    },
+    {
+      "id": "arendal-2",
+      "title": "Sommerkonsert ved Tyholmen",
+      "description": "Utendørskonsert med lokale artister på Arendals historiske trehusbebyggelse Tyholmen. Nyt musikken med utsikt over Nidelva og skjærgården.",
+      "date": "2026-06-27",
+      "time": "18:00",
+      "endTime": "21:00",
+      "location": "Tyholmen, Arendal",
+      "categories": ["konsert", "gratis"],
+      "ticketUrl": null,
+      "affiliateUrl": null,
+      "imageUrl": "https://picsum.photos/seed/tyholmen/600/300",
+      "imageEmoji": "🎶",
+      "sponsored": false,
+      "featured": false,
+      "source": "local"
+    },
+    {
+      "id": "arendal-3",
+      "title": "Havnefest – Arendal sjøsportsenter",
+      "description": "Familievennlig havnefest med sjøsports-aktiviteter, kanopadling, kajakk og båtutstilling. For store og små som elsker livet på sjøen.",
+      "date": "2026-07-11",
+      "time": "11:00",
+      "endTime": "17:00",
+      "location": "Arendal havn, Arendal",
+      "categories": ["familie", "barn", "gratis"],
+      "ticketUrl": null,
+      "affiliateUrl": null,
+      "imageUrl": "https://picsum.photos/seed/arendalhavn/600/300",
+      "imageEmoji": "🚣",
+      "sponsored": false,
+      "featured": false,
+      "source": "local"
+    },
+    {
+      "id": "arendal-4",
+      "title": "Aust-Agder Kulturhistoriske Senter – Utstilling",
+      "description": "Besøk den faste utstillingen om Aust-Agders rike kulturhistorie, fra sjøfart og trelast til moderne tid. Aktiviteter for barn og familier.",
+      "date": "2026-05-02",
+      "time": "10:00",
+      "endTime": "16:00",
+      "location": "Aust-Agder Museum, Arendal",
+      "categories": ["familie", "barn"],
+      "ticketUrl": "https://www.arendal.kommune.no/kultur/",
+      "affiliateUrl": "https://www.arendal.kommune.no/kultur/?ref=hvaSkjerIByenMin",
+      "imageUrl": "https://picsum.photos/seed/arendalmuseum/600/300",
+      "imageEmoji": "⚓",
+      "sponsored": false,
+      "featured": false,
+      "source": "local"
+    }
+  ],
+  "meta": {
+    "city": "arendal",
+    "count": 4,
+    "fetchedAt": "2026-03-28T05:00:00.000Z",
+    "sources": { "ticketmaster": 0, "eventbrite": 0, "scrape": 0, "note": "Seed-data." }
+  }
+}

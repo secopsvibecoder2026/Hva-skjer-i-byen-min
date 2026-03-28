@@ -30,7 +30,7 @@ En lokal aktivitetsguide for norske byer – konserter, familieaktiviteter, grat
 - **Fremhevet arrangement** med stor bildebanner øverst
 - **Filtrering** på kategori: Familievennlig, Gratis, Konsert/Uteliv, Barn
 - **Live-søk** etter tittel, sted og kategori
-- **Byer:** Bergen, Oslo, Trondheim, Stavanger, Eidsvoll, Lillestrøm, Aurskog-Høland
+- **Byer (22 stk):** Bergen, Oslo, Trondheim, Stavanger, Eidsvoll, Lillestrøm, Aurskog-Høland, Kristiansand, Tromsø, Drammen, Fredrikstad, Ålesund, Bodø, Hamar, Tønsberg, Moss, Haugesund, Sandefjord, Arendal, Molde, Voss, Kongsberg
 - **Geo-deteksjon:** «Finn meg»-knapp velger nærmeste by automatisk via GPS
 - **Automatisk datahenting** via GitHub Actions – kjøres daglig kl. 06:00
 - **Utløpte events slettes automatisk** ved hver kjøring

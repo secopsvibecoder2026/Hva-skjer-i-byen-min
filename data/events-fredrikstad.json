@@ -1,0 +1,61 @@
+{
+  "events": [
+    {
+      "id": "fredrikstad-1",
+      "title": "Gamlebyen Middelalderfestival",
+      "description": "Trå tilbake i tid i Norges best bevarte festningsby! Ridderturneringer, håndverksdemonstrasjoner, middelaldermat og levende historiefortelling i Gamlebyen.",
+      "date": "2026-07-18",
+      "time": "11:00",
+      "endTime": "20:00",
+      "location": "Gamlebyen, Fredrikstad",
+      "categories": ["familie", "barn"],
+      "ticketUrl": "https://www.visitfredrikstad.com",
+      "affiliateUrl": "https://www.visitfredrikstad.com/hva-skjer/?ref=hvaSkjerIByenMin",
+      "imageUrl": "https://picsum.photos/seed/gamlebyen/600/300",
+      "imageEmoji": "🏰",
+      "sponsored": false,
+      "featured": true,
+      "source": "local"
+    },
+    {
+      "id": "fredrikstad-2",
+      "title": "Fredrikstad Bluesfestival",
+      "description": "Internasjonale og norske bluesartister samles i festningsbyen for en helg fylt med sjangere fra blues til rock. Utendørsscener og klubbkonserter.",
+      "date": "2026-08-22",
+      "time": "18:00",
+      "endTime": "23:30",
+      "location": "Torget, Fredrikstad",
+      "categories": ["konsert", "uteliv"],
+      "ticketUrl": "https://www.fredrikstadblues.no",
+      "affiliateUrl": "https://www.fredrikstadblues.no/billetter?ref=hvaSkjerIByenMin",
+      "imageUrl": "https://picsum.photos/seed/fredrikstadblues/600/300",
+      "imageEmoji": "🎸",
+      "sponsored": false,
+      "featured": false,
+      "source": "local"
+    },
+    {
+      "id": "fredrikstad-3",
+      "title": "Barnas dag i Gamlebyen",
+      "description": "En hel dag dedikert til barn i den historiske Gamlebyen. Klatring på festningsmurene, bueskyting og tegneaktiviteter for de minste.",
+      "date": "2026-05-30",
+      "time": "10:00",
+      "endTime": "16:00",
+      "location": "Gamlebyen Festning, Fredrikstad",
+      "categories": ["barn", "familie", "gratis"],
+      "ticketUrl": null,
+      "affiliateUrl": null,
+      "imageUrl": "https://picsum.photos/seed/fredrikstadbarn/600/300",
+      "imageEmoji": "⚔️",
+      "sponsored": false,
+      "featured": false,
+      "source": "local"
+    }
+  ],
+  "meta": {
+    "city": "fredrikstad",
+    "count": 3,
+    "fetchedAt": "2026-03-28T05:00:00.000Z",
+    "sources": { "ticketmaster": 0, "eventbrite": 0, "scrape": 0, "note": "Seed-data." }
+  }
+}

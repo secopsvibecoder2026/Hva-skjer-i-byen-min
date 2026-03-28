@@ -1,0 +1,78 @@
+{
+  "events": [
+    {
+      "id": "moss-1",
+      "title": "Momentum – Nordisk Biennale for samtidskunst",
+      "description": "Moss er vertsby for Nordens ledende biennale for samtidskunst. Utstillinger i historiske bygg og nye gallerier med kunstnere fra hele Norden.",
+      "date": "2026-06-06",
+      "time": "12:00",
+      "endTime": "18:00",
+      "location": "Momentum Kunsthall, Moss",
+      "categories": ["familie", "gratis"],
+      "ticketUrl": "https://www.momentumkunsthall.no",
+      "affiliateUrl": "https://www.momentumkunsthall.no?ref=hvaSkjerIByenMin",
+      "imageUrl": "https://picsum.photos/seed/momentumkunst/600/300",
+      "imageEmoji": "🌿",
+      "sponsored": false,
+      "featured": true,
+      "source": "local"
+    },
+    {
+      "id": "moss-2",
+      "title": "Mossesund-festivalen",
+      "description": "Lokal kulturfestival langs det vakre Mossesundet. Musikk, mat og aktiviteter for hele familien med fjordutsikt og havnepromenade.",
+      "date": "2026-07-18",
+      "time": "13:00",
+      "endTime": "21:00",
+      "location": "Havnepromenaden, Moss",
+      "categories": ["konsert", "familie", "gratis"],
+      "ticketUrl": null,
+      "affiliateUrl": null,
+      "imageUrl": "https://picsum.photos/seed/mossesund/600/300",
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "local"
+    },
+    {
+      "id": "moss-3",
+      "title": "Moss Jernverk – Historisk vandring",
+      "description": "Vandring i historiske Moss by med fokus på det viktige jernverket. Lær om byens industrihistorie og Mossekonvensjonens betydning for norsk frihet.",
+      "date": "2026-05-16",
+      "time": "13:00",
+      "endTime": "16:00",
+      "location": "Moss Jernverk, Moss",
+      "categories": ["familie", "gratis"],
+      "ticketUrl": null,
+      "affiliateUrl": null,
+      "imageUrl": "https://picsum.photos/seed/mossjernverk/600/300",
+      "imageEmoji": "⚙️",
+      "sponsored": false,
+      "featured": false,
+      "source": "local"
+    },
+    {
+      "id": "moss-4",
+      "title": "Konsert: Moss Domkirke",
+      "description": "Orgelkonsert og koropptreden i Moss domkirke. En vakker musikalsk opplevelse i en historisk kirke midt i Moss sentrum.",
+      "date": "2026-09-19",
+      "time": "19:00",
+      "endTime": "21:00",
+      "location": "Moss domkirke, Moss",
+      "categories": ["konsert"],
+      "ticketUrl": "https://www.moss.kommune.no/kultur/",
+      "affiliateUrl": "https://www.moss.kommune.no/kultur/?ref=hvaSkjerIByenMin",
+      "imageUrl": "https://picsum.photos/seed/mosskirke/600/300",
+      "imageEmoji": "🎼",
+      "sponsored": false,
+      "featured": false,
+      "source": "local"
+    }
+  ],
+  "meta": {
+    "city": "moss",
+    "count": 4,
+    "fetchedAt": "2026-03-28T05:00:00.000Z",
+    "sources": { "ticketmaster": 0, "eventbrite": 0, "scrape": 0, "note": "Seed-data." }
+  }
+}

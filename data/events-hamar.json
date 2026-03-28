@@ -1,0 +1,61 @@
+{
+  "events": [
+    {
+      "id": "hamar-1",
+      "title": "Hockeyfinale – VIF vs. Vålerenga på Vikingskipet",
+      "description": "Storslagen hockey-atmosfære i det ikoniske Vikingskipet på Hamar. Opplev topp norsk ishockey i verdens vakreste innendørs skøytearena.",
+      "date": "2026-04-04",
+      "time": "18:00",
+      "endTime": "21:00",
+      "location": "Vikingskipet, Hamar",
+      "categories": ["familie"],
+      "ticketUrl": "https://www.getbroadcast.com/vikingskipet",
+      "affiliateUrl": "https://www.getbroadcast.com/vikingskipet?ref=hvaSkjerIByenMin",
+      "imageUrl": "https://picsum.photos/seed/vikingskipet/600/300",
+      "imageEmoji": "🏒",
+      "sponsored": false,
+      "featured": true,
+      "source": "local"
+    },
+    {
+      "id": "hamar-2",
+      "title": "Norsk Skøyteforbunds Mesterskap",
+      "description": "Norges beste skøyteløpere konkurrerer på den olympiske arenaen Vikingskipet. Se fremtidens OL-stjerner sette norgesrekorder på hjemmebane.",
+      "date": "2026-11-28",
+      "time": "13:00",
+      "endTime": "18:00",
+      "location": "Vikingskipet, Hamar",
+      "categories": ["familie", "gratis"],
+      "ticketUrl": "https://www.skøyteforbundet.no",
+      "affiliateUrl": "https://www.skøyteforbundet.no/billetter?ref=hvaSkjerIByenMin",
+      "imageUrl": "https://picsum.photos/seed/skoyte/600/300",
+      "imageEmoji": "⛸️",
+      "sponsored": false,
+      "featured": false,
+      "source": "local"
+    },
+    {
+      "id": "hamar-3",
+      "title": "Hedmarksmarkedet",
+      "description": "Hamar og Hedmarkens store sommermarkned med lokale produsenter, håndverk og tradisjoner. En hyggelig dag for hele familien med norsk bondekost og kulturelle innslag.",
+      "date": "2026-07-04",
+      "time": "10:00",
+      "endTime": "17:00",
+      "location": "Stortorget, Hamar",
+      "categories": ["familie", "gratis"],
+      "ticketUrl": null,
+      "affiliateUrl": null,
+      "imageUrl": "https://picsum.photos/seed/hedmarksmarked/600/300",
+      "imageEmoji": "🌾",
+      "sponsored": false,
+      "featured": false,
+      "source": "local"
+    }
+  ],
+  "meta": {
+    "city": "hamar",
+    "count": 3,
+    "fetchedAt": "2026-03-28T05:00:00.000Z",
+    "sources": { "ticketmaster": 0, "eventbrite": 0, "scrape": 0, "note": "Seed-data." }
+  }
+}

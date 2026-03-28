@@ -72,6 +72,116 @@ const CITY_SOURCES = {
       label:   "aurskog-holand.kommune.no",
     },
   ],
+  kristiansand: [
+    {
+      url:     "https://www.visitsorlandet.com/hva-skjer/",
+      scraper: scrapeGeneric,
+      label:   "visitsorlandet.com",
+    },
+    {
+      url:     "https://www.kristiansand.kommune.no/kultur-og-fritid/",
+      scraper: scrapeGeneric,
+      label:   "kristiansand.kommune.no",
+    },
+  ],
+  tromso: [
+    {
+      url:     "https://www.visittromso.no/hva-skjer/",
+      scraper: scrapeGeneric,
+      label:   "visittromso.no",
+    },
+  ],
+  drammen: [
+    {
+      url:     "https://www.visitdrammen.no/hva-skjer/",
+      scraper: scrapeGeneric,
+      label:   "visitdrammen.no",
+    },
+  ],
+  fredrikstad: [
+    {
+      url:     "https://www.visitfredrikstad.com/hva-skjer/",
+      scraper: scrapeGeneric,
+      label:   "visitfredrikstad.com",
+    },
+  ],
+  alesund: [
+    {
+      url:     "https://www.visitalesund.com/hva-skjer/",
+      scraper: scrapeGeneric,
+      label:   "visitalesund.com",
+    },
+  ],
+  bodo: [
+    {
+      url:     "https://www.visitbodo.com/hva-skjer/",
+      scraper: scrapeGeneric,
+      label:   "visitbodo.com",
+    },
+  ],
+  hamar: [
+    {
+      url:     "https://www.visitinnlandet.com/hva-skjer/",
+      scraper: scrapeGeneric,
+      label:   "visitinnlandet.com",
+    },
+  ],
+  tonsberg: [
+    {
+      url:     "https://www.visitvestfold.com/hva-skjer/",
+      scraper: scrapeGeneric,
+      label:   "visitvestfold.com",
+    },
+  ],
+  moss: [
+    {
+      url:     "https://www.visitmoss.no/hva-skjer/",
+      scraper: scrapeGeneric,
+      label:   "visitmoss.no",
+    },
+  ],
+  haugesund: [
+    {
+      url:     "https://www.visithaugesund.no/hva-skjer/",
+      scraper: scrapeGeneric,
+      label:   "visithaugesund.no",
+    },
+  ],
+  sandefjord: [
+    {
+      url:     "https://www.visitsandefjord.com/hva-skjer/",
+      scraper: scrapeGeneric,
+      label:   "visitsandefjord.com",
+    },
+  ],
+  arendal: [
+    {
+      url:     "https://www.visitarendal.com/hva-skjer/",
+      scraper: scrapeGeneric,
+      label:   "visitarendal.com",
+    },
+  ],
+  molde: [
+    {
+      url:     "https://www.visitmolde.com/hva-skjer/",
+      scraper: scrapeGeneric,
+      label:   "visitmolde.com",
+    },
+  ],
+  voss: [
+    {
+      url:     "https://www.visitvoss.no/hva-skjer/",
+      scraper: scrapeGeneric,
+      label:   "visitvoss.no",
+    },
+  ],
+  kongsberg: [
+    {
+      url:     "https://www.visitkongsberg.no/hva-skjer/",
+      scraper: scrapeGeneric,
+      label:   "visitkongsberg.no",
+    },
+  ],
 };
 
 export async function scrapeLocalSites(city) {
