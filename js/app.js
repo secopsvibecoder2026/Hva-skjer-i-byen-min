@@ -3,13 +3,13 @@
  * Hoved-JavaScript for "Hva skjer i byen min"
  *
  * Flyt:
- *  1. fetchEvents()      – Henter data fra /api/events, faller tilbake til lokal EVENTS
+ *  1. fetchEvents()      – Henter /data/events-{city}.json (GitHub Pages statisk fil)
  *  2. buildFilters()     – Genererer kategori-filterknapper
  *  3. setupSearch()      – Søkefelt med debounce
  *  4. renderAll()        – Oppdaterer featured, dato-grupper og stats
  *
- * For å aktivere ekte API-data: sett opp Vercel (se api/-mappen)
- * og deploy prosjektet. Frontend henter da automatisk fra /api/events.
+ * JSON-filene genereres daglig av GitHub Actions (scrape.yml)
+ * og serves statisk fra GitHub Pages. Ingen backend nødvendig.
  */
 
 /* ============================================================
@@ -26,7 +26,7 @@ let currentCity  = "bergen";
 
 /** Returner "YYYY-MM-DD" for en dato (lokal tid) */
 function toDateStr(date) {
-  return date.toLocaleDateString("sv-SE"); // sv-SE gir ISO-format uten konvertering
+  return date.toLocaleDateString("sv-SE");
 }
 
 /**
@@ -41,14 +41,13 @@ function getDateGroup(dateStr) {
   const todayStr    = toDateStr(today);
   const tomorrowStr = toDateStr(tomorrow);
 
-  // Beregn ukenummer for arrangement og "neste uke"
-  const evDate = new Date(dateStr + "T00:00:00");
+  const evDate  = new Date(dateStr + "T00:00:00");
   const diffDays = Math.round((evDate - today) / 86_400_000);
 
-  if (dateStr === todayStr)    return "idag";
-  if (dateStr === tomorrowStr) return "imorgen";
-  if (diffDays >= 2 && diffDays <= 6)  return "uke";   // Resten av denne uken
-  if (diffDays >= 7 && diffDays <= 13) return "neste"; // Neste uke
+  if (dateStr === todayStr)                    return "idag";
+  if (dateStr === tomorrowStr)                 return "imorgen";
+  if (diffDays >= 2 && diffDays <= 6)          return "uke";
+  if (diffDays >= 7 && diffDays <= 13)         return "neste";
   return "senere";
 }
 
@@ -65,7 +64,7 @@ const DATE_GROUPS = [
  */
 function formatDate(dateStr, timeStr) {
   const date = new Date(`${dateStr}T${timeStr}`);
-  const days = ["Søndag","Mandag","Tirsdag","Onsdag","Torsdag","Fredag","Lørdag"];
+  const days = ["S\u00f8ndag","Mandag","Tirsdag","Onsdag","Torsdag","Fredag","L\u00f8rdag"];
   const months = ["jan","feb","mar","apr","mai","jun","jul","aug","sep","okt","nov","des"];
   return `${days[date.getDay()]} ${date.getDate()}. ${months[date.getMonth()]} kl. ${timeStr}`;
 }
@@ -83,11 +82,11 @@ function getCategoryLabel(catId) {
    ============================================================ */
 
 /**
- * Henter arrangementer fra /api/events (Vercel serverless).
- * Faller automatisk tilbake til lokal EVENTS-array om API ikke svarer.
+ * Henter arrangementer fra statisk JSON-fil på GitHub Pages.
+ * JSON-filene genereres daglig av GitHub Actions (scrape.yml).
+ * Faller tilbake til lokal EVENTS-array om filen ikke finnes.
  */
 async function fetchEvents(city = "bergen") {
-  // Vis laste-indikator
   document.getElementById("loading-state").hidden = false;
   document.getElementById("events-container").innerHTML = "";
 
@@ -117,11 +116,7 @@ async function fetchEvents(city = "bergen") {
    FILTRERING
    ============================================================ */
 
-/**
- * Sjekk om et arrangement matcher gjeldende filtre og søk
- */
 function eventMatches(event) {
-  // Søkefilter
   if (searchQuery.trim() !== "") {
     const q = searchQuery.toLowerCase();
     const inTitle    = event.title.toLowerCase().includes(q);
@@ -134,7 +129,6 @@ function eventMatches(event) {
     if (!inTitle && !inDesc && !inLocation && !inCategory) return false;
   }
 
-  // Kategorifilter (AND-logikk: alle valgte filtre må matche)
   if (activeFilters.size > 0) {
     const hasAll = [...activeFilters].every((f) => event.categories.includes(f));
     if (!hasAll) return false;
@@ -147,15 +141,10 @@ function eventMatches(event) {
    RENDERING – FEATURED EVENT
    ============================================================ */
 
-/**
- * Renderer det fremhevede arrangementet (featured: true, sponset)
- * Vises som stor banner mellom hero og resten av innholdet.
- */
 function renderFeatured(events) {
   const container = document.getElementById("featured-section");
   if (!container) return;
 
-  // Velg første featured event (prioritert: featured=true + sponsored)
   const featured =
     events.find((e) => e.featured && e.sponsored) ||
     events.find((e) => e.featured) ||
@@ -166,7 +155,6 @@ function renderFeatured(events) {
     return;
   }
 
-  // Billenke (affiliate-prioritert)
   const href = featured.affiliateUrl || featured.ticketUrl || "#";
 
   const bgStyle = featured.imageUrl
@@ -187,7 +175,7 @@ function renderFeatured(events) {
         <div class="featured-card__actions">
           ${
             featured.affiliateUrl || featured.ticketUrl
-              ? `<span class="btn btn--primary">🎟️ Kjøp billetter</span>`
+              ? `<span class="btn btn--primary">🎫 Kj\u00f8p billetter</span>`
               : `<span class="btn btn--outline-white">🆓 Gratis inngang</span>`
           }
           <span class="btn btn--outline-white">Les mer →</span>
@@ -200,23 +188,18 @@ function renderFeatured(events) {
    RENDERING – ARRANGEMENTKORT
    ============================================================ */
 
-/**
- * Bygger HTML for ett arrangementkort
- */
 function buildEventCard(event) {
-  // Badges
   const badges = event.categories
     .map((cat) => `<span class="badge badge--${cat}">${getCategoryLabel(cat)}</span>`)
     .join("");
 
-  // Bildetopp – ekte bilde eller emoji-fallback
   const imageSection = event.imageUrl
     ? `<div class="event-card__image">
          <img
            src="${event.imageUrl}"
            alt="${event.title}"
            loading="lazy"
-           onerror="this.parentElement.innerHTML='<div class=\\'event-card__emoji-fallback\\'>${event.imageEmoji}</div>'"
+           onerror="this.parentElement.innerHTML='<div class=\'event-card__emoji-fallback\'>${event.imageEmoji}</div>'"
          />
          ${event.sponsored ? `<div class="sponsored-label">✨ Sponset</div>` : ""}
        </div>`
@@ -225,12 +208,11 @@ function buildEventCard(event) {
          ${event.sponsored ? `<div class="sponsored-label">✨ Sponset</div>` : ""}
        </div>`;
 
-  // Billettknapp
   let ticketBtn;
   if (event.affiliateUrl) {
-    ticketBtn = `<a href="${event.affiliateUrl}" class="btn btn--primary" target="_blank" rel="noopener sponsored">🎟️ Kjøp billetter</a>`;
+    ticketBtn = `<a href="${event.affiliateUrl}" class="btn btn--primary" target="_blank" rel="noopener sponsored">🎫 Kj\u00f8p billetter</a>`;
   } else if (event.ticketUrl) {
-    ticketBtn = `<a href="${event.ticketUrl}" class="btn btn--primary" target="_blank" rel="noopener">🎟️ Kjøp billetter</a>`;
+    ticketBtn = `<a href="${event.ticketUrl}" class="btn btn--primary" target="_blank" rel="noopener">🎫 Kj\u00f8p billetter</a>`;
   } else {
     ticketBtn = `<span class="btn btn--free">🆓 Gratis inngang</span>`;
   }
@@ -255,14 +237,10 @@ function buildEventCard(event) {
    RENDERING – DATO-GRUPPERT VISNING
    ============================================================ */
 
-/**
- * Renderer alle arrangementer gruppert per dato-periode
- */
 function renderByGroups(events) {
   const container  = document.getElementById("events-container");
   const noResults  = document.getElementById("no-results");
 
-  // Filtrer og sorter (sponsede alltid øverst innen hver gruppe)
   const filtered = events
     .filter(eventMatches)
     .sort((a, b) => {
@@ -271,7 +249,6 @@ function renderByGroups(events) {
       return new Date(a.date + "T" + a.time) - new Date(b.date + "T" + b.time);
     });
 
-  // Oppdater event-teller
   document.getElementById("event-count").textContent = filtered.length;
 
   if (filtered.length === 0) {
@@ -281,7 +258,6 @@ function renderByGroups(events) {
   }
   noResults.hidden = true;
 
-  // Grupper etter dato-periode
   const groups = {};
   for (const event of filtered) {
     const gId = getDateGroup(event.date);
@@ -289,7 +265,6 @@ function renderByGroups(events) {
     groups[gId].push(event);
   }
 
-  // Bygg HTML – kun grupper med events
   let html = "";
   for (const group of DATE_GROUPS) {
     const groupEvents = groups[group.id];
@@ -314,16 +289,9 @@ function renderByGroups(events) {
    STATISTIKK I HERO
    ============================================================ */
 
-/**
- * Oppdaterer stats-tallene i hero-seksjonen
- */
 function updateStats(events) {
-  const total = events.length;
-
-  // Tell gratis arrangementer
-  const free = events.filter((e) => e.categories.includes("gratis")).length;
-
-  // Tell arrangementer denne uken
+  const total    = events.length;
+  const free     = events.filter((e) => e.categories.includes("gratis")).length;
   const thisWeek = events.filter((e) => {
     const g = getDateGroup(e.date);
     return g === "idag" || g === "imorgen" || g === "uke";
@@ -342,9 +310,6 @@ function updateStats(events) {
    HOVED-RENDER
    ============================================================ */
 
-/**
- * Rendererer alt basert på gjeldende tilstand
- */
 function renderAll() {
   renderFeatured(allEvents);
   renderByGroups(allEvents);
@@ -379,7 +344,6 @@ function buildFilters() {
     });
   });
 
-  // Tilbakestill-knapp
   document.getElementById("reset-filters").addEventListener("click", () => {
     activeFilters.clear();
     container.querySelectorAll(".filter-btn--active").forEach((b) => {
@@ -428,15 +392,13 @@ function setupCityPicker() {
       pill.classList.add("city-pill--active");
 
       currentCity = pill.dataset.city;
-      const cityName = pill.textContent.trim().replace(/^[^\s]+\s/, ""); // Fjern emoji
+      const cityName = pill.textContent.trim().replace(/^[^\s]+\s/, "");
 
-      // Oppdater by-navn i hero
       const labelEl = document.getElementById("current-city-label");
       const nameEl  = document.getElementById("current-city-name");
       if (labelEl) labelEl.textContent = cityName;
       if (nameEl)  nameEl.textContent  = cityName;
 
-      // Hent ny data
       allEvents = await fetchEvents(currentCity);
       updateStats(allEvents);
       renderAll();
@@ -532,7 +494,6 @@ document.addEventListener("DOMContentLoaded", async () => {
   setupCityPicker();
   setupGeolocation();
 
-  // Last inn data
   allEvents = await fetchEvents(currentCity);
   updateStats(allEvents);
   renderAll();
