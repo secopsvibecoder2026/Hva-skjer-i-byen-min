@@ -586,13 +586,6 @@ function setupGeolocation() {
 
         btn.disabled    = false;
         btn.textContent = "📍 Finn meg";
-
-        // Naviger til nærmeste by
-        const nearest = sorted[0].pill;
-        if (nearest.dataset.city !== currentCity) {
-          const base = window.PRESELECTED_CITY ? "../" : "./";
-          window.location.href = `${base}${nearest.dataset.city}/`;
-        }
       },
       (err) => {
         btn.disabled    = false;
