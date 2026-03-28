@@ -2,7 +2,7 @@
 
 En lokal aktivitetsguide for norske byer – konserter, familieaktiviteter, gratis events og mer, samlet på étt sted.
 
-**Live demo:** [secopsvibecoder2026.github.io/hva-skjer-i-byen-min](https://secopsvibecoder2026.github.io/hva-skjer-i-byen-min/)
+**Live demo:** [secopsvibecoder2026.github.io/hva-skjer-i-byen-min](https://secopsvibecoder2026.github.io/hva-skjer-i-byen-min/) · **Domene:** [ibyenmin.no](https://ibyenmin.no) *(under oppsett)*
 
 ---
 
@@ -10,6 +10,7 @@ En lokal aktivitetsguide for norske byer – konserter, familieaktiviteter, grat
 
 - [Funksjoner](#funksjoner)
 - [Arkitektur](#arkitektur)
+- [SEO-strategi](#seo-strategi)
 - [Prosjektstruktur](#prosjektstruktur)
 - [Kom i gang lokalt](#kom-i-gang-lokalt)
 - [Deploy til GitHub Pages](#deploy-til-github-pages)
@@ -31,6 +32,8 @@ En lokal aktivitetsguide for norske byer – konserter, familieaktiviteter, grat
 - **Filtrering** på kategori: Familievennlig, Gratis, Konsert/Uteliv, Barn
 - **Live-søk** etter tittel, sted og kategori
 - **Byer (22 stk):** Bergen, Oslo, Trondheim, Stavanger, Eidsvoll, Lillestrøm, Aurskog-Høland, Kristiansand, Tromsø, Drammen, Fredrikstad, Ålesund, Bodø, Hamar, Tønsberg, Moss, Haugesund, Sandefjord, Arendal, Molde, Voss, Kongsberg
+- **SEO-optimaliserte undersider** per by – `ibyenmin.no/bergen/`, `ibyenmin.no/oslo/` osv.
+- **sitemap.xml** og **robots.txt** for Google-indeksering
 - **Geo-deteksjon:** «Finn meg»-knapp velger nærmeste by automatisk via GPS
 - **Automatisk datahenting** via GitHub Actions – kjøres daglig kl. 06:00
 - **Utløpte events slettes automatisk** ved hver kjøring
@@ -48,17 +51,22 @@ GitHub Actions (cron daglig kl. 06:00 Oslo-tid)
   ├── Eventbrite Public API             ← krever EB_TOKEN
   └── Web-scraping (visitbergen.com, visitoslo.com …)
        │
-       ├── data/events-bergen.json
+       ├── data/events-bergen.json      ← oppdateres daglig
        ├── data/events-oslo.json
-       ├── data/events-trondheim.json
-       ├── data/events-stavanger.json
-       ├── data/events-eidsvoll.json
-       ├── data/events-lillestrom.json
-       └── data/events-aurskog-holand.json
+       ├── data/events-{by}.json  (22 stk)
+       │
+       └── scripts/generate-city-pages.mjs
                 │
-                └── GitHub Pages (statisk hosting)
+                ├── bergen/index.html   ← SEO-side per by
+                ├── oslo/index.html
+                ├── {by}/index.html  (22 stk)
+                ├── sitemap.xml
+                └── robots.txt
                          │
-                         └── Nettleseren henter /data/events-{by}.json
+                         └── GitHub Pages (statisk hosting)
+                                  ├── ibyenmin.no/          (forside)
+                                  ├── ibyenmin.no/bergen/   (by-side)
+                                  └── ibyenmin.no/{by}/  (22 stk)
 ```
 
 **Uten API-nøkler** kjøres kun web-scraping. Hvis alle kilder returnerer 0 events
@@ -67,11 +75,44 @@ events ryddes alltid.
 
 ---
 
+## SEO-strategi
+
+Alle 22 byer har egne statiske sider med unike meta-tags som Google kan indeksere:
+
+| URL | Tittel (eksempel) |
+|-----|-------------------|
+| `ibyenmin.no/` | Hva skjer i byen din? |
+| `ibyenmin.no/bergen/` | Hva skjer i Bergen? Arrangementer og konserter 2026 |
+| `ibyenmin.no/oslo/` | Hva skjer i Oslo? Arrangementer og konserter 2026 |
+| `ibyenmin.no/{by}/` | … (22 sider totalt) |
+
+Hver by-side inneholder:
+- `<title>` og `<meta description>` med by-navn og år
+- `<link rel="canonical">` – forteller Google hvilken URL som er primær
+- `<meta property="og:url">` – riktig URL i sosiale medier
+- **JSON-LD strukturdata** (WebPage + BreadcrumbList) – gir Google rik kontekst
+- **Breadcrumb**: Hjem → Bynavn
+
+`sitemap.xml` med alle 23 sider sendes til Google Search Console.
+By-sidene regenereres automatisk etter hver daglige datahenting.
+
+### Send sitemap til Google
+
+1. Gå til [Google Search Console](https://search.google.com/search-console)
+2. Legg til domenet `ibyenmin.no`
+3. Gå til **Sitemaps** og send inn `https://ibyenmin.no/sitemap.xml`
+
+---
+
 ## Prosjektstruktur
 
 ```
 hva-skjer-i-byen-min/
-├── index.html                      # Hoved-HTML
+├── index.html                      # Forside (ingen by forhåndsvalgt)
+├── {by}/                           # Genererte by-sider (22 stk)
+│   └── index.html                  #   f.eks. bergen/index.html
+├── sitemap.xml                     # Google-sitemap (genereres daglig)
+├── robots.txt                      # Forteller søkemotorer om sitemap
 ├── css/
 │   └── style.css                   # Design (CSS-variabler, responsivt)
 ├── js/
@@ -80,13 +121,10 @@ hva-skjer-i-byen-min/
 ├── data/                           # Oppdateres daglig av GitHub Actions
 │   ├── events-bergen.json
 │   ├── events-oslo.json
-│   ├── events-trondheim.json
-│   ├── events-stavanger.json
-│   ├── events-eidsvoll.json
-│   ├── events-lillestrom.json
-│   └── events-aurskog-holand.json
+│   └── events-{by}.json  (22 stk)
 ├── scripts/
-│   ├── scrape.mjs                  # Kjøres av GitHub Actions
+│   ├── scrape.mjs                  # Henter event-data (kjøres av GitHub Actions)
+│   ├── generate-city-pages.mjs     # Genererer by-sider og sitemap (kjøres etter scraping)
 │   └── sources/
 │       ├── ticketmaster.js         # Ticketmaster Discovery API v2
 │       ├── eventbrite.js           # Eventbrite Public API
@@ -94,7 +132,7 @@ hva-skjer-i-byen-min/
 ├── .github/
 │   └── workflows/
 │       ├── deploy.yml              # Deploy frontend til GitHub Pages
-│       └── scrape.yml              # Daglig datahenting (cron 06:00)
+│       └── scrape.yml              # Daglig datahenting + sidegenerering (cron 06:00)
 ├── package.json
 ├── package-lock.json
 ├── .env.example                    # Mal for lokale miljøvariabler
@@ -229,9 +267,22 @@ Dette forhindrer at brukere ser en tom side ved midlertidige feil.
 
 ### Seed-data
 
-Alle fem byer har forhåndslagrede seed-events i `data/`-mappen.
+Alle 22 byer har forhåndslagrede seed-events i `data/`-mappen.
 Disse vises til GitHub Actions-scraperen kjører for første gang og
 erstatter dem med ekte data.
+
+### Generering av by-sider
+
+Etter scraping kjøres `scripts/generate-city-pages.mjs` automatisk.
+Den leser `index.html` som mal og genererer `{by}/index.html` for alle 22 byer
+med by-spesifikke SEO-tags, JSON-LD og konfigurasjonsvariabler.
+Oppdatert `sitemap.xml` og `robots.txt` genereres samtidig.
+
+For å generere by-sider manuelt:
+
+```bash
+node scripts/generate-city-pages.mjs
+```
 
 ---
 
@@ -263,9 +314,22 @@ const CITIES = ["bergen", "oslo", "trondheim", "stavanger", "eidsvoll", "lillest
 </button>
 ```
 
-**4.** Opprett `data/events-kristiansand.json` med seed-data (se eksisterende filer).
+**4.** `scripts/generate-city-pages.mjs` – legg til i `CITIES`-listen:
 
-**5.** Push til `main` – scraperen kjører automatisk ved neste cron.
+```js
+{ id: "kristiansand", name: "Kristiansand", emoji: "🌊", region: "Agder" },
+```
+
+**5.** Opprett `data/events-kristiansand.json` med seed-data (se eksisterende filer).
+
+**6.** Generer by-sider lokalt og verifiser:
+
+```bash
+node scripts/generate-city-pages.mjs
+# → kristiansand/index.html generert
+```
+
+**7.** Push til `main` – scraperen og sidegeneratoren kjører automatisk ved neste cron.
 
 ---
 
@@ -320,12 +384,16 @@ For sponsede oppføringer: sett `"sponsored": true` og `"featured": true` i `dat
 
 ## Veikart
 
+- [x] SEO-optimaliserte undersider per by (`ibyenmin.no/bergen/` osv.)
+- [x] sitemap.xml og robots.txt for Google-indeksering
+- [x] 22 norske byer med daglig datahenting
+- [ ] Send inn sitemap til Google Search Console
+- [ ] Sette opp eget domene `ibyenmin.no`
+- [ ] Ukentlig e-post / varsel «Hva skjer i helgen?» (Mailchimp)
 - [ ] Kartvisning (Leaflet.js) med pins per arrangement
 - [ ] «Lagre til favoritter» (localStorage)
 - [ ] Skjema for arrangører til å sende inn eget event
 - [ ] Prisfilter (gratis / under 200 kr / over 200 kr)
-- [ ] E-post-varsler for nye events i valgt kategori
-- [ ] Legge til flere byer (Kristiansand, Tromsø, Ålesund, Fredrikstad …)
 
 ---
 
