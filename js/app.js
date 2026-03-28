@@ -3,10 +3,12 @@
  * Hoved-JavaScript for "Hva skjer i byen min"
  *
  * Flyt:
- *  1. fetchEvents()      – Henter /data/events-{city}.json (GitHub Pages statisk fil)
- *  2. buildFilters()     – Genererer kategori-filterknapper
- *  3. setupSearch()      – Søkefelt med debounce
- *  4. renderAll()        – Oppdaterer featured, dato-grupper og stats
+ *  1. fetchEvents()        – Henter data/events-{city}.json (GitHub Pages statisk fil)
+ *  2. buildFilters()       – Genererer kategori-filterknapper
+ *  3. setupSearch()        – Søkefelt med debounce
+ *  4. renderAll()          – Oppdaterer featured, dato-grupper og stats
+ *  5. setupStickyBar()     – Sticky by-indikator ved scroll (IntersectionObserver)
+ *  6. loadCityCounts()     – Henter event-antall per by og viser i by-piller
  *
  * JSON-filene genereres daglig av GitHub Actions (scrape.yml)
  * og serves statisk fra GitHub Pages. Ingen backend nødvendig.
@@ -15,10 +17,10 @@
 /* ============================================================
    TILSTAND
    ============================================================ */
-let allEvents    = [];
+let allEvents     = [];
 let activeFilters = new Set();
-let searchQuery  = "";
-let currentCity  = null;   // null = ingen by valgt ennå
+let searchQuery   = "";
+let currentCity   = null;   // null = ingen by valgt ennå
 
 /* ============================================================
    DATO-HJELPERE
@@ -30,8 +32,30 @@ function toDateStr(date) {
 }
 
 /**
+ * Returner datostrenger for kommende helg (lørdag + søndag),
+ * ekskludert idag og imorgen (de har egne grupper).
+ */
+function getWeekendDateStrings() {
+  const today = new Date();
+  const todayStr    = toDateStr(today);
+  const tomorrow    = new Date(today); tomorrow.setDate(today.getDate() + 1);
+  const tomorrowStr = toDateStr(tomorrow);
+  const result = [];
+  for (let i = 1; i <= 8; i++) {
+    const d = new Date(today); d.setDate(today.getDate() + i);
+    const ds = toDateStr(d);
+    if ((d.getDay() === 6 || d.getDay() === 0) && ds !== todayStr && ds !== tomorrowStr) {
+      result.push(ds);
+    }
+    if (result.length === 2) break;
+  }
+  return result;
+}
+const WEEKEND_DATES = getWeekendDateStrings();
+
+/**
  * Dato-gruppe-id basert på arrangementets dato
- * @returns {"idag"|"imorgen"|"uke"|"neste"|"senere"}
+ * @returns {"idag"|"imorgen"|"helgen"|"uke"|"neste"|"senere"}
  */
 function getDateGroup(dateStr) {
   const today    = new Date();
@@ -41,45 +65,119 @@ function getDateGroup(dateStr) {
   const todayStr    = toDateStr(today);
   const tomorrowStr = toDateStr(tomorrow);
 
-  const evDate  = new Date(dateStr + "T00:00:00");
+  const evDate   = new Date(dateStr + "T00:00:00");
   const diffDays = Math.round((evDate - today) / 86_400_000);
 
-  if (dateStr === todayStr)                    return "idag";
-  if (dateStr === tomorrowStr)                 return "imorgen";
-  if (diffDays >= 2 && diffDays <= 6)          return "uke";
-  if (diffDays >= 7 && diffDays <= 13)         return "neste";
+  if (dateStr === todayStr)              return "idag";
+  if (dateStr === tomorrowStr)           return "imorgen";
+  if (WEEKEND_DATES.includes(dateStr))   return "helgen";
+  if (diffDays >= 2 && diffDays <= 6)    return "uke";
+  if (diffDays >= 7 && diffDays <= 13)   return "neste";
   return "senere";
 }
 
 const DATE_GROUPS = [
   { id: "idag",    label: "I dag",       icon: "🔴", cssClass: "date-group--idag" },
   { id: "imorgen", label: "I morgen",    icon: "🟣", cssClass: "date-group--imorgen" },
+  { id: "helgen",  label: "I helgen",    icon: "🎉", cssClass: "date-group--helgen" },
   { id: "uke",     label: "Denne uken",  icon: "🔵", cssClass: "date-group--uke" },
   { id: "neste",   label: "Neste uke",   icon: "🟢", cssClass: "date-group--neste" },
   { id: "senere",  label: "Senere",      icon: "⚫", cssClass: "date-group--senere" },
 ];
 
-/**
- * Formaterer dato til norsk tekst
- */
+/** Formaterer dato til norsk tekst */
 function formatDate(dateStr, timeStr) {
   const date = new Date(`${dateStr}T${timeStr}`);
-  const days = ["S\u00f8ndag","Mandag","Tirsdag","Onsdag","Torsdag","Fredag","L\u00f8rdag"];
+  const days   = ["S\u00f8ndag","Mandag","Tirsdag","Onsdag","Torsdag","Fredag","L\u00f8rdag"];
   const months = ["jan","feb","mar","apr","mai","jun","jul","aug","sep","okt","nov","des"];
   return `${days[date.getDay()]} ${date.getDate()}. ${months[date.getMonth()]} kl. ${timeStr}`;
 }
 
-/**
- * Returner norsk kategori-label
- */
+/** Returner norsk kategori-label */
 function getCategoryLabel(catId) {
   const cat = CATEGORIES.find((c) => c.id === catId);
   return cat ? `${cat.icon} ${cat.label}` : catId;
 }
 
 /* ============================================================
+   KALENDER-NEDLASTING (.ics)
+   ============================================================ */
+
+/**
+ * Genererer og laster ned en .ics-fil for et arrangement.
+ * Fungerer med Google Calendar, Apple Calendar og Outlook.
+ */
+function downloadICS(event) {
+  const pad    = (n) => String(n).padStart(2, "0");
+  const dt     = (dateStr, timeStr) => {
+    const [y, m, d] = dateStr.split("-");
+    const [hh, mm]  = timeStr.split(":");
+    return `${y}${m}${d}T${hh}${mm}00`;
+  };
+
+  const dtStart = dt(event.date, event.time);
+  let dtEnd;
+  if (event.endTime) {
+    dtEnd = dt(event.date, event.endTime);
+  } else {
+    // Standardvarighet: 2 timer
+    const endHour = (parseInt(event.time.split(":")[0]) + 2) % 24;
+    dtEnd = dt(event.date, `${pad(endHour)}:${event.time.split(":")[1]}`);
+  }
+
+  const esc = (s) => (s || "").replace(/[,;\\]/g, "\\$&").replace(/\n/g, "\\n");
+
+  const lines = [
+    "BEGIN:VCALENDAR",
+    "VERSION:2.0",
+    "PRODID:-//ibyenmin.no//Hva skjer i byen min//NO",
+    "CALSCALE:GREGORIAN",
+    "METHOD:PUBLISH",
+    "BEGIN:VEVENT",
+    `DTSTART:${dtStart}`,
+    `DTEND:${dtEnd}`,
+    `SUMMARY:${esc(event.title)}`,
+    `DESCRIPTION:${esc(event.description)}`,
+    `LOCATION:${esc(event.location)}`,
+    event.ticketUrl || event.affiliateUrl ? `URL:${event.ticketUrl || event.affiliateUrl}` : "",
+    `UID:${event.id}@ibyenmin.no`,
+    "END:VEVENT",
+    "END:VCALENDAR",
+  ].filter(Boolean).join("\r\n");
+
+  const blob = new Blob([lines], { type: "text/calendar;charset=utf-8" });
+  const url  = URL.createObjectURL(blob);
+  const a    = document.createElement("a");
+  a.href     = url;
+  a.download = `${event.title.replace(/[^\w\s-]/g, "").trim().replace(/\s+/g, "_")}.ics`;
+  document.body.appendChild(a);
+  a.click();
+  document.body.removeChild(a);
+  URL.revokeObjectURL(url);
+}
+
+/* ============================================================
    DATA-HENTING
    ============================================================ */
+
+/** Vis skeleton-kort mens data hentes */
+function showSkeleton() {
+  document.getElementById("loading-state").hidden = true;
+  document.getElementById("no-results").hidden    = true;
+  document.getElementById("events-container").innerHTML = `
+    <div class="skeleton-grid">
+      ${Array(6).fill(`
+        <div class="skeleton-card">
+          <div class="skeleton skeleton--image"></div>
+          <div class="skeleton-card__body">
+            <div class="skeleton skeleton--title"></div>
+            <div class="skeleton skeleton--line"></div>
+            <div class="skeleton skeleton--line skeleton--line-short"></div>
+            <div class="skeleton skeleton--line skeleton--line-short"></div>
+          </div>
+        </div>`).join("")}
+    </div>`;
+}
 
 /**
  * Henter arrangementer fra statisk JSON-fil på GitHub Pages.
@@ -87,17 +185,15 @@ function getCategoryLabel(catId) {
  * Faller tilbake til lokal EVENTS-array om filen ikke finnes.
  */
 async function fetchEvents(city = "bergen") {
-  document.getElementById("loading-state").hidden = false;
-  document.getElementById("no-results").hidden = true;
-  document.getElementById("events-container").innerHTML = "";
+  showSkeleton();
 
   try {
     const controller = new AbortController();
-    const timeout    = setTimeout(() => controller.abort(), 8000); // 8 sek timeout
+    const timeout    = setTimeout(() => controller.abort(), 8000);
 
     // DATA_BASE settes av by-sider ("../") – index.html bruker standard "./"
     const base = window.DATA_BASE || "./";
-    const res = await fetch(`${base}data/events-${city}.json`, {
+    const res  = await fetch(`${base}data/events-${city}.json`, {
       signal: controller.signal,
     });
     clearTimeout(timeout);
@@ -107,10 +203,9 @@ async function fetchEvents(city = "bergen") {
     return Array.isArray(data.events) ? data.events : data;
   } catch (err) {
     console.info("Datafil ikke tilgjengelig:", err.message);
-    // Bruk lokal fallback-data for Bergen; tom array for andre byer
     return city === "bergen" ? EVENTS : [];
   } finally {
-    document.getElementById("loading-state").hidden = true;
+    document.getElementById("events-container").innerHTML = "";
   }
 }
 
@@ -152,13 +247,9 @@ function renderFeatured(events) {
     events.find((e) => e.featured) ||
     events.find((e) => e.sponsored);
 
-  if (!featured) {
-    container.innerHTML = "";
-    return;
-  }
+  if (!featured) { container.innerHTML = ""; return; }
 
-  const href = featured.affiliateUrl || featured.ticketUrl || "#";
-
+  const href    = featured.affiliateUrl || featured.ticketUrl || "#";
   const bgStyle = featured.imageUrl
     ? `style="background-image: url('${featured.imageUrl}')"`
     : `style="background: linear-gradient(135deg, #1e3a8a, #7c3aed)"`;
@@ -175,11 +266,9 @@ function renderFeatured(events) {
           <span>📍 ${featured.location}</span>
         </div>
         <div class="featured-card__actions">
-          ${
-            featured.affiliateUrl || featured.ticketUrl
-              ? `<span class="btn btn--primary">🎫 Kj\u00f8p billetter</span>`
-              : `<span class="btn btn--outline-white">🆓 Gratis inngang</span>`
-          }
+          ${featured.affiliateUrl || featured.ticketUrl
+            ? `<span class="btn btn--primary">🎫 Kj\u00f8p billetter</span>`
+            : `<span class="btn btn--outline-white">🆓 Gratis inngang</span>`}
           <span class="btn btn--outline-white">Les mer →</span>
         </div>
       </div>
@@ -197,12 +286,8 @@ function buildEventCard(event) {
 
   const imageSection = event.imageUrl
     ? `<div class="event-card__image">
-         <img
-           src="${event.imageUrl}"
-           alt="${event.title}"
-           loading="lazy"
-           onerror="this.parentElement.innerHTML='<div class=\'event-card__emoji-fallback\'>${event.imageEmoji}</div>'"
-         />
+         <img src="${event.imageUrl}" alt="${event.title}" loading="lazy"
+           onerror="this.parentElement.innerHTML='<div class=\'event-card__emoji-fallback\'>${event.imageEmoji}</div>'" />
          ${event.sponsored ? `<div class="sponsored-label">✨ Sponset</div>` : ""}
        </div>`
     : `<div class="event-card__image">
@@ -230,7 +315,10 @@ function buildEventCard(event) {
         </div>
         <p class="event-card__desc">${event.description}</p>
         <div class="event-card__categories">${badges}</div>
-        <div class="event-card__actions">${ticketBtn}</div>
+        <div class="event-card__actions">
+          ${ticketBtn}
+          <button class="btn btn--calendar" data-cal-id="${event.id}" aria-label="Legg til i kalender">📅 Kalender</button>
+        </div>
       </div>
     </article>`;
 }
@@ -240,8 +328,8 @@ function buildEventCard(event) {
    ============================================================ */
 
 function renderByGroups(events) {
-  const container  = document.getElementById("events-container");
-  const noResults  = document.getElementById("no-results");
+  const container = document.getElementById("events-container");
+  const noResults = document.getElementById("no-results");
 
   const filtered = events
     .filter(eventMatches)
@@ -296,7 +384,7 @@ function updateStats(events) {
   const free     = events.filter((e) => e.categories.includes("gratis")).length;
   const thisWeek = events.filter((e) => {
     const g = getDateGroup(e.date);
-    return g === "idag" || g === "imorgen" || g === "uke";
+    return g === "idag" || g === "imorgen" || g === "helgen" || g === "uke";
   }).length;
 
   const statTotal    = document.getElementById("stat-total");
@@ -375,8 +463,8 @@ function setupSearch() {
   });
 
   clearBtn.addEventListener("click", () => {
-    input.value = "";
-    searchQuery = "";
+    input.value  = "";
+    searchQuery  = "";
     clearBtn.hidden = true;
     input.focus();
     renderByGroups(allEvents);
@@ -387,6 +475,14 @@ function setupSearch() {
    BY-VELGER
    ============================================================ */
 
+function updateStickyBar(cityName) {
+  const bar      = document.getElementById("sticky-city-bar");
+  const nameEl   = document.getElementById("sticky-city-name");
+  if (!bar || !nameEl) return;
+  nameEl.textContent = cityName;
+  bar.removeAttribute("hidden");
+}
+
 function setupCityPicker() {
   document.querySelectorAll(".city-pill:not([disabled]):not(.city-pill--locate)").forEach((pill) => {
     pill.addEventListener("click", async () => {
@@ -394,9 +490,14 @@ function setupCityPicker() {
       pill.classList.add("city-pill--active");
 
       currentCity = pill.dataset.city;
-      const cityName = pill.textContent.trim().replace(/^[^\s]+\s/, "");
 
-      // Oppdater by-navn i hero
+      // Hent bynavn uten emoji og count-badge
+      const cityName = (pill.dataset.label || pill.firstChild?.textContent || pill.textContent)
+        .trim()
+        .replace(/^[^\s]+\s/, "")   // fjern emoji
+        .replace(/\s*\(\d+\)$/, ""); // fjern evt. count
+
+      // Oppdater hero
       document.getElementById("current-city-label").textContent = cityName.toUpperCase();
       document.getElementById("current-city-name").textContent  = cityName;
       document.getElementById("current-city-indicator").hidden  = false;
@@ -404,10 +505,13 @@ function setupCityPicker() {
       document.getElementById("hero-title-city").hidden         = false;
 
       // Vis innhold, skjul startside
-      document.getElementById("start-state").hidden     = true;
+      document.getElementById("start-state").hidden      = true;
       document.getElementById("featured-section").hidden = false;
-      document.getElementById("city-content").hidden    = false;
-      document.getElementById("hero-stats").hidden      = false;
+      document.getElementById("city-content").hidden     = false;
+      document.getElementById("hero-stats").hidden       = false;
+
+      // Oppdater sticky bar
+      updateStickyBar(cityName);
 
       allEvents = await fetchEvents(currentCity);
       updateStats(allEvents);
@@ -422,77 +526,125 @@ function setupCityPicker() {
 
 /** Haversine-avstand i km mellom to koordinater */
 function distanceKm(lat1, lon1, lat2, lon2) {
-  const R = 6371;
+  const R    = 6371;
   const dLat = ((lat2 - lat1) * Math.PI) / 180;
   const dLon = ((lon2 - lon1) * Math.PI) / 180;
-  const a =
+  const a    =
     Math.sin(dLat / 2) ** 2 +
     Math.cos((lat1 * Math.PI) / 180) *
-      Math.cos((lat2 * Math.PI) / 180) *
-      Math.sin(dLon / 2) ** 2;
+    Math.cos((lat2 * Math.PI) / 180) *
+    Math.sin(dLon / 2) ** 2;
   return R * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
 }
 
-/**
- * Finn nærmeste aktiverte city-pill basert på GPS-koordinater
- * og aktiver den som om brukeren klikket på den.
- */
 function setupGeolocation() {
   const btn = document.getElementById("locate-btn");
-  if (!btn || !navigator.geolocation) {
-    if (btn) btn.hidden = true;
-    return;
-  }
+  if (!btn || !navigator.geolocation) { if (btn) btn.hidden = true; return; }
 
   btn.addEventListener("click", () => {
-    btn.disabled = true;
+    btn.disabled    = true;
     btn.textContent = "📍 Finner deg…";
-    // Vis personverninfo første gang knappen brukes
     const notice = document.getElementById("locate-notice");
     if (notice) notice.hidden = false;
 
     navigator.geolocation.getCurrentPosition(
       (pos) => {
         const { latitude, longitude } = pos.coords;
-
-        // Samle alle city-pills med koordinater (ikke disabled)
         const pills = [...document.querySelectorAll(".city-pill[data-lat]:not([disabled])")];
+        if (pills.length === 0) { btn.disabled = false; btn.textContent = "📍 Finn meg"; return; }
 
-        if (pills.length === 0) {
-          btn.disabled = false;
-          btn.textContent = "📍 Finn meg";
-          return;
-        }
-
-        // Finn nærmeste pill
-        let nearest = null;
-        let minDist = Infinity;
+        let nearest = null, minDist = Infinity;
         for (const pill of pills) {
-          const d = distanceKm(
-            latitude, longitude,
-            parseFloat(pill.dataset.lat),
-            parseFloat(pill.dataset.lon)
-          );
+          const d = distanceKm(latitude, longitude, parseFloat(pill.dataset.lat), parseFloat(pill.dataset.lon));
           if (d < minDist) { minDist = d; nearest = pill; }
         }
 
-        btn.disabled = false;
+        btn.disabled    = false;
         btn.textContent = "📍 Finn meg";
-
-        if (nearest && nearest.dataset.city !== currentCity) {
-          nearest.click(); // Gjenbruk eksisterende city-picker logikk
-        }
+        if (nearest && nearest.dataset.city !== currentCity) nearest.click();
       },
       (err) => {
-        btn.disabled = false;
+        btn.disabled    = false;
         btn.textContent = "📍 Finn meg";
         console.warn("Geolokasjon ikke tilgjengelig:", err.message);
-        // Vis kort tilbakemelding
         btn.setAttribute("title", "Kunne ikke hente posisjon – sjekk nettleserinnstillingene");
       },
       { timeout: 8000, maximumAge: 60_000 }
     );
   });
+}
+
+/* ============================================================
+   STICKY BY-BAR
+   ============================================================ */
+
+/**
+ * Viser en sticky bar øverst på siden når hero-en er scrollet ut av visningen.
+ * Bruker IntersectionObserver – ingen scroll-event-listener.
+ */
+function setupStickyBar() {
+  const bar      = document.getElementById("sticky-city-bar");
+  const changeBtn = document.getElementById("sticky-change-city");
+  const hero     = document.querySelector(".site-header");
+  if (!bar || !hero) return;
+
+  const observer = new IntersectionObserver(
+    ([entry]) => {
+      // Hero er synlig → skjul bar. Hero er scrollet vekk → vis bar (om by er valgt)
+      if (entry.isIntersecting) {
+        bar.classList.remove("sticky-city-bar--visible");
+      } else if (currentCity) {
+        bar.classList.add("sticky-city-bar--visible");
+      }
+    },
+    { threshold: 0.1 }
+  );
+  observer.observe(hero);
+
+  changeBtn?.addEventListener("click", () => {
+    hero.scrollIntoView({ behavior: "smooth" });
+  });
+}
+
+/* ============================================================
+   EVENT-TELLER PER BY-PILL
+   ============================================================ */
+
+/**
+ * Henter event-antall for alle byer i bakgrunnen og viser det på by-pillene.
+ * Bruker cache: "force-cache" for å unngå unødvendige nettverksforespørsler.
+ */
+async function loadCityCounts() {
+  const pills = [...document.querySelectorAll(".city-pill[data-city]")];
+  const base  = window.DATA_BASE || "./";
+
+  await Promise.allSettled(
+    pills.map(async (pill) => {
+      const city = pill.dataset.city;
+      try {
+        const res = await fetch(`${base}data/events-${city}.json`, { cache: "force-cache" });
+        if (!res.ok) return;
+        const data  = await res.json();
+        const count = Array.isArray(data.events) ? data.events.length : (Array.isArray(data) ? data.length : 0);
+
+        // Lagre label uten badge for by-velger-logikken
+        if (!pill.dataset.label) pill.dataset.label = pill.textContent.trim();
+
+        // Legg til count-badge (unngå duplikater)
+        const existing = pill.querySelector(".city-pill__count");
+        if (existing) {
+          existing.textContent = count;
+        } else if (count > 0) {
+          const badge  = document.createElement("span");
+          badge.className   = "city-pill__count";
+          badge.textContent = count;
+          pill.appendChild(badge);
+        }
+      } catch {
+        // Stille feil – count vises ikke for denne byen
+      }
+    })
+  );
 }
 
 /* ============================================================
@@ -503,8 +655,20 @@ document.addEventListener("DOMContentLoaded", () => {
   setupSearch();
   setupCityPicker();
   setupGeolocation();
+  setupStickyBar();
 
-  // By-spesifikke sider: auto-velg forhåndsvalgt by (simuler klikk for å gjenbruke all logikk)
+  // Last by-tall i bakgrunnen
+  loadCityCounts();
+
+  // Delegert klikk for .ics-nedlasting
+  document.addEventListener("click", (e) => {
+    const btn = e.target.closest("[data-cal-id]");
+    if (!btn) return;
+    const event = allEvents.find((ev) => ev.id === btn.dataset.calId);
+    if (event) downloadICS(event);
+  });
+
+  // By-spesifikke sider: auto-velg forhåndsvalgt by
   if (window.PRESELECTED_CITY) {
     const pill = document.querySelector(`.city-pill[data-city="${window.PRESELECTED_CITY}"]`);
     if (pill) pill.click();
