@@ -32,6 +32,33 @@ const TM_GENRE_MAP = {
   "Family":           ["familie", "barn"],
 };
 
+// Koordinater for alle 22 byer – brukes for latlong-søk i stedet for city-navn
+// som er upålitelig for norske byer i Ticketmaster sin venuedatabase
+const CITY_COORDS = {
+  "bergen":         "60.3913,5.3221",
+  "oslo":           "59.9139,10.7522",
+  "trondheim":      "63.4305,10.3951",
+  "stavanger":      "58.9700,5.7331",
+  "eidsvoll":       "60.3268,11.2530",
+  "lillestrom":     "59.9565,11.0511",
+  "aurskog-holand": "59.9000,11.4500",
+  "kristiansand":   "58.1467,7.9956",
+  "tromso":         "69.6492,18.9553",
+  "drammen":        "59.7440,10.2045",
+  "fredrikstad":    "59.2181,10.9298",
+  "alesund":        "62.4722,6.1549",
+  "bodo":           "67.2827,14.3751",
+  "hamar":          "60.7945,11.0679",
+  "tonsberg":       "59.2672,10.4075",
+  "moss":           "59.4338,10.6579",
+  "haugesund":      "59.4134,5.2680",
+  "sandefjord":     "59.1313,10.2169",
+  "arendal":        "58.4615,8.7722",
+  "molde":          "62.7380,7.1591",
+  "voss":           "60.6282,6.4150",
+  "kongsberg":      "59.6677,9.6507",
+};
+
 /**
  * Henter events fra Ticketmaster for en gitt norsk by
  * @param {string} city – f.eks. "bergen", "oslo", "trondheim"
@@ -44,21 +71,18 @@ export async function fetchTicketmaster(city) {
     return [];
   }
 
-  // Mapper URL-slug til riktig norsk bynavn med spesialtegn
-  const CITY_NAMES = {
-    "lillestrom":    "Lillestrøm",
-    "tromso":        "Tromsø",
-    "alesund":       "Ålesund",
-    "bodo":          "Bodø",
-    "tonsberg":      "Tønsberg",
-    "aurskog-holand":"Aurskog-Høland",
-  };
-  const cityName = CITY_NAMES[city] || (city.charAt(0).toUpperCase() + city.slice(1));
+  const latlong = CITY_COORDS[city];
+  if (!latlong) {
+    console.warn(`Ingen koordinater for ${city} – hopper over Ticketmaster`);
+    return [];
+  }
 
   const params = new URLSearchParams({
     apikey:        apiKey,
     countryCode:   "NO",
-    city:          cityName,
+    latlong,
+    radius:        "30",
+    unit:          "km",
     size:          "50",
     sort:          "date,asc",
     startDateTime: new Date().toISOString().split(".")[0] + "Z",
