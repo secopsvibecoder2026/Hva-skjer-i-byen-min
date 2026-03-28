@@ -1,0 +1,55 @@
+# .github/workflows/deploy.yml
+# Deployer frontend automatisk til GitHub Pages ved push til main.
+#
+# Resultatet er tilgjengelig på:
+#   https://secopsvibecoder2026.github.io/hva-skjer-i-byen-min/
+#
+# NB: Den statiske siden bruker lokal eksempeldata som fallback
+# når Vercel-APIet ikke er tilgjengelig. Ingen backend kreves
+# for at siden skal fungere på GitHub Pages.
+
+name: Deploy til GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+  # Tillat manuell kjøring fra GitHub Actions-fanen
+  workflow_dispatch:
+
+# Nødvendige tillatelser for å skrive til GitHub Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Sørg for at bare én deployment kjører av gangen
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    name: Deploy
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Hent kode
+        uses: actions/checkout@v4
+
+      - name: Konfigurer GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Last opp sideinnhold
+        uses: actions/upload-pages-artifact@v3
+        with:
+          # Publiser fra prosjektets rotmappe.
+          # Kun statiske filer (HTML/CSS/JS) sendes – api/-mappen ignoreres av nettleseren.
+          path: '.'
+
+      - name: Deploy til GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
