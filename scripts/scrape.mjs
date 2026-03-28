@@ -54,18 +54,13 @@ for (const city of CITIES) {
   if (ebResult.status     === "rejected") console.warn(`  ⚠ Eventbrite:   ${ebResult.reason?.message}`);
   if (scrapeResult.status === "rejected") console.warn(`  ⚠ Scraping:      ${scrapeResult.reason?.message}`);
 
-  // En kilde "svarte" om kallet lyktes (fulfilled) – selv om den returnerte 0 events.
-  // Bare bruk eksisterende fil hvis ALLE kilder feilet (rejected/exception).
-  const anySourceReached = tmResult.status === "fulfilled"
-                        || ebResult.status === "fulfilled"
-                        || scrapeResult.status === "fulfilled";
   const sourcesGotData = tmEvents.length + ebEvents.length + scrapeEvents.length > 0;
   console.log(`  Ticketmaster: ${tmEvents.length} | Eventbrite: ${ebEvents.length} | Scraping: ${scrapeEvents.length}`);
 
   const outputPath = `data/events-${city}.json`;
 
-  if (!anySourceReached) {
-    // Alle API-kall feilet – behold eksisterende fil, men fjern utløpte events
+  if (!sourcesGotData) {
+    // Ingen kilder svarte – behold eksisterende fil, men fjern utløpte events
     console.warn(`  ⚠ Ingen nye data fra noen kilde – rydder utløpte events fra eksisterende fil`);
     try {
       const existing = JSON.parse(await readFile(outputPath, "utf-8"));

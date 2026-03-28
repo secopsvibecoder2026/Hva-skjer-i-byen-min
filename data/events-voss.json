@@ -1,13 +1,95 @@
 {
-  "events": [],
+  "events": [
+    {
+      "id": "voss-1",
+      "title": "Voss Extreme Sports Week 2026",
+      "description": "Verdens største ekstremsporfestival samler toppatleter og entusiaster fra hele kloden. Skydiving, BASE-hopping, kajakk og mye mer i naturskjønne Voss.",
+      "date": "2026-06-22",
+      "time": "09:00",
+      "endTime": "21:00",
+      "location": "Voss sentrum, Voss",
+      "categories": [
+        "familie",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ekstremsportveko.com",
+      "affiliateUrl": "https://www.ekstremsportveko.com/billetter?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🏔️",
+      "sponsored": false,
+      "featured": true,
+      "source": "local"
+    },
+    {
+      "id": "voss-2",
+      "title": "Vintersportcamp – Vossaresort",
+      "description": "Kom og lær snowboard og alpint med erfarne instruktører på Voss' flotte alpinanlegg. Kurs for nybegynnere og viderekomne.",
+      "date": "2026-04-04",
+      "time": "09:00",
+      "endTime": "16:00",
+      "location": "Vossaresort, Voss",
+      "categories": [
+        "familie",
+        "barn"
+      ],
+      "ticketUrl": "https://www.vossaresort.no",
+      "affiliateUrl": "https://www.vossaresort.no/billetter?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎿",
+      "sponsored": false,
+      "featured": false,
+      "source": "local"
+    },
+    {
+      "id": "voss-3",
+      "title": "Voss Folkemusikk Festspel",
+      "description": "Tradisjonsrik festival for norsk folkemusikk og folkedans. Lystige toner og dans i Voss kulturhus og på friluftscenene.",
+      "date": "2026-09-12",
+      "time": "14:00",
+      "endTime": "22:00",
+      "location": "Voss kulturhus, Voss",
+      "categories": [
+        "konsert",
+        "familie"
+      ],
+      "ticketUrl": "https://www.visitvoss.no",
+      "affiliateUrl": "https://www.visitvoss.no/hva-skjer/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎻",
+      "sponsored": false,
+      "featured": false,
+      "source": "local"
+    },
+    {
+      "id": "voss-4",
+      "title": "Kajakktur på Vangsvatnet",
+      "description": "Guidet kajakktur på det vakre Vangsvatnet med Vossefjellet og Bavallsfjellet som kulisse. Perfekt familieaktivitet hele sommeren.",
+      "date": "2026-07-25",
+      "time": "11:00",
+      "endTime": "14:00",
+      "location": "Vangsvatnet, Voss",
+      "categories": [
+        "familie",
+        "barn"
+      ],
+      "ticketUrl": "https://www.visitvoss.no",
+      "affiliateUrl": "https://www.visitvoss.no/aktiviteter/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🚣",
+      "sponsored": false,
+      "featured": false,
+      "source": "local"
+    }
+  ],
   "meta": {
     "city": "voss",
-    "count": 0,
-    "fetchedAt": "2026-03-28T20:24:32.071Z",
+    "count": 4,
+    "fetchedAt": "2026-03-28T05:00:00.000Z",
     "sources": {
       "ticketmaster": 0,
       "eventbrite": 0,
-      "scrape": 0
+      "scrape": 0,
+      "note": "Seed-data."
     }
   }
 }
