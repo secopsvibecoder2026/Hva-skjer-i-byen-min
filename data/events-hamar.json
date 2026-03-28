@@ -1,74 +1,54 @@
 {
   "events": [
     {
-      "id": "hamar-1",
-      "title": "Hockeyfinale – VIF vs. Vålerenga på Vikingskipet",
-      "description": "Storslagen hockey-atmosfære i det ikoniske Vikingskipet på Hamar. Opplev topp norsk ishockey i verdens vakreste innendørs skøytearena.",
-      "date": "2026-04-04",
+      "id": "tm-Z698xZb_Z16vZavYZb",
+      "title": "Brad Paisley: Truck Still Works World Tour",
+      "description": "Arrangement på Hamar",
+      "date": "2026-06-13",
+      "time": "20:00",
+      "endTime": null,
+      "location": "Hamar",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/brad-paisley-truck-still-works-world-tour-tickets/1009070018?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/brad-paisley-truck-still-works-world-tour-tickets/1009070018?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/a79/3021a7b6-9f02-417f-9f63-19be231a7a79_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vP--eCf",
+      "title": "STING 3.0 TOUR",
+      "description": "Arrangement på Hamar",
+      "date": "2026-06-30",
       "time": "18:00",
-      "endTime": "21:00",
-      "location": "Vikingskipet, Hamar",
+      "endTime": null,
+      "location": "Hamar",
       "categories": [
-        "familie"
+        "konsert",
+        "uteliv"
       ],
-      "ticketUrl": "https://www.getbroadcast.com/vikingskipet",
-      "affiliateUrl": "https://www.getbroadcast.com/vikingskipet?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🏒",
-      "sponsored": false,
-      "featured": true,
-      "source": "local"
-    },
-    {
-      "id": "hamar-2",
-      "title": "Norsk Skøyteforbunds Mesterskap",
-      "description": "Norges beste skøyteløpere konkurrerer på den olympiske arenaen Vikingskipet. Se fremtidens OL-stjerner sette norgesrekorder på hjemmebane.",
-      "date": "2026-11-28",
-      "time": "13:00",
-      "endTime": "18:00",
-      "location": "Vikingskipet, Hamar",
-      "categories": [
-        "familie",
-        "gratis"
-      ],
-      "ticketUrl": "https://www.skøyteforbundet.no",
-      "affiliateUrl": "https://www.skøyteforbundet.no/billetter?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "⛸️",
+      "ticketUrl": "https://www.ticketmaster.no/event/sting-30-tour-tickets/1961842394?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/sting-30-tour-tickets/1961842394?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/0ca/42733b41-0ce3-4f12-a608-daaf529e60ca_TABLET_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
-      "source": "local"
-    },
-    {
-      "id": "hamar-3",
-      "title": "Hedmarksmarkedet",
-      "description": "Hamar og Hedmarkens store sommermarkned med lokale produsenter, håndverk og tradisjoner. En hyggelig dag for hele familien med norsk bondekost og kulturelle innslag.",
-      "date": "2026-07-04",
-      "time": "10:00",
-      "endTime": "17:00",
-      "location": "Stortorget, Hamar",
-      "categories": [
-        "familie",
-        "gratis"
-      ],
-      "ticketUrl": null,
-      "affiliateUrl": null,
-      "imageUrl": null,
-      "imageEmoji": "🌾",
-      "sponsored": false,
-      "featured": false,
-      "source": "local"
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "hamar",
-    "count": 3,
-    "fetchedAt": "2026-03-28T05:00:00.000Z",
+    "count": 2,
+    "fetchedAt": "2026-03-28T18:45:07.906Z",
     "sources": {
-      "ticketmaster": 0,
+      "ticketmaster": 2,
       "eventbrite": 0,
-      "scrape": 0,
-      "note": "Seed-data."
+      "scrape": 0
     }
   }
 }

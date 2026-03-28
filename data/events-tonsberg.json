@@ -1,75 +1,33 @@
 {
   "events": [
     {
-      "id": "tonsberg-1",
-      "title": "Midtsommerfest Tønsberg – Verdens eldste by",
-      "description": "Tønsberg er Norges eldste by! Feir midtsommer med musikk, historia og festligheter i den sjarmerende kystbyen. Konserter, historiske guider og sjømatmarkeder.",
-      "date": "2026-06-21",
-      "time": "14:00",
-      "endTime": "22:00",
-      "location": "Nedre Langgate, Tønsberg",
+      "id": "tm-Z698xZb_Z16vOa4gGE",
+      "title": "Festivalpass med NATTEN Slottsfjell 2026",
+      "description": "Arrangement på Tønsberg",
+      "date": "2026-07-09",
+      "time": "00:00",
+      "endTime": null,
+      "location": "Tønsberg",
       "categories": [
-        "familie",
         "konsert"
       ],
-      "ticketUrl": "https://www.visittonsberg.no",
-      "affiliateUrl": "https://www.visittonsberg.no/hva-skjer/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "⛵",
-      "sponsored": false,
-      "featured": true,
-      "source": "local"
-    },
-    {
-      "id": "tonsberg-2",
-      "title": "Viking-marked ved Slottsfjell",
-      "description": "Det ikoniske Slottsfjell danner bakteppet for et autentisk vikingmarked. Opplev vikingtidens håndverk, kamper og tradisjoner på historisk grunn.",
-      "date": "2026-08-08",
-      "time": "11:00",
-      "endTime": "18:00",
-      "location": "Slottsfjell, Tønsberg",
-      "categories": [
-        "familie",
-        "barn"
-      ],
-      "ticketUrl": "https://www.tonsbergkommune.no",
-      "affiliateUrl": "https://www.visittonsberg.no/vikingtid?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "⚔️",
+      "ticketUrl": "https://www.ticketmaster.no/event/festivalpass-med-natten-slottsfjell-2026-tickets/1809575327?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/festivalpass-med-natten-slottsfjell-2026-tickets/1809575327?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/40e/f526b176-2175-4a99-9fdb-21cc977fb40e_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
-      "source": "local"
-    },
-    {
-      "id": "tonsberg-3",
-      "title": "Tønsberg Havn Båtdag",
-      "description": "Opplev havnelivet i Tønsberg med båtutstillinger, havnekonserter og sjømatservering. En flott sommerdag for hele familien ved Oslofjorden.",
-      "date": "2026-07-12",
-      "time": "10:00",
-      "endTime": "19:00",
-      "location": "Tønsberg Havn, Tønsberg",
-      "categories": [
-        "familie",
-        "gratis"
-      ],
-      "ticketUrl": null,
-      "affiliateUrl": null,
-      "imageUrl": null,
-      "imageEmoji": "⚓",
-      "sponsored": false,
-      "featured": false,
-      "source": "local"
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "tonsberg",
-    "count": 3,
-    "fetchedAt": "2026-03-28T05:00:00.000Z",
+    "count": 1,
+    "fetchedAt": "2026-03-28T18:45:09.625Z",
     "sources": {
-      "ticketmaster": 0,
+      "ticketmaster": 1,
       "eventbrite": 0,
-      "scrape": 0,
-      "note": "Seed-data."
+      "scrape": 0
     }
   }
 }

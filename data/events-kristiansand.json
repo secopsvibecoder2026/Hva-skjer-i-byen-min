@@ -1,96 +1,339 @@
 {
   "events": [
     {
-      "id": "kristiansand-1",
-      "title": "Quart-festival 2026",
-      "description": "Den ikoniske musikkfestivalen er tilbake i Kristiansand! Norske og internasjonale artister på scener i byens hjertet. En sommer-opplevelse ved Sørlandet.",
-      "date": "2026-07-02",
-      "time": "16:00",
-      "endTime": "23:30",
-      "location": "Festningsbakken, Kristiansand",
+      "id": "scrape-gen-festivaler-p-s-rlandet-",
+      "title": "Festivaler på Sørlandet",
+      "description": "Arrangement i visitsorlandet.com",
+      "date": "2026-03-29",
+      "time": "12:00",
+      "endTime": null,
+      "location": "visitsorlandet.com",
       "categories": [
-        "konsert",
-        "uteliv"
+        "konsert"
       ],
-      "ticketUrl": "https://www.visitsorlandet.com/hva-skjer/",
-      "affiliateUrl": "https://www.visitsorlandet.com/hva-skjer/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🌊",
+      "ticketUrl": "https://www.visitsorlandet.com/hva-skjer/festivaler-paa-srlandet/",
+      "affiliateUrl": "https://www.visitsorlandet.com/hva-skjer/festivaler-paa-srlandet/?ref=hvaSkjerIByenMin",
+      "imageUrl": "https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_jpg,q_65/v1/clients/visitsorlandet/Kristiansand_Palmesus_Aquarama_pool_party_Norway_f45e5d79_7c31_47d5_a6b2_6893e34dd656_701fdfb8_88ce_4172_b909_1ab55d6022ff_ae4eef8a_292f_450f_961d_1c56807ecbbc_046c0221-6d79-409f-80d2-fc1b55e92acf.jpg",
+      "imageEmoji": "🎪",
       "sponsored": false,
-      "featured": true,
-      "source": "local"
+      "featured": false,
+      "source": "scrape"
     },
     {
-      "id": "kristiansand-2",
-      "title": "Familiedag på Dyreparken",
-      "description": "Opplev Norges mest populære familiepark med dyr, Kardemomme by og spennende attraksjoner for hele familien. En uforglemmelig dag ved Sørlandet.",
-      "date": "2026-05-23",
-      "time": "10:00",
-      "endTime": "18:00",
-      "location": "Kristiansand Dyrepark, Kristiansand",
+      "id": "scrape-gen-arrangementer-for-barn-og-familie-",
+      "title": "Arrangementer for barn og familie",
+      "description": "Arrangement i visitsorlandet.com",
+      "date": "2026-03-29",
+      "time": "12:00",
+      "endTime": null,
+      "location": "visitsorlandet.com",
       "categories": [
+        "uteliv",
         "familie",
         "barn"
       ],
-      "ticketUrl": "https://www.dyreparken.no",
-      "affiliateUrl": "https://www.dyreparken.no/billetter?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🦁",
+      "ticketUrl": "https://www.visitsorlandet.com/hva-skjer/barn-familie/",
+      "affiliateUrl": "https://www.visitsorlandet.com/hva-skjer/barn-familie/?ref=hvaSkjerIByenMin",
+      "imageUrl": "https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_jpg,q_65/v1/clients/visitsorlandet/Bilde2_Skalldyrfestivalen_Foto_Iselinn_Andersen_73347338-4c0e-4dc7-afc3-38893eb80acc.jpg",
+      "imageEmoji": "🎪",
       "sponsored": false,
       "featured": false,
-      "source": "local"
+      "source": "scrape"
     },
     {
-      "id": "kristiansand-3",
-      "title": "Sommerkonsert ved Bystranda",
-      "description": "Gratis utendørskonsert på Kristiansands vakre strandpromenade. Ta med picnic-teppet og nyt musikk med Sørlandet-solen i bakgrunnen.",
-      "date": "2026-06-27",
-      "time": "18:00",
-      "endTime": "21:00",
-      "location": "Bystranda, Kristiansand",
+      "id": "scrape-gen-hva-skjer-i-arendal-",
+      "title": "Hva skjer i Arendal",
+      "description": "Her har du en oversikt over hva som skjer av konserter, utstillinger og arrangementer…",
+      "date": "2026-03-29",
+      "time": "12:00",
+      "endTime": null,
+      "location": "visitsorlandet.com",
       "categories": [
-        "konsert",
-        "gratis",
         "familie"
       ],
-      "ticketUrl": null,
-      "affiliateUrl": null,
-      "imageUrl": null,
-      "imageEmoji": "🏖️",
+      "ticketUrl": "https://www.visitsorlandet.com/destinasjoner/arendal/hva-skjer-i-arendal/",
+      "affiliateUrl": "https://www.visitsorlandet.com/destinasjoner/arendal/hva-skjer-i-arendal/?ref=hvaSkjerIByenMin",
+      "imageUrl": "https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_jpg,h_265,q_65,w_450/v1/clients/visitsorlandet/Canal_Street_2019_DeLillos_678d59dc_17c9_455d_8b5b_b4da67287b03_fe917937_b837_45b4_8f2b_d9d36dcca729_57615aa0-b867-45b9-8ea9-5487430b6772.jpg",
+      "imageEmoji": "🎪",
       "sponsored": false,
       "featured": false,
-      "source": "local"
+      "source": "scrape"
     },
     {
-      "id": "kristiansand-4",
-      "title": "Kristiansand Matfestival",
-      "description": "Lokale produsenter og kokker samles for å vise frem det beste fra Sørlandet. Smak på sjømat, lokale delikatesser og nyt en festlig stemning i sentrum.",
-      "date": "2026-08-15",
-      "time": "11:00",
-      "endTime": "20:00",
-      "location": "Torvet, Kristiansand",
+      "id": "scrape-gen-hva-skjer-i-farsund-og-lista-",
+      "title": "Hva skjer i Farsund og Lista",
+      "description": "Konserter, festivaler, teater og masse andre arrangementer. Her er en oversikt…",
+      "date": "2026-03-29",
+      "time": "12:00",
+      "endTime": null,
+      "location": "visitsorlandet.com",
       "categories": [
-        "familie",
-        "gratis"
+        "familie"
       ],
-      "ticketUrl": null,
-      "affiliateUrl": null,
-      "imageUrl": null,
-      "imageEmoji": "🦐",
+      "ticketUrl": "https://www.visitsorlandet.com/destinasjoner/farsund/hva-skjer-i-farsund-og-lista/",
+      "affiliateUrl": "https://www.visitsorlandet.com/destinasjoner/farsund/hva-skjer-i-farsund-og-lista/?ref=hvaSkjerIByenMin",
+      "imageUrl": "https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_jpg,h_265,q_65,w_450/v1/clients/visitsorlandet/19284290662_451064105d_o_1__9439a9ef-2876-4d34-bbe4-cab284a3b0ad.jpg",
+      "imageEmoji": "🎪",
       "sponsored": false,
       "featured": false,
-      "source": "local"
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-hva-skjer-i-flekkefjord-",
+      "title": "Hva skjer i Flekkefjord",
+      "description": "Flekkefjord byr på spennende arrangementer året rundt.",
+      "date": "2026-03-29",
+      "time": "12:00",
+      "endTime": null,
+      "location": "visitsorlandet.com",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.visitsorlandet.com/destinasjoner/flekkefjord/hva-skjer-i-flekkefjord/",
+      "affiliateUrl": "https://www.visitsorlandet.com/destinasjoner/flekkefjord/hva-skjer-i-flekkefjord/?ref=hvaSkjerIByenMin",
+      "imageUrl": "https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_jpg,h_265,q_65,w_450/v1/clients/visitsorlandet/_MG_9903_1_d4da9e89_ae58_47e4_8cf2_0a2d68577043_d21b840e_b504_4554_a1b1_965a719fc1c9_fc384d70-1bf9-4ee4-a565-8a75f5286d96.jpg",
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-hva-skjer-i-grimstad-",
+      "title": "Hva skjer i Grimstad",
+      "description": "I Grimstad skjer det mange spennende arrangementer året rundt. Spennende…",
+      "date": "2026-03-29",
+      "time": "12:00",
+      "endTime": null,
+      "location": "visitsorlandet.com",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.visitsorlandet.com/destinasjoner/grimstad/hva-skjer-i-grimstad/",
+      "affiliateUrl": "https://www.visitsorlandet.com/destinasjoner/grimstad/hva-skjer-i-grimstad/?ref=hvaSkjerIByenMin",
+      "imageUrl": "https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_jpg,h_265,q_65,w_450/v1/clients/visitsorlandet/DSC_7302_5f3615f8_d0fd_422e_bec6_a668442ba6b4_bb5595eb_190c_4a22_99ad_28936ff74d22_24157e61-631e-461a-9161-d269b7dc70c4.jpg",
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-hva-skjer-i-kristiansand-",
+      "title": "Hva skjer i Kristiansand",
+      "description": "Kristiansand er en livlig by som er kjent for sitt brede spekter av arrangementer som…",
+      "date": "2026-03-29",
+      "time": "12:00",
+      "endTime": null,
+      "location": "visitsorlandet.com",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.visitsorlandet.com/destinasjoner/kristiansand/hva-skjer-i-kristiansand/",
+      "affiliateUrl": "https://www.visitsorlandet.com/destinasjoner/kristiansand/hva-skjer-i-kristiansand/?ref=hvaSkjerIByenMin",
+      "imageUrl": "https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_jpg,g_xy_center,h_265,q_65,w_450,x_812,y_450/v1/clients/visitsorlandet/Palmesus_beach_festival_2019_Kristiansand_Southern_Norway_9dd784d1_38a1_49cc_a236_be9314f09b95_63706d12_4523_4eb1_850e_daa704effdcb_7d0467bd-2ed6-4bec-94bb-c26378fd33ee.jpg",
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-hva-skjer-i-mandal-og-lindesnes-",
+      "title": "Hva skjer i Mandal og Lindesnes",
+      "description": "I Mandal og Lindesnes er det mye som skjer året rundt. Delta p…",
+      "date": "2026-03-29",
+      "time": "12:00",
+      "endTime": null,
+      "location": "visitsorlandet.com",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.visitsorlandet.com/destinasjoner/mandal-lindesnes/hva-skjer-i-mandal-lindesnes/",
+      "affiliateUrl": "https://www.visitsorlandet.com/destinasjoner/mandal-lindesnes/hva-skjer-i-mandal-lindesnes/?ref=hvaSkjerIByenMin",
+      "imageUrl": "https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_jpg,h_265,q_65,w_450/v1/clients/visitsorlandet/Bilde2_Skalldyrfestivalen_Foto_Iselinn_Andersen_73347338-4c0e-4dc7-afc3-38893eb80acc.jpg",
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-hva-skjer-i-kvinesdal-",
+      "title": "Hva skjer i Kvinesdal",
+      "description": "Kvinesdal har mange spennende arrangementer året rundt.",
+      "date": "2026-03-29",
+      "time": "12:00",
+      "endTime": null,
+      "location": "visitsorlandet.com",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.visitsorlandet.com/destinasjoner/kvinesdal/hva-skjer-i-kvinesdal/",
+      "affiliateUrl": "https://www.visitsorlandet.com/destinasjoner/kvinesdal/hva-skjer-i-kvinesdal/?ref=hvaSkjerIByenMin",
+      "imageUrl": "https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_jpg,h_265,q_65,w_450/v1/clients/visitsorlandet/Vitensenteret_2_7a27159b-11ea-4001-ada0-c9e4a663beae.jpg",
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-hva-skjer-i-lillesand-",
+      "title": "Hva skjer i Lillesand",
+      "description": "Mens Lillesand pulserer på sommerstid, er det lett å finne hvilepulsen…",
+      "date": "2026-03-29",
+      "time": "12:00",
+      "endTime": null,
+      "location": "visitsorlandet.com",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.visitsorlandet.com/destinasjoner/lillesand/hva-skjer-i-lillesand/",
+      "affiliateUrl": "https://www.visitsorlandet.com/destinasjoner/lillesand/hva-skjer-i-lillesand/?ref=hvaSkjerIByenMin",
+      "imageUrl": "https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_jpg,h_265,q_65,w_450/v1/clients/visitsorlandet/Lillesand_Hotel_Norge_by_Fotografen_AS_1707_78031918_605e_4de8_b598_3c9bef6f8dd3_55dc0133_6d60_428c_bd63_d3a6127b10ad_b4fa8897-c581-4dfe-b33e-9fe85aec39c1.jpg",
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-hva-skjer-i-lyngdal-",
+      "title": "Hva skjer i Lyngdal",
+      "description": "I Lyngdal er det spennende arrangementer og samlinger som finner sted gjennom hele…",
+      "date": "2026-03-29",
+      "time": "12:00",
+      "endTime": null,
+      "location": "visitsorlandet.com",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.visitsorlandet.com/destinasjoner/lyngdal/hva-skjer-i-lyngdal/",
+      "affiliateUrl": "https://www.visitsorlandet.com/destinasjoner/lyngdal/hva-skjer-i-lyngdal/?ref=hvaSkjerIByenMin",
+      "imageUrl": "https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_jpg,h_265,q_65,w_450/v1/clients/visitsorlandet/fb2_222ab1c4_dd7e_4464_bc10_752894d4ee50_135776c4_c667_4277_b981_610a88df6830_c5290f61-0bcd-4bc0-85c8-41c3b5d250df.jpg",
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-hva-skjer-i-ris-r-",
+      "title": "Hva skjer i Risør",
+      "description": "Risør ble i 2015 kåret til Norges kulturkommune, og det er ikke uten…",
+      "date": "2026-03-29",
+      "time": "12:00",
+      "endTime": null,
+      "location": "visitsorlandet.com",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.visitsorlandet.com/destinasjoner/risor/hva-skjer-i-risor/",
+      "affiliateUrl": "https://www.visitsorlandet.com/destinasjoner/risor/hva-skjer-i-risor/?ref=hvaSkjerIByenMin",
+      "imageUrl": "https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_jpg,h_265,q_65,w_450/v1/clients/visitsorlandet/20478614331_99aa4331af_o_1__5e282fe4-91bd-4dc8-8fd3-625fc18179da.jpg",
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-hva-skjer-i-setesdal-",
+      "title": "Hva skjer i Setesdal",
+      "description": "Fra folkemusikk til blues og rock, lokalmat og håndverk. Det er…",
+      "date": "2026-03-29",
+      "time": "12:00",
+      "endTime": null,
+      "location": "visitsorlandet.com",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.visitsorlandet.com/destinasjoner/setesdal/hva-skjer-i-setesdal/",
+      "affiliateUrl": "https://www.visitsorlandet.com/destinasjoner/setesdal/hva-skjer-i-setesdal/?ref=hvaSkjerIByenMin",
+      "imageUrl": "https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_jpg,h_265,q_65,w_450/v1/clients/visitsorlandet/temp_0e176a20-effa-449a-aaa8-a0170c89bd1c.jpg",
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-hva-skjer-i-tvedestrand-",
+      "title": "Hva skjer i Tvedestrand",
+      "description": "Kystkulturuka strekker seg over en liten uke om sommeren og tilbyr et variert…",
+      "date": "2026-03-29",
+      "time": "12:00",
+      "endTime": null,
+      "location": "visitsorlandet.com",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.visitsorlandet.com/destinasjoner/tvedestrand/hva-skjer-i-tvedestrand/",
+      "affiliateUrl": "https://www.visitsorlandet.com/destinasjoner/tvedestrand/hva-skjer-i-tvedestrand/?ref=hvaSkjerIByenMin",
+      "imageUrl": "https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_jpg,h_265,q_65,w_450/v1/clients/visitsorlandet/kystkulturuka_d670c322-c27d-4df6-86d1-8675266a26ab.jpg",
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-hva-skjer-i-mli-",
+      "title": "Hva skjer i Åmli",
+      "description": "I Åmli skjer det spennende ting året rundt, følg med i kalenderen…",
+      "date": "2026-03-29",
+      "time": "12:00",
+      "endTime": null,
+      "location": "visitsorlandet.com",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.visitsorlandet.com/destinasjoner/amli/hva-skjer-i-amli/",
+      "affiliateUrl": "https://www.visitsorlandet.com/destinasjoner/amli/hva-skjer-i-amli/?ref=hvaSkjerIByenMin",
+      "imageUrl": "https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_jpg,h_265,q_65,w_450/v1/clients/visitsorlandet/Elvepadling_4359d05d-96fd-490a-9c3e-de5964a2ec25.jpg",
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-hva-skjer-i-h-gebostad-",
+      "title": "Hva skjer i Hægebostad",
+      "description": "Hægebostad har arrangementer året rundt, og på sommeren…",
+      "date": "2026-03-29",
+      "time": "12:00",
+      "endTime": null,
+      "location": "visitsorlandet.com",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.visitsorlandet.com/destinasjoner/haegebostad/hva-skjer-i-haegebostad/",
+      "affiliateUrl": "https://www.visitsorlandet.com/destinasjoner/haegebostad/hva-skjer-i-haegebostad/?ref=hvaSkjerIByenMin",
+      "imageUrl": "https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_jpg,h_265,q_65,w_450/v1/clients/visitsorlandet/Southern_Norway_vikings_bfd0229a_75a8_4e14_aee5_fcba6f26c696_10bcc6b3_06c8_41e5_a846_a94ea5b23827_316d8fd5_5cbc_4101_b2c4_a13aa9ddede9_bd6e1792-3212-4e5a-b3df-4fe1c2fefaea.jpg",
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-palmesus-",
+      "title": "Palmesus",
+      "description": "Arrangement i visitsorlandet.com",
+      "date": "2026-03-29",
+      "time": "12:00",
+      "endTime": null,
+      "location": "visitsorlandet.com",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.youtube.com/embed/N7jc3EgYFro",
+      "affiliateUrl": "https://www.youtube.com/embed/N7jc3EgYFro?ref=hvaSkjerIByenMin",
+      "imageUrl": "https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_jpg,h_292,q_65,w_480/v1/clients/visitsorlandet/maxresdefault_eb327d07-c73e-49c9-801e-9009e95b8b18.jpg",
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
     }
   ],
   "meta": {
     "city": "kristiansand",
-    "count": 4,
-    "fetchedAt": "2026-03-28T05:00:00.000Z",
+    "count": 17,
+    "fetchedAt": "2026-03-28T18:45:00.968Z",
     "sources": {
       "ticketmaster": 0,
       "eventbrite": 0,
-      "scrape": 0,
-      "note": "Seed-data."
+      "scrape": 17
     }
   }
 }
