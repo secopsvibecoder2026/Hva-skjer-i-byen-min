@@ -1,9 +1,9 @@
 {
   "events": [
     {
-      "id": 101,
+      "id": "eidsvoll-1",
       "title": "Eidsvoll 1814 – Historisk omvisning",
-      "description": "Opplev historien om Norges grunnlov på Eidsvoll Bygninger! Guidede turer for hele familien. Lær om de begivenhetsrike dagene i mai 1814.",
+      "description": "Opplev historien om Norges grunnlov på Eidsvoll Bygninger! Guidede turer for hele familien. Lær om de begivenhetsrike dagene i mai 1814 da grunnloven ble skrevet.",
       "date": "2026-04-11",
       "time": "11:00",
       "endTime": "15:00",
@@ -18,9 +18,9 @@
       "source": "local"
     },
     {
-      "id": 102,
+      "id": "eidsvoll-2",
       "title": "Familiekonsert i Rådhusparken",
-      "description": "Gratis familiekonsert med lokale musikere i Rådhusparken. Ta med teppe og picnic og nyt en fin ettermiddag i friluft.",
+      "description": "Gratis familiekonsert med lokale musikere i Rådhusparken. Ta med teppe og picnic og nyt en fin ettermiddag i friluft med hele familien.",
       "date": "2026-04-19",
       "time": "14:00",
       "endTime": "17:00",
@@ -35,7 +35,7 @@
       "source": "local"
     },
     {
-      "id": 103,
+      "id": "eidsvoll-3",
       "title": "Barnedag på Eidsvoll Bibliotek",
       "description": "Eventyrfortelling, tegning og aktiviteter for barn mellom 3 og 10 år. Gratis og åpent for alle – ingen påmelding nødvendig.",
       "date": "2026-04-26",
@@ -52,9 +52,9 @@
       "source": "local"
     },
     {
-      "id": 104,
+      "id": "eidsvoll-4",
       "title": "17. mai feiring – Eidsvoll 2026",
-      "description": "Bli med på Eidsvoll sin store 17. mai-feiring! Tog, musikk, taler og folkefest. Eidsvoll er Grunnlovens fødested – fei ringen her er ekstra spesiell.",
+      "description": "Bli med på Eidsvoll sin store 17. mai-feiring! Tog, musikk, taler og folkefest. Eidsvoll er Grunnlovens fødested – feiringen her er ekstra spesiell.",
       "date": "2026-05-17",
       "time": "09:00",
       "endTime": "18:00",
@@ -67,17 +67,34 @@
       "sponsored": false,
       "featured": false,
       "source": "local"
+    },
+    {
+      "id": "eidsvoll-5",
+      "title": "Sommermarked på Eidsvoll torg",
+      "description": "Lokale håndverkere, bønder og kunstnere samles på torget. Fersk lokalmat, blomster, håndverk og hygge. Gratis inngang.",
+      "date": "2026-06-06",
+      "time": "10:00",
+      "endTime": "16:00",
+      "location": "Eidsvoll torg, Eidsvoll",
+      "categories": ["familie", "gratis"],
+      "ticketUrl": null,
+      "affiliateUrl": null,
+      "imageUrl": "https://picsum.photos/seed/eidsvollmarked/600/300",
+      "imageEmoji": "🛒",
+      "sponsored": false,
+      "featured": false,
+      "source": "local"
     }
   ],
   "meta": {
     "city": "eidsvoll",
-    "count": 4,
+    "count": 5,
     "fetchedAt": "2026-03-28T05:00:00.000Z",
     "sources": {
       "ticketmaster": 0,
       "eventbrite": 0,
       "scrape": 0,
-      "note": "Initial seed-data. Erstattes av GitHub Actions scraper ved neste kjøring."
+      "note": "Seed-data. Erstattes av GitHub Actions scraper ved neste kjøring."
     }
   }
 }

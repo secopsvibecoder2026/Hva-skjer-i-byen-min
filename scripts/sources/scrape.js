@@ -41,6 +41,18 @@ const CITY_SOURCES = {
       label:   "regionstavanger.com",
     },
   ],
+  eidsvoll: [
+    {
+      url:     "https://www.visiteidsvoll.no/hva-skjer/",
+      scraper: scrapeGeneric,
+      label:   "visiteidsvoll.no",
+    },
+    {
+      url:     "https://www.eidsvoll.kommune.no/kultur-og-fritid/",
+      scraper: scrapeGeneric,
+      label:   "eidsvoll.kommune.no",
+    },
+  ],
 };
 
 export async function scrapeLocalSites(city) {
