@@ -1,139 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-LvZ18Q9NdHll3V8ZlwpfN",
-      "title": "Are Kalvø - Berre bønder lengtar heim",
-      "description": "Arrangement på Holmsbu",
-      "date": "2026-06-19",
-      "time": "18:00",
-      "endTime": null,
-      "location": "Holmsbu",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/are-kalvo-berre-bonder-lengtar-heim-tickets-V0PKQG?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/are-kalvo-berre-bonder-lengtar-heim-tickets-V0PKQG?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://images.universe.com/de9a7aa3-004e-4af2-a407-bfadb6c8fe78/-/format/jpeg/-/scale_crop/1024x576/center/-/progressive/yes/-/inline/yes/",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18Q9x08UPUPZZwkP-P",
-      "title": "Kim Larsen & Gasolin - KIMGAS",
-      "description": "Arrangement på Holmsbu",
-      "date": "2026-07-03",
-      "time": "18:00",
-      "endTime": null,
-      "location": "Holmsbu",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/kim-larsen-gasolin-kimgas-tickets-9ZFCDL?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/kim-larsen-gasolin-kimgas-tickets-9ZFCDL?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16vOa4gGE",
-      "title": "Festivalpass med NATTEN Slottsfjell 2026",
-      "description": "Arrangement på Tønsberg",
-      "date": "2026-07-09",
-      "time": "00:00",
-      "endTime": null,
-      "location": "Tønsberg",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/festivalpass-med-natten-slottsfjell-2026-tickets/1809575327?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/festivalpass-med-natten-slottsfjell-2026-tickets/1809575327?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/40e/f526b176-2175-4a99-9fdb-21cc977fb40e_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18Q9aXfwF_sOZ0FhGg",
-      "title": "Ravi Alæine",
-      "description": "Arrangement på Holmsbu",
-      "date": "2026-07-10",
-      "time": "18:00",
-      "endTime": null,
-      "location": "Holmsbu",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/ravi-alaeine-tickets-57D4VK?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/ravi-alaeine-tickets-57D4VK?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18Q9Eng3MjkYZwZb8J",
-      "title": "Dun Aengus",
-      "description": "Arrangement på Holmsbu",
-      "date": "2026-07-17",
-      "time": "18:00",
-      "endTime": null,
-      "location": "Holmsbu",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/dun-aengus-tickets-PZ8S7G?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/dun-aengus-tickets-PZ8S7G?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18Q9Ewc3MjkYZlZ_eV",
-      "title": "SOS - it´s ABBA time",
-      "description": "Arrangement på Holmsbu",
-      "date": "2026-07-24",
-      "time": "18:00",
-      "endTime": null,
-      "location": "Holmsbu",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/sos-it-s-abba-time-tickets-VN07GL?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/sos-it-s-abba-time-tickets-VN07GL?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18Q9EizxMjkYZ0ZbRR",
-      "title": "En dags Pause - en hyllest til Jahn Teigen",
-      "description": "Arrangement på Holmsbu",
-      "date": "2026-07-31",
-      "time": "18:00",
-      "endTime": null,
-      "location": "Holmsbu",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/en-dags-pause-en-hyllest-til-jahn-teigen-tickets-XLJRDC?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/en-dags-pause-en-hyllest-til-jahn-teigen-tickets-XLJRDC?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z16v0dqsZM",
       "title": "Camp ticket Camp Utgard ALL DAYS Midgardsblot Metalfestival 2026",
       "description": "Arrangement på Midgard Vikingsenter, Horten",
@@ -290,10 +157,10 @@
   ],
   "meta": {
     "city": "moss",
-    "count": 15,
-    "fetchedAt": "2026-03-28T18:50:28.829Z",
+    "count": 8,
+    "fetchedAt": "2026-03-28T19:18:27.441Z",
     "sources": {
-      "ticketmaster": 15,
+      "ticketmaster": 8,
       "eventbrite": 0,
       "scrape": 0
     }
