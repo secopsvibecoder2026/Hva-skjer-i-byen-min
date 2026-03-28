@@ -85,6 +85,10 @@
           <button class="city-pill" data-city="eidsvoll" data-lat="60.3281" data-lon="11.2530">🏘️ Eidsvoll</button>
           <button class="city-pill city-pill--locate" id="locate-btn" title="Finn nærmeste by automatisk">📍 Finn meg</button>
         </div>
+        <p class="locate-notice" id="locate-notice" hidden>
+          Posisjonen din brukes kun i nettleseren din for å velge nærmeste by. Den lagres ikke og sendes ikke til noen server.
+          <a href="#personvern" class="locate-notice__link">Les mer</a>
+        </p>
 
       </div>
     </header>
@@ -218,13 +222,18 @@
           <a href="#">Om oss</a>
           <a href="#">Legg til arrangement</a>
           <a href="#">Annonsering</a>
-          <a href="#">Personvern (GDPR)</a>
+          <a href="#personvern" id="personvern">Personvern (GDPR)</a>
           <a href="#">Kontakt</a>
           <a href="#">Samarbeidspartnere</a>
         </nav>
         <p class="site-footer__copy">
           &copy; 2026 Hva skjer i Bergen &mdash;
           Nettsiden bruker affiliate-lenker og kan motta provisjon ved kjøp via våre lenker.
+        </p>
+        <p class="site-footer__privacy" id="personvern-tekst">
+          <strong>Personvern:</strong> Denne nettsiden lagrer ikke personopplysninger og bruker ikke informasjonskapsler (cookies).
+          Hvis du bruker «Finn meg»-funksjonen, henter nettleseren din GPS-posisjon kun for å finne nærmeste by &ndash; posisjonen sendes ikke til noen server og lagres ikke.
+          Affiliate-lenker kan inneholde sporingskoder som hjelper oss å tjene provisjon; disse behandles av den aktuelle billettleverandøren i henhold til deres personvernregler.
         </p>
       </div>
     </footer>

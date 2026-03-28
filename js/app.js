@@ -475,6 +475,9 @@ function setupGeolocation() {
   btn.addEventListener("click", () => {
     btn.disabled = true;
     btn.textContent = "📍 Finner deg…";
+    // Vis personverninfo første gang knappen brukes
+    const notice = document.getElementById("locate-notice");
+    if (notice) notice.hidden = false;
 
     navigator.geolocation.getCurrentPosition(
       (pos) => {
