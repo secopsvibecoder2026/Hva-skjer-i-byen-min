@@ -1,13 +1,71 @@
 {
-  "events": [],
+  "events": [
+    {
+      "id": "scrape-gen-p-skens-h-ydepunkter-",
+      "title": "Påskens høydepunkter",
+      "description": "Arrangement i visitromerike.no",
+      "date": "2026-03-29",
+      "time": "12:00",
+      "endTime": null,
+      "location": "visitromerike.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://visitgreateroslo.com/no/paskeferie/paskens-hoydepunkter/",
+      "affiliateUrl": "https://visitgreateroslo.com/no/paskeferie/paskens-hoydepunkter/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-shopping-g-rdsbutikker-og-sm-byliv-p-rom-",
+      "title": "Shopping, gårdsbutikker og småbyliv på Romerike",
+      "description": "Arrangement i visitromerike.no",
+      "date": "2026-03-29",
+      "time": "12:00",
+      "endTime": null,
+      "location": "visitromerike.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://visitgreateroslo.com/no/romerike/se-og-gjore/shopping/",
+      "affiliateUrl": "https://visitgreateroslo.com/no/romerike/se-og-gjore/shopping/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-sykkel-og-turtips-p-romerike-",
+      "title": "Sykkel og turtips på Romerike",
+      "description": "Arrangement i visitromerike.no",
+      "date": "2026-03-29",
+      "time": "12:00",
+      "endTime": null,
+      "location": "visitromerike.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://visitgreateroslo.com/no/romerike/se-og-gjore/aktiviteter/sykkel-og-vandre-tips/",
+      "affiliateUrl": "https://visitgreateroslo.com/no/romerike/se-og-gjore/aktiviteter/sykkel-og-vandre-tips/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    }
+  ],
   "meta": {
     "city": "lillestrom",
-    "count": 0,
-    "fetchedAt": "2026-03-28T20:24:16.145Z",
+    "count": 3,
+    "fetchedAt": "2026-03-28T20:56:15.507Z",
     "sources": {
       "ticketmaster": 0,
       "eventbrite": 0,
-      "scrape": 0
+      "scrape": 3
     }
   }
 }
