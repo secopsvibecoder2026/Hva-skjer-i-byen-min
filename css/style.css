@@ -264,6 +264,13 @@ a:hover { color: var(--color-primary-dk); }
   cursor: wait;
 }
 
+.city-pill--nearby {
+  border-color: #fbbf24;
+  background: rgba(251, 191, 36, .22);
+  box-shadow: 0 0 0 2px rgba(251, 191, 36, .4);
+  font-weight: 600;
+}
+
 .locate-notice {
   font-size: .78rem;
   color: rgba(255,255,255,.7);
