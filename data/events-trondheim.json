@@ -193,6 +193,63 @@
       "source": "ticketmaster"
     },
     {
+      "id": "tm-Z698xZb_Z16vZgaxv0",
+      "title": "Blues in Hell 2026 - TORSDAGSPASS",
+      "description": "Arrangement på Rica Hell Hotell, Stjørdal, Hell",
+      "date": "2026-09-03",
+      "time": "17:00",
+      "endTime": null,
+      "location": "Rica Hell Hotell, Stjørdal, Hell",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/blues-in-hell-2026-torsdagspass-tickets/1035262064?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/blues-in-hell-2026-torsdagspass-tickets/1035262064?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/7be/4e1e9428-29ec-401f-aa45-f1577614b7be_105421_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1ka9Pw-M",
+      "title": "Blues in Hell 2026 - FREDAGSPASS",
+      "description": "Arrangement på Rica Hell Hotell, Stjørdal, Hell",
+      "date": "2026-09-04",
+      "time": "12:00",
+      "endTime": null,
+      "location": "Rica Hell Hotell, Stjørdal, Hell",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/blues-in-hell-2026-fredagspass-tickets/257972877?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/blues-in-hell-2026-fredagspass-tickets/257972877?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/7be/4e1e9428-29ec-401f-aa45-f1577614b7be_105421_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kOUOzqb",
+      "title": "Blues in Hell 2026 - LØRDAGSPASS",
+      "description": "Arrangement på Rica Hell Hotell, Stjørdal, Hell",
+      "date": "2026-09-05",
+      "time": "12:00",
+      "endTime": null,
+      "location": "Rica Hell Hotell, Stjørdal, Hell",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/blues-in-hell-2026-lrdagspass-tickets/836838758?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/blues-in-hell-2026-lrdagspass-tickets/836838758?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/7be/4e1e9428-29ec-401f-aa45-f1577614b7be_105421_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
       "id": "tm-Z698xZb_Z1kQ70IOf",
       "title": "NIDARAVE 2026",
       "description": "Arrangement på Trondheim Spektrum Hall F, Trondheim",
@@ -214,10 +271,10 @@
   ],
   "meta": {
     "city": "trondheim",
-    "count": 11,
-    "fetchedAt": "2026-03-28T18:44:55.413Z",
+    "count": 14,
+    "fetchedAt": "2026-03-28T18:50:16.460Z",
     "sources": {
-      "ticketmaster": 11,
+      "ticketmaster": 14,
       "eventbrite": 0,
       "scrape": 0
     }

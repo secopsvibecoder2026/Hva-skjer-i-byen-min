@@ -324,14 +324,91 @@
       "sponsored": false,
       "featured": false,
       "source": "scrape"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vq6GbqA",
+      "title": "Ravnedalen Live Thursday 16. July",
+      "description": "Arrangement på Ravnedalen Naturpark, Kristiansand S",
+      "date": "2026-07-16",
+      "time": "13:00",
+      "endTime": null,
+      "location": "Ravnedalen Naturpark, Kristiansand S",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/ravnedalen-live-thursday-16-july-tickets/1747318745?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/ravnedalen-live-thursday-16-july-tickets/1747318745?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/0aa/0dbaf49e-f513-4b90-b935-0ee6c73490aa_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎭",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vJ9Qf7g",
+      "title": "Ravnedalen Live Friday 17. July",
+      "description": "Arrangement på Ravnedalen Naturpark, Kristiansand S",
+      "date": "2026-07-17",
+      "time": "13:00",
+      "endTime": null,
+      "location": "Ravnedalen Naturpark, Kristiansand S",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/ravnedalen-live-friday-17-july-tickets/1997694135?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/ravnedalen-live-friday-17-july-tickets/1997694135?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/0aa/0dbaf49e-f513-4b90-b935-0ee6c73490aa_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1k4IqMQp",
+      "title": "Ravnedalen Live Festivalpass",
+      "description": "Arrangement på Ravnedalen Naturpark, Kristiansand S",
+      "date": "2026-07-18",
+      "time": "00:00",
+      "endTime": null,
+      "location": "Ravnedalen Naturpark, Kristiansand S",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/ravnedalen-live-festivalpass-tickets/568777696?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/ravnedalen-live-festivalpass-tickets/568777696?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/f30/b398d0d4-dd9d-4d35-81d2-db8d9b9d4f30_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1k4Ffff7",
+      "title": "Ravnedalen Live Saturday 18. July",
+      "description": "Arrangement på Ravnedalen Naturpark, Kristiansand S",
+      "date": "2026-07-18",
+      "time": "13:00",
+      "endTime": null,
+      "location": "Ravnedalen Naturpark, Kristiansand S",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/ravnedalen-live-saturday-18-july-tickets/548514504?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/ravnedalen-live-saturday-18-july-tickets/548514504?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/0aa/0dbaf49e-f513-4b90-b935-0ee6c73490aa_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "kristiansand",
-    "count": 17,
-    "fetchedAt": "2026-03-28T18:45:00.968Z",
+    "count": 21,
+    "fetchedAt": "2026-03-28T18:50:20.738Z",
     "sources": {
-      "ticketmaster": 0,
+      "ticketmaster": 4,
       "eventbrite": 0,
       "scrape": 17
     }

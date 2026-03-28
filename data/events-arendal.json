@@ -1,96 +1,33 @@
 {
   "events": [
     {
-      "id": "arendal-1",
-      "title": "Arendalsuka 2026",
-      "description": "Norges største politiske og samfunnsfestival samler debattanter, politikere og engasjerte borgere i en uke. Hundrevis av arrangementer, de fleste gratis.",
-      "date": "2026-08-10",
-      "time": "09:00",
-      "endTime": "22:00",
-      "location": "Sentrum, Arendal",
+      "id": "tm-LvZ18Qun3dGBWS8ZlNE88",
+      "title": "Coming Home - Countryfestivalen i Grimstad",
+      "description": "Arrangement på Torskeholmen i Grimstad, Grimstad",
+      "date": "2026-07-31",
+      "time": "16:00",
+      "endTime": null,
+      "location": "Torskeholmen i Grimstad, Grimstad",
       "categories": [
-        "gratis",
-        "familie"
+        "konsert"
       ],
-      "ticketUrl": "https://www.arendalsuka.no",
-      "affiliateUrl": "https://www.arendalsuka.no?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "⛵",
-      "sponsored": false,
-      "featured": true,
-      "source": "local"
-    },
-    {
-      "id": "arendal-2",
-      "title": "Sommerkonsert ved Tyholmen",
-      "description": "Utendørskonsert med lokale artister på Arendals historiske trehusbebyggelse Tyholmen. Nyt musikken med utsikt over Nidelva og skjærgården.",
-      "date": "2026-06-27",
-      "time": "18:00",
-      "endTime": "21:00",
-      "location": "Tyholmen, Arendal",
-      "categories": [
-        "konsert",
-        "gratis"
-      ],
-      "ticketUrl": null,
-      "affiliateUrl": null,
-      "imageUrl": null,
-      "imageEmoji": "🎶",
+      "ticketUrl": "https://www.universe.com/events/coming-home-countryfestivalen-i-grimstad-tickets-Z41RXS?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/coming-home-countryfestivalen-i-grimstad-tickets-Z41RXS?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/677/c58dd0af-cda8-49b2-bdaf-068540c3a677_106541_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
-      "source": "local"
-    },
-    {
-      "id": "arendal-3",
-      "title": "Havnefest – Arendal sjøsportsenter",
-      "description": "Familievennlig havnefest med sjøsports-aktiviteter, kanopadling, kajakk og båtutstilling. For store og små som elsker livet på sjøen.",
-      "date": "2026-07-11",
-      "time": "11:00",
-      "endTime": "17:00",
-      "location": "Arendal havn, Arendal",
-      "categories": [
-        "familie",
-        "barn",
-        "gratis"
-      ],
-      "ticketUrl": null,
-      "affiliateUrl": null,
-      "imageUrl": null,
-      "imageEmoji": "🚣",
-      "sponsored": false,
-      "featured": false,
-      "source": "local"
-    },
-    {
-      "id": "arendal-4",
-      "title": "Aust-Agder Kulturhistoriske Senter – Utstilling",
-      "description": "Besøk den faste utstillingen om Aust-Agders rike kulturhistorie, fra sjøfart og trelast til moderne tid. Aktiviteter for barn og familier.",
-      "date": "2026-05-02",
-      "time": "10:00",
-      "endTime": "16:00",
-      "location": "Aust-Agder Museum, Arendal",
-      "categories": [
-        "familie",
-        "barn"
-      ],
-      "ticketUrl": "https://www.arendal.kommune.no/kultur/",
-      "affiliateUrl": "https://www.arendal.kommune.no/kultur/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "⚓",
-      "sponsored": false,
-      "featured": false,
-      "source": "local"
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "arendal",
-    "count": 4,
-    "fetchedAt": "2026-03-28T05:00:00.000Z",
+    "count": 1,
+    "fetchedAt": "2026-03-28T18:50:31.701Z",
     "sources": {
-      "ticketmaster": 0,
+      "ticketmaster": 1,
       "eventbrite": 0,
-      "scrape": 0,
-      "note": "Seed-data."
+      "scrape": 0
     }
   }
 }

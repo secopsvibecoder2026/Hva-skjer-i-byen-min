@@ -1,6 +1,25 @@
 {
   "events": [
     {
+      "id": "tm-LvZ18Qowyw8jyuZZvvpx2",
+      "title": "Strilafest 2026  – ÉIN DAG, FULL PAKKE!",
+      "description": "Arrangement på Rong, Øygarden (utenfor Rong Sen, Rogne",
+      "date": "2026-06-06",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Rong, Øygarden (utenfor Rong Sen, Rogne",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/strilafest-2026-ein-dag-full-pakke-tickets-W6SGQP?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/strilafest-2026-ein-dag-full-pakke-tickets-W6SGQP?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
       "id": "tm-Z698xZb_Z1k4O_0a6",
       "title": "Bergen Calling: Dumdum Boys, Raga Rockers og Slomosa",
       "description": "Arrangement på Bergenhus Festning, Bergen",
@@ -436,10 +455,10 @@
   ],
   "meta": {
     "city": "bergen",
-    "count": 22,
-    "fetchedAt": "2026-03-28T18:44:52.734Z",
+    "count": 23,
+    "fetchedAt": "2026-03-28T18:50:15.127Z",
     "sources": {
-      "ticketmaster": 24,
+      "ticketmaster": 25,
       "eventbrite": 0,
       "scrape": 0
     }

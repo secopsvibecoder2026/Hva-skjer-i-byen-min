@@ -468,26 +468,6 @@
       "source": "ticketmaster"
     },
     {
-      "id": "tm-Z698xZb_Z16vQa7Y4k",
-      "title": "dEUS",
-      "description": "Arrangement på Rockefeller, Oslo",
-      "date": "2026-04-11",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Rockefeller, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/deus-tickets/1689130546?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/deus-tickets/1689130546?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/f00/127608cd-c003-4569-8c19-be8335ad7f00_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z16vp3A98f",
       "title": "Solence",
       "description": "Arrangement på John Dee, Oslo",
@@ -502,6 +482,26 @@
       "ticketUrl": "https://www.ticketmaster.no/event/solence-tickets/1592157414?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/solence-tickets/1592157414?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/e/4fc/124b8ea0-775b-4a19-867c-473fa6ce14fc_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vQa7Y4k",
+      "title": "dEUS",
+      "description": "Arrangement på Rockefeller, Oslo",
+      "date": "2026-04-11",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Rockefeller, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/deus-tickets/1689130546?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/deus-tickets/1689130546?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/f00/127608cd-c003-4569-8c19-be8335ad7f00_RETINA_PORTRAIT_16_9.jpg",
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -586,20 +586,20 @@
       "source": "ticketmaster"
     },
     {
-      "id": "tm-Z698xZb_Z16vGsaIf_",
-      "title": "Karnivool",
-      "description": "Arrangement på Rockefeller, Oslo",
-      "date": "2026-04-16",
-      "time": "19:00",
+      "id": "tm-Z698xZb_Z16v38b7bS",
+      "title": "Alex Warren – Finding Family on the Road",
+      "description": "Arrangement på Unity Arena, Fornebu",
+      "date": "2026-04-15",
+      "time": "20:00",
       "endTime": null,
-      "location": "Rockefeller, Oslo",
+      "location": "Unity Arena, Fornebu",
       "categories": [
         "konsert",
         "uteliv"
       ],
-      "ticketUrl": "https://www.ticketmaster.no/event/karnivool-tickets/1331268519?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/karnivool-tickets/1331268519?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/1a9/a6d24197-d784-41bc-b793-66f48bd641a9_TABLET_LANDSCAPE_16_9.jpg",
+      "ticketUrl": "https://www.ticketmaster.no/event/alex-warren--finding-family-on-the-road-tickets/1490604633?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/alex-warren--finding-family-on-the-road-tickets/1490604633?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/5ff/9e496d94-06e5-4d72-897a-b63536c2c5ff_TABLET_LANDSCAPE_16_9.jpg",
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -620,6 +620,66 @@
       "ticketUrl": "https://www.ticketmaster.no/event/girl-scout-tickets/1793313910?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/girl-scout-tickets/1793313910?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/e/4d6/a4829f8a-1560-43cc-b862-7df03fd6b4d6_TABLET_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vGsaIf_",
+      "title": "Karnivool",
+      "description": "Arrangement på Rockefeller, Oslo",
+      "date": "2026-04-16",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Rockefeller, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/karnivool-tickets/1331268519?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/karnivool-tickets/1331268519?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/1a9/a6d24197-d784-41bc-b793-66f48bd641a9_TABLET_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vfgQaqY",
+      "title": "5 Seconds of Summer - Everyone's a star! World Tour",
+      "description": "Arrangement på Unity Arena, Fornebu",
+      "date": "2026-04-16",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Unity Arena, Fornebu",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/5-seconds-of-summer-everyones-a-star-world-tour-tickets/1535689770?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/5-seconds-of-summer-everyones-a-star-world-tour-tickets/1535689770?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/ce2/922873d9-c41f-461b-9486-5c5adab78ce2_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kb80g3b",
+      "title": "5 Seconds of Summer - Everyone's a star! World Tour | VIP",
+      "description": "Arrangement på Unity Arena, Fornebu",
+      "date": "2026-04-16",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Unity Arena, Fornebu",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/5-seconds-of-summer-everyones-a-star-world-tour-%7C-vip-tickets/610935498?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/5-seconds-of-summer-everyones-a-star-world-tour-%7C-vip-tickets/610935498?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/ce2/922873d9-c41f-461b-9486-5c5adab78ce2_RETINA_PORTRAIT_16_9.jpg",
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -666,21 +726,20 @@
       "source": "ticketmaster"
     },
     {
-      "id": "tm-LvZ18Q_3rGZPOyZZl0fyp",
-      "title": "Arna for Helvete // Supp: Morfars Monokkel",
-      "description": "Arrangement på Oslo",
+      "id": "tm-Z698xZb_Z1kA4x98g",
+      "title": "Matt Rife: Stay Golden Tour",
+      "description": "Arrangement på Unity Arena, Fornebu",
       "date": "2026-04-18",
-      "time": "19:00",
+      "time": "18:00",
       "endTime": null,
-      "location": "Oslo",
+      "location": "Unity Arena, Fornebu",
       "categories": [
-        "konsert",
-        "uteliv"
+        "familie"
       ],
-      "ticketUrl": "https://www.universe.com/events/arna-for-helvete-supp-morfars-monokkel-tickets-N7RVML?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/arna-for-helvete-supp-morfars-monokkel-tickets-N7RVML?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
+      "ticketUrl": "https://www.ticketmaster.no/event/matt-rife-stay-golden-tour-tickets/155897435?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/matt-rife-stay-golden-tour-tickets/155897435?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/3a0/fd003cd1-c834-49c3-93cc-7366d77153a0_SOURCE",
+      "imageEmoji": "🎭",
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
@@ -700,6 +759,26 @@
       "ticketUrl": "https://www.ticketmaster.no/event/ninja-sex-party--twrp-pure-elegance-tour-tickets/1778098458?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/ninja-sex-party--twrp-pure-elegance-tour-tickets/1778098458?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/e/4a8/487eb89f-42f6-4fbe-8059-d92ea87dc4a8_SOURCE",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18Q_3rGZPOyZZl0fyp",
+      "title": "Arna for Helvete // Supp: Morfars Monokkel",
+      "description": "Arrangement på Oslo",
+      "date": "2026-04-18",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.universe.com/events/arna-for-helvete-supp-morfars-monokkel-tickets-N7RVML?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/arna-for-helvete-supp-morfars-monokkel-tickets-N7RVML?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_RETINA_LANDSCAPE_16_9.jpg",
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -880,71 +959,12 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16vQpA70J",
-      "title": "Hester V75",
-      "description": "Arrangement på Rockefeller, Oslo",
-      "date": "2026-04-24",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Rockefeller, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/hester-v75-tickets/1696144926?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/hester-v75-tickets/1696144926?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/769/587d99db-f0b6-4cc1-b6b4-55bec7afa769_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z1kkpovuM",
-      "title": "Thomas Seltzer LIVE - with guests",
-      "description": "Arrangement på Chateau Neuf,Storsalen, Oslo",
-      "date": "2026-04-24",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Chateau Neuf,Storsalen, Oslo",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/thomas-seltzer-live-with-guests-tickets/196441377?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/thomas-seltzer-live-with-guests-tickets/196441377?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/6c9/38b13510-51f5-4cb4-b9c1-1df7d1a946c9_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "imageEmoji": "🎭",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16vo0v34-",
-      "title": "Vidar Villa",
-      "description": "Arrangement på Rockefeller, Oslo",
-      "date": "2026-04-25",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Rockefeller, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/vidar-villa-tickets/1464052561?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/vidar-villa-tickets/1464052561?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/dcc/10e41d38-cdcb-4889-8675-0ef1ec972dcc_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
-    "count": 48,
-    "fetchedAt": "2026-03-28T18:44:53.449Z",
+    "count": 49,
+    "fetchedAt": "2026-03-28T18:50:15.765Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,

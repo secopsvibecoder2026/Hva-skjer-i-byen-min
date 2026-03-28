@@ -1,75 +1,33 @@
 {
   "events": [
     {
-      "id": "sandefjord-1",
-      "title": "Hvalfangstmuseet – Guidet omvisning",
-      "description": "Sandefjord er hvalfangstbyens hjerte. Opplev fascinerende utstillinger om Norges hvalfangsthistorie på verdens best bevarte hvalfangstmuseum.",
-      "date": "2026-04-19",
-      "time": "11:00",
-      "endTime": "15:00",
-      "location": "Hvalfangstmuseet, Sandefjord",
+      "id": "tm-Z698xZb_Z16vOa4gGE",
+      "title": "Festivalpass med NATTEN Slottsfjell 2026",
+      "description": "Arrangement på Tønsberg",
+      "date": "2026-07-09",
+      "time": "00:00",
+      "endTime": null,
+      "location": "Tønsberg",
       "categories": [
-        "familie",
-        "barn"
+        "konsert"
       ],
-      "ticketUrl": "https://www.hvalfangstmuseet.no",
-      "affiliateUrl": "https://www.hvalfangstmuseet.no/billetter?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🐋",
-      "sponsored": false,
-      "featured": true,
-      "source": "local"
-    },
-    {
-      "id": "sandefjord-2",
-      "title": "Sandefjord Lufthavn Konsert",
-      "description": "Sommerlig utendørskonsert ved Sandefjord sentrum. Lokale og regionale artister spiller for et bredt publikum. Gratis inngang.",
-      "date": "2026-06-20",
-      "time": "17:00",
-      "endTime": "21:00",
-      "location": "Byparken, Sandefjord",
-      "categories": [
-        "konsert",
-        "gratis"
-      ],
-      "ticketUrl": null,
-      "affiliateUrl": null,
-      "imageUrl": null,
-      "imageEmoji": "🎤",
+      "ticketUrl": "https://www.ticketmaster.no/event/festivalpass-med-natten-slottsfjell-2026-tickets/1809575327?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/festivalpass-med-natten-slottsfjell-2026-tickets/1809575327?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/40e/f526b176-2175-4a99-9fdb-21cc977fb40e_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
-      "source": "local"
-    },
-    {
-      "id": "sandefjord-3",
-      "title": "Familiedag – Gokstad-skipet utstilling",
-      "description": "Lær om vikingenes Gokstad-skip som ble funnet i Sandefjord-regionen! Familievennlig utstilling med aktiviteter og verksteder for barn.",
-      "date": "2026-05-23",
-      "time": "10:00",
-      "endTime": "16:00",
-      "location": "Kulturhuset, Sandefjord",
-      "categories": [
-        "familie",
-        "barn"
-      ],
-      "ticketUrl": "https://www.sandefjord.kommune.no",
-      "affiliateUrl": null,
-      "imageUrl": null,
-      "imageEmoji": "⛵",
-      "sponsored": false,
-      "featured": false,
-      "source": "local"
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "sandefjord",
-    "count": 3,
-    "fetchedAt": "2026-03-28T05:00:00.000Z",
+    "count": 1,
+    "fetchedAt": "2026-03-28T18:50:30.712Z",
     "sources": {
-      "ticketmaster": 0,
+      "ticketmaster": 1,
       "eventbrite": 0,
-      "scrape": 0,
-      "note": "Seed-data."
+      "scrape": 0
     }
   }
 }
