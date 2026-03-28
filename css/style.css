@@ -1067,6 +1067,22 @@ a:hover { color: var(--color-primary-dk); }
 .sticky-city-bar__change:hover { background: rgba(255,255,255,.28); }
 
 /* ============================================================
+   19b. BY-BADGE PÅ EVENT-KORT (multi-by-modus)
+   ============================================================ */
+.event-card__city-badge {
+  display: inline-block;
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  background: #7c3aed;
+  color: #fff;
+  padding: 0.15rem 0.5rem;
+  border-radius: 999px;
+  margin-right: 0.25rem;
+}
+
+/* ============================================================
    20. BY-PILL COUNT BADGE
    ============================================================ */
 .city-pill__count {

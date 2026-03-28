@@ -17,10 +17,11 @@
 /* ============================================================
    TILSTAND
    ============================================================ */
-let allEvents     = [];
-let activeFilters = new Set();
-let searchQuery   = "";
-let currentCity   = null;   // null = ingen by valgt ennå
+let allEvents      = [];
+let activeFilters  = new Set();
+let searchQuery    = "";
+let currentCity    = null;          // null = ingen by valgt ennå
+let selectedCities = [];            // forsiden: array av valgte by-IDer
 
 /* ============================================================
    DATO-HJELPERE
@@ -184,26 +185,37 @@ function showSkeleton() {
  * JSON-filene genereres daglig av GitHub Actions (scrape.yml).
  * Faller tilbake til lokal EVENTS-array om filen ikke finnes.
  */
+async function fetchOneCity(city) {
+  const base = window.DATA_BASE || "./";
+  const controller = new AbortController();
+  const timeout = setTimeout(() => controller.abort(), 8000);
+  try {
+    const res = await fetch(`${base}data/events-${city}.json`, { signal: controller.signal });
+    clearTimeout(timeout);
+    if (!res.ok) throw new Error(`${res.status}`);
+    const data = await res.json();
+    const events = Array.isArray(data.events) ? data.events : data;
+    return events.map((e) => ({ ...e, _city: city }));
+  } catch {
+    return city === "bergen" ? EVENTS.map((e) => ({ ...e, _city: city })) : [];
+  }
+}
+
 async function fetchEvents(city = "bergen") {
   showSkeleton();
-
   try {
-    const controller = new AbortController();
-    const timeout    = setTimeout(() => controller.abort(), 8000);
+    return await fetchOneCity(city);
+  } finally {
+    document.getElementById("events-container").innerHTML = "";
+  }
+}
 
-    // DATA_BASE settes av by-sider ("../") – index.html bruker standard "./"
-    const base = window.DATA_BASE || "./";
-    const res  = await fetch(`${base}data/events-${city}.json`, {
-      signal: controller.signal,
-    });
-    clearTimeout(timeout);
-
-    if (!res.ok) throw new Error(`Datafil ikke funnet (${res.status})`);
-    const data = await res.json();
-    return Array.isArray(data.events) ? data.events : data;
-  } catch (err) {
-    console.info("Datafil ikke tilgjengelig:", err.message);
-    return city === "bergen" ? EVENTS : [];
+async function fetchMultipleCities(cities) {
+  showSkeleton();
+  try {
+    const results = await Promise.all(cities.map(fetchOneCity));
+    const merged  = results.flat().sort((a, b) => new Date(a.date) - new Date(b.date));
+    return merged;
   } finally {
     document.getElementById("events-container").innerHTML = "";
   }
@@ -310,6 +322,7 @@ function buildEventCard(event) {
       <div class="event-card__body">
         <h3 class="event-card__title">${event.title}</h3>
         <div class="event-card__meta">
+          ${selectedCities.length > 1 && event._city ? `<span class="event-card__city-badge">${event._city.charAt(0).toUpperCase() + event._city.slice(1)}</span>` : ""}
           <span class="meta-item">📅 ${formatDate(event.date, event.time)}</span>
           <span class="meta-item">📍 ${event.location}</span>
         </div>
@@ -526,11 +539,73 @@ function setupCityPicker() {
   document.querySelectorAll(".city-pill:not([disabled]):not(.city-pill--locate)").forEach((pill) => {
     pill.addEventListener("click", () => {
       const city = pill.dataset.city;
-      if (city === window.PRESELECTED_CITY) return; // allerede på denne siden
-      const base = window.PRESELECTED_CITY ? "../" : "./";
-      window.location.href = `${base}${city}/`;
+
+      // By-sider: naviger til annen by som før
+      if (window.PRESELECTED_CITY) {
+        if (city === window.PRESELECTED_CITY) return;
+        window.location.href = `../${city}/`;
+        return;
+      }
+
+      // Forsiden: toggle multi-valg
+      const idx = selectedCities.indexOf(city);
+      if (idx === -1) {
+        selectedCities.push(city);
+        pill.classList.add("city-pill--active");
+      } else {
+        selectedCities.splice(idx, 1);
+        pill.classList.remove("city-pill--active");
+      }
+      loadSelectedCities();
     });
   });
+}
+
+async function loadSelectedCities() {
+  if (selectedCities.length === 0) {
+    // Ingen by valgt – vis startside
+    document.getElementById("start-state").hidden      = false;
+    document.getElementById("featured-section").hidden = true;
+    document.getElementById("city-content").hidden     = true;
+    document.getElementById("hero-stats").hidden       = true;
+    document.getElementById("current-city-indicator").hidden = true;
+    document.getElementById("hero-title-default").hidden = false;
+    document.getElementById("hero-title-city").hidden   = true;
+    document.getElementById("sticky-city-bar").hidden   = true;
+    currentCity = null;
+    return;
+  }
+
+  // Vis innhold
+  document.getElementById("start-state").hidden      = true;
+  document.getElementById("featured-section").hidden = false;
+  document.getElementById("city-content").hidden     = false;
+  document.getElementById("hero-stats").hidden       = false;
+
+  const cityNames = selectedCities.map((id) => {
+    const pill = document.querySelector(`.city-pill[data-city="${id}"]`);
+    return (pill?.dataset.label || pill?.textContent || id)
+      .trim().replace(/^[^\s]+\s/, "").replace(/\s*\(\d+\)$/, "");
+  });
+
+  const displayName = cityNames.length === 1
+    ? cityNames[0]
+    : cityNames.slice(0, -1).join(", ") + " & " + cityNames.at(-1);
+
+  document.getElementById("current-city-indicator").hidden = false;
+  document.getElementById("current-city-label").textContent = displayName.toUpperCase();
+  document.getElementById("current-city-name").textContent  = displayName;
+  document.getElementById("hero-title-default").hidden = true;
+  document.getElementById("hero-title-city").hidden    = false;
+  updateStickyBar(displayName);
+  currentCity = selectedCities[0];
+
+  allEvents = selectedCities.length === 1
+    ? await fetchEvents(selectedCities[0])
+    : await fetchMultipleCities(selectedCities);
+
+  updateStats(allEvents);
+  renderAll();
 }
 
 /* ============================================================
