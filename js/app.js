@@ -476,46 +476,59 @@ function setupSearch() {
    ============================================================ */
 
 function updateStickyBar(cityName) {
-  const bar      = document.getElementById("sticky-city-bar");
-  const nameEl   = document.getElementById("sticky-city-name");
+  const bar    = document.getElementById("sticky-city-bar");
+  const nameEl = document.getElementById("sticky-city-name");
   if (!bar || !nameEl) return;
   nameEl.textContent = cityName;
   bar.removeAttribute("hidden");
 }
 
+/**
+ * Laster innhold for en forhåndsvalgt by (kalles ved sideinnlasting).
+ * Navigerer IKKE – brukes kun når PRESELECTED_CITY er satt i HTML.
+ */
+async function activateCity(city) {
+  const pill = document.querySelector(`.city-pill[data-city="${city}"]`);
+  if (!pill) return;
+
+  document.querySelectorAll(".city-pill").forEach((p) => p.classList.remove("city-pill--active"));
+  pill.classList.add("city-pill--active");
+
+  currentCity = city;
+  const cityName = (pill.dataset.label || pill.textContent)
+    .trim()
+    .replace(/^[^\s]+\s/, "")
+    .replace(/\s*\(\d+\)$/, "");
+
+  document.getElementById("current-city-label").textContent = cityName.toUpperCase();
+  document.getElementById("current-city-name").textContent  = cityName;
+  document.getElementById("current-city-indicator").hidden  = false;
+  document.getElementById("hero-title-default").hidden      = true;
+  document.getElementById("hero-title-city").hidden         = false;
+
+  document.getElementById("start-state").hidden      = true;
+  document.getElementById("featured-section").hidden = false;
+  document.getElementById("city-content").hidden     = false;
+  document.getElementById("hero-stats").hidden       = false;
+
+  updateStickyBar(cityName);
+
+  allEvents = await fetchEvents(city);
+  updateStats(allEvents);
+  renderAll();
+}
+
+/**
+ * By-piller navigerer til /{by}/ – URL oppdateres og city-siden laster.
+ * På city-sider navigeres til ../{by}/ (ett nivå opp).
+ */
 function setupCityPicker() {
   document.querySelectorAll(".city-pill:not([disabled]):not(.city-pill--locate)").forEach((pill) => {
-    pill.addEventListener("click", async () => {
-      document.querySelectorAll(".city-pill").forEach((p) => p.classList.remove("city-pill--active"));
-      pill.classList.add("city-pill--active");
-
-      currentCity = pill.dataset.city;
-
-      // Hent bynavn uten emoji og count-badge
-      const cityName = (pill.dataset.label || pill.firstChild?.textContent || pill.textContent)
-        .trim()
-        .replace(/^[^\s]+\s/, "")   // fjern emoji
-        .replace(/\s*\(\d+\)$/, ""); // fjern evt. count
-
-      // Oppdater hero
-      document.getElementById("current-city-label").textContent = cityName.toUpperCase();
-      document.getElementById("current-city-name").textContent  = cityName;
-      document.getElementById("current-city-indicator").hidden  = false;
-      document.getElementById("hero-title-default").hidden      = true;
-      document.getElementById("hero-title-city").hidden         = false;
-
-      // Vis innhold, skjul startside
-      document.getElementById("start-state").hidden      = true;
-      document.getElementById("featured-section").hidden = false;
-      document.getElementById("city-content").hidden     = false;
-      document.getElementById("hero-stats").hidden       = false;
-
-      // Oppdater sticky bar
-      updateStickyBar(cityName);
-
-      allEvents = await fetchEvents(currentCity);
-      updateStats(allEvents);
-      renderAll();
+    pill.addEventListener("click", () => {
+      const city = pill.dataset.city;
+      if (city === window.PRESELECTED_CITY) return; // allerede på denne siden
+      const base = window.PRESELECTED_CITY ? "../" : "./";
+      window.location.href = `${base}${city}/`;
     });
   });
 }
@@ -561,7 +574,10 @@ function setupGeolocation() {
 
         btn.disabled    = false;
         btn.textContent = "📍 Finn meg";
-        if (nearest && nearest.dataset.city !== currentCity) nearest.click();
+        if (nearest && nearest.dataset.city !== currentCity) {
+          const base = window.PRESELECTED_CITY ? "../" : "./";
+          window.location.href = `${base}${nearest.dataset.city}/`;
+        }
       },
       (err) => {
         btn.disabled    = false;
@@ -668,9 +684,8 @@ document.addEventListener("DOMContentLoaded", () => {
     if (event) downloadICS(event);
   });
 
-  // By-spesifikke sider: auto-velg forhåndsvalgt by
+  // By-spesifikke sider: last innhold for forhåndsvalgt by
   if (window.PRESELECTED_CITY) {
-    const pill = document.querySelector(`.city-pill[data-city="${window.PRESELECTED_CITY}"]`);
-    if (pill) pill.click();
+    activateCity(window.PRESELECTED_CITY);
   }
 });
