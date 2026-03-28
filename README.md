@@ -288,7 +288,34 @@ node scripts/generate-city-pages.mjs
 
 ## Legg til ny by
 
-**1.** `scripts/sources/scrape.js` – legg til i `CITY_SOURCES`:
+**1.** `scripts/sources/ticketmaster.js` – legg til i `CITY_COORDS`:
+
+```js
+"<by-slug>": { ll: "<lat>,<lon>", r: <radius-km>, inc: [<godkjente-stedsnavn>] },
+```
+
+**Velg radius og include-filter basert på byens størrelse og nærhet til andre byer:**
+
+| Situasjon | Radius | `inc`-liste |
+|-----------|--------|-------------|
+| Storby alene (Bergen, Trondheim) | 25 km | `[]` – ingen filter |
+| Storby nær annen storby | 20 km | `[]` – ingen filter |
+| Mellomstor by nær storby | 20–25 km | Definer lokale stedsnavn |
+| Liten by / forstad nær Oslo/Bergen | 25 km | **Obligatorisk** – ellers vises storby-events |
+
+**Eksempel – ny by nær Oslo (f.eks. Ski):**
+```js
+"ski": { ll: "59.7196,10.8321", r: 25, inc: ["Ski", "Ås", "Follo", "Oppegård"] },
+```
+
+**Eksempel – ny by alene (f.eks. Bodø):**
+```js
+"bodo": { ll: "67.2827,14.3751", r: 25, inc: [] },
+```
+
+> **Tips:** For å finne riktige stedsnavn som Ticketmaster bruker, kjør scraper én gang uten `inc`-filter, se hvilke `location`-verdier som dukker opp i `data/events-<by>.json`, og bruk dem i lista.
+
+**2.** `scripts/sources/scrape.js` – legg til i `CITY_SOURCES`:
 
 ```js
 kristiansand: [
@@ -337,13 +364,10 @@ node scripts/generate-city-pages.mjs
 
 ### Google AdSense
 
-To annonseplasser er klar i `index.html`:
-- **Leaderboard** (728×90) – under hero
-- **Rectangle** (300×250) – nederst på siden
+Auto Ads er aktivert med publisher-ID `ca-pub-3981936786393038`.
+Google plasserer annonser automatisk – ingen manuelle annonseplasser nødvendig.
 
-1. Registrer deg på [adsense.google.com](https://adsense.google.com)
-2. Hent publisher-ID (`ca-pub-XXXXXXXXXX`)
-3. Fjern kommentarene i `index.html` og bytt ut placeholder-IDene
+Status: venter på Google-godkjenning (kan ta 1–14 dager for nye nettsteder).
 
 ### Affiliate-lenker
 
