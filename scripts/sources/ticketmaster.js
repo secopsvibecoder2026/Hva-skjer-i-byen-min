@@ -32,31 +32,33 @@ const TM_GENRE_MAP = {
   "Family":           ["familie", "barn"],
 };
 
-// Koordinater for alle 22 byer – brukes for latlong-søk i stedet for city-navn
-// som er upålitelig for norske byer i Ticketmaster sin venuedatabase
+// Koordinater og radius per by.
+// Radius settes lavt for byer nær Oslo/Bergen for å unngå overlappende events.
+// Lillestrøm er ~20km fra Oslo – 10km radius hindrer at Oslo-venues dukker opp der.
 const CITY_COORDS = {
-  "bergen":         "60.3913,5.3221",
-  "oslo":           "59.9139,10.7522",
-  "trondheim":      "63.4305,10.3951",
-  "stavanger":      "58.9700,5.7331",
-  "eidsvoll":       "60.3268,11.2530",
-  "lillestrom":     "59.9565,11.0511",
-  "aurskog-holand": "59.9000,11.4500",
-  "kristiansand":   "58.1467,7.9956",
-  "tromso":         "69.6492,18.9553",
-  "drammen":        "59.7440,10.2045",
-  "fredrikstad":    "59.2181,10.9298",
-  "alesund":        "62.4722,6.1549",
-  "bodo":           "67.2827,14.3751",
-  "hamar":          "60.7945,11.0679",
-  "tonsberg":       "59.2672,10.4075",
-  "moss":           "59.4338,10.6579",
-  "haugesund":      "59.4134,5.2680",
-  "sandefjord":     "59.1313,10.2169",
-  "arendal":        "58.4615,8.7722",
-  "molde":          "62.7380,7.1591",
-  "voss":           "60.6282,6.4150",
-  "kongsberg":      "59.6677,9.6507",
+  //                   latlong                radius (km)
+  "bergen":         { ll: "60.3913,5.3221",   r: 20 },
+  "oslo":           { ll: "59.9139,10.7522",  r: 20 },
+  "trondheim":      { ll: "63.4305,10.3951",  r: 20 },
+  "stavanger":      { ll: "58.9700,5.7331",   r: 20 },
+  "eidsvoll":       { ll: "60.3268,11.2530",  r: 10 },
+  "lillestrom":     { ll: "59.9565,11.0511",  r: 10 },
+  "aurskog-holand": { ll: "59.9000,11.4500",  r: 10 },
+  "kristiansand":   { ll: "58.1467,7.9956",   r: 20 },
+  "tromso":         { ll: "69.6492,18.9553",  r: 20 },
+  "drammen":        { ll: "59.7440,10.2045",  r: 15 },
+  "fredrikstad":    { ll: "59.2181,10.9298",  r: 15 },
+  "alesund":        { ll: "62.4722,6.1549",   r: 20 },
+  "bodo":           { ll: "67.2827,14.3751",  r: 20 },
+  "hamar":          { ll: "60.7945,11.0679",  r: 15 },
+  "tonsberg":       { ll: "59.2672,10.4075",  r: 15 },
+  "moss":           { ll: "59.4338,10.6579",  r: 15 },
+  "haugesund":      { ll: "59.4134,5.2680",   r: 20 },
+  "sandefjord":     { ll: "59.1313,10.2169",  r: 15 },
+  "arendal":        { ll: "58.4615,8.7722",   r: 20 },
+  "molde":          { ll: "62.7380,7.1591",   r: 20 },
+  "voss":           { ll: "60.6282,6.4150",   r: 15 },
+  "kongsberg":      { ll: "59.6677,9.6507",   r: 15 },
 };
 
 /**
@@ -71,8 +73,8 @@ export async function fetchTicketmaster(city) {
     return [];
   }
 
-  const latlong = CITY_COORDS[city];
-  if (!latlong) {
+  const cityConf = CITY_COORDS[city];
+  if (!cityConf) {
     console.warn(`Ingen koordinater for ${city} – hopper over Ticketmaster`);
     return [];
   }
@@ -80,8 +82,8 @@ export async function fetchTicketmaster(city) {
   const params = new URLSearchParams({
     apikey:        apiKey,
     countryCode:   "NO",
-    latlong,
-    radius:        "30",
+    latlong:       cityConf.ll,
+    radius:        String(cityConf.r),
     unit:          "km",
     size:          "50",
     sort:          "date,asc",
