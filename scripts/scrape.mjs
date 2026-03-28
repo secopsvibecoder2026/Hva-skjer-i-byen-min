@@ -11,20 +11,15 @@
  *
  * Output: data/events-{by}.json for hver by i CITIES-listen.
  * GitHub Pages serverer disse filene som statiske JSON-filer.
- *
- * Uten API-nøkler: bare scraping av lokale nettsider kjøres.
- * Resultatet lagres uansett – tom array om ingen kilder svarer.
  */
 
 import { writeFile, mkdir } from "node:fs/promises";
-import { fetchTicketmaster } from "../api/sources/ticketmaster.js";
-import { fetchEventbrite }   from "../api/sources/eventbrite.js";
-import { scrapeLocalSites }  from "../api/sources/scrape.js";
+import { fetchTicketmaster } from "./sources/ticketmaster.js";
+import { fetchEventbrite }   from "./sources/eventbrite.js";
+import { scrapeLocalSites }  from "./sources/scrape.js";
 
-/** Byer som skal hentes data for */
 const CITIES = ["bergen", "oslo", "trondheim", "stavanger"];
 
-/** Sikre at data/-mappen finnes */
 await mkdir("data", { recursive: true });
 
 let totalEvents = 0;
@@ -46,9 +41,7 @@ for (const city of CITIES) {
   if (ebResult.status     === "rejected") console.warn(`  ⚠ Eventbrite:   ${ebResult.reason?.message}`);
   if (scrapeResult.status === "rejected") console.warn(`  ⚠ Scraping:      ${scrapeResult.reason?.message}`);
 
-  console.log(`  Ticketmaster: ${tmEvents.length} events`);
-  console.log(`  Eventbrite:   ${ebEvents.length} events`);
-  console.log(`  Scraping:     ${scrapeEvents.length} events`);
+  console.log(`  Ticketmaster: ${tmEvents.length} | Eventbrite: ${ebEvents.length} | Scraping: ${scrapeEvents.length}`);
 
   const allEvents = deduplicate([...tmEvents, ...ebEvents, ...scrapeEvents]);
 
@@ -59,43 +52,42 @@ for (const city of CITIES) {
          - new Date(b.date + "T" + (b.time || "00:00"));
   });
 
-  const today = new Date().toLocaleDateString("sv-SE");
+  const today    = new Date().toLocaleDateString("sv-SE");
   const upcoming = allEvents.filter((e) => e.date >= today);
 
-  const outputPath = `data/events-${city}.json`;
-  const output = {
-    events: upcoming,
-    meta: {
-      city,
-      count:     upcoming.length,
-      fetchedAt: new Date().toISOString(),
-      sources: {
-        ticketmaster: tmEvents.length,
-        eventbrite:   ebEvents.length,
-        scrape:       scrapeEvents.length,
+  await writeFile(
+    `data/events-${city}.json`,
+    JSON.stringify({
+      events: upcoming,
+      meta: {
+        city,
+        count:     upcoming.length,
+        fetchedAt: new Date().toISOString(),
+        sources: {
+          ticketmaster: tmEvents.length,
+          eventbrite:   ebEvents.length,
+          scrape:       scrapeEvents.length,
+        },
       },
-    },
-  };
+    }, null, 2),
+    "utf-8"
+  );
 
-  await writeFile(outputPath, JSON.stringify(output, null, 2), "utf-8");
-  console.log(`  ✓ Lagret ${upcoming.length} kommende events → ${outputPath}`);
+  console.log(`  ✓ ${upcoming.length} kommende events → data/events-${city}.json`);
   totalEvents += upcoming.length;
 }
 
-console.log(`\n✅ Ferdig! Totalt ${totalEvents} events lagret for ${CITIES.length} byer.\n`);
+console.log(`\n✅ Ferdig! ${totalEvents} events for ${CITIES.length} byer.\n`);
 
 function deduplicate(events) {
   const priority = { ticketmaster: 0, eventbrite: 1, scrape: 2, local: 3 };
-  const seen = new Map();
+  const seen     = new Map();
   for (const event of events) {
     const key = `${event.title.toLowerCase().trim()}|${event.date}`;
     if (!seen.has(key)) {
       seen.set(key, event);
-    } else {
-      const existing = seen.get(key);
-      if ((priority[event.source] ?? 99) < (priority[existing.source] ?? 99)) {
-        seen.set(key, event);
-      }
+    } else if ((priority[event.source] ?? 99) < (priority[seen.get(key).source] ?? 99)) {
+      seen.set(key, event);
     }
   }
   return [...seen.values()];
