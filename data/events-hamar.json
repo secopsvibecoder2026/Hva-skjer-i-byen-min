@@ -8,10 +8,12 @@
       "time": "18:00",
       "endTime": "21:00",
       "location": "Vikingskipet, Hamar",
-      "categories": ["familie"],
+      "categories": [
+        "familie"
+      ],
       "ticketUrl": "https://www.getbroadcast.com/vikingskipet",
       "affiliateUrl": "https://www.getbroadcast.com/vikingskipet?ref=hvaSkjerIByenMin",
-      "imageUrl": "https://picsum.photos/seed/vikingskipet/600/300",
+      "imageUrl": null,
       "imageEmoji": "🏒",
       "sponsored": false,
       "featured": true,
@@ -25,10 +27,13 @@
       "time": "13:00",
       "endTime": "18:00",
       "location": "Vikingskipet, Hamar",
-      "categories": ["familie", "gratis"],
+      "categories": [
+        "familie",
+        "gratis"
+      ],
       "ticketUrl": "https://www.skøyteforbundet.no",
       "affiliateUrl": "https://www.skøyteforbundet.no/billetter?ref=hvaSkjerIByenMin",
-      "imageUrl": "https://picsum.photos/seed/skoyte/600/300",
+      "imageUrl": null,
       "imageEmoji": "⛸️",
       "sponsored": false,
       "featured": false,
@@ -42,10 +47,13 @@
       "time": "10:00",
       "endTime": "17:00",
       "location": "Stortorget, Hamar",
-      "categories": ["familie", "gratis"],
+      "categories": [
+        "familie",
+        "gratis"
+      ],
       "ticketUrl": null,
       "affiliateUrl": null,
-      "imageUrl": "https://picsum.photos/seed/hedmarksmarked/600/300",
+      "imageUrl": null,
       "imageEmoji": "🌾",
       "sponsored": false,
       "featured": false,
@@ -56,6 +64,11 @@
     "city": "hamar",
     "count": 3,
     "fetchedAt": "2026-03-28T05:00:00.000Z",
-    "sources": { "ticketmaster": 0, "eventbrite": 0, "scrape": 0, "note": "Seed-data." }
+    "sources": {
+      "ticketmaster": 0,
+      "eventbrite": 0,
+      "scrape": 0,
+      "note": "Seed-data."
+    }
   }
 }

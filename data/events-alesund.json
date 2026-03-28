@@ -8,10 +8,13 @@
       "time": "11:00",
       "endTime": "21:00",
       "location": "Brosundet Brygge, Ålesund",
-      "categories": ["familie", "gratis"],
+      "categories": [
+        "familie",
+        "gratis"
+      ],
       "ticketUrl": null,
       "affiliateUrl": null,
-      "imageUrl": "https://picsum.photos/seed/alesundmat/600/300",
+      "imageUrl": null,
       "imageEmoji": "🐟",
       "sponsored": false,
       "featured": true,
@@ -25,10 +28,13 @@
       "time": "18:00",
       "endTime": "23:00",
       "location": "Byparken, Ålesund",
-      "categories": ["konsert", "uteliv"],
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
       "ticketUrl": "https://www.visitalesund.com",
       "affiliateUrl": "https://www.visitalesund.com/hva-skjer/?ref=hvaSkjerIByenMin",
-      "imageUrl": "https://picsum.photos/seed/alesundjazz/600/300",
+      "imageUrl": null,
       "imageEmoji": "🎷",
       "sponsored": false,
       "featured": false,
@@ -42,10 +48,12 @@
       "time": "09:00",
       "endTime": "18:00",
       "location": "Ålesund Rutebilstasjon, Ålesund",
-      "categories": ["familie"],
+      "categories": [
+        "familie"
+      ],
       "ticketUrl": "https://www.fjordnorway.com",
       "affiliateUrl": "https://www.fjordnorway.com/turer?ref=hvaSkjerIByenMin",
-      "imageUrl": "https://picsum.photos/seed/alesundfjord/600/300",
+      "imageUrl": null,
       "imageEmoji": "⛴️",
       "sponsored": false,
       "featured": false,
@@ -56,6 +64,11 @@
     "city": "alesund",
     "count": 3,
     "fetchedAt": "2026-03-28T05:00:00.000Z",
-    "sources": { "ticketmaster": 0, "eventbrite": 0, "scrape": 0, "note": "Seed-data." }
+    "sources": {
+      "ticketmaster": 0,
+      "eventbrite": 0,
+      "scrape": 0,
+      "note": "Seed-data."
+    }
   }
 }

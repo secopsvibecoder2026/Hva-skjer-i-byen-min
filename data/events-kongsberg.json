@@ -8,10 +8,13 @@
       "time": "16:00",
       "endTime": "00:00",
       "location": "Nymoen, Kongsberg",
-      "categories": ["konsert", "uteliv"],
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
       "ticketUrl": "https://www.kongsberg-jazzfestival.no",
       "affiliateUrl": "https://www.kongsberg-jazzfestival.no/billetter?ref=hvaSkjerIByenMin",
-      "imageUrl": "https://picsum.photos/seed/kongsbergjazz/600/300",
+      "imageUrl": null,
       "imageEmoji": "⛏️",
       "sponsored": false,
       "featured": true,
@@ -25,10 +28,13 @@
       "time": "11:00",
       "endTime": "14:00",
       "location": "Sølvverket, Kongsberg",
-      "categories": ["familie", "barn"],
+      "categories": [
+        "familie",
+        "barn"
+      ],
       "ticketUrl": "https://www.visitkongsberg.no",
       "affiliateUrl": "https://www.visitkongsberg.no/attraksjoner/?ref=hvaSkjerIByenMin",
-      "imageUrl": "https://picsum.photos/seed/solvgruvene/600/300",
+      "imageUrl": null,
       "imageEmoji": "⛏️",
       "sponsored": false,
       "featured": false,
@@ -42,10 +48,13 @@
       "time": "12:00",
       "endTime": "20:00",
       "location": "Torget, Kongsberg",
-      "categories": ["familie", "gratis"],
+      "categories": [
+        "familie",
+        "gratis"
+      ],
       "ticketUrl": null,
       "affiliateUrl": null,
-      "imageUrl": "https://picsum.photos/seed/numedal/600/300",
+      "imageUrl": null,
       "imageEmoji": "🎨",
       "sponsored": false,
       "featured": false,
@@ -56,6 +65,11 @@
     "city": "kongsberg",
     "count": 3,
     "fetchedAt": "2026-03-28T05:00:00.000Z",
-    "sources": { "ticketmaster": 0, "eventbrite": 0, "scrape": 0, "note": "Seed-data." }
+    "sources": {
+      "ticketmaster": 0,
+      "eventbrite": 0,
+      "scrape": 0,
+      "note": "Seed-data."
+    }
   }
 }

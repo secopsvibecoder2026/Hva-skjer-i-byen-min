@@ -8,10 +8,13 @@
       "time": "11:00",
       "endTime": "15:00",
       "location": "Hvalfangstmuseet, Sandefjord",
-      "categories": ["familie", "barn"],
+      "categories": [
+        "familie",
+        "barn"
+      ],
       "ticketUrl": "https://www.hvalfangstmuseet.no",
       "affiliateUrl": "https://www.hvalfangstmuseet.no/billetter?ref=hvaSkjerIByenMin",
-      "imageUrl": "https://picsum.photos/seed/hvalfangst/600/300",
+      "imageUrl": null,
       "imageEmoji": "🐋",
       "sponsored": false,
       "featured": true,
@@ -25,10 +28,13 @@
       "time": "17:00",
       "endTime": "21:00",
       "location": "Byparken, Sandefjord",
-      "categories": ["konsert", "gratis"],
+      "categories": [
+        "konsert",
+        "gratis"
+      ],
       "ticketUrl": null,
       "affiliateUrl": null,
-      "imageUrl": "https://picsum.photos/seed/sandefjordkonsert/600/300",
+      "imageUrl": null,
       "imageEmoji": "🎤",
       "sponsored": false,
       "featured": false,
@@ -42,10 +48,13 @@
       "time": "10:00",
       "endTime": "16:00",
       "location": "Kulturhuset, Sandefjord",
-      "categories": ["familie", "barn"],
+      "categories": [
+        "familie",
+        "barn"
+      ],
       "ticketUrl": "https://www.sandefjord.kommune.no",
       "affiliateUrl": null,
-      "imageUrl": "https://picsum.photos/seed/gokstad/600/300",
+      "imageUrl": null,
       "imageEmoji": "⛵",
       "sponsored": false,
       "featured": false,
@@ -56,6 +65,11 @@
     "city": "sandefjord",
     "count": 3,
     "fetchedAt": "2026-03-28T05:00:00.000Z",
-    "sources": { "ticketmaster": 0, "eventbrite": 0, "scrape": 0, "note": "Seed-data." }
+    "sources": {
+      "ticketmaster": 0,
+      "eventbrite": 0,
+      "scrape": 0,
+      "note": "Seed-data."
+    }
   }
 }

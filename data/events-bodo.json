@@ -8,10 +8,13 @@
       "time": "17:00",
       "endTime": "22:00",
       "location": "Stormen Kulturhus, Bodø",
-      "categories": ["konsert", "familie"],
+      "categories": [
+        "konsert",
+        "familie"
+      ],
       "ticketUrl": "https://www.visitbodo.com",
       "affiliateUrl": "https://www.visitbodo.com/hva-skjer/?ref=hvaSkjerIByenMin",
-      "imageUrl": "https://picsum.photos/seed/bodokultyr/600/300",
+      "imageUrl": null,
       "imageEmoji": "✈️",
       "sponsored": false,
       "featured": true,
@@ -25,10 +28,12 @@
       "time": "19:00",
       "endTime": "22:00",
       "location": "Bodø Domkirke, Bodø",
-      "categories": ["konsert"],
+      "categories": [
+        "konsert"
+      ],
       "ticketUrl": "https://www.nordlandmusikkfestuke.no",
       "affiliateUrl": "https://www.nordlandmusikkfestuke.no/billetter?ref=hvaSkjerIByenMin",
-      "imageUrl": "https://picsum.photos/seed/nordlandmusikk/600/300",
+      "imageUrl": null,
       "imageEmoji": "🎻",
       "sponsored": false,
       "featured": false,
@@ -42,10 +47,12 @@
       "time": "10:00",
       "endTime": "15:00",
       "location": "Saltstraumen, Bodø",
-      "categories": ["familie"],
+      "categories": [
+        "familie"
+      ],
       "ticketUrl": "https://www.bodø.kommune.no",
       "affiliateUrl": "https://www.visitbodo.com/saltstraumen?ref=hvaSkjerIByenMin",
-      "imageUrl": "https://picsum.photos/seed/saltstraumen/600/300",
+      "imageUrl": null,
       "imageEmoji": "🌊",
       "sponsored": false,
       "featured": false,
@@ -56,6 +63,11 @@
     "city": "bodo",
     "count": 3,
     "fetchedAt": "2026-03-28T05:00:00.000Z",
-    "sources": { "ticketmaster": 0, "eventbrite": 0, "scrape": 0, "note": "Seed-data." }
+    "sources": {
+      "ticketmaster": 0,
+      "eventbrite": 0,
+      "scrape": 0,
+      "note": "Seed-data."
+    }
   }
 }

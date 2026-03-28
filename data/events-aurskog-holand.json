@@ -8,10 +8,13 @@
       "time": "10:00",
       "endTime": "16:00",
       "location": "Bjørkelangen sentrum, Aurskog-Høland",
-      "categories": ["familie", "gratis"],
+      "categories": [
+        "familie",
+        "gratis"
+      ],
       "ticketUrl": null,
       "affiliateUrl": null,
-      "imageUrl": "https://picsum.photos/seed/bjorkelangenmarked/600/300",
+      "imageUrl": null,
       "imageEmoji": "🛒",
       "sponsored": false,
       "featured": true,
@@ -25,10 +28,13 @@
       "time": "10:00",
       "endTime": "17:00",
       "location": "Bjørkelangen, Aurskog-Høland",
-      "categories": ["familie", "gratis"],
+      "categories": [
+        "familie",
+        "gratis"
+      ],
       "ticketUrl": null,
       "affiliateUrl": null,
-      "imageUrl": "https://picsum.photos/seed/bjorkelandenmaitog/600/300",
+      "imageUrl": null,
       "imageEmoji": "🇳🇴",
       "sponsored": false,
       "featured": false,
@@ -42,10 +48,13 @@
       "time": "14:00",
       "endTime": "22:00",
       "location": "Hølen, Aurskog-Høland",
-      "categories": ["konsert", "familie"],
+      "categories": [
+        "konsert",
+        "familie"
+      ],
       "ticketUrl": "https://www.ticketmaster.no",
       "affiliateUrl": "https://www.ticketmaster.no/?ref=hvaSkjerIByenMin",
-      "imageUrl": "https://picsum.photos/seed/holenfestival/600/300",
+      "imageUrl": null,
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -59,10 +68,13 @@
       "time": "11:00",
       "endTime": "16:00",
       "location": "Aurskog-Høland Bygdetun, Bjørkelangen",
-      "categories": ["familie", "barn"],
+      "categories": [
+        "familie",
+        "barn"
+      ],
       "ticketUrl": "https://www.aurskog-holand.kommune.no",
       "affiliateUrl": null,
-      "imageUrl": "https://picsum.photos/seed/aurskogbygdetun/600/300",
+      "imageUrl": null,
       "imageEmoji": "🏡",
       "sponsored": false,
       "featured": false,

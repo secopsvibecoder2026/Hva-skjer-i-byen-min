@@ -8,10 +8,13 @@
       "time": "18:00",
       "endTime": "23:30",
       "location": "Sentrum, Haugesund",
-      "categories": ["konsert", "uteliv"],
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
       "ticketUrl": "https://www.sildajazz.no",
       "affiliateUrl": "https://www.sildajazz.no/billetter?ref=hvaSkjerIByenMin",
-      "imageUrl": "https://picsum.photos/seed/sildajazz/600/300",
+      "imageUrl": null,
       "imageEmoji": "🎷",
       "sponsored": true,
       "featured": true,
@@ -25,10 +28,12 @@
       "time": "10:00",
       "endTime": "23:00",
       "location": "Haugesund Kino og sentrum, Haugesund",
-      "categories": ["familie"],
+      "categories": [
+        "familie"
+      ],
       "ticketUrl": "https://www.filmfestivalen.no",
       "affiliateUrl": "https://www.filmfestivalen.no/billetter?ref=hvaSkjerIByenMin",
-      "imageUrl": "https://picsum.photos/seed/norskfilm/600/300",
+      "imageUrl": null,
       "imageEmoji": "🎬",
       "sponsored": false,
       "featured": false,
@@ -42,10 +47,13 @@
       "time": "09:00",
       "endTime": "18:00",
       "location": "Sentrum, Haugesund",
-      "categories": ["familie", "gratis"],
+      "categories": [
+        "familie",
+        "gratis"
+      ],
       "ticketUrl": null,
       "affiliateUrl": null,
-      "imageUrl": "https://picsum.photos/seed/haugesund17mai/600/300",
+      "imageUrl": null,
       "imageEmoji": "🇳🇴",
       "sponsored": false,
       "featured": false,
@@ -56,6 +64,11 @@
     "city": "haugesund",
     "count": 3,
     "fetchedAt": "2026-03-28T05:00:00.000Z",
-    "sources": { "ticketmaster": 0, "eventbrite": 0, "scrape": 0, "note": "Seed-data." }
+    "sources": {
+      "ticketmaster": 0,
+      "eventbrite": 0,
+      "scrape": 0,
+      "note": "Seed-data."
+    }
   }
 }

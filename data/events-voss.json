@@ -8,10 +8,13 @@
       "time": "09:00",
       "endTime": "21:00",
       "location": "Voss sentrum, Voss",
-      "categories": ["familie", "uteliv"],
+      "categories": [
+        "familie",
+        "uteliv"
+      ],
       "ticketUrl": "https://www.ekstremsportveko.com",
       "affiliateUrl": "https://www.ekstremsportveko.com/billetter?ref=hvaSkjerIByenMin",
-      "imageUrl": "https://picsum.photos/seed/vossextreme/600/300",
+      "imageUrl": null,
       "imageEmoji": "🏔️",
       "sponsored": false,
       "featured": true,
@@ -25,10 +28,13 @@
       "time": "09:00",
       "endTime": "16:00",
       "location": "Vossaresort, Voss",
-      "categories": ["familie", "barn"],
+      "categories": [
+        "familie",
+        "barn"
+      ],
       "ticketUrl": "https://www.vossaresort.no",
       "affiliateUrl": "https://www.vossaresort.no/billetter?ref=hvaSkjerIByenMin",
-      "imageUrl": "https://picsum.photos/seed/vossaresort/600/300",
+      "imageUrl": null,
       "imageEmoji": "🎿",
       "sponsored": false,
       "featured": false,
@@ -42,10 +48,13 @@
       "time": "14:00",
       "endTime": "22:00",
       "location": "Voss kulturhus, Voss",
-      "categories": ["konsert", "familie"],
+      "categories": [
+        "konsert",
+        "familie"
+      ],
       "ticketUrl": "https://www.visitvoss.no",
       "affiliateUrl": "https://www.visitvoss.no/hva-skjer/?ref=hvaSkjerIByenMin",
-      "imageUrl": "https://picsum.photos/seed/vossfolkemusikk/600/300",
+      "imageUrl": null,
       "imageEmoji": "🎻",
       "sponsored": false,
       "featured": false,
@@ -59,10 +68,13 @@
       "time": "11:00",
       "endTime": "14:00",
       "location": "Vangsvatnet, Voss",
-      "categories": ["familie", "barn"],
+      "categories": [
+        "familie",
+        "barn"
+      ],
       "ticketUrl": "https://www.visitvoss.no",
       "affiliateUrl": "https://www.visitvoss.no/aktiviteter/?ref=hvaSkjerIByenMin",
-      "imageUrl": "https://picsum.photos/seed/vangsvatnet/600/300",
+      "imageUrl": null,
       "imageEmoji": "🚣",
       "sponsored": false,
       "featured": false,
@@ -73,6 +85,11 @@
     "city": "voss",
     "count": 4,
     "fetchedAt": "2026-03-28T05:00:00.000Z",
-    "sources": { "ticketmaster": 0, "eventbrite": 0, "scrape": 0, "note": "Seed-data." }
+    "sources": {
+      "ticketmaster": 0,
+      "eventbrite": 0,
+      "scrape": 0,
+      "note": "Seed-data."
+    }
   }
 }

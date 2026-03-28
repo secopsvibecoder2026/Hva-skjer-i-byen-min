@@ -8,10 +8,13 @@
       "time": "18:00",
       "endTime": "23:00",
       "location": "Fokus Kino, Tromsø",
-      "categories": ["familie", "uteliv"],
+      "categories": [
+        "familie",
+        "uteliv"
+      ],
       "ticketUrl": "https://tiff.no",
       "affiliateUrl": "https://tiff.no/billetter?ref=hvaSkjerIByenMin",
-      "imageUrl": "https://picsum.photos/seed/tromsofilm/600/300",
+      "imageUrl": null,
       "imageEmoji": "🦌",
       "sponsored": false,
       "featured": true,
@@ -25,10 +28,12 @@
       "time": "19:30",
       "endTime": "22:00",
       "location": "Kulturhuset, Tromsø",
-      "categories": ["konsert"],
+      "categories": [
+        "konsert"
+      ],
       "ticketUrl": "https://www.arktiskfilharmoni.no",
       "affiliateUrl": "https://www.arktiskfilharmoni.no/billetter?ref=hvaSkjerIByenMin",
-      "imageUrl": "https://picsum.photos/seed/nordlyskonsert/600/300",
+      "imageUrl": null,
       "imageEmoji": "🌌",
       "sponsored": false,
       "featured": false,
@@ -42,10 +47,13 @@
       "time": "20:00",
       "endTime": "01:00",
       "location": "Stortorget, Tromsø",
-      "categories": ["konsert", "uteliv"],
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
       "ticketUrl": "https://www.visittromso.no",
       "affiliateUrl": "https://www.visittromso.no/hva-skjer/?ref=hvaSkjerIByenMin",
-      "imageUrl": "https://picsum.photos/seed/midnattssol/600/300",
+      "imageUrl": null,
       "imageEmoji": "☀️",
       "sponsored": false,
       "featured": false,
@@ -59,10 +67,13 @@
       "time": "11:00",
       "endTime": "18:00",
       "location": "Perspektivet Museum, Tromsø",
-      "categories": ["familie", "gratis"],
+      "categories": [
+        "familie",
+        "gratis"
+      ],
       "ticketUrl": null,
       "affiliateUrl": null,
-      "imageUrl": "https://picsum.photos/seed/samiskkultur/600/300",
+      "imageUrl": null,
       "imageEmoji": "🥁",
       "sponsored": false,
       "featured": false,
@@ -73,6 +84,11 @@
     "city": "tromso",
     "count": 4,
     "fetchedAt": "2026-03-28T05:00:00.000Z",
-    "sources": { "ticketmaster": 0, "eventbrite": 0, "scrape": 0, "note": "Seed-data." }
+    "sources": {
+      "ticketmaster": 0,
+      "eventbrite": 0,
+      "scrape": 0,
+      "note": "Seed-data."
+    }
   }
 }
