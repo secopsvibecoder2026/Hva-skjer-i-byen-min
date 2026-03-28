@@ -93,12 +93,24 @@ a:hover { color: var(--color-primary-dk); }
    4. HERO – mørk bakgrunn med gradient og søk integrert
    ============================================================ */
 .site-header {
-  background: linear-gradient(135deg, var(--color-hero-bg) 0%, var(--color-hero-mid) 60%, #1d4ed8 100%);
+  background:
+    linear-gradient(135deg, rgba(15,23,42,.78) 0%, rgba(30,58,138,.72) 60%, rgba(29,78,216,.78) 100%),
+    url('https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/17th_of_May_Parade_%288750564359%29.jpg/1280px-17th_of_May_Parade_%288750564359%29.jpg') center 30% / cover no-repeat;
   color: var(--color-text-inv);
   padding: 3rem 1.25rem 3.5rem;
   position: relative;
   overflow: hidden;
 }
+
+.site-header__photo-credit {
+  position: absolute;
+  bottom: 0.5rem;
+  right: 0.75rem;
+  font-size: 0.68rem;
+  color: rgba(255,255,255,.6);
+  z-index: 1;
+}
+.site-header__photo-credit a { color: inherit; text-decoration: underline; }
 
 /* Subtilt mønster i bakgrunnen */
 .site-header::before {
@@ -902,45 +914,6 @@ a:hover { color: var(--color-primary-dk); }
 
 .site-header__logo-highlight { color: #fbbf24; }
 
-/* ============================================================
-   16b. HERO-BILDE
-   ============================================================ */
-.hero-img {
-  margin: 0;
-  padding: 0;
-  position: relative;
-  overflow: hidden;
-  max-height: 420px;
-}
-
-.hero-img img {
-  width: 100%;
-  height: 420px;
-  object-fit: cover;
-  object-position: center 30%;
-  display: block;
-}
-
-.hero-img__credit {
-  position: absolute;
-  bottom: 0.5rem;
-  right: 0.75rem;
-  font-size: 0.72rem;
-  color: rgba(255,255,255,.75);
-  background: rgba(0,0,0,.4);
-  padding: 0.2rem 0.5rem;
-  border-radius: 4px;
-  backdrop-filter: blur(4px);
-}
-
-.hero-img__credit a {
-  color: inherit;
-  text-decoration: underline;
-}
-
-@media (max-width: 768px) {
-  .hero-img img { height: 240px; }
-}
 
 /* ============================================================
    17. RESPONSIVT DESIGN
