@@ -22,7 +22,7 @@ import { fetchEventbrite }   from "../api/sources/eventbrite.js";
 import { scrapeLocalSites }  from "../api/sources/scrape.js";
 
 /** Byer som skal hentes data for */
-const CITIES = ["bergen", "oslo", "trondheim", "stavanger"];
+const CITIES = ["bergen", "oslo", "trondheim", "stavanger", "eidsvoll"];
 
 /** Sikre at data/-mappen finnes */
 await mkdir("data", { recursive: true });

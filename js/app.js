@@ -445,12 +445,89 @@ function setupCityPicker() {
 }
 
 /* ============================================================
+   GEOLOKASJON
+   ============================================================ */
+
+/** Haversine-avstand i km mellom to koordinater */
+function distanceKm(lat1, lon1, lat2, lon2) {
+  const R = 6371;
+  const dLat = ((lat2 - lat1) * Math.PI) / 180;
+  const dLon = ((lon2 - lon1) * Math.PI) / 180;
+  const a =
+    Math.sin(dLat / 2) ** 2 +
+    Math.cos((lat1 * Math.PI) / 180) *
+      Math.cos((lat2 * Math.PI) / 180) *
+      Math.sin(dLon / 2) ** 2;
+  return R * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+}
+
+/**
+ * Finn nærmeste aktiverte city-pill basert på GPS-koordinater
+ * og aktiver den som om brukeren klikket på den.
+ */
+function setupGeolocation() {
+  const btn = document.getElementById("locate-btn");
+  if (!btn || !navigator.geolocation) {
+    if (btn) btn.hidden = true;
+    return;
+  }
+
+  btn.addEventListener("click", () => {
+    btn.disabled = true;
+    btn.textContent = "📍 Finner deg…";
+
+    navigator.geolocation.getCurrentPosition(
+      (pos) => {
+        const { latitude, longitude } = pos.coords;
+
+        // Samle alle city-pills med koordinater (ikke disabled)
+        const pills = [...document.querySelectorAll(".city-pill[data-lat]:not([disabled])")];
+
+        if (pills.length === 0) {
+          btn.disabled = false;
+          btn.textContent = "📍 Finn meg";
+          return;
+        }
+
+        // Finn nærmeste pill
+        let nearest = null;
+        let minDist = Infinity;
+        for (const pill of pills) {
+          const d = distanceKm(
+            latitude, longitude,
+            parseFloat(pill.dataset.lat),
+            parseFloat(pill.dataset.lon)
+          );
+          if (d < minDist) { minDist = d; nearest = pill; }
+        }
+
+        btn.disabled = false;
+        btn.textContent = "📍 Finn meg";
+
+        if (nearest && nearest.dataset.city !== currentCity) {
+          nearest.click(); // Gjenbruk eksisterende city-picker logikk
+        }
+      },
+      (err) => {
+        btn.disabled = false;
+        btn.textContent = "📍 Finn meg";
+        console.warn("Geolokasjon ikke tilgjengelig:", err.message);
+        // Vis kort tilbakemelding
+        btn.setAttribute("title", "Kunne ikke hente posisjon – sjekk nettleserinnstillingene");
+      },
+      { timeout: 8000, maximumAge: 60_000 }
+    );
+  });
+}
+
+/* ============================================================
    OPPSTART
    ============================================================ */
 document.addEventListener("DOMContentLoaded", async () => {
   buildFilters();
   setupSearch();
   setupCityPicker();
+  setupGeolocation();
 
   // Last inn data
   allEvents = await fetchEvents(currentCity);
