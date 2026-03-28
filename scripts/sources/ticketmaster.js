@@ -35,6 +35,7 @@ const TM_GENRE_MAP = {
 // Koordinater og radius per by.
 // inc (include-filter): kun events der venue.city.name er i denne listen aksepteres.
 // Tomme inc = ingen filtrering (ta alt innenfor radius).
+// city: bruk TM city-parameter istedenfor latlong+radius (for byer uten lat/long-treff)
 //
 // Venue-byer er verifisert fra Actions-loggen ("Venue-byer funnet for ...").
 // Oppdater inc-listen basert på reelle logg-data, ikke gjetning.
@@ -51,7 +52,7 @@ const CITY_COORDS = {
   "trondheim":      { ll: "63.4305,10.3951",  r: 25,  inc: [] },                                        // Trondheim ✓
   "stavanger":      { ll: "58.9700,5.7331",   r: 25,  inc: [] },                                        // Stavanger ✓
   "eidsvoll":       { ll: "60.3268,11.2530",  r: 25,  inc: [] },                                        // Ikke verifisert (0 TM-events)
-  "lillestrom":     { ll: "59.9565,11.0511",  r: 25,  inc: ["Lillestrøm", "Lørenskog", "Skedsmo"] },   // TM bruker Oslo/Fornebu – filter blokkerer feil events
+  "lillestrom":     { city: "Lillestrøm",     r: 25,  inc: [] },                                        // Bruker city-søk – TM-nettside har egne Lillestrøm-events
   "aurskog-holand": { ll: "59.9000,11.4500",  r: 25,  inc: [] },                                        // Ikke verifisert (0 TM-events)
   "kristiansand":   { ll: "58.1467,7.9956",   r: 25,  inc: ["Kristiansand S", "Kristiansand"] },        // TM bruker "Kristiansand S"
   "tromso":         { ll: "69.6492,18.9553",  r: 25,  inc: [] },                                        // Ikke verifisert (0 TM-events)
@@ -91,13 +92,20 @@ export async function fetchTicketmaster(city) {
   const params = new URLSearchParams({
     apikey:        apiKey,
     countryCode:   "NO",
-    latlong:       cityConf.ll,
-    radius:        String(cityConf.r),
-    unit:          "km",
     size:          "50",
     sort:          "date,asc",
     startDateTime: new Date().toISOString().split(".")[0] + "Z",
   });
+
+  if (cityConf.city) {
+    // City-name søk: brukes for byer der lat/long gir feil venues (f.eks. Lillestrøm)
+    params.set("city", cityConf.city);
+  } else {
+    // Standard geocode-søk
+    params.set("latlong", cityConf.ll);
+    params.set("radius",  String(cityConf.r));
+    params.set("unit",    "km");
+  }
 
   const url = `https://app.ticketmaster.com/discovery/v2/events.json?${params}`;
   const res = await fetch(url);

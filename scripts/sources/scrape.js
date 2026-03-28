@@ -60,6 +60,11 @@ const CITY_SOURCES = {
       label:   "detskjerilillestrom.no",
     },
     {
+      url:     "https://www.visitgreateroslo.com/no/Romerike/hva-skjer?by=17",
+      scraper: scrapeGeneric,
+      label:   "visitgreateroslo.com",
+    },
+    {
       url:     "https://www.lillestromkultursenter.no/program/",
       scraper: scrapeGeneric,
       label:   "lillestromkultursenter.no",
