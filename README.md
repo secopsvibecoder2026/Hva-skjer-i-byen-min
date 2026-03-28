@@ -14,8 +14,10 @@ En lokal aktivitetsguide for norske byer – konserter, familieaktiviteter, grat
 - [Kom i gang lokalt](#kom-i-gang-lokalt)
 - [Deploy til GitHub Pages](#deploy-til-github-pages)
 - [Konfigurer scraping](#konfigurer-scraping)
+- [Datahåndtering](#datahåndtering)
 - [Legg til ny by](#legg-til-ny-by)
 - [Inntjening](#inntjening)
+- [Personvern og GDPR](#personvern-og-gdpr)
 - [Teknologier](#teknologier)
 - [Veikart](#veikart)
 
@@ -28,7 +30,10 @@ En lokal aktivitetsguide for norske byer – konserter, familieaktiviteter, grat
 - **Fremhevet arrangement** med stor bildebanner øverst
 - **Filtrering** på kategori: Familievennlig, Gratis, Konsert/Uteliv, Barn
 - **Live-søk** etter tittel, sted og kategori
+- **Byer:** Bergen, Oslo, Trondheim, Stavanger, Eidsvoll
+- **Geo-deteksjon:** «Finn meg»-knapp velger nærmeste by automatisk via GPS
 - **Automatisk datahenting** via GitHub Actions – kjøres daglig kl. 06:00
+- **Utløpte events slettes automatisk** ved hver kjøring
 - **Mobilvennlig** og responsivt design
 - **Inntjeningsklart**: Google AdSense-plassholde + affiliate-lenker
 - **Ingen backend** nødvendig – alt kjører gratis på GitHub
@@ -38,20 +43,25 @@ En lokal aktivitetsguide for norske byer – konserter, familieaktiviteter, grat
 ## Arkitektur
 
 ```
-GitHub Actions (cron daglig kl. 06:00)
-  ├── Ticketmaster Discovery API (NO)
-  ├── Eventbrite Public API
+GitHub Actions (cron daglig kl. 06:00 Oslo-tid)
+  ├── Ticketmaster Discovery API (NO)   ← krever TM_API_KEY
+  ├── Eventbrite Public API             ← krever EB_TOKEN
   └── Web-scraping (visitbergen.com, visitoslo.com …)
        │
-       └── data/events-bergen.json
-            data/events-oslo.json
-            data/events-trondheim.json
-            data/events-stavanger.json
-                 │
-                 └── GitHub Pages (statisk hosting)
-                          │
-                          └── Nettleseren henter /data/events-{by}.json
+       ├── data/events-bergen.json
+       ├── data/events-oslo.json
+       ├── data/events-trondheim.json
+       ├── data/events-stavanger.json
+       └── data/events-eidsvoll.json
+                │
+                └── GitHub Pages (statisk hosting)
+                         │
+                         └── Nettleseren henter /data/events-{by}.json
 ```
+
+**Uten API-nøkler** kjøres kun web-scraping. Hvis alle kilder returnerer 0 events
+(f.eks. ved midlertidig nettverksfeil), beholdes eksisterende fil – men utløpte
+events ryddes alltid.
 
 ---
 
@@ -63,13 +73,14 @@ hva-skjer-i-byen-min/
 ├── css/
 │   └── style.css                   # Design (CSS-variabler, responsivt)
 ├── js/
-│   ├── app.js                      # Frontend-logikk (søk, filtre, rendering)
+│   ├── app.js                      # Frontend-logikk (søk, filtre, geo, rendering)
 │   └── events.js                   # Lokal eksempeldata (fallback)
-├── data/                           # Generert av GitHub Actions
+├── data/                           # Oppdateres daglig av GitHub Actions
 │   ├── events-bergen.json
 │   ├── events-oslo.json
 │   ├── events-trondheim.json
-│   └── events-stavanger.json
+│   ├── events-stavanger.json
+│   └── events-eidsvoll.json
 ├── scripts/
 │   ├── scrape.mjs                  # Kjøres av GitHub Actions
 │   └── sources/
@@ -79,8 +90,9 @@ hva-skjer-i-byen-min/
 ├── .github/
 │   └── workflows/
 │       ├── deploy.yml              # Deploy frontend til GitHub Pages
-│       └── scrape.yml              # Daglig datahenting
+│       └── scrape.yml              # Daglig datahenting (cron 06:00)
 ├── package.json
+├── package-lock.json
 ├── .env.example                    # Mal for lokale miljøvariabler
 └── .gitignore
 ```
@@ -103,7 +115,7 @@ npm install
 
 ### Kjør frontend
 
-Apåne `index.html` direkte i nettleseren, eller bruk en lokal server:
+Åpne `index.html` direkte i nettleseren, eller bruk en lokal server:
 
 ```bash
 npx serve .
@@ -111,7 +123,7 @@ npx serve .
 python3 -m http.server 8080
 ```
 
-Frontenden viser lokal eksempeldata automatisk når `data/events-bergen.json` ikke finnes.
+Frontenden viser lokal eksempeldata automatisk når `data/events-{by}.json` ikke finnes.
 
 ### Kjør scraperen manuelt
 
@@ -155,7 +167,7 @@ Begge API-er er gratis. Siden fungerer også uten nøkler – da brukes kun web-
 
 **Manuell trigger av scraper:** Actions → «Scrape events» → Run workflow
 
-Scraperen kjører automatisk daglig kl. 06:00 (UTC+1).
+Scraperen kjører automatisk daglig kl. 06:00 (Oslo-tid).
 
 ### Event-dataformat
 
@@ -183,12 +195,39 @@ Alle datakilder normaliseres til dette formatet:
 
 **Kategorier:**
 
-| ID | Label | Farge |
-|----|-------|-------|
-| `familie` | Familievennlig | Grønn |
-| `gratis` | Gratis | Lilla |
-| `konsert` | Konsert / Uteliv | Rosa |
-| `barn` | Barn | Oransje |
+| ID | Label | Ikon |
+|----|-------|------|
+| `familie` | Familievennlig | 👨‍👩‍👧‍👦 |
+| `gratis` | Gratis | 🆓 |
+| `konsert` | Konsert / Uteliv | 🎵 |
+| `barn` | Barn | 🧒 |
+
+---
+
+## Datahåndtering
+
+### Daglig oppdatering
+
+GitHub Actions kjører `scripts/scrape.mjs` kl. 06:00 hver dag (UTC+1/+2).
+Scraperen henter data fra Ticketmaster, Eventbrite og norske nettsider,
+og overskriver `data/events-{by}.json` for alle fem byer.
+
+### Utløpte events
+
+Events med `date < i dag` filtreres **alltid** bort – enten ved full scraping
+eller ved rydding av eksisterende fil. Ingenting vises etter at det har gått ut.
+
+### Beskyttelse mot tom fil
+
+Hvis alle datakilder returnerer 0 events (nettverksfeil, manglende API-nøkler),
+**beholder scraperen eksisterende fil** og fjerner kun utløpte events fra den.
+Dette forhindrer at brukere ser en tom side ved midlertidige feil.
+
+### Seed-data
+
+Alle fem byer har forhåndslagrede seed-events i `data/`-mappen.
+Disse vises til GitHub Actions-scraperen kjører for første gang og
+erstatter dem med ekte data.
 
 ---
 
@@ -209,16 +248,20 @@ kristiansand: [
 **2.** `scripts/scrape.mjs` – legg til i `CITIES`:
 
 ```js
-const CITIES = ["bergen", "oslo", "trondheim", "stavanger", "kristiansand"];
+const CITIES = ["bergen", "oslo", "trondheim", "stavanger", "eidsvoll", "kristiansand"];
 ```
 
-**3.** `index.html` – legg til by-pill:
+**3.** `index.html` – legg til by-pill med GPS-koordinater:
 
 ```html
-<button class="city-pill" data-city="kristiansand">🏞️ Kristiansand</button>
+<button class="city-pill" data-city="kristiansand" data-lat="58.1599" data-lon="8.0182">
+  🏞️ Kristiansand
+</button>
 ```
 
-**4.** Push til `main` – scraperen kjører automatisk ved neste cron.
+**4.** Opprett `data/events-kristiansand.json` med seed-data (se eksisterende filer).
+
+**5.** Push til `main` – scraperen kjører automatisk ved neste cron.
 
 ---
 
@@ -247,6 +290,17 @@ For sponsede oppføringer: sett `"sponsored": true` og `"featured": true` i `dat
 
 ---
 
+## Personvern og GDPR
+
+- **Ingen cookies** settes av nettsiden selv
+- **Geo-deteksjon:** Brukerens GPS-posisjon hentes kun lokalt i nettleseren for å finne
+  nærmeste by. Posisjonen sendes ikke til noen server og lagres ikke
+- **Affiliate-lenker** kan inneholde sporingskoder fra billettleverandørene –
+  dette er opplyst i footeren og i personvernerklæringen på siden
+- Personverninformasjon vises automatisk første gang «Finn meg»-knappen brukes
+
+---
+
 ## Teknologier
 
 | Område | Teknologi |
@@ -256,17 +310,18 @@ For sponsede oppføringer: sett `"sponsored": true` og `"featured": true` i `dat
 | Automatisering | GitHub Actions (gratis, 2000 min/mnd) |
 | Datakilde | Ticketmaster API, Eventbrite API, web-scraping |
 | Scraping | `node-html-parser` (ingen headless browser) |
+| Geo-deteksjon | Browser Geolocation API + Haversine-distanse |
 
 ---
 
 ## Veikart
 
-- [ ] Aktiver Oslo, Trondheim og Stavanger med egne scraping-mål
 - [ ] Kartvisning (Leaflet.js) med pins per arrangement
-- [ ] "Lagre til favoritter" (localStorage)
+- [ ] «Lagre til favoritter» (localStorage)
 - [ ] Skjema for arrangører til å sende inn eget event
 - [ ] Prisfilter (gratis / under 200 kr / over 200 kr)
 - [ ] E-post-varsler for nye events i valgt kategori
+- [ ] Legge til flere byer (Kristiansand, Tromsø, Ålesund …)
 
 ---
 
