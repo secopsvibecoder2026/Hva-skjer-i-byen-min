@@ -39,14 +39,90 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vFMaN1p",
+      "title": "Liverpoolfestivalen 2026 - FESTIVALPASS",
+      "description": "Arrangement på Gjøvik",
+      "date": "2026-07-30",
+      "time": "00:00",
+      "endTime": null,
+      "location": "Gjøvik",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/liverpoolfestivalen-2026-festivalpass-tickets/1237263296?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/liverpoolfestivalen-2026-festivalpass-tickets/1237263296?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/74b/a7a92cad-4075-44d7-989a-0aa85c06774b_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "⚽",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16v7kuovZ",
+      "title": "Liverpoolfestivalen",
+      "description": "Arrangement på Gjøvik",
+      "date": "2026-07-30",
+      "time": "16:00",
+      "endTime": null,
+      "location": "Gjøvik",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/liverpoolfestivalen-tickets/1106351040?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/liverpoolfestivalen-tickets/1106351040?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/74b/a7a92cad-4075-44d7-989a-0aa85c06774b_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "⚽",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1k8IedQ7",
+      "title": "Liverpoolfestivalen",
+      "description": "Arrangement på Gjøvik",
+      "date": "2026-07-31",
+      "time": "12:00",
+      "endTime": null,
+      "location": "Gjøvik",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/liverpoolfestivalen-tickets/428083684?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/liverpoolfestivalen-tickets/428083684?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/74b/a7a92cad-4075-44d7-989a-0aa85c06774b_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "⚽",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kf0bIp9",
+      "title": "Liverpoolfestivalen",
+      "description": "Arrangement på Gjøvik",
+      "date": "2026-08-01",
+      "time": "12:00",
+      "endTime": null,
+      "location": "Gjøvik",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/liverpoolfestivalen-tickets/524628597?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/liverpoolfestivalen-tickets/524628597?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/74b/a7a92cad-4075-44d7-989a-0aa85c06774b_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "⚽",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "hamar",
-    "count": 2,
-    "fetchedAt": "2026-03-28T19:29:44.593Z",
+    "count": 6,
+    "fetchedAt": "2026-03-28T20:01:17.697Z",
     "sources": {
-      "ticketmaster": 2,
+      "ticketmaster": 6,
       "eventbrite": 0,
       "scrape": 0
     }

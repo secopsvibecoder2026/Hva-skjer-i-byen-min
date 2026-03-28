@@ -1,9 +1,970 @@
 {
-  "events": [],
+  "events": [
+    {
+      "id": "tm-Z698xZb_Z16v1vO000",
+      "title": "Kløbb Ka2",
+      "description": "Arrangement på Rockefeller, Oslo",
+      "date": "2026-03-28",
+      "time": "22:00",
+      "endTime": null,
+      "location": "Rockefeller, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/klobb-ka2-tickets/1281824924?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/klobb-ka2-tickets/1281824924?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/fc1/f38020ab-0f7f-47e0-9c40-9d3f88d6cfc1_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vbf0U-J",
+      "title": "INFERNO METAL FESTIVAL 2026 - Pass",
+      "description": "Arrangement på Rockefeller, Oslo",
+      "date": "2026-04-02",
+      "time": "00:00",
+      "endTime": null,
+      "location": "Rockefeller, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/inferno-metal-festival-2026-pass-tickets/1614936866?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/inferno-metal-festival-2026-pass-tickets/1614936866?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/823/00edc29d-0540-402d-ab4a-1102d0e40823_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1k7OAt0b",
+      "title": "Black Metal Bus Sightseeing",
+      "description": "Arrangement på Clarion Hotel The Hub, Oslo",
+      "date": "2026-04-02",
+      "time": "11:30",
+      "endTime": null,
+      "location": "Clarion Hotel The Hub, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/black-metal-bus-sightseeing-tickets/120169918?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/black-metal-bus-sightseeing-tickets/120169918?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/e7c/86478562-7218-4e8f-b9d4-8080fe168e7c_105581_TABLET_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vvZFvq7",
+      "title": "St Matthew Passion by J. S. Bach",
+      "description": "Arrangement på Oslo domkirke, Oslo",
+      "date": "2026-04-02",
+      "time": "15:00",
+      "endTime": null,
+      "location": "Oslo domkirke, Oslo",
+      "categories": [
+        "konsert",
+        "familie"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/st-matthew-passion-by-j-s-bach-tickets/1040201744?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/st-matthew-passion-by-j-s-bach-tickets/1040201744?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/f15/313f3826-a4f1-4d21-9bd5-ae740f146f15_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16v-sZ-a4",
+      "title": "INFERNO METAL FESTIVAL 2026 - 4 DAYS FESTIVAL + 3 DAYS CONFERENCE",
+      "description": "Arrangement på Rockefeller, Oslo",
+      "date": "2026-04-02",
+      "time": "16:00",
+      "endTime": null,
+      "location": "Rockefeller, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/inferno-metal-festival-2026-4-days-festival--3-days-conference-tickets/1871021255?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/inferno-metal-festival-2026-4-days-festival--3-days-conference-tickets/1871021255?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/e7c/86478562-7218-4e8f-b9d4-8080fe168e7c_105581_TABLET_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1k3pab_7",
+      "title": "INFERNO METAL FESTIVAL 2026 - Thursday Ticket",
+      "description": "Arrangement på Rockefeller, Oslo",
+      "date": "2026-04-02",
+      "time": "16:00",
+      "endTime": null,
+      "location": "Rockefeller, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/inferno-metal-festival-2026-thursday-ticket-tickets/496258644?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/inferno-metal-festival-2026-thursday-ticket-tickets/496258644?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/e7c/86478562-7218-4e8f-b9d4-8080fe168e7c_105581_TABLET_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kvKo6PI",
+      "title": "In the Footsteps of Munch",
+      "description": "Arrangement på Clarion Hotel The Hub, Oslo",
+      "date": "2026-04-03",
+      "time": "11:00",
+      "endTime": null,
+      "location": "Clarion Hotel The Hub, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/in-the-footsteps-of-munch-tickets/53447968?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/in-the-footsteps-of-munch-tickets/53447968?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/e7c/86478562-7218-4e8f-b9d4-8080fe168e7c_105581_TABLET_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16v4V7-xb",
+      "title": "Black Metal Bus Sightseeing",
+      "description": "Arrangement på Clarion Hotel The Hub, Oslo",
+      "date": "2026-04-03",
+      "time": "11:30",
+      "endTime": null,
+      "location": "Clarion Hotel The Hub, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/black-metal-bus-sightseeing-tickets/1574121898?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/black-metal-bus-sightseeing-tickets/1574121898?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/e7c/86478562-7218-4e8f-b9d4-8080fe168e7c_105581_TABLET_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16ee9f8ka",
+      "title": "INFERNO METAL FESTIVAL 2026 - Friday Ticket",
+      "description": "Arrangement på Rockefeller, Oslo",
+      "date": "2026-04-03",
+      "time": "16:00",
+      "endTime": null,
+      "location": "Rockefeller, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/inferno-metal-festival-2026-friday-ticket-tickets/2097510189?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/inferno-metal-festival-2026-friday-ticket-tickets/2097510189?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/e7c/86478562-7218-4e8f-b9d4-8080fe168e7c_105581_TABLET_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kONufq7",
+      "title": "St Matthew Passion by J. S. Bach",
+      "description": "Arrangement på Oslo domkirke, Oslo",
+      "date": "2026-04-03",
+      "time": "17:00",
+      "endTime": null,
+      "location": "Oslo domkirke, Oslo",
+      "categories": [
+        "konsert",
+        "familie"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/st-matthew-passion-by-j-s-bach-tickets/823354744?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/st-matthew-passion-by-j-s-bach-tickets/823354744?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/293/e6810afe-192a-49ea-b918-01c537b6c293_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kog_O_z",
+      "title": "In the Footsteps of Munch",
+      "description": "Arrangement på Clarion Hotel The Hub, Oslo",
+      "date": "2026-04-04",
+      "time": "11:00",
+      "endTime": null,
+      "location": "Clarion Hotel The Hub, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/in-the-footsteps-of-munch-tickets/475660678?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/in-the-footsteps-of-munch-tickets/475660678?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/e7c/86478562-7218-4e8f-b9d4-8080fe168e7c_105581_TABLET_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kx7J8_0",
+      "title": "Charlie Koryn – Dimensional Playing in Extreme Music.",
+      "description": "Arrangement på Clarion Hotel The Hub, Oslo",
+      "date": "2026-04-04",
+      "time": "11:30",
+      "endTime": null,
+      "location": "Clarion Hotel The Hub, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/charlie-koryn--dimensional-playing-in-extreme-music-tickets/884990664?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/charlie-koryn--dimensional-playing-in-extreme-music-tickets/884990664?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/e7c/86478562-7218-4e8f-b9d4-8080fe168e7c_105581_TABLET_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kvye8qv",
+      "title": "Orgelkonsert på påskeaften",
+      "description": "Arrangement på Oslo domkirke, Oslo",
+      "date": "2026-04-04",
+      "time": "12:00",
+      "endTime": null,
+      "location": "Oslo domkirke, Oslo",
+      "categories": [
+        "konsert",
+        "familie"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/orgelkonsert-pa-paskeaften-tickets/79090741?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/orgelkonsert-pa-paskeaften-tickets/79090741?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/ddf/d850b4dd-71f3-4b63-95c3-a53983585ddf_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kvtffCF",
+      "title": "ESP Guitar Clinic Featuring Mayhem",
+      "description": "Arrangement på Clarion Hotel The Hub, Oslo",
+      "date": "2026-04-04",
+      "time": "14:00",
+      "endTime": null,
+      "location": "Clarion Hotel The Hub, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/esp-guitar-clinic-featuring-mayhem-tickets/69514388?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/esp-guitar-clinic-featuring-mayhem-tickets/69514388?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/e7c/86478562-7218-4e8f-b9d4-8080fe168e7c_105581_TABLET_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kb7qgvU",
+      "title": "INFERNO METAL FESTIVAL 2026 - Saturday Ticket",
+      "description": "Arrangement på Rockefeller, Oslo",
+      "date": "2026-04-04",
+      "time": "16:00",
+      "endTime": null,
+      "location": "Rockefeller, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/inferno-metal-festival-2026-saturday-ticket-tickets/604775076?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/inferno-metal-festival-2026-saturday-ticket-tickets/604775076?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/e7c/86478562-7218-4e8f-b9d4-8080fe168e7c_105581_TABLET_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16ve6k8PP",
+      "title": "Inferno Music Conference 2026",
+      "description": "Arrangement på Clarion Hotel The Hub, Oslo",
+      "date": "2026-04-05",
+      "time": "00:00",
+      "endTime": null,
+      "location": "Clarion Hotel The Hub, Oslo",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/inferno-music-conference-2026-tickets/1087190965?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/inferno-music-conference-2026-tickets/1087190965?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/e7c/86478562-7218-4e8f-b9d4-8080fe168e7c_105581_TABLET_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎭",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16v_FGz_f",
+      "title": "In the Footsteps of Munch",
+      "description": "Arrangement på Clarion Hotel The Hub, Oslo",
+      "date": "2026-04-05",
+      "time": "11:00",
+      "endTime": null,
+      "location": "Clarion Hotel The Hub, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/in-the-footsteps-of-munch-tickets/1648338654?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/in-the-footsteps-of-munch-tickets/1648338654?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/e7c/86478562-7218-4e8f-b9d4-8080fe168e7c_105581_TABLET_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1k0Pu7xZ",
+      "title": "INFERNO METAL FESTIVAL 2026- Sunday Ticket",
+      "description": "Arrangement på Rockefeller, Oslo",
+      "date": "2026-04-05",
+      "time": "16:00",
+      "endTime": null,
+      "location": "Rockefeller, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/inferno-metal-festival-2026-sunday-ticket-tickets/925344880?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/inferno-metal-festival-2026-sunday-ticket-tickets/925344880?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/e7c/86478562-7218-4e8f-b9d4-8080fe168e7c_105581_TABLET_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kax_Ox4",
+      "title": "Poppy: Constantly Nowhere Tour ",
+      "description": "Arrangement på Sentrum Scene, Oslo",
+      "date": "2026-04-07",
+      "time": "18:00",
+      "endTime": null,
+      "location": "Sentrum Scene, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/poppy-constantly-nowhere-tour-tickets/262660895?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/poppy-constantly-nowhere-tour-tickets/262660895?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/89a/8d02ddbd-e158-4e63-870c-78191a9b789a_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vako3fS",
+      "title": "Big Thief",
+      "description": "Arrangement på Sentrum Scene, Oslo",
+      "date": "2026-04-08",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Sentrum Scene, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/big-thief-tickets/1246452533?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/big-thief-tickets/1246452533?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/3d1/5c707006-f2ea-4a87-b641-8cf814b8c3d1_SOURCE",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kuo0ya0",
+      "title": "Big Thief",
+      "description": "Arrangement på Sentrum Scene, Oslo",
+      "date": "2026-04-09",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Sentrum Scene, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/big-thief-tickets/351939264?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/big-thief-tickets/351939264?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/3d1/5c707006-f2ea-4a87-b641-8cf814b8c3d1_SOURCE",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1k7d3vQe",
+      "title": "KREAM",
+      "description": "Arrangement på Sentrum Scene, Oslo",
+      "date": "2026-04-10",
+      "time": "00:00",
+      "endTime": null,
+      "location": "Sentrum Scene, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/kream-tickets/103481682?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/kream-tickets/103481682?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/07f/eadc5dcb-3fea-4133-a5de-c200b770307f_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16evZ86Ay",
+      "title": "Fit For A King - Lonely God European Tour 2026",
+      "description": "Arrangement på Rockefeller, Oslo",
+      "date": "2026-04-10",
+      "time": "18:00",
+      "endTime": null,
+      "location": "Rockefeller, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/fit-for-a-king-lonely-god-european-tour-2026-tickets/2040407179?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/fit-for-a-king-lonely-god-european-tour-2026-tickets/2040407179?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/cb9/410920bc-8b6e-4aaa-af4c-e6c73bb80cb9_SOURCE",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kGJ76QF",
+      "title": "Royal Jam",
+      "description": "Arrangement på John Dee, Oslo",
+      "date": "2026-04-10",
+      "time": "19:00",
+      "endTime": null,
+      "location": "John Dee, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/royal-jam-tickets/326107688?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/royal-jam-tickets/326107688?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/5ec/c090e03f-7e75-4510-91ae-58151618d5ec_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vQa7Y4k",
+      "title": "dEUS",
+      "description": "Arrangement på Rockefeller, Oslo",
+      "date": "2026-04-11",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Rockefeller, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/deus-tickets/1689130546?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/deus-tickets/1689130546?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/f00/127608cd-c003-4569-8c19-be8335ad7f00_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vp3A98f",
+      "title": "Solence",
+      "description": "Arrangement på John Dee, Oslo",
+      "date": "2026-04-11",
+      "time": "19:00",
+      "endTime": null,
+      "location": "John Dee, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/solence-tickets/1592157414?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/solence-tickets/1592157414?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/4fc/124b8ea0-775b-4a19-867c-473fa6ce14fc_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vjo-S0Y",
+      "title": "Witch Fever",
+      "description": "Arrangement på John Dee, Oslo",
+      "date": "2026-04-13",
+      "time": "19:00",
+      "endTime": null,
+      "location": "John Dee, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/witch-fever-tickets/1711873930?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/witch-fever-tickets/1711873930?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/835/44fd9581-3073-44ba-acc7-c2e1419d0835_SOURCE",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vPkj4GK",
+      "title": "TUCKER WETMORE | VIP",
+      "description": "Arrangement på Rockefeller, Oslo",
+      "date": "2026-04-14",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Rockefeller, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/tucker-wetmore-%7C-vip-tickets/1946715313?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/tucker-wetmore-%7C-vip-tickets/1946715313?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/1dd/ed874b36-2e29-45f1-8eed-bf4f3185b1dd_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vjMCpC9",
+      "title": "Tucker Wetmore",
+      "description": "Arrangement på Rockefeller, Oslo",
+      "date": "2026-04-14",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Rockefeller, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/tucker-wetmore-tickets/1737396397?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/tucker-wetmore-tickets/1737396397?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/1de/1d39387e-9d15-4056-b7ab-ae5da59c31de_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vbU8Abg",
+      "title": "BYTING",
+      "description": "Arrangement på John Dee, Oslo",
+      "date": "2026-04-15",
+      "time": "19:00",
+      "endTime": null,
+      "location": "John Dee, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/byting-tickets/1636405635?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/byting-tickets/1636405635?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/efb/6d0480c9-ac58-4e74-b49a-fb31a335eefb_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16v38b7bS",
+      "title": "Alex Warren – Finding Family on the Road",
+      "description": "Arrangement på Unity Arena, Fornebu",
+      "date": "2026-04-15",
+      "time": "20:00",
+      "endTime": null,
+      "location": "Unity Arena, Fornebu",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/alex-warren--finding-family-on-the-road-tickets/1490604633?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/alex-warren--finding-family-on-the-road-tickets/1490604633?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/5ff/9e496d94-06e5-4d72-897a-b63536c2c5ff_TABLET_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vGsaIf_",
+      "title": "Karnivool",
+      "description": "Arrangement på Rockefeller, Oslo",
+      "date": "2026-04-16",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Rockefeller, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/karnivool-tickets/1331268519?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/karnivool-tickets/1331268519?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/1a9/a6d24197-d784-41bc-b793-66f48bd641a9_TABLET_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vrKGK08",
+      "title": "Girl Scout",
+      "description": "Arrangement på John Dee, Oslo",
+      "date": "2026-04-16",
+      "time": "19:00",
+      "endTime": null,
+      "location": "John Dee, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/girl-scout-tickets/1793313910?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/girl-scout-tickets/1793313910?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/4d6/a4829f8a-1560-43cc-b862-7df03fd6b4d6_TABLET_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vfgQaqY",
+      "title": "5 Seconds of Summer - Everyone's a star! World Tour",
+      "description": "Arrangement på Unity Arena, Fornebu",
+      "date": "2026-04-16",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Unity Arena, Fornebu",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/5-seconds-of-summer-everyones-a-star-world-tour-tickets/1535689770?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/5-seconds-of-summer-everyones-a-star-world-tour-tickets/1535689770?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/ce2/922873d9-c41f-461b-9486-5c5adab78ce2_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kb80g3b",
+      "title": "5 Seconds of Summer - Everyone's a star! World Tour | VIP",
+      "description": "Arrangement på Unity Arena, Fornebu",
+      "date": "2026-04-16",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Unity Arena, Fornebu",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/5-seconds-of-summer-everyones-a-star-world-tour-%7C-vip-tickets/610935498?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/5-seconds-of-summer-everyones-a-star-world-tour-%7C-vip-tickets/610935498?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/ce2/922873d9-c41f-461b-9486-5c5adab78ce2_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vZa_baZ",
+      "title": "Annika",
+      "description": "Arrangement på Sentrum Scene, Oslo",
+      "date": "2026-04-17",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Sentrum Scene, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/annika-tickets/1009658240?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/annika-tickets/1009658240?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/9fd/94e8cea0-fc44-4dd7-aab0-fed2a1c6b9fd_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vAf-tbS",
+      "title": "Hagle",
+      "description": "Arrangement på Rockefeller, Oslo",
+      "date": "2026-04-18",
+      "time": "16:00",
+      "endTime": null,
+      "location": "Rockefeller, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/hagle-tickets/1154869633?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/hagle-tickets/1154869633?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/459/b256394b-49a0-44a8-bb9e-df0015883459_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kA4x98g",
+      "title": "Matt Rife: Stay Golden Tour",
+      "description": "Arrangement på Unity Arena, Fornebu",
+      "date": "2026-04-18",
+      "time": "18:00",
+      "endTime": null,
+      "location": "Unity Arena, Fornebu",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/matt-rife-stay-golden-tour-tickets/155897435?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/matt-rife-stay-golden-tour-tickets/155897435?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/3a0/fd003cd1-c834-49c3-93cc-7366d77153a0_SOURCE",
+      "imageEmoji": "🎭",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vqzebob",
+      "title": "Ninja Sex Party & TWRP - Pure Elegance Tour",
+      "description": "Arrangement på Sentrum Scene, Oslo",
+      "date": "2026-04-18",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Sentrum Scene, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/ninja-sex-party--twrp-pure-elegance-tour-tickets/1778098458?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/ninja-sex-party--twrp-pure-elegance-tour-tickets/1778098458?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/4a8/487eb89f-42f6-4fbe-8059-d92ea87dc4a8_SOURCE",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18Q_3rGZPOyZZl0fyp",
+      "title": "Arna for Helvete // Supp: Morfars Monokkel",
+      "description": "Arrangement på Oslo",
+      "date": "2026-04-18",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.universe.com/events/arna-for-helvete-supp-morfars-monokkel-tickets-N7RVML?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/arna-for-helvete-supp-morfars-monokkel-tickets-N7RVML?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kepb-aU",
+      "title": "Masterwork recital - Chopin/Grieg/Liszt recital",
+      "description": "Arrangement på Kampen Kirke, Oslo, Oslo",
+      "date": "2026-04-19",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Kampen Kirke, Oslo, Oslo",
+      "categories": [
+        "konsert",
+        "familie"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/masterwork-recital-chopin-grieg-liszt-recital-tickets/96621276?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/masterwork-recital-chopin-grieg-liszt-recital-tickets/96621276?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/426/de51a23a-e20c-4ec2-91d3-3a13d3c87426_SOURCE",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1A3qpPw",
+      "title": "Christopher Cross",
+      "description": "Arrangement på Sentrum Scene, Oslo",
+      "date": "2026-04-21",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Sentrum Scene, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/christopher-cross-tickets/12756972?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/christopher-cross-tickets/12756972?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/cc4/424765cf-5027-4035-8fbb-e33af28adcc4_TABLET_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kFfbg47",
+      "title": "The Barr Brothers",
+      "description": "Arrangement på John Dee, Oslo",
+      "date": "2026-04-21",
+      "time": "19:00",
+      "endTime": null,
+      "location": "John Dee, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/the-barr-brothers-tickets/214635544?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/the-barr-brothers-tickets/214635544?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/538/cda26f70-1df2-4899-b191-102c13af7538_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16v8s-P4I",
+      "title": "CécCécile Moroni - 'Allo Norge!",
+      "description": "Arrangement på John Dee, Oslo",
+      "date": "2026-04-22",
+      "time": "19:00",
+      "endTime": null,
+      "location": "John Dee, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/ceccecile-moroni-allo-norge-tickets/1431865568?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/ceccecile-moroni-allo-norge-tickets/1431865568?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/ac6/2572a983-fb51-49b4-bfed-47884f089ac6_TABLET_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18Qj1F0ma6n8vG1EUO",
+      "title": "The Norway Show: Once Upon a Fjord",
+      "description": "Arrangement på Oslo",
+      "date": "2026-04-23",
+      "time": "15:00",
+      "endTime": null,
+      "location": "Oslo",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.universe.com/events/the-norway-show-once-upon-a-fjord-tickets-QD9WKF?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/the-norway-show-once-upon-a-fjord-tickets-QD9WKF?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://images.universe.com/122fcbd3-0faf-449b-aff4-8e7652412cab/-/format/jpeg/-/scale_crop/1024x576/center/-/progressive/yes/-/inline/yes/",
+      "imageEmoji": "🎭",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16eZ4fzPS",
+      "title": "Fatoumata Diawara",
+      "description": "Arrangement på Sentrum Scene, Oslo",
+      "date": "2026-04-23",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Sentrum Scene, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/fatoumata-diawara-tickets/2015538973?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/fatoumata-diawara-tickets/2015538973?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/717/921cb540-0d5f-45ab-a90a-1a98f790c717_SOURCE",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vjk14Pa",
+      "title": "Ufred. Russland fra Innsiden.",
+      "description": "Arrangement på Chateau Neuf,Storsalen, Oslo",
+      "date": "2026-04-23",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Chateau Neuf,Storsalen, Oslo",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/ufred-russland-fra-innsiden-tickets/1706295949?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/ufred-russland-fra-innsiden-tickets/1706295949?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/fee/ecfcfab8-c4a4-4502-b4c2-d1dfcd184fee_TABLET_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎭",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18Qj26npYBuZZzzX4W",
+      "title": "The Norway Show: Once Upon a Fjord",
+      "description": "Arrangement på Oslo",
+      "date": "2026-04-24",
+      "time": "15:00",
+      "endTime": null,
+      "location": "Oslo",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.universe.com/events/the-norway-show-once-upon-a-fjord-tickets-PTWMFS?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/the-norway-show-once-upon-a-fjord-tickets-PTWMFS?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://images.universe.com/122fcbd3-0faf-449b-aff4-8e7652412cab/-/format/jpeg/-/scale_crop/1024x576/center/-/progressive/yes/-/inline/yes/",
+      "imageEmoji": "🎭",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kaSOsAS",
+      "title": "Kreator",
+      "description": "Arrangement på Sentrum Scene, Oslo",
+      "date": "2026-04-24",
+      "time": "17:30",
+      "endTime": null,
+      "location": "Sentrum Scene, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/kreator-tickets/273831173?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/kreator-tickets/273831173?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/9e3/bd205d0d-5a54-4808-8eaa-e7a21d4d59e3_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    }
+  ],
   "meta": {
     "city": "lillestrom",
-    "count": 0,
-    "fetchedAt": "2026-03-28T18:50:19.112Z",
+    "count": 49,
+    "fetchedAt": "2026-03-28T20:01:09.047Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,
