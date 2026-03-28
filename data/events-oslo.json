@@ -1,26 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z16v1vO000",
-      "title": "Kløbb Ka2",
-      "description": "Arrangement på Rockefeller, Oslo",
-      "date": "2026-03-28",
-      "time": "22:00",
-      "endTime": null,
-      "location": "Rockefeller, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/klobb-ka2-tickets/1281824924?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/klobb-ka2-tickets/1281824924?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/fc1/f38020ab-0f7f-47e0-9c40-9d3f88d6cfc1_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z16vbf0U-J",
       "title": "INFERNO METAL FESTIVAL 2026 - Pass",
       "description": "Arrangement på Rockefeller, Oslo",
@@ -959,12 +939,32 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vQpA70J",
+      "title": "Hester V75",
+      "description": "Arrangement på Rockefeller, Oslo",
+      "date": "2026-04-24",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Rockefeller, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/hester-v75-tickets/1696144926?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/hester-v75-tickets/1696144926?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/769/587d99db-f0b6-4cc1-b6b4-55bec7afa769_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 49,
-    "fetchedAt": "2026-03-28T20:56:09.689Z",
+    "fetchedAt": "2026-03-28T21:42:36.829Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,
