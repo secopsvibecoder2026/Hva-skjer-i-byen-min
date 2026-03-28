@@ -1,95 +1,13 @@
 {
-  "events": [
-    {
-      "id": "aurskog-holand-1",
-      "title": "Bjørkelangen Marked – Vår 2026",
-      "description": "Tradisjonsrikt vårmarked på Bjørkelangen. Lokale bønder, håndverkere og matprodusenter samles. Hyggelig familiedag med mye å se og smake på.",
-      "date": "2026-05-02",
-      "time": "10:00",
-      "endTime": "16:00",
-      "location": "Bjørkelangen sentrum, Aurskog-Høland",
-      "categories": [
-        "familie",
-        "gratis"
-      ],
-      "ticketUrl": null,
-      "affiliateUrl": null,
-      "imageUrl": null,
-      "imageEmoji": "🛒",
-      "sponsored": false,
-      "featured": true,
-      "source": "local"
-    },
-    {
-      "id": "aurskog-holand-2",
-      "title": "17. mai feiring – Bjørkelangen",
-      "description": "Nasjonaldagsfeiring med barnetog, musikkorps og familieaktiviteter i Bjørkelangen. Folkefest og god stemning for hele bygda.",
-      "date": "2026-05-17",
-      "time": "10:00",
-      "endTime": "17:00",
-      "location": "Bjørkelangen, Aurskog-Høland",
-      "categories": [
-        "familie",
-        "gratis"
-      ],
-      "ticketUrl": null,
-      "affiliateUrl": null,
-      "imageUrl": null,
-      "imageEmoji": "🇳🇴",
-      "sponsored": false,
-      "featured": false,
-      "source": "local"
-    },
-    {
-      "id": "aurskog-holand-3",
-      "title": "Hølenfestivalen 2026",
-      "description": "Lokalt musikkfestival ved Hølenelva. Norske artister, god mat og flott natur. Sommer-stemning for hele familien i naturskjønne omgivelser.",
-      "date": "2026-07-04",
-      "time": "14:00",
-      "endTime": "22:00",
-      "location": "Hølen, Aurskog-Høland",
-      "categories": [
-        "konsert",
-        "familie"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no",
-      "affiliateUrl": "https://www.ticketmaster.no/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "local"
-    },
-    {
-      "id": "aurskog-holand-4",
-      "title": "Familiedag – Aurskog-Høland Bygdetun",
-      "description": "Opplev lokal kulturhistorie på bygdetunet! Guidede turer, gamle håndverk og aktiviteter for barn. Gratis inngang for barn under 16 år.",
-      "date": "2026-06-14",
-      "time": "11:00",
-      "endTime": "16:00",
-      "location": "Aurskog-Høland Bygdetun, Bjørkelangen",
-      "categories": [
-        "familie",
-        "barn"
-      ],
-      "ticketUrl": "https://www.aurskog-holand.kommune.no",
-      "affiliateUrl": null,
-      "imageUrl": null,
-      "imageEmoji": "🏡",
-      "sponsored": false,
-      "featured": false,
-      "source": "local"
-    }
-  ],
+  "events": [],
   "meta": {
     "city": "aurskog-holand",
-    "count": 4,
-    "fetchedAt": "2026-03-28T05:00:00.000Z",
+    "count": 0,
+    "fetchedAt": "2026-03-28T20:24:16.904Z",
     "sources": {
       "ticketmaster": 0,
       "eventbrite": 0,
-      "scrape": 0,
-      "note": "Seed-data. Erstattes av GitHub Actions scraper ved neste kjøring."
+      "scrape": 0
     }
   }
 }

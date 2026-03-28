@@ -1,32 +1,11 @@
 {
-  "events": [
-    {
-      "id": "tm-Z698xZb_Z1kCZbfZf",
-      "title": "KAKTUSFESTIVALEN BRYGGA KULTURSAL 29. OG 30. MAI 2026",
-      "description": "Arrangement på Brygga Kultursal, Halden",
-      "date": "2026-05-28",
-      "time": "00:00",
-      "endTime": null,
-      "location": "Brygga Kultursal, Halden",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/kaktusfestivalen-brygga-kultursal-29-og-30-mai-2026-tickets/380614014?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/kaktusfestivalen-brygga-kultursal-29-og-30-mai-2026-tickets/380614014?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/b5a/432171ec-2972-42de-8dc6-e50dde071b5a_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    }
-  ],
+  "events": [],
   "meta": {
     "city": "fredrikstad",
-    "count": 1,
-    "fetchedAt": "2026-03-28T18:50:23.018Z",
+    "count": 0,
+    "fetchedAt": "2026-03-28T20:24:20.344Z",
     "sources": {
-      "ticketmaster": 1,
+      "ticketmaster": 0,
       "eventbrite": 0,
       "scrape": 0
     }

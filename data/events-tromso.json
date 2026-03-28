@@ -1,94 +1,13 @@
 {
-  "events": [
-    {
-      "id": "tromso-1",
-      "title": "Tromsø Internasjonale Filmfestival 2026",
-      "description": "En av Nordens ledende filmfestivaler samler filmelskere fra hele verden i januarmørket. Visninger, debatter og kulturopplevelser i verdens nordligste by av sin størrelse.",
-      "date": "2026-10-17",
-      "time": "18:00",
-      "endTime": "23:00",
-      "location": "Fokus Kino, Tromsø",
-      "categories": [
-        "familie",
-        "uteliv"
-      ],
-      "ticketUrl": "https://tiff.no",
-      "affiliateUrl": "https://tiff.no/billetter?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🦌",
-      "sponsored": false,
-      "featured": true,
-      "source": "local"
-    },
-    {
-      "id": "tromso-2",
-      "title": "Nordlyskonsert – Arktisk Filharmoni",
-      "description": "Arktisk Filharmoni fremfører storslåtte verk under den arktiske himmelen. En magisk musikkopplevelse med mulighet for nordlys.",
-      "date": "2026-11-14",
-      "time": "19:30",
-      "endTime": "22:00",
-      "location": "Kulturhuset, Tromsø",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.arktiskfilharmoni.no",
-      "affiliateUrl": "https://www.arktiskfilharmoni.no/billetter?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🌌",
-      "sponsored": false,
-      "featured": false,
-      "source": "local"
-    },
-    {
-      "id": "tromso-3",
-      "title": "Midnattssol-festival",
-      "description": "Feir midnattsolen i Tromsø med musikk, kunst og kultur under sola som aldri går ned. Festivalen samler artister og publikum i en unik arktisk stemning.",
-      "date": "2026-06-20",
-      "time": "20:00",
-      "endTime": "01:00",
-      "location": "Stortorget, Tromsø",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "ticketUrl": "https://www.visittromso.no",
-      "affiliateUrl": "https://www.visittromso.no/hva-skjer/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "☀️",
-      "sponsored": false,
-      "featured": false,
-      "source": "local"
-    },
-    {
-      "id": "tromso-4",
-      "title": "Samisk kulturfestival",
-      "description": "Opplev samisk kultur, joik, håndverk og tradisjonell mat i hjertet av Tromsø. En unik mulighet til å lære om urfolkskulturen i Nord-Norge.",
-      "date": "2026-09-05",
-      "time": "11:00",
-      "endTime": "18:00",
-      "location": "Perspektivet Museum, Tromsø",
-      "categories": [
-        "familie",
-        "gratis"
-      ],
-      "ticketUrl": null,
-      "affiliateUrl": null,
-      "imageUrl": null,
-      "imageEmoji": "🥁",
-      "sponsored": false,
-      "featured": false,
-      "source": "local"
-    }
-  ],
+  "events": [],
   "meta": {
     "city": "tromso",
-    "count": 4,
-    "fetchedAt": "2026-03-28T05:00:00.000Z",
+    "count": 0,
+    "fetchedAt": "2026-03-28T20:24:17.824Z",
     "sources": {
       "ticketmaster": 0,
       "eventbrite": 0,
-      "scrape": 0,
-      "note": "Seed-data."
+      "scrape": 0
     }
   }
 }

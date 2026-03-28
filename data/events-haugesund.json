@@ -1,74 +1,13 @@
 {
-  "events": [
-    {
-      "id": "haugesund-1",
-      "title": "Sildajazz Festival 2026",
-      "description": "Haugesunds store jazzfestival ved sjøen! Internasjonale og norske jazzartister over fem dager i august. Et av Norges mest tradisjonsrike jazzfestivaler.",
-      "date": "2026-08-06",
-      "time": "18:00",
-      "endTime": "23:30",
-      "location": "Sentrum, Haugesund",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "ticketUrl": "https://www.sildajazz.no",
-      "affiliateUrl": "https://www.sildajazz.no/billetter?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎷",
-      "sponsored": true,
-      "featured": true,
-      "source": "local"
-    },
-    {
-      "id": "haugesund-2",
-      "title": "Norsk Filmfestival 2026",
-      "description": "Årets norske spillefilmer, dokumentarer og kortfilmer konkurrerer om Amanda-statuetten. Visninger, debatter og møter med norske filmfolk.",
-      "date": "2026-08-22",
-      "time": "10:00",
-      "endTime": "23:00",
-      "location": "Haugesund Kino og sentrum, Haugesund",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://www.filmfestivalen.no",
-      "affiliateUrl": "https://www.filmfestivalen.no/billetter?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎬",
-      "sponsored": false,
-      "featured": false,
-      "source": "local"
-    },
-    {
-      "id": "haugesund-3",
-      "title": "17. mai feiring – Haugesund",
-      "description": "Stor nasjonaldagsfeiring i Haugesund med barnetog, musikkorps, folkefest og konserter i sentrum. Tradisjonsrik og stemningsfull feiring.",
-      "date": "2026-05-17",
-      "time": "09:00",
-      "endTime": "18:00",
-      "location": "Sentrum, Haugesund",
-      "categories": [
-        "familie",
-        "gratis"
-      ],
-      "ticketUrl": null,
-      "affiliateUrl": null,
-      "imageUrl": null,
-      "imageEmoji": "🇳🇴",
-      "sponsored": false,
-      "featured": false,
-      "source": "local"
-    }
-  ],
+  "events": [],
   "meta": {
     "city": "haugesund",
-    "count": 3,
-    "fetchedAt": "2026-03-28T05:00:00.000Z",
+    "count": 0,
+    "fetchedAt": "2026-03-28T20:24:28.687Z",
     "sources": {
       "ticketmaster": 0,
       "eventbrite": 0,
-      "scrape": 0,
-      "note": "Seed-data."
+      "scrape": 0
     }
   }
 }

@@ -1,31 +1,11 @@
 {
-  "events": [
-    {
-      "id": "tm-Z698xZb_Z16vOa4gGE",
-      "title": "Festivalpass med NATTEN Slottsfjell 2026",
-      "description": "Arrangement på Tønsberg",
-      "date": "2026-07-09",
-      "time": "00:00",
-      "endTime": null,
-      "location": "Tønsberg",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/festivalpass-med-natten-slottsfjell-2026-tickets/1809575327?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/festivalpass-med-natten-slottsfjell-2026-tickets/1809575327?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/40e/f526b176-2175-4a99-9fdb-21cc977fb40e_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    }
-  ],
+  "events": [],
   "meta": {
     "city": "sandefjord",
-    "count": 1,
-    "fetchedAt": "2026-03-28T20:01:26.381Z",
+    "count": 0,
+    "fetchedAt": "2026-03-28T20:24:29.155Z",
     "sources": {
-      "ticketmaster": 1,
+      "ticketmaster": 0,
       "eventbrite": 0,
       "scrape": 0
     }

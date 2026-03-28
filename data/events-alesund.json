@@ -1,74 +1,13 @@
 {
-  "events": [
-    {
-      "id": "alesund-1",
-      "title": "Norwegian Food Festival – Ålesund",
-      "description": "Ålesund er Norges sjømathovedstad! Norsk matfestival feirer det ypperste av norsk sjømat med kokkekamper, smaksopplevelser og sjømatmarkeder langs brygga.",
-      "date": "2026-08-06",
-      "time": "11:00",
-      "endTime": "21:00",
-      "location": "Brosundet Brygge, Ålesund",
-      "categories": [
-        "familie",
-        "gratis"
-      ],
-      "ticketUrl": null,
-      "affiliateUrl": null,
-      "imageUrl": null,
-      "imageEmoji": "🐟",
-      "sponsored": false,
-      "featured": true,
-      "source": "local"
-    },
-    {
-      "id": "alesund-2",
-      "title": "Ålesund Jazzfestival",
-      "description": "Jugendbyens sommerlige jazzfestival med konserter i det karakteristiske bysentrum. Lokale og nasjonale jazzartister spiller på utendørs- og innendørsscener.",
-      "date": "2026-07-25",
-      "time": "18:00",
-      "endTime": "23:00",
-      "location": "Byparken, Ålesund",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "ticketUrl": "https://www.visitalesund.com",
-      "affiliateUrl": "https://www.visitalesund.com/hva-skjer/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎷",
-      "sponsored": false,
-      "featured": false,
-      "source": "local"
-    },
-    {
-      "id": "alesund-3",
-      "title": "Fjordkryssing – Guida tur fra Ålesund",
-      "description": "Bli med på guidet fjordkryssing fra Ålesund med stopp ved Geirangerfjorden. Opplev det beste av norsk fjordnatur med lokale guider.",
-      "date": "2026-06-13",
-      "time": "09:00",
-      "endTime": "18:00",
-      "location": "Ålesund Rutebilstasjon, Ålesund",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://www.fjordnorway.com",
-      "affiliateUrl": "https://www.fjordnorway.com/turer?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "⛴️",
-      "sponsored": false,
-      "featured": false,
-      "source": "local"
-    }
-  ],
+  "events": [],
   "meta": {
     "city": "alesund",
-    "count": 3,
-    "fetchedAt": "2026-03-28T05:00:00.000Z",
+    "count": 0,
+    "fetchedAt": "2026-03-28T20:24:21.891Z",
     "sources": {
       "ticketmaster": 0,
       "eventbrite": 0,
-      "scrape": 0,
-      "note": "Seed-data."
+      "scrape": 0
     }
   }
 }

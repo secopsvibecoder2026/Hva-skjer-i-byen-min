@@ -1,73 +1,13 @@
 {
-  "events": [
-    {
-      "id": "bodo-1",
-      "title": "Bodø2024 Kulturarrangement – Arktisk Scene",
-      "description": "Bodø er Norges arktiske kulturhovedstad! Opplev spennende kulturprogram med musikk, kunst og performance som reflekterer livet i nord.",
-      "date": "2026-06-06",
-      "time": "17:00",
-      "endTime": "22:00",
-      "location": "Stormen Kulturhus, Bodø",
-      "categories": [
-        "konsert",
-        "familie"
-      ],
-      "ticketUrl": "https://www.visitbodo.com",
-      "affiliateUrl": "https://www.visitbodo.com/hva-skjer/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "✈️",
-      "sponsored": false,
-      "featured": true,
-      "source": "local"
-    },
-    {
-      "id": "bodo-2",
-      "title": "Nordland Musikkfestuke",
-      "description": "En uke med klassisk musikk, opera og kammermusikk på høyt internasjonalt nivå. Festivalen trekker musikere fra hele verden til Bodø.",
-      "date": "2026-08-01",
-      "time": "19:00",
-      "endTime": "22:00",
-      "location": "Bodø Domkirke, Bodø",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.nordlandmusikkfestuke.no",
-      "affiliateUrl": "https://www.nordlandmusikkfestuke.no/billetter?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎻",
-      "sponsored": false,
-      "featured": false,
-      "source": "local"
-    },
-    {
-      "id": "bodo-3",
-      "title": "Saltstraumen Naturdag",
-      "description": "Opplev verdens sterkeste tidevannsstrøm! Guidet tur til Saltstraumen med informasjon om naturfenomenet og muligheter for havfiske.",
-      "date": "2026-07-19",
-      "time": "10:00",
-      "endTime": "15:00",
-      "location": "Saltstraumen, Bodø",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://www.bodø.kommune.no",
-      "affiliateUrl": "https://www.visitbodo.com/saltstraumen?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🌊",
-      "sponsored": false,
-      "featured": false,
-      "source": "local"
-    }
-  ],
+  "events": [],
   "meta": {
     "city": "bodo",
-    "count": 3,
-    "fetchedAt": "2026-03-28T05:00:00.000Z",
+    "count": 0,
+    "fetchedAt": "2026-03-28T20:24:23.037Z",
     "sources": {
       "ticketmaster": 0,
       "eventbrite": 0,
-      "scrape": 0,
-      "note": "Seed-data."
+      "scrape": 0
     }
   }
 }
