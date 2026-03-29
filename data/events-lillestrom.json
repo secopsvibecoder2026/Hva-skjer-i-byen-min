@@ -3,11 +3,11 @@
     {
       "id": "scrape-gen-p-skens-h-ydepunkter-",
       "title": "Påskens høydepunkter",
-      "description": "Arrangement i visitromerike.no",
-      "date": "2026-03-29",
+      "description": "Arrangement i visitgreateroslo.com",
+      "date": "2026-03-30",
       "time": "12:00",
       "endTime": null,
-      "location": "visitromerike.no",
+      "location": "visitgreateroslo.com",
       "categories": [
         "familie"
       ],
@@ -22,11 +22,11 @@
     {
       "id": "scrape-gen-shopping-g-rdsbutikker-og-sm-byliv-p-rom-",
       "title": "Shopping, gårdsbutikker og småbyliv på Romerike",
-      "description": "Arrangement i visitromerike.no",
-      "date": "2026-03-29",
+      "description": "Arrangement i visitgreateroslo.com",
+      "date": "2026-03-30",
       "time": "12:00",
       "endTime": null,
-      "location": "visitromerike.no",
+      "location": "visitgreateroslo.com",
       "categories": [
         "familie"
       ],
@@ -41,11 +41,11 @@
     {
       "id": "scrape-gen-sykkel-og-turtips-p-romerike-",
       "title": "Sykkel og turtips på Romerike",
-      "description": "Arrangement i visitromerike.no",
-      "date": "2026-03-29",
+      "description": "Arrangement i visitgreateroslo.com",
+      "date": "2026-03-30",
       "time": "12:00",
       "endTime": null,
-      "location": "visitromerike.no",
+      "location": "visitgreateroslo.com",
       "categories": [
         "familie"
       ],
@@ -61,11 +61,11 @@
   "meta": {
     "city": "lillestrom",
     "count": 3,
-    "fetchedAt": "2026-03-28T21:42:44.214Z",
+    "fetchedAt": "2026-03-29T05:13:13.306Z",
     "sources": {
       "ticketmaster": 0,
       "eventbrite": 0,
-      "scrape": 3
+      "scrape": 6
     }
   }
 }
