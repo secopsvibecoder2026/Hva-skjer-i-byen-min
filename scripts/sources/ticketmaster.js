@@ -53,7 +53,7 @@ const CITY_COORDS = {
   "stavanger":      { ll: "58.9700,5.7331",   r: 25,  inc: [] },                                        // Stavanger ✓
   "eidsvoll":       { ll: "60.3268,11.2530",  r: 25,  inc: [] },                                        // Ikke verifisert (0 TM-events)
   "lillestrom":     { city: "Lillestrøm",     r: 25,  inc: [] },                                        // Bruker city-søk – TM-nettside har egne Lillestrøm-events
-  "aurskog-holand": { ll: "59.9000,11.4500",  r: 25,  inc: [] },                                        // Ikke verifisert (0 TM-events)
+  "aurskog-holand": { ll: "59.9000,11.4500",  r: 30,  inc: [] },                                        // Stor kommune – 30km radius
   "kristiansand":   { ll: "58.1467,7.9956",   r: 25,  inc: ["Kristiansand S", "Kristiansand"] },        // TM bruker "Kristiansand S"
   "tromso":         { ll: "69.6492,18.9553",  r: 25,  inc: [] },                                        // Ikke verifisert (0 TM-events)
   "drammen":        { ll: "59.7440,10.2045",  r: 20,  inc: ["Drammen", "Lier", "Nedre Eiker"] },        // TM bruker Sandvika/Fornebu – filter blokkerer feil events

@@ -91,6 +91,26 @@ const CITY_SOURCES = {
       scraper: scrapeGeneric,
       label:   "aurskog-holand.kommune.no",
     },
+    {
+      url:     "https://www.visitgreateroslo.com/no/Romerike/hva-skjer",
+      scraper: scrapeGeneric,
+      label:   "visitgreateroslo.com/romerike",
+    },
+    {
+      url:     "https://mia.no/ahbygdetun/kalender",
+      scraper: scrapeGeneric,
+      label:   "ahbygdetun.no (kalender)",
+    },
+    {
+      url:     "https://skjerikirken.no/menighet/aurskog-holand-kirkelig-fellesrad",
+      scraper: scrapeGeneric,
+      label:   "skjerikirken.no/aurskog-holand",
+    },
+    {
+      url:     "https://visitoestfold.com/no/haldenkanalen/hva-skjer",
+      scraper: scrapeGeneric,
+      label:   "visitoestfold.com/haldenkanalen",
+    },
   ],
   kristiansand: [
     {
