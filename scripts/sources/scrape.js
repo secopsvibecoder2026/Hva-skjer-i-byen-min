@@ -60,14 +60,19 @@ const CITY_SOURCES = {
       label:   "detskjerilillestrom.no",
     },
     {
+      url:     "https://www.lillestrom-kultursenter.no/program/",
+      scraper: scrapeGeneric,
+      label:   "lillestrom-kultursenter.no",
+    },
+    {
+      url:     "https://www.lillestromkulturpub.no/program",
+      scraper: scrapeGeneric,
+      label:   "lillestromkulturpub.no",
+    },
+    {
       url:     "https://www.visitgreateroslo.com/no/Romerike/hva-skjer?by=17",
       scraper: scrapeGeneric,
       label:   "visitgreateroslo.com",
-    },
-    {
-      url:     "https://www.lillestromkultursenter.no/program/",
-      scraper: scrapeGeneric,
-      label:   "lillestromkultursenter.no",
     },
     {
       url:     "https://lillestrom.kommune.no/kultur-og-fritid/arrangementer/",
