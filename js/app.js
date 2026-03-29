@@ -541,7 +541,7 @@ async function activateCity(city) {
  * På city-sider navigeres til ../{by}/ (ett nivå opp).
  */
 function setupCityPicker() {
-  document.querySelectorAll(".city-pill:not([disabled]):not(.city-pill--locate)").forEach((pill) => {
+  document.querySelectorAll(".city-pill[data-city]").forEach((pill) => {
     pill.addEventListener("click", () => {
       const city = pill.dataset.city;
 
@@ -638,8 +638,9 @@ function setupGeolocation() {
   if (!btn || !navigator.geolocation) { if (btn) btn.hidden = true; return; }
 
   btn.addEventListener("click", () => {
-    btn.disabled    = true;
-    btn.textContent = "📍 Finner deg…";
+    btn.disabled = true;
+    const btnLabel = btn.querySelector("span:last-child");
+    if (btnLabel) btnLabel.textContent = "Finner deg…";
     const notice = document.getElementById("locate-notice");
     if (notice) notice.hidden = false;
 
@@ -661,14 +662,13 @@ function setupGeolocation() {
         pills.forEach((p) => p.classList.remove("city-pill--nearby"));
         sorted.slice(0, 3).forEach(({ pill }) => pill.classList.add("city-pill--nearby"));
 
-        // Sorter by-pillene i DOM slik at nærmeste vises øverst (etter locate-btn)
+        // Sorter by-kortene i DOM slik at nærmeste vises øverst
         const row = document.querySelector(".city-picker-row");
-        const locateBtn = document.getElementById("locate-btn");
         sorted.forEach(({ pill }) => row.appendChild(pill));
-        row.insertBefore(locateBtn, row.firstChild);
 
-        btn.disabled    = false;
-        btn.textContent = "📍 Finn meg";
+        btn.disabled = false;
+        const btnLabel = btn.querySelector("span:last-child");
+        if (btnLabel) btnLabel.textContent = "Finn meg – vis byer nær deg";
 
         // Naviger til nærmeste by etter kort pause så brukeren ser fremhevingen
         const nearest = sorted[0].pill;
@@ -680,8 +680,9 @@ function setupGeolocation() {
         }
       },
       (err) => {
-        btn.disabled    = false;
-        btn.textContent = "📍 Finn meg";
+        btn.disabled = false;
+        const btnLabelErr = btn.querySelector("span:last-child");
+        if (btnLabelErr) btnLabelErr.textContent = "Finn meg – vis byer nær deg";
         console.warn("Geolokasjon ikke tilgjengelig:", err.message);
         btn.setAttribute("title", "Kunne ikke hente posisjon – sjekk nettleserinnstillingene");
       },

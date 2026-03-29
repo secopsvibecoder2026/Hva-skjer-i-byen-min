@@ -88,31 +88,35 @@
           </div>
         </div>
 
-        <!-- Byvelger – klar for multi-by støtte -->
+        <!-- Byvelger -->
+        <button class="locate-btn-primary" id="locate-btn">
+          <span class="locate-btn-primary__icon">📍</span>
+          <span>Finn meg – vis byer nær deg</span>
+        </button>
+
         <div class="city-picker-row" role="group" aria-label="Velg by">
-          <button class="city-pill city-pill--locate" id="locate-btn" title="Finn nærmeste by automatisk">📍 Finn meg</button>
-          <button class="city-pill" data-city="bergen" data-lat="60.3913" data-lon="5.3221">🏔️ Bergen</button>
-          <button class="city-pill" data-city="oslo" data-lat="59.9139" data-lon="10.7522">🏛️ Oslo</button>
-          <button class="city-pill" data-city="trondheim" data-lat="63.4305" data-lon="10.3951">⚓ Trondheim</button>
-          <button class="city-pill" data-city="stavanger" data-lat="58.9700" data-lon="5.7331">🛢️ Stavanger</button>
-          <button class="city-pill" data-city="eidsvoll" data-lat="60.3281" data-lon="11.2530">🏘️ Eidsvoll</button>
-          <button class="city-pill" data-city="lillestrom" data-lat="59.9528" data-lon="11.0514">🏙️ Lillestrøm</button>
-          <button class="city-pill" data-city="aurskog-holand" data-lat="59.9208" data-lon="11.4097">🌲 Aurskog-Høland</button>
-          <button class="city-pill" data-city="kristiansand" data-lat="58.1599" data-lon="8.0182">🌊 Kristiansand</button>
-          <button class="city-pill" data-city="tromso" data-lat="69.6496" data-lon="18.9560">🦌 Tromsø</button>
-          <button class="city-pill" data-city="drammen" data-lat="59.7440" data-lon="10.2045">🌉 Drammen</button>
-          <button class="city-pill" data-city="fredrikstad" data-lat="59.2181" data-lon="10.9298">🏰 Fredrikstad</button>
-          <button class="city-pill" data-city="alesund" data-lat="62.4730" data-lon="6.1549">🐟 Ålesund</button>
-          <button class="city-pill" data-city="bodo" data-lat="67.2827" data-lon="14.3751">✈️ Bodø</button>
-          <button class="city-pill" data-city="hamar" data-lat="60.7945" data-lon="11.0679">🏒 Hamar</button>
-          <button class="city-pill" data-city="tonsberg" data-lat="59.2673" data-lon="10.4080">⛵ Tønsberg</button>
-          <button class="city-pill" data-city="moss" data-lat="59.4355" data-lon="10.6580">🌿 Moss</button>
-          <button class="city-pill" data-city="haugesund" data-lat="59.4138" data-lon="5.2676">🎸 Haugesund</button>
-          <button class="city-pill" data-city="sandefjord" data-lat="59.1291" data-lon="10.2167">🐋 Sandefjord</button>
-          <button class="city-pill" data-city="arendal" data-lat="58.4615" data-lon="8.7717">⛵ Arendal</button>
-          <button class="city-pill" data-city="molde" data-lat="62.7373" data-lon="7.1591">🌹 Molde</button>
-          <button class="city-pill" data-city="voss" data-lat="60.6277" data-lon="6.4168">🏔️ Voss</button>
-          <button class="city-pill" data-city="kongsberg" data-lat="59.6697" data-lon="9.6503">⛏️ Kongsberg</button>
+          <button class="city-pill" data-city="bergen" data-lat="60.3913" data-lon="5.3221"><span class="city-pill__icon">🏔️</span><span class="city-pill__name">Bergen</span></button>
+          <button class="city-pill" data-city="oslo" data-lat="59.9139" data-lon="10.7522"><span class="city-pill__icon">🏛️</span><span class="city-pill__name">Oslo</span></button>
+          <button class="city-pill" data-city="trondheim" data-lat="63.4305" data-lon="10.3951"><span class="city-pill__icon">⚓</span><span class="city-pill__name">Trondheim</span></button>
+          <button class="city-pill" data-city="stavanger" data-lat="58.9700" data-lon="5.7331"><span class="city-pill__icon">🛢️</span><span class="city-pill__name">Stavanger</span></button>
+          <button class="city-pill" data-city="kristiansand" data-lat="58.1599" data-lon="8.0182"><span class="city-pill__icon">🌊</span><span class="city-pill__name">Kristiansand</span></button>
+          <button class="city-pill" data-city="tromso" data-lat="69.6496" data-lon="18.9560"><span class="city-pill__icon">🦌</span><span class="city-pill__name">Tromsø</span></button>
+          <button class="city-pill" data-city="bodo" data-lat="67.2827" data-lon="14.3751"><span class="city-pill__icon">✈️</span><span class="city-pill__name">Bodø</span></button>
+          <button class="city-pill" data-city="alesund" data-lat="62.4730" data-lon="6.1549"><span class="city-pill__icon">🐟</span><span class="city-pill__name">Ålesund</span></button>
+          <button class="city-pill" data-city="molde" data-lat="62.7373" data-lon="7.1591"><span class="city-pill__icon">🌹</span><span class="city-pill__name">Molde</span></button>
+          <button class="city-pill" data-city="hamar" data-lat="60.7945" data-lon="11.0679"><span class="city-pill__icon">🏒</span><span class="city-pill__name">Hamar</span></button>
+          <button class="city-pill" data-city="fredrikstad" data-lat="59.2181" data-lon="10.9298"><span class="city-pill__icon">🏰</span><span class="city-pill__name">Fredrikstad</span></button>
+          <button class="city-pill" data-city="drammen" data-lat="59.7440" data-lon="10.2045"><span class="city-pill__icon">🌉</span><span class="city-pill__name">Drammen</span></button>
+          <button class="city-pill" data-city="lillestrom" data-lat="59.9528" data-lon="11.0514"><span class="city-pill__icon">🏙️</span><span class="city-pill__name">Lillestrøm</span></button>
+          <button class="city-pill" data-city="tonsberg" data-lat="59.2673" data-lon="10.4080"><span class="city-pill__icon">⛵</span><span class="city-pill__name">Tønsberg</span></button>
+          <button class="city-pill" data-city="moss" data-lat="59.4355" data-lon="10.6580"><span class="city-pill__icon">🌿</span><span class="city-pill__name">Moss</span></button>
+          <button class="city-pill" data-city="sandefjord" data-lat="59.1291" data-lon="10.2167"><span class="city-pill__icon">🐋</span><span class="city-pill__name">Sandefjord</span></button>
+          <button class="city-pill" data-city="haugesund" data-lat="59.4138" data-lon="5.2676"><span class="city-pill__icon">🎸</span><span class="city-pill__name">Haugesund</span></button>
+          <button class="city-pill" data-city="arendal" data-lat="58.4615" data-lon="8.7717"><span class="city-pill__icon">⛵</span><span class="city-pill__name">Arendal</span></button>
+          <button class="city-pill" data-city="kongsberg" data-lat="59.6697" data-lon="9.6503"><span class="city-pill__icon">⛏️</span><span class="city-pill__name">Kongsberg</span></button>
+          <button class="city-pill" data-city="voss" data-lat="60.6277" data-lon="6.4168"><span class="city-pill__icon">🏔️</span><span class="city-pill__name">Voss</span></button>
+          <button class="city-pill" data-city="eidsvoll" data-lat="60.3281" data-lon="11.2530"><span class="city-pill__icon">🏘️</span><span class="city-pill__name">Eidsvoll</span></button>
+          <button class="city-pill" data-city="aurskog-holand" data-lat="59.9208" data-lon="11.4097"><span class="city-pill__icon">🌲</span><span class="city-pill__name">Aurskog-Høland</span></button>
         </div>
         <p class="locate-notice" id="locate-notice" hidden>
           Posisjonen din brukes kun i nettleseren din for å velge nærmeste by. Den lagres ikke og sendes ikke til noen server.

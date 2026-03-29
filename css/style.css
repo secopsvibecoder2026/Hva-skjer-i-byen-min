@@ -232,55 +232,105 @@ a:hover { color: var(--color-primary-dk); }
 }
 
 /* Byvelger */
-.city-picker-row {
+/* Finn meg – primærknapp over bykorta */
+.locate-btn-primary {
   display: flex;
-  flex-wrap: wrap;
-  gap: 0.5rem;
-  margin-top: 1.25rem;
+  align-items: center;
+  justify-content: center;
+  gap: 0.6rem;
+  width: 100%;
+  margin-top: 1.5rem;
+  padding: 0.85rem 1.5rem;
+  background: rgba(255,255,255,.15);
+  border: 1.5px dashed rgba(255,255,255,.5);
+  border-radius: var(--radius);
+  color: #fff;
+  font-size: 1rem;
+  font-weight: 700;
+  font-family: var(--font-sans);
+  cursor: pointer;
+  backdrop-filter: blur(8px);
+  transition: background 0.2s, border-color 0.2s, transform 0.15s;
+  letter-spacing: 0.01em;
+}
+.locate-btn-primary:hover {
+  background: rgba(255,255,255,.25);
+  border-color: rgba(255,255,255,.8);
+  transform: translateY(-1px);
+}
+.locate-btn-primary:disabled {
+  opacity: .5;
+  cursor: wait;
+  transform: none;
+}
+.locate-btn-primary__icon {
+  font-size: 1.3rem;
+  animation: pulse-pin 2s ease-in-out infinite;
+}
+@keyframes pulse-pin {
+  0%, 100% { transform: scale(1);   }
+  50%       { transform: scale(1.2); }
+}
+
+/* Bykort-grid */
+.city-picker-row {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(90px, 1fr));
+  gap: 0.6rem;
+  margin-top: 0.85rem;
 }
 
 .city-pill {
-  background: rgba(255,255,255,.15);
-  border: 1px solid rgba(255,255,255,.25);
+  background: rgba(255,255,255,.1);
+  border: 1px solid rgba(255,255,255,.18);
   color: #fff;
-  border-radius: 999px;
-  padding: 0.35rem 0.9rem;
-  font-size: 0.85rem;
+  border-radius: var(--radius);
+  padding: 0.75rem 0.4rem 0.65rem;
+  font-size: 0.75rem;
   cursor: pointer;
-  transition: all 0.2s;
-  backdrop-filter: blur(4px);
+  transition: background 0.18s, border-color 0.18s, transform 0.18s, box-shadow 0.18s;
+  backdrop-filter: blur(6px);
   font-family: var(--font-sans);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.3rem;
+  text-align: center;
+  line-height: 1.2;
+}
+.city-pill__icon {
+  font-size: 1.6rem;
+  line-height: 1;
+  display: block;
+}
+.city-pill__name {
+  font-weight: 600;
+  font-size: 0.73rem;
+  display: block;
 }
 
-.city-pill:hover,
-.city-pill--active {
-  background: rgba(255,255,255,.28);
-  border-color: rgba(255,255,255,.5);
+.city-pill:hover {
+  background: rgba(255,255,255,.22);
+  border-color: rgba(255,255,255,.45);
+  transform: translateY(-3px);
+  box-shadow: 0 8px 20px rgba(0,0,0,.25);
 }
 
 .city-pill--active {
   background: #fff;
   color: var(--color-hero-bg);
-  font-weight: 700;
+  border-color: #fff;
+  box-shadow: 0 6px 20px rgba(0,0,0,.3);
+  transform: translateY(-2px);
 }
-
-.city-pill--locate {
-  border-style: dashed;
-  opacity: .85;
-}
-.city-pill--locate:hover {
-  opacity: 1;
-}
-.city-pill--locate:disabled {
-  opacity: .5;
-  cursor: wait;
+.city-pill--active .city-pill__name {
+  font-weight: 800;
 }
 
 .city-pill--nearby {
   border-color: #fbbf24;
-  background: rgba(251, 191, 36, .22);
-  box-shadow: 0 0 0 2px rgba(251, 191, 36, .4);
-  font-weight: 600;
+  background: rgba(251,191,36,.2);
+  box-shadow: 0 0 0 2px rgba(251,191,36,.45), 0 6px 16px rgba(0,0,0,.2);
 }
 
 .locate-notice {
