@@ -663,11 +663,14 @@ function setupGeolocation() {
         if (btnLabel) btnLabel.textContent = "Finn meg – vis byer nær deg";
 
         // Naviger til nærmeste by etter kort pause så brukeren ser fremhevingen
+        // Send koordinater med i URL slik at by-siden kan fremheve nærliggende byer
         const nearest = sorted[0].pill;
         if (nearest.dataset.city !== window.PRESELECTED_CITY) {
           setTimeout(() => {
             const base = window.PRESELECTED_CITY ? "../" : "./";
-            window.location.href = `${base}${nearest.dataset.city}/`;
+            const lat  = latitude.toFixed(5);
+            const lon  = longitude.toFixed(5);
+            window.location.href = `${base}${nearest.dataset.city}/?lat=${lat}&lon=${lon}`;
           }, 1200);
         }
       },
@@ -765,6 +768,24 @@ document.addEventListener("DOMContentLoaded", () => {
   setupCityPicker();
   setupGeolocation();
   setupStickyBar();
+
+  // Hvis brukeren kom hit via "Finn meg", fremhev nærliggende byer basert på URL-params
+  const urlParams = new URLSearchParams(window.location.search);
+  const urlLat = parseFloat(urlParams.get("lat"));
+  const urlLon = parseFloat(urlParams.get("lon"));
+  if (!isNaN(urlLat) && !isNaN(urlLon)) {
+    const pills = [...document.querySelectorAll(".city-pill[data-lat]")];
+    const sorted = pills
+      .map((pill) => ({
+        pill,
+        dist: distanceKm(urlLat, urlLon, parseFloat(pill.dataset.lat), parseFloat(pill.dataset.lon)),
+      }))
+      .sort((a, b) => a.dist - b.dist);
+    pills.forEach((p) => p.classList.remove("city-pill--nearby"));
+    sorted.slice(0, 3).forEach(({ pill }) => pill.classList.add("city-pill--nearby"));
+    const row = document.querySelector(".city-picker-row");
+    if (row) sorted.forEach(({ pill }) => row.appendChild(pill));
+  }
 
   // Last by-tall i bakgrunnen
   loadCityCounts();
