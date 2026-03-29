@@ -1,6 +1,63 @@
 {
   "events": [
     {
+      "id": "scrape-gen-historisk-fotoutstilling-2026-03-29",
+      "title": "Historisk fotoutstilling",
+      "description": "Gratis",
+      "date": "2026-03-29",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17186-historisk-fotoutstilling/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17186-historisk-fotoutstilling/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-gi-bort-en-opplevelse--",
+      "title": "Gi bort en opplevelse!",
+      "description": "Arrangement i lillestrom-kultursenter.no",
+      "date": "2026-03-30",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/gavekort/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/gavekort/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-last-ned-v-r-app-",
+      "title": "Last ned vår app",
+      "description": "Arrangement i lillestrom-kultursenter.no",
+      "date": "2026-03-30",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/app/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/app/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
       "id": "scrape-gen-p-skens-h-ydepunkter-",
       "title": "Påskens høydepunkter",
       "description": "Arrangement i visitgreateroslo.com",
@@ -56,16 +113,1654 @@
       "sponsored": false,
       "featured": false,
       "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-christer-torjussen-stand-up-spesial-2026-04-10",
+      "title": "Christer Torjussen – Stand Up Spesial",
+      "description": "Fredag. 10. april\nkl. 20.00",
+      "date": "2026-04-10",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17658-christer-torjussen-stand-up-spesial/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17658-christer-torjussen-stand-up-spesial/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-jazzkaf-seniorstorbandet-med-karin-krog--2026-04-11",
+      "title": "Jazzkafé – Seniorstorbandet med Karin Krog og John Surman",
+      "description": "Lørdag. 11. april\nkl. 13.00",
+      "date": "2026-04-11",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16882-jazzkafe-seniorstorbandet-med-karin-krog-og-john-surman/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16882-jazzkafe-seniorstorbandet-med-karin-krog-og-john-surman/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-hamlet-med-mads-ousdal-i-alle-roller-2026-04-11",
+      "title": "Hamlet med Mads Ousdal i alle roller",
+      "description": "Lørdag. 11. april\nkl. 19.00",
+      "date": "2026-04-11",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17327-hamlet-med-mads-ousdal-i-alle-roller/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17327-hamlet-med-mads-ousdal-i-alle-roller/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-myten-om-det-friske-mennesket-2026-04-14",
+      "title": "Myten om det friske mennesket",
+      "description": "Tirsdag. 14. april\nkl. 19.00",
+      "date": "2026-04-14",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17299-myten-om-det-friske-mennesket/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17299-myten-om-det-friske-mennesket/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-korpub-2026-04-15",
+      "title": "Korpub",
+      "description": "Onsdag. 15. april\nkl. 19.00",
+      "date": "2026-04-15",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17506-korpub/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17506-korpub/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-ketil-bj-rnstad-i-ord-og-toner-2026-04-16",
+      "title": "Ketil Bjørnstad i ord og toner",
+      "description": "Torsdag. 16. april\nkl. 19.30",
+      "date": "2026-04-16",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17109-ketil-bjornstad-i-ord-og-toner/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17109-ketil-bjornstad-i-ord-og-toner/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-jazzkaf-kjeld-lauritsen-norwegian-trio-2026-04-18",
+      "title": "Jazzkafé – Kjeld Lauritsen Norwegian Trio",
+      "description": "Lørdag. 18. april\nkl. 13.00",
+      "date": "2026-04-18",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16883-jazzkafe-kjeld-lauritsen-norwegian-trio/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16883-jazzkafe-kjeld-lauritsen-norwegian-trio/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-lillestr-m-kulturskole-helt-i-hundre-2026-04-19",
+      "title": "Lillestrøm kulturskole – helt i hundre",
+      "description": "Søn. 19. apr.\n2 forestillinger",
+      "date": "2026-04-19",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16846-lillestrom-kulturskole-helt-i-hundre/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16846-lillestrom-kulturskole-helt-i-hundre/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-folk-som-oss-og-cash-commitment-2026-04-22",
+      "title": "Folk som oss og Cash Commitment",
+      "description": "Onsdag. 22. april\nkl. 19.30",
+      "date": "2026-04-22",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17505-folk-som-oss-og-cash-commitment/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17505-folk-som-oss-og-cash-commitment/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-kulturkaf-tore-halvorsen-2026-04-23",
+      "title": "Kulturkafé – Tore Halvorsen",
+      "description": "Torsdag. 23. april\nkl. 12.00",
+      "date": "2026-04-23",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16636-kulturkafe-tore-halvorsen/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16636-kulturkafe-tore-halvorsen/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-ukm-akershus-2026-04-25",
+      "title": "UKM Akershus",
+      "description": "25. apr. – 26. apr.\n2 forestillinger",
+      "date": "2026-04-25",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17151-ukm-akershus/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17151-ukm-akershus/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-jazzkaf-elevkonsert-med-lillestr-m-vgs-m-2026-04-25",
+      "title": "Jazzkafé – Elevkonsert med Lillestrøm vgs musikklinjen",
+      "description": "Lørdag. 25. april\nkl. 13.00",
+      "date": "2026-04-25",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16884-jazzkafe-elevkonsert-med-lillestrom-vgs-musikklinjen/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16884-jazzkafe-elevkonsert-med-lillestrom-vgs-musikklinjen/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-norsk-ballettinstitutt-30-r-med-dansegle-2026-04-25",
+      "title": "Norsk Ballettinstitutt – 30 år med danseglede",
+      "description": "25. apr. – 10. mai.\n6 forestillinger",
+      "date": "2026-04-25",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/15731-norsk-ballettinstitutt-30-ar-med-danseglede/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/15731-norsk-ballettinstitutt-30-ar-med-danseglede/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-maestro-lillestr-m-musikkorps-2026-04-26",
+      "title": "Maestro – Lillestrøm Musikkorps",
+      "description": "Søndag. 26. april\nkl. 19.00",
+      "date": "2026-04-26",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16467-maestro-lillestrom-musikkorps/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16467-maestro-lillestrom-musikkorps/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-rundt-et-flygel-teachers-in-concert-5-2026-04-29",
+      "title": "Rundt et flygel – Teachers in concert 5",
+      "description": "Onsdag. 29. april\nkl. 19.00",
+      "date": "2026-04-29",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16644-rundt-et-flygel-teachers-in-concert-5/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16644-rundt-et-flygel-teachers-in-concert-5/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-chris-holsten-oppe-p-m-nen-turn-2026-2026-05-01",
+      "title": "Chris Holsten – Oppe på månen turné 2026",
+      "description": "Utsolgt",
+      "date": "2026-05-01",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17424-chris-holsten-oppe-pa-manen-turne-2026/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17424-chris-holsten-oppe-pa-manen-turne-2026/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-kulturkaf-lillestr-m-kultursenters-histo-2026-05-07",
+      "title": "Kulturkafé – Lillestrøm Kultursenters historie ved Lars Otto Ullereng",
+      "description": "Torsdag. 7. mai\nkl. 12.00",
+      "date": "2026-05-07",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17470-kulturkafe-lillestrom-kultursenters-historie-ved-lars-otto-ullereng/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17470-kulturkafe-lillestrom-kultursenters-historie-ved-lars-otto-ullereng/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-jazzkaf-christiania-12-2026-05-09",
+      "title": "Jazzkafé – Christiania 12",
+      "description": "Lørdag. 9. mai\nkl. 13.00",
+      "date": "2026-05-09",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16886-jazzkafe-christiania-12/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16886-jazzkafe-christiania-12/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-randi-rosenqvist-bak-lukkede-d-rer-2026-05-12",
+      "title": "Randi Rosenqvist – Bak lukkede dører",
+      "description": "Tirsdag. 12. mai\nkl. 19.00",
+      "date": "2026-05-12",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17176-randi-rosenqvist-bak-lukkede-dorer/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17176-randi-rosenqvist-bak-lukkede-dorer/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-festkonsert-2026-05-17",
+      "title": "Festkonsert",
+      "description": "Gratis",
+      "date": "2026-05-17",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17188-festkonsert/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17188-festkonsert/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-john-hammersmark-det-kan-alltid-bli-verr-2026-05-28",
+      "title": "John Hammersmark – Det kan alltid bli verre",
+      "description": "Få billetter igjen",
+      "date": "2026-05-28",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17383-john-hammersmark-det-kan-alltid-bli-verre/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17383-john-hammersmark-det-kan-alltid-bli-verre/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-jazzkaf-bodil-niska-kvartett-med-england-2026-05-30",
+      "title": "Jazzkafé – Bodil Niska Kvartett med England Brooks",
+      "description": "Lørdag. 30. mai\nkl. 13.00",
+      "date": "2026-05-30",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16889-jazzkafe-bodil-niska-kvartett-med-england-brooks/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16889-jazzkafe-bodil-niska-kvartett-med-england-brooks/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-lillestr-mkonferansen-2026-06-04",
+      "title": "Lillestrømkonferansen",
+      "description": "Torsdag. 4. juni\nkl. 10.00",
+      "date": "2026-06-04",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16987-lillestromkonferansen/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16987-lillestromkonferansen/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-h-ybr-ten-skoles-musikkorps-100-r-2026-06-05",
+      "title": "Høybråten skoles musikkorps 100 år",
+      "description": "Fredag. 5. juni\nkl. 18.00",
+      "date": "2026-06-05",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17533-hoybraten-skoles-musikkorps-100-ar/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17533-hoybraten-skoles-musikkorps-100-ar/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-jenta-i-gummist-vler-2026-06-05",
+      "title": "Jenta i gummistøvler",
+      "description": "5. jun. – 6. jun.\n2 forestillinger",
+      "date": "2026-06-05",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17181-jenta-i-gummistovler/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17181-jenta-i-gummistovler/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-jazzkaf-monicaz-vals-2026-06-06",
+      "title": "Jazzkafé – MonicaZ Vals",
+      "description": "Lørdag. 6. juni\nkl. 13.00",
+      "date": "2026-06-06",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16871-jazzkafe-monicaz-vals/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16871-jazzkafe-monicaz-vals/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen--let-s-groove-med-lillestr-m-skolekorps-2026-06-07",
+      "title": "«Let’s Groove!» med Lillestrøm Skolekorps",
+      "description": "Søndag. 7. juni\nkl. 17.00",
+      "date": "2026-06-07",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17061-lets-groove-med-lillestrom-skolekorps/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17061-lets-groove-med-lillestrom-skolekorps/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-byfesten-i-lillestr-m-2026-06-11",
+      "title": "Byfesten i Lillestrøm",
+      "description": "Gratis",
+      "date": "2026-06-11",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17187-byfesten-i-lillestrom/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17187-byfesten-i-lillestrom/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-en-hyllest-til-earth-wind-fire-2026-06-12",
+      "title": "En hyllest til Earth, Wind & Fire",
+      "description": "Gratis",
+      "date": "2026-06-12",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17189-en-hyllest-til-earth-wind-fire/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17189-en-hyllest-til-earth-wind-fire/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-barnas-festdager-2026-08-08",
+      "title": "Barnas festdager",
+      "description": "Gratis",
+      "date": "2026-08-08",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "uteliv",
+        "barn"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16809-barnas-festdager/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16809-barnas-festdager/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-da-verden-kom-til-lillestr-m-2026-08-20",
+      "title": "Da verden kom til Lillestrøm",
+      "description": "20. aug. – 30. aug.\n8 forestillinger",
+      "date": "2026-08-20",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16907-da-verden-kom-til-lillestrom/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16907-da-verden-kom-til-lillestrom/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-the-daltons-35-rsjubileum-2026-08-22",
+      "title": "The Daltons 35-årsjubileum",
+      "description": "Lørdag. 22. august\nkl. 20.00",
+      "date": "2026-08-22",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17742-the-daltons-35-arsjubileum/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17742-the-daltons-35-arsjubileum/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-ina-wroldsen-2026-09-04",
+      "title": "Ina Wroldsen",
+      "description": "Fredag. 4. september\nkl. 19.00",
+      "date": "2026-09-04",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16927-ina-wroldsen/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16927-ina-wroldsen/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-peter-j-back-2026-09-05",
+      "title": "Peter Jöback",
+      "description": "Lørdag. 5. september\nkl. 19.00",
+      "date": "2026-09-05",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16926-peter-joback/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16926-peter-joback/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-kulturkaf-gategutt-en-hyllest-til-lilleb-2026-09-10",
+      "title": "Kulturkafé – Gategutt: En hyllest til Lillebjørn Nilsen",
+      "description": "Torsdag. 10. september\nkl. 12.00",
+      "date": "2026-09-10",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16637-kulturkafe-gategutt-en-hyllest-til-lillebjorn-nilsen/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16637-kulturkafe-gategutt-en-hyllest-til-lillebjorn-nilsen/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-are-sende-osen-vikingtiden-fra-aaaah-til-2026-09-10",
+      "title": "Are Sende Osen – Vikingtiden fra aaaah til ååååh",
+      "description": "Torsdag. 10. september\nkl. 19.00",
+      "date": "2026-09-10",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17617-are-sende-osen-vikingtiden-fra-aaaah-til-aaaah/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17617-are-sende-osen-vikingtiden-fra-aaaah-til-aaaah/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-adam-douglas-2026-09-10",
+      "title": "Adam Douglas",
+      "description": "Torsdag. 10. september\nkl. 19.00",
+      "date": "2026-09-10",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17581-adam-douglas/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17581-adam-douglas/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-ingar-kristiansen-the-sinatra-songbook-2026-09-11",
+      "title": "Ingar Kristiansen & the Sinatra Songbook",
+      "description": "Fredag. 11. september\nkl. 19.00",
+      "date": "2026-09-11",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16866-ingar-kristiansen-the-sinatra-songbook/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16866-ingar-kristiansen-the-sinatra-songbook/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-bruce-springsteen-the-songs-and-the-stor-2026-09-12",
+      "title": "Bruce Springsteen – The Songs and The Stories",
+      "description": "Lørdag. 12. september\nkl. 19.00",
+      "date": "2026-09-12",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17310-bruce-springsteen-the-songs-and-the-stories/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17310-bruce-springsteen-the-songs-and-the-stories/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-rundt-et-flygel-for-barn-musikktyven-2026-09-13",
+      "title": "Rundt et flygel for barn – Musikktyven",
+      "description": "Søndag. 13. september\nkl. 14.00",
+      "date": "2026-09-13",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "konsert",
+        "uteliv",
+        "familie",
+        "barn"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17382-rundt-et-flygel-for-barn-musikktyven/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17382-rundt-et-flygel-for-barn-musikktyven/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-erik-bye-i-100-2026-09-13",
+      "title": "Erik Bye i 100",
+      "description": "Søndag. 13. september\nkl. 18.00",
+      "date": "2026-09-13",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17537-erik-bye-i-100/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17537-erik-bye-i-100/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-rundt-et-flygel-ber-mte-arier-2026-09-16",
+      "title": "Rundt et flygel – Berømte arier",
+      "description": "Onsdag. 16. september\nkl. 19.00",
+      "date": "2026-09-16",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16645-rundt-et-flygel-beromte-arier/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16645-rundt-et-flygel-beromte-arier/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-minor-majority-trio-2026-09-16",
+      "title": "Minor Majority Trio",
+      "description": "Onsdag. 16. september\nkl. 19.30",
+      "date": "2026-09-16",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17793-minor-majority-trio/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17793-minor-majority-trio/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-viggo-vennel-s-2026-09-19",
+      "title": "Viggo Venneløs",
+      "description": "Lørdag. 19. september\nkl. 19.00",
+      "date": "2026-09-19",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17321-viggo-vennelos/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17321-viggo-vennelos/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-espen-lee-historiene-bak-2026-09-23",
+      "title": "Espen Lee  – Historiene bak",
+      "description": "Onsdag. 23. september\nkl. 19.00",
+      "date": "2026-09-23",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17783-espen-lee-historiene-bak/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17783-espen-lee-historiene-bak/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-ikke-lett-glemme-et-foredrag-om-demens-o-2026-09-24",
+      "title": "Ikke lett å glemme – Et foredrag om demens og pårørenderollen",
+      "description": "Torsdag. 24. september\nkl. 18.00",
+      "date": "2026-09-24",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17452-ikke-lett-a-glemme-et-foredrag-om-demens-og-parorenderollen/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17452-ikke-lett-a-glemme-et-foredrag-om-demens-og-parorenderollen/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-men-har-du-pr-vd-yoga--2026-09-25",
+      "title": "Men har du prøvd yoga?",
+      "description": "Fredag. 25. september\nkl. 19.30",
+      "date": "2026-09-25",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17766-men-har-du-provd-yoga/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17766-men-har-du-provd-yoga/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-shrek-the-musical-premiere-2026-10-02",
+      "title": "Shrek the musical – premiere",
+      "description": "2. okt. – 11. okt.\n9 forestillinger",
+      "date": "2026-10-02",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16533-shrek-the-musical-premiere/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16533-shrek-the-musical-premiere/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-hvorfor-det--2026-10-07",
+      "title": "Hvorfor det?",
+      "description": "Onsdag. 7. oktober\nkl. 19.30",
+      "date": "2026-10-07",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17694-hvorfor-det/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17694-hvorfor-det/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-teigens-tropper-med-anita-skorgan-2026-10-09",
+      "title": "Teigens tropper med Anita Skorgan",
+      "description": "Fredag. 9. oktober\nkl. 19.00",
+      "date": "2026-10-09",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17135-teigens-tropper-med-anita-skorgan/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17135-teigens-tropper-med-anita-skorgan/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-slik-takler-du-idiotene-p-jobben-2-2026-10-13",
+      "title": "Slik takler du idiotene på jobben! 2",
+      "description": "Tirsdag. 13. oktober\nkl. 19.00",
+      "date": "2026-10-13",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16445-slik-takler-du-idiotene-pa-jobben-2/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16445-slik-takler-du-idiotene-pa-jobben-2/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-rundt-et-flygel-the-golden-age-of-saxoph-2026-10-14",
+      "title": "Rundt et flygel – The Golden Age of Saxophone",
+      "description": "Onsdag. 14. oktober\nkl. 19.00",
+      "date": "2026-10-14",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16646-rundt-et-flygel-the-golden-age-of-saxophone/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16646-rundt-et-flygel-the-golden-age-of-saxophone/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-kulturkaf-leonard-cohen-the-flame-2026-10-15",
+      "title": "Kulturkafé – Leonard Cohen: The Flame",
+      "description": "Torsdag. 15. oktober\nkl. 12.00",
+      "date": "2026-10-15",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16638-kulturkafe-leonard-cohen-the-flame/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16638-kulturkafe-leonard-cohen-the-flame/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-det-betales-2026-10-15",
+      "title": "Det Betales",
+      "description": "Torsdag. 15. oktober\nkl. 19.00",
+      "date": "2026-10-15",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17458-det-betales/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17458-det-betales/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-kristian-valen-bare-visvas-2026-10-16",
+      "title": "Kristian Valen – Bare VisVas",
+      "description": "Fredag. 16. oktober\nkl. 19.00",
+      "date": "2026-10-16",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17388-kristian-valen-bare-visvas/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17388-kristian-valen-bare-visvas/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-karius-og-baktus-2026-10-18",
+      "title": "Karius og Baktus",
+      "description": "Søndag. 18. oktober\nkl. 13.00",
+      "date": "2026-10-18",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17330-karius-og-baktus/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17330-karius-og-baktus/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-vamp-med-stjernelag-2026-10-23",
+      "title": "Vamp med stjernelag",
+      "description": "Fredag. 23. oktober\nkl. 19.00",
+      "date": "2026-10-23",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16901-vamp-med-stjernelag/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16901-vamp-med-stjernelag/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-a-night-at-the-movies-2026-10-24",
+      "title": "A Night at the Movies",
+      "description": "24. okt. – 25. okt.\n2 forestillinger",
+      "date": "2026-10-24",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17219-a-night-at-the-movies/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17219-a-night-at-the-movies/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-erik-mogeno-en-buktaler-kommer-sjelden-a-2026-10-25",
+      "title": "Erik Mogeno – En buktaler kommer sjelden alene…",
+      "description": "Søndag. 25. oktober\nkl. 16.00",
+      "date": "2026-10-25",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17121-erik-mogeno-en-buktaler-kommer-sjelden-alene/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17121-erik-mogeno-en-buktaler-kommer-sjelden-alene/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-one-night-only-2026-10-27",
+      "title": "One Night Only",
+      "description": "Tirsdag. 27. oktober\nkl. 19.00",
+      "date": "2026-10-27",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17538-one-night-only/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17538-one-night-only/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-fra-vikingtokt-til-jappetid-en-smakfull--2026-10-28",
+      "title": "Fra vikingtokt til jappetid – En smakfull reise gjennom norsk drikkehistorie",
+      "description": "Onsdag. 28. oktober\nkl. 19.00",
+      "date": "2026-10-28",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17469-fra-vikingtokt-til-jappetid-en-smakfull-reise-gjennom-norsk-drikkehistorie/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17469-fra-vikingtokt-til-jappetid-en-smakfull-reise-gjennom-norsk-drikkehistorie/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-stjernesp-kelset-2026-10-30",
+      "title": "Stjernespøkelset",
+      "description": "Fredag. 30. oktober\nkl. 17.30",
+      "date": "2026-10-30",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16728-stjernespokelset/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16728-stjernespokelset/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-halloween-sp-kelsesvandring-2026-10-30",
+      "title": "Halloween spøkelsesvandring",
+      "description": "Fre. 30. okt.\n10 forestillinger",
+      "date": "2026-10-30",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17196-halloween-spokelsesvandring/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17196-halloween-spokelsesvandring/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-swan-lake-symphony-of-lights-2026-11-04",
+      "title": "Swan Lake – Symphony of lights",
+      "description": "Onsdag. 4. november\nkl. 19.00",
+      "date": "2026-11-04",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17218-swan-lake-symphony-of-lights/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17218-swan-lake-symphony-of-lights/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-bj-rnov-tar-det-piano-2026-11-05",
+      "title": "Bjørnov tar det piano",
+      "description": "Torsdag. 5. november\nkl. 19.00",
+      "date": "2026-11-05",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16477-bjornov-tar-det-piano/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16477-bjornov-tar-det-piano/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-dora-thorhallsdottir-f-kk-2026-11-07",
+      "title": "Dora Thorhallsdottir – FØKK",
+      "description": "Lørdag. 7. november\nkl. 19.00",
+      "date": "2026-11-07",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17526-dora-thorhallsdottir-fokk/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17526-dora-thorhallsdottir-fokk/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-bjelleklang-i-et-evig-ekko-2026-11-10",
+      "title": "Bjelleklang – I et evig ekko",
+      "description": "Tirsdag. 10. november\nkl. 19.00",
+      "date": "2026-11-10",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17532-bjelleklang-i-et-evig-ekko/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17532-bjelleklang-i-et-evig-ekko/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-rundt-et-flygel-vivaldis-fire-rstider-2026-11-11",
+      "title": "Rundt et flygel – Vivaldis fire årstider",
+      "description": "Onsdag. 11. november\nkl. 19.00",
+      "date": "2026-11-11",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16647-rundt-et-flygel-vivaldis-fire-arstider/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16647-rundt-et-flygel-vivaldis-fire-arstider/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-kulturkaf-wwb-trio-2026-11-12",
+      "title": "Kulturkafé – WWB trio",
+      "description": "Torsdag. 12. november\nkl. 12.00",
+      "date": "2026-11-12",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16639-kulturkafe-wwb-trio/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16639-kulturkafe-wwb-trio/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-jonas-fjeld-setter-bagen-fra-seg-2026-11-13",
+      "title": "Jonas Fjeld setter bagen fra seg",
+      "description": "Fredag. 13. november\nkl. 19.00",
+      "date": "2026-11-13",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16651-jonas-fjeld-setter-bagen-fra-seg/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16651-jonas-fjeld-setter-bagen-fra-seg/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-the-magic-of-alexx-alexxander-2-0-2026-11-14",
+      "title": "The Magic of Alexx Alexxander 2.0",
+      "description": "Lørdag. 14. november\nkl. 19.00",
+      "date": "2026-11-14",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16312-the-magic-of-alexx-alexxander-2-0/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16312-the-magic-of-alexx-alexxander-2-0/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-viljeskallen-petter-northug-i-samtale-me-2026-11-18",
+      "title": "Viljeskallen – Petter Northug i samtale med Thor Gotaas",
+      "description": "Onsdag. 18. november\nkl. 19.00",
+      "date": "2026-11-18",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17619-viljeskallen-petter-northug-i-samtale-med-thor-gotaas/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17619-viljeskallen-petter-northug-i-samtale-med-thor-gotaas/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-bj-rn-bjarte-den-t-ffe-og-den-sarte-2026-11-20",
+      "title": "Bjørn & Bjarte – den tøffe og den sarte",
+      "description": "Fredag. 20. november\nkl. 19.00",
+      "date": "2026-11-20",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17540-bjorn-bjarte-den-toffe-og-den-sarte/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17540-bjorn-bjarte-den-toffe-og-den-sarte/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-scrooge-et-juleeventyr-premiere-2026-11-27",
+      "title": "Scrooge – et juleeventyr – PREMIERE",
+      "description": "27. nov. – 13. des.\n14 forestillinger",
+      "date": "2026-11-27",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/15648-scrooge-et-juleeventyr-premiere/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/15648-scrooge-et-juleeventyr-premiere/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-b-rd-tufte-johansen-pr-ver-v-re-positiv-2026-11-27",
+      "title": "Bård Tufte Johansen – Prøver å være positiv",
+      "description": "Fredag. 27. november\nkl. 19.00",
+      "date": "2026-11-27",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17351-bard-tufte-johansen-prover-a-vaere-positiv/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17351-bard-tufte-johansen-prover-a-vaere-positiv/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-v-r-jul-2026-2026-12-04",
+      "title": "Vår jul 2026",
+      "description": "Fredag. 4. desember\nkl. 17.30",
+      "date": "2026-12-04",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16598-var-jul-2026/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16598-var-jul-2026/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-avantgarde-med-espen-abrahamsen-2026-12-04",
+      "title": "Avantgarde med Espen Abrahamsen",
+      "description": "Fredag. 4. desember\nkl. 19.00",
+      "date": "2026-12-04",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17686-avantgarde-med-espen-abrahamsen/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17686-avantgarde-med-espen-abrahamsen/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-christmas-with-nordic-tenors-2026-12-06",
+      "title": "Christmas with Nordic Tenors",
+      "description": "Søndag. 6. desember\nkl. 18.00",
+      "date": "2026-12-06",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17289-christmas-with-nordic-tenors/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17289-christmas-with-nordic-tenors/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-didrik-solli-tangen-o-helga-natt-2026-12-07",
+      "title": "Didrik Solli-Tangen – O helga natt",
+      "description": "Mandag. 7. desember\nkl. 18.00",
+      "date": "2026-12-07",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17252-didrik-solli-tangen-o-helga-natt/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17252-didrik-solli-tangen-o-helga-natt/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-sporsem-og-brungot-h-y-og-m-rk-2026-12-18",
+      "title": "Sporsem og Brungot – Høy og Mørk",
+      "description": "Fredag. 18. desember\nkl. 19.00",
+      "date": "2026-12-18",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/15991-sporsem-og-brungot-hoy-og-mork/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/15991-sporsem-og-brungot-hoy-og-mork/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-swinging-christmas-2026-12-19",
+      "title": "Swinging Christmas",
+      "description": "Lørdag. 19. desember\nkl. 19.00",
+      "date": "2026-12-19",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/15649-swinging-christmas/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/15649-swinging-christmas/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-jula-er-her-alexandra-rotan-2026-12-20",
+      "title": "Jula er her – Alexandra Rotan",
+      "description": "Søndag. 20. desember\nkl. 19.00",
+      "date": "2026-12-20",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17403-jula-er-her-alexandra-rotan/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17403-jula-er-her-alexandra-rotan/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-n-tteknekkeren-symphony-of-lights-2026-12-21",
+      "title": "Nøtteknekkeren – Symphony of Lights",
+      "description": "Mandag. 21. desember\nkl. 19.00",
+      "date": "2026-12-21",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17232-notteknekkeren-symphony-of-lights/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17232-notteknekkeren-symphony-of-lights/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-rundt-et-flygel-tine-thing-helseth-med-g-2027-01-20",
+      "title": "Rundt et flygel – Tine Thing Helseth med Gunnar Flagstad",
+      "description": "Onsdag. 20. januar 2027\nkl. 19.00",
+      "date": "2027-01-20",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17488-rundt-et-flygel-tine-thing-helseth-med-gunnar-flagstad/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17488-rundt-et-flygel-tine-thing-helseth-med-gunnar-flagstad/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-kulturkaf-the-sound-of-simon-garfunkel-2027-01-21",
+      "title": "Kulturkafé – The Sound of Simon & Garfunkel",
+      "description": "Torsdag. 21. januar 2027\nkl. 12.00",
+      "date": "2027-01-21",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17664-kulturkafe-the-sound-of-simon-garfunkel/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17664-kulturkafe-the-sound-of-simon-garfunkel/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen--queen-the-golden-years-med-ge-steen-nil-2027-01-22",
+      "title": "«Queen – The golden years» med Åge Steen Nilsen",
+      "description": "Fredag. 22. januar 2027\nkl. 19.00",
+      "date": "2027-01-22",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17748-queen-the-golden-years-med-age-steen-nilsen/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17748-queen-the-golden-years-med-age-steen-nilsen/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
     }
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 3,
-    "fetchedAt": "2026-03-29T05:13:13.306Z",
+    "count": 92,
+    "fetchedAt": "2026-03-29T05:33:34.346Z",
     "sources": {
       "ticketmaster": 0,
       "eventbrite": 0,
-      "scrape": 6
+      "scrape": 95
     }
   }
 }
