@@ -1,8 +1,12 @@
 name: Last ned byfoto
 
-# Kjøres manuelt én gang – kan slettes etter at bildene er i repoet
+# Kjøres automatisk én gang ved push – kan slettes etter at bildene er i repoet
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/download-city-images.yml'
 
 jobs:
   download:
