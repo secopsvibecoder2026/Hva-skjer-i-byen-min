@@ -466,6 +466,15 @@ function buildFilters() {
    SØK
    ============================================================ */
 
+function filterCityPills(query) {
+  const q = query.trim().toLowerCase();
+  const pills = document.querySelectorAll(".city-pill[data-city]");
+  pills.forEach((pill) => {
+    const name = (pill.querySelector(".city-pill__name")?.textContent || pill.dataset.city).toLowerCase();
+    pill.hidden = q !== "" && !name.includes(q);
+  });
+}
+
 function setupSearch() {
   const input    = document.getElementById("search-input");
   const clearBtn = document.getElementById("search-clear");
@@ -476,8 +485,9 @@ function setupSearch() {
     debounceTimer = setTimeout(() => {
       searchQuery = input.value;
       clearBtn.hidden = searchQuery === "";
+      filterCityPills(searchQuery);
       renderByGroups(allEvents);
-    }, 200);
+    }, 150);
   });
 
   clearBtn.addEventListener("click", () => {
@@ -485,6 +495,7 @@ function setupSearch() {
     searchQuery  = "";
     clearBtn.hidden = true;
     input.focus();
+    filterCityPills("");
     renderByGroups(allEvents);
   });
 }
