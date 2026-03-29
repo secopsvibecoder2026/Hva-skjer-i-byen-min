@@ -1,6 +1,5 @@
 name: Last ned byfoto
 
-# Kjøres automatisk én gang ved push – kan slettes etter at bildene er i repoet
 on:
   workflow_dispatch:
   push:
@@ -16,98 +15,78 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
-
-      - name: Lag mappe
-        run: mkdir -p img/cities
+        with:
+          fetch-depth: 0
 
       - name: Last ned byfoto fra Wikimedia Commons (CC-lisens)
         run: |
-          UA="Mozilla/5.0 (compatible; ibyenmin.no/1.0)"
+          mkdir -p img/cities
 
           download() {
             local name=$1
             local url=$2
-            echo -n "  $name ... "
-            if curl -fsSL -A "$UA" --max-time 30 -o "img/cities/${name}.jpg" "$url"; then
-              size=$(du -h "img/cities/${name}.jpg" | cut -f1)
-              echo "OK ($size)"
-            else
-              echo "FEIL – hopper over"
-              rm -f "img/cities/${name}.jpg"
+
+            # Hopp over hvis bildet allerede finnes
+            if [ -f "img/cities/${name}.jpg" ] && [ -s "img/cities/${name}.jpg" ]; then
+              echo "  $name – allerede lastet ned, hopper over"
+              return
             fi
+
+            echo -n "  $name ... "
+            local ok=false
+            for attempt in 1 2 3; do
+              if curl -fsSL \
+                --max-time 45 \
+                -H "User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" \
+                -H "Accept: image/avif,image/webp,image/apng,image/*,*/*;q=0.8" \
+                -H "Accept-Language: nb-NO,nb;q=0.9,no;q=0.8,en;q=0.7" \
+                -H "Referer: https://commons.wikimedia.org/" \
+                -o "img/cities/${name}.jpg" \
+                "$url" 2>/dev/null; then
+                size=$(du -h "img/cities/${name}.jpg" | cut -f1)
+                echo "OK ($size, forsøk $attempt)"
+                ok=true
+                break
+              else
+                rm -f "img/cities/${name}.jpg"
+                [ $attempt -lt 3 ] && sleep $((attempt * 3))
+              fi
+            done
+            $ok || echo "FEIL etter 3 forsøk"
+
+            # Pause mellom nedlastinger for å unngå rate-limit
+            sleep 2
           }
 
-          # Bergen – Bryggen panorama (CC BY-SA 3.0)
-          download bergen "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Bryggen_panorama.JPG/400px-Bryggen_panorama.JPG"
-
-          # Oslo – Operahuset (CC BY-SA 3.0)
-          download oslo "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Oslo_Opera_House_seen_from_Langkaia.JPG/400px-Oslo_Opera_House_seen_from_Langkaia.JPG"
-
-          # Trondheim – Nidarosdomen (CC BY-SA 3.0)
-          download trondheim "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nidaros_Cathedral_Trondheim.JPG/400px-Nidaros_Cathedral_Trondheim.JPG"
-
-          # Stavanger – Preikestolen / Lysefjorden (CC BY-SA 3.0)
-          download stavanger "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Lysefjorden_-_Preikestolen_in_August_08.JPG/400px-Lysefjorden_-_Preikestolen_in_August_08.JPG"
-
-          # Kristiansand – Kilden kulturhus (CC BY-SA 3.0)
+          download bergen     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Bryggen_panorama.JPG/400px-Bryggen_panorama.JPG"
+          download oslo       "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Oslo_Opera_House_seen_from_Langkaia.JPG/400px-Oslo_Opera_House_seen_from_Langkaia.JPG"
+          download trondheim  "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nidaros_Cathedral_Trondheim.JPG/400px-Nidaros_Cathedral_Trondheim.JPG"
+          download stavanger  "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Lysefjorden_-_Preikestolen_in_August_08.JPG/400px-Lysefjorden_-_Preikestolen_in_August_08.JPG"
           download kristiansand "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Kilden-Kristiansand.JPG/400px-Kilden-Kristiansand.JPG"
-
-          # Tromsø – Ishavskathedralen (CC BY-SA 3.0)
-          download tromso "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arctic_Cathedral.JPG/400px-Arctic_Cathedral.JPG"
-
-          # Bodø – by med fjell (CC BY 2.0)
-          download bodo "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Bod%C3%B8%2C_Norway_%2823622461353%29.jpg/400px-Bod%C3%B8%2C_Norway_%2823622461353%29.jpg"
-
-          # Ålesund – utsikt fra Aksla (CC BY-SA 3.0)
-          download alesund "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Aalesund-seen-from-Aksla.jpg/400px-Aalesund-seen-from-Aksla.jpg"
-
-          # Molde – by og Moldefjorden (CC BY-SA 3.0)
-          download molde "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Molde_og_Moldefjorden.JPG/400px-Molde_og_Moldefjorden.JPG"
-
-          # Hamar – Vikingskipet / Olympic Amfi (CC BY-SA 3.0)
-          download hamar "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Hamar_Olympic_Amfi_2006_%28cropped%29.JPG/400px-Hamar_Olympic_Amfi_2006_%28cropped%29.JPG"
-
-          # Fredrikstad – Gamlebyens torg (CC BY-SA 2.5)
+          download tromso     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arctic_Cathedral.JPG/400px-Arctic_Cathedral.JPG"
+          download bodo       "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Bod%C3%B8%2C_Norway_%2823622461353%29.jpg/400px-Bod%C3%B8%2C_Norway_%2823622461353%29.jpg"
+          download alesund    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Aalesund-seen-from-Aksla.jpg/400px-Aalesund-seen-from-Aksla.jpg"
+          download molde      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Molde_og_Moldefjorden.JPG/400px-Molde_og_Moldefjorden.JPG"
+          download hamar      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Hamar_Olympic_Amfi_2006_%28cropped%29.JPG/400px-Hamar_Olympic_Amfi_2006_%28cropped%29.JPG"
           download fredrikstad "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Fredrikstad_OldTownSquare01.JPG/400px-Fredrikstad_OldTownSquare01.JPG"
-
-          # Drammen – Bragernes kirke (CC BY-SA 3.0)
-          download drammen "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Bragernes_church%2C_Drammen.JPG/400px-Bragernes_church%2C_Drammen.JPG"
-
-          # Lillestrøm – Norges Varemesse (CC BY-SA 3.0)
+          download drammen    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Bragernes_church%2C_Drammen.JPG/400px-Bragernes_church%2C_Drammen.JPG"
           download lillestrom "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Norges_Varemesse_Lillestrom.jpg/400px-Norges_Varemesse_Lillestrom.jpg"
-
-          # Tønsberg – Slottsfjelltårnet (CC BY-SA 3.0)
-          download tonsberg "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Tower_in_T%C3%B8nsberg.JPG/400px-Tower_in_T%C3%B8nsberg.JPG"
-
-          # Moss – Moss kirke (CC BY-SA 3.0)
-          download moss "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Moss_Mosskirke01.JPG/400px-Moss_Mosskirke01.JPG"
-
-          # Sandefjord – byfoto (CC BY-SA 3.0)
+          download tonsberg   "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Tower_in_T%C3%B8nsberg.JPG/400px-Tower_in_T%C3%B8nsberg.JPG"
+          download moss       "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Moss_Mosskirke01.JPG/400px-Moss_Mosskirke01.JPG"
           download sandefjord "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Sandefjord%2C_Norwegia_08.JPG/400px-Sandefjord%2C_Norwegia_08.JPG"
-
-          # Haugesund – Haraldshaugen (CC BY-SA 3.0)
-          download haugesund "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/National_Monument%2C_Haugesund_Norway.JPG/400px-National_Monument%2C_Haugesund_Norway.JPG"
-
-          # Arendal – byutsikt (CC BY-SA 3.0)
-          download arendal "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Arendal_Utsikt_02.JPG/400px-Arendal_Utsikt_02.JPG"
-
-          # Kongsberg – Kongsberg kirke (CC BY-SA 3.0)
-          download kongsberg "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Kongsberg_Buskerud_Norway.jpg/400px-Kongsberg_Buskerud_Norway.jpg"
-
-          # Voss – Vossbyen (CC BY-SA 3.0)
-          download voss "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Vossbyen.jpg/400px-Vossbyen.jpg"
-
-          # Eidsvoll – Eidsvollsbygningen (CC BY-SA 3.0)
-          download eidsvoll "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Eidsvollsbygningen_mai_2011.jpg/400px-Eidsvollsbygningen_mai_2011.jpg"
-
-          # Aurskog-Høland – Sootsjøen (CC BY-SA 3.0)
+          download haugesund  "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/National_Monument%2C_Haugesund_Norway.JPG/400px-National_Monument%2C_Haugesund_Norway.JPG"
+          download arendal    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Arendal_Utsikt_02.JPG/400px-Arendal_Utsikt_02.JPG"
+          download kongsberg  "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Kongsberg_Buskerud_Norway.jpg/400px-Kongsberg_Buskerud_Norway.jpg"
+          download voss       "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Vossbyen.jpg/400px-Vossbyen.jpg"
+          download eidsvoll   "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Eidsvollsbygningen_mai_2011.jpg/400px-Eidsvollsbygningen_mai_2011.jpg"
           download aurskog-holand "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Sootsj%C3%B8en.JPG/400px-Sootsj%C3%B8en.JPG"
 
           echo ""
-          echo "=== Nedlastede filer ==="
+          echo "=== Resultat ==="
           ls -lh img/cities/
+          echo "Antall bilder: $(ls img/cities/*.jpg 2>/dev/null | wc -l) / 22"
 
-      - name: Commit byfoto til repoet
+      - name: Commit nye byfoto
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -115,6 +94,7 @@ jobs:
           if git diff --staged --quiet; then
             echo "Ingen nye bilder å committe"
           else
-            git commit -m "feat(assets): last ned CC-lisensierte byfoto fra Wikimedia Commons"
+            count=$(git diff --staged --name-only | wc -l)
+            git commit -m "feat(assets): legg til $count byfoto (CC-lisens, Wikimedia Commons)"
             git push
           fi
