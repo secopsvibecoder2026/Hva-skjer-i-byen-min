@@ -545,23 +545,15 @@ function setupCityPicker() {
     pill.addEventListener("click", () => {
       const city = pill.dataset.city;
 
-      // By-sider: naviger til annen by som før
+      // By-sider: naviger til annen by
       if (window.PRESELECTED_CITY) {
         if (city === window.PRESELECTED_CITY) return;
         window.location.href = `../${city}/`;
         return;
       }
 
-      // Forsiden: toggle multi-valg
-      const idx = selectedCities.indexOf(city);
-      if (idx === -1) {
-        selectedCities.push(city);
-        pill.classList.add("city-pill--active");
-      } else {
-        selectedCities.splice(idx, 1);
-        pill.classList.remove("city-pill--active");
-      }
-      loadSelectedCities().catch(console.error);
+      // Forsiden: naviger direkte til by-siden
+      window.location.href = `/${city}/`;
     });
   });
 }
