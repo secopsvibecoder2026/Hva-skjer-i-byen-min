@@ -94,8 +94,7 @@ a:hover { color: var(--color-primary-dk); }
    ============================================================ */
 .site-header {
   background:
-    linear-gradient(135deg, rgba(15,23,42,.78) 0%, rgba(30,58,138,.72) 60%, rgba(29,78,216,.78) 100%),
-    url('https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/17th_of_May_Parade_%288750564359%29.jpg/1280px-17th_of_May_Parade_%288750564359%29.jpg') center 30% / cover no-repeat;
+    linear-gradient(135deg, rgba(15,23,42,1) 0%, rgba(30,58,138,.95) 60%, rgba(29,78,216,.95) 100%);
   color: var(--color-text-inv);
   padding: 3rem 1.25rem 3.5rem;
   position: relative;
@@ -1157,7 +1156,8 @@ a:hover { color: var(--color-primary-dk); }
    ============================================================ */
 .city-pill__count {
   display: inline-block;
-  background: rgba(255,255,255,.22);
+  background: rgba(0,0,0,.55);
+  color: #fff;
   border-radius: 999px;
   font-size: 0.72rem;
   font-weight: 700;
