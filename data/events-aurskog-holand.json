@@ -1,95 +1,204 @@
 {
   "events": [
     {
-      "id": "aurskog-holand-1",
-      "title": "Bjørkelangen Marked – Vår 2026",
-      "description": "Tradisjonsrikt vårmarked på Bjørkelangen. Lokale bønder, håndverkere og matprodusenter samles. Hyggelig familiedag med mye å se og smake på.",
-      "date": "2026-05-02",
-      "time": "10:00",
-      "endTime": "16:00",
-      "location": "Bjørkelangen sentrum, Aurskog-Høland",
+      "id": "scrape-gen-p-skens-h-ydepunkter-",
+      "title": "Påskens høydepunkter",
+      "description": "Arrangement i visitgreateroslo.com/romerike",
+      "date": "2026-03-31",
+      "time": "12:00",
+      "endTime": null,
+      "location": "visitgreateroslo.com/romerike",
       "categories": [
-        "familie",
-        "gratis"
-      ],
-      "ticketUrl": null,
-      "affiliateUrl": null,
-      "imageUrl": null,
-      "imageEmoji": "🛒",
-      "sponsored": false,
-      "featured": true,
-      "source": "local"
-    },
-    {
-      "id": "aurskog-holand-2",
-      "title": "17. mai feiring – Bjørkelangen",
-      "description": "Nasjonaldagsfeiring med barnetog, musikkorps og familieaktiviteter i Bjørkelangen. Folkefest og god stemning for hele bygda.",
-      "date": "2026-05-17",
-      "time": "10:00",
-      "endTime": "17:00",
-      "location": "Bjørkelangen, Aurskog-Høland",
-      "categories": [
-        "familie",
-        "gratis"
-      ],
-      "ticketUrl": null,
-      "affiliateUrl": null,
-      "imageUrl": null,
-      "imageEmoji": "🇳🇴",
-      "sponsored": false,
-      "featured": false,
-      "source": "local"
-    },
-    {
-      "id": "aurskog-holand-3",
-      "title": "Hølenfestivalen 2026",
-      "description": "Lokalt musikkfestival ved Hølenelva. Norske artister, god mat og flott natur. Sommer-stemning for hele familien i naturskjønne omgivelser.",
-      "date": "2026-07-04",
-      "time": "14:00",
-      "endTime": "22:00",
-      "location": "Hølen, Aurskog-Høland",
-      "categories": [
-        "konsert",
         "familie"
       ],
-      "ticketUrl": "https://www.ticketmaster.no",
-      "affiliateUrl": "https://www.ticketmaster.no/?ref=hvaSkjerIByenMin",
+      "ticketUrl": "https://visitgreateroslo.com/no/paskeferie/paskens-hoydepunkter/",
+      "affiliateUrl": "https://visitgreateroslo.com/no/paskeferie/paskens-hoydepunkter/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
-      "imageEmoji": "🎵",
+      "imageEmoji": "🎪",
       "sponsored": false,
       "featured": false,
-      "source": "local"
+      "source": "scrape"
     },
     {
-      "id": "aurskog-holand-4",
-      "title": "Familiedag – Aurskog-Høland Bygdetun",
-      "description": "Opplev lokal kulturhistorie på bygdetunet! Guidede turer, gamle håndverk og aktiviteter for barn. Gratis inngang for barn under 16 år.",
-      "date": "2026-06-14",
-      "time": "11:00",
-      "endTime": "16:00",
-      "location": "Aurskog-Høland Bygdetun, Bjørkelangen",
+      "id": "scrape-gen-shopping-g-rdsbutikker-og-sm-byliv-p-rom-",
+      "title": "Shopping, gårdsbutikker og småbyliv på Romerike",
+      "description": "Arrangement i visitgreateroslo.com/romerike",
+      "date": "2026-03-31",
+      "time": "12:00",
+      "endTime": null,
+      "location": "visitgreateroslo.com/romerike",
       "categories": [
-        "familie",
-        "barn"
+        "familie"
       ],
-      "ticketUrl": "https://www.aurskog-holand.kommune.no",
-      "affiliateUrl": null,
+      "ticketUrl": "https://visitgreateroslo.com/no/romerike/se-og-gjore/shopping/",
+      "affiliateUrl": "https://visitgreateroslo.com/no/romerike/se-og-gjore/shopping/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
-      "imageEmoji": "🏡",
+      "imageEmoji": "🎪",
       "sponsored": false,
       "featured": false,
-      "source": "local"
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-sykkel-og-turtips-p-romerike-",
+      "title": "Sykkel og turtips på Romerike",
+      "description": "Arrangement i visitgreateroslo.com/romerike",
+      "date": "2026-03-31",
+      "time": "12:00",
+      "endTime": null,
+      "location": "visitgreateroslo.com/romerike",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://visitgreateroslo.com/no/romerike/se-og-gjore/aktiviteter/sykkel-og-vandre-tips/",
+      "affiliateUrl": "https://visitgreateroslo.com/no/romerike/se-og-gjore/aktiviteter/sykkel-og-vandre-tips/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-hva-skjer--",
+      "title": "Hva skjer?",
+      "description": "Arrangement i ahbygdetun.no (kalender)",
+      "date": "2026-03-31",
+      "time": "12:00",
+      "endTime": null,
+      "location": "ahbygdetun.no (kalender)",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": null,
+      "affiliateUrl": null,
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-aktiviteter-og-opplevelser-",
+      "title": "Aktiviteter og opplevelser",
+      "description": "Finn aktiviteter i Haldenkanalen – fra padling og båtturer til kultur, fiske og…",
+      "date": "2026-03-31",
+      "time": "12:00",
+      "endTime": null,
+      "location": "visitoestfold.com/haldenkanalen",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.visitoestfold.com/haldenkanalen/aktiviteter-og-attraksjoner/aktiviteter-og-opplevelser/",
+      "affiliateUrl": "https://www.visitoestfold.com/haldenkanalen/aktiviteter-og-attraksjoner/aktiviteter-og-opplevelser/?ref=hvaSkjerIByenMin",
+      "imageUrl": "https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_jpg,h_600,q_65,w_600/v1/clients/ostfold/Padling_Haldenkanalen_Fotokredit_Jonas_Ingstad_Haldenkanalen_Regionalpark_9__4af3b900-4593-4685-9f2b-02320a7eea22.jpg",
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-reisen-p-kanalen-",
+      "title": "Reisen på kanalen",
+      "description": "Planlegg båttur i Haldenkanalen og opplev slusene",
+      "date": "2026-03-31",
+      "time": "12:00",
+      "endTime": null,
+      "location": "visitoestfold.com/haldenkanalen",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.visitoestfold.com/haldenkanalen/ideer-og-inspirasjon/signaturopplevelser/reisen-p-kanalen/",
+      "affiliateUrl": "https://www.visitoestfold.com/haldenkanalen/ideer-og-inspirasjon/signaturopplevelser/reisen-p-kanalen/?ref=hvaSkjerIByenMin",
+      "imageUrl": "https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_jpg,h_600,q_65,w_600/v1/clients/ostfold/DS_Turisten_Fotokredit_Jonas_Ingstad_Haldenkanalen_Regionalpark_9__7781661e-d250-4312-9b0c-e47773b7c9b4.jpg",
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-i-v-re-forfedres-fotspor-",
+      "title": "I våre forfedres fotspor",
+      "description": "Utforsk historie og kulturminner langs Haldenkanalen",
+      "date": "2026-03-31",
+      "time": "12:00",
+      "endTime": null,
+      "location": "visitoestfold.com/haldenkanalen",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.visitoestfold.com/haldenkanalen/ideer-og-inspirasjon/signaturopplevelser/i-vre-forfedres-fotspor/",
+      "affiliateUrl": "https://www.visitoestfold.com/haldenkanalen/ideer-og-inspirasjon/signaturopplevelser/i-vre-forfedres-fotspor/?ref=hvaSkjerIByenMin",
+      "imageUrl": "https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_jpg,g_xy_center,h_600,q_65,w_600,x_1447,y_627/v1/clients/ostfold/fotograf_jonas_ingstad_07118_5db063b4-ea1c-48e7-8c30-e253a550d04c.jpg",
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-naturopplevelser-",
+      "title": "Naturopplevelser",
+      "description": "Finn de beste tipsene for naturopplevelser i Haldenkanalen og turer langs vannveien",
+      "date": "2026-03-31",
+      "time": "12:00",
+      "endTime": null,
+      "location": "visitoestfold.com/haldenkanalen",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.visitoestfold.com/haldenkanalen/ideer-og-inspirasjon/naturopplevelser/",
+      "affiliateUrl": "https://www.visitoestfold.com/haldenkanalen/ideer-og-inspirasjon/naturopplevelser/?ref=hvaSkjerIByenMin",
+      "imageUrl": "https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_jpg,h_600,q_65,w_600/v1/clients/ostfold/Alene_sammen_med_andre_Haldenkanalen_Fotokredit_Jonas_Ingstad_Haldenkanalen_Regionalpark_2__808c4d26-6b86-4531-a227-f2c419732d41.jpg",
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-egen-fritidsb-t-i-kanalen-",
+      "title": "Egen fritidsbåt i kanalen",
+      "description": "Din guide til å oppleve Haldenkanalen med egen fritidsbåt",
+      "date": "2026-03-31",
+      "time": "12:00",
+      "endTime": null,
+      "location": "visitoestfold.com/haldenkanalen",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.visitoestfold.com/haldenkanalen/praktisk-informasjon/fritidsbat/",
+      "affiliateUrl": "https://www.visitoestfold.com/haldenkanalen/praktisk-informasjon/fritidsbat/?ref=hvaSkjerIByenMin",
+      "imageUrl": "https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_jpg,h_600,q_65,w_600/v1/clients/ostfold/fotograf_jonas_ingstad_00528_79f09390-7e85-4f31-8029-de36cd91e809.jpg",
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-b-tturer-",
+      "title": "Båtturer",
+      "description": "Arrangement i visitoestfold.com/haldenkanalen",
+      "date": "2026-03-31",
+      "time": "12:00",
+      "endTime": null,
+      "location": "visitoestfold.com/haldenkanalen",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.visitoestfold.com/haldenkanalen/aktiviteter-og-attraksjoner/aktiviteter-og-opplevelser/batturer/",
+      "affiliateUrl": "https://www.visitoestfold.com/haldenkanalen/aktiviteter-og-attraksjoner/aktiviteter-og-opplevelser/batturer/?ref=hvaSkjerIByenMin",
+      "imageUrl": "https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_jpg,h_600,q_65,w_600/v1/clients/ostfold/DS_Engebret_SOOT_Fotokredit_Tony_Rymann_1__e9996d79-0a43-4c30-9281-7e68fa5ad596.jpg",
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
     }
   ],
   "meta": {
     "city": "aurskog-holand",
-    "count": 4,
-    "fetchedAt": "2026-03-28T05:00:00.000Z",
+    "count": 10,
+    "fetchedAt": "2026-03-30T06:52:25.645Z",
     "sources": {
       "ticketmaster": 0,
       "eventbrite": 0,
-      "scrape": 0,
-      "note": "Seed-data. Erstattes av GitHub Actions scraper ved neste kjøring."
+      "scrape": 10
     }
   }
 }
