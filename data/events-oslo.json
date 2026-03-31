@@ -448,26 +448,6 @@
       "source": "ticketmaster"
     },
     {
-      "id": "tm-Z698xZb_Z16vp3A98f",
-      "title": "Solence",
-      "description": "Arrangement på John Dee, Oslo",
-      "date": "2026-04-11",
-      "time": "19:00",
-      "endTime": null,
-      "location": "John Dee, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/solence-tickets/1592157414?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/solence-tickets/1592157414?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/4fc/124b8ea0-775b-4a19-867c-473fa6ce14fc_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z16vQa7Y4k",
       "title": "dEUS",
       "description": "Arrangement på Rockefeller, Oslo",
@@ -963,8 +943,8 @@
   ],
   "meta": {
     "city": "oslo",
-    "count": 49,
-    "fetchedAt": "2026-03-30T06:52:16.391Z",
+    "count": 48,
+    "fetchedAt": "2026-03-31T06:15:41.910Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,
