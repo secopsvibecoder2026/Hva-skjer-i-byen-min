@@ -65,6 +65,7 @@ const CITY_COORDS = {
   "moss":           { ll: "59.4338,10.6579",  r: 20,  inc: ["Moss", "Rygge", "Råde"] },                 // TM bruker Horten/Holmsbu – filter blokkerer feil events
   "haugesund":      { ll: "59.4134,5.2680",   r: 25,  inc: [] },                                        // Ikke verifisert (0 TM-events)
   "sandefjord":     { ll: "59.1313,10.2169",  r: 20,  inc: ["Sandefjord", "Stokke", "Larvik"] },        // TM bruker Tønsberg – filter blokkerer (for nær Tønsberg-radius)
+  "larvik":         { ll: "59.0561,10.0272",  r: 20,  inc: ["Larvik"] },                                // Larvik, Vestfold
   "arendal":        { ll: "58.4615,8.7722",   r: 25,  inc: ["Arendal", "Grimstad"] },                   // TM bruker Grimstad (7km fra Arendal – beholdes) ✓
   "molde":          { ll: "62.7380,7.1591",   r: 25,  inc: [] },                                        // Ikke verifisert (0 TM-events)
   "voss":           { ll: "60.6282,6.4150",   r: 20,  inc: [] },                                        // Ikke verifisert (0 TM-events)

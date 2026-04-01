@@ -194,6 +194,18 @@ const CITY_SOURCES = {
       label:   "visitsandefjord.com",
     },
   ],
+  larvik: [
+    {
+      url:     "https://www.visitlarvik.no/hva-skjer/",
+      scraper: scrapeGeneric,
+      label:   "visitlarvik.no",
+    },
+    {
+      url:     "https://www.larvik.kommune.no/kultur-og-fritid/",
+      scraper: scrapeGeneric,
+      label:   "larvik.kommune.no",
+    },
+  ],
   arendal: [
     {
       url:     "https://www.visitarendal.com/hva-skjer/",

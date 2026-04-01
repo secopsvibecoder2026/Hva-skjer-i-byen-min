@@ -74,6 +74,7 @@ jobs:
           download tonsberg   "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Tower_in_T%C3%B8nsberg.JPG/400px-Tower_in_T%C3%B8nsberg.JPG"
           download moss       "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Moss_Mosskirke01.JPG/400px-Moss_Mosskirke01.JPG"
           download sandefjord "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Sandefjord%2C_Norwegia_08.JPG/400px-Sandefjord%2C_Norwegia_08.JPG"
+          download larvik     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Larvik_Fantebukta_IMG_5401_vardaas_mt_65m.JPG/400px-Larvik_Fantebukta_IMG_5401_vardaas_mt_65m.JPG"
           download haugesund  "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/National_Monument%2C_Haugesund_Norway.JPG/400px-National_Monument%2C_Haugesund_Norway.JPG"
           download arendal    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Arendal_Utsikt_02.JPG/400px-Arendal_Utsikt_02.JPG"
           download kongsberg  "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Kongsberg_Buskerud_Norway.jpg/400px-Kongsberg_Buskerud_Norway.jpg"
@@ -84,7 +85,7 @@ jobs:
           echo ""
           echo "=== Resultat ==="
           ls -lh img/cities/
-          echo "Antall bilder: $(ls img/cities/*.jpg 2>/dev/null | wc -l) / 22"
+          echo "Antall bilder: $(ls img/cities/*.jpg 2>/dev/null | wc -l) / 23"
 
       - name: Commit nye byfoto
         run: |
