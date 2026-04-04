@@ -1,84 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z1kvKo6PI",
-      "title": "In the Footsteps of Munch",
-      "description": "Arrangement på Clarion Hotel The Hub, Oslo",
-      "date": "2026-04-03",
-      "time": "11:00",
-      "endTime": null,
-      "location": "Clarion Hotel The Hub, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/in-the-footsteps-of-munch-tickets/53447968?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/in-the-footsteps-of-munch-tickets/53447968?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/e7c/86478562-7218-4e8f-b9d4-8080fe168e7c_105581_TABLET_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16v4V7-xb",
-      "title": "Black Metal Bus Sightseeing",
-      "description": "Arrangement på Clarion Hotel The Hub, Oslo",
-      "date": "2026-04-03",
-      "time": "11:30",
-      "endTime": null,
-      "location": "Clarion Hotel The Hub, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/black-metal-bus-sightseeing-tickets/1574121898?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/black-metal-bus-sightseeing-tickets/1574121898?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/e7c/86478562-7218-4e8f-b9d4-8080fe168e7c_105581_TABLET_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16ee9f8ka",
-      "title": "INFERNO METAL FESTIVAL 2026 - Friday Ticket",
-      "description": "Arrangement på Rockefeller, Oslo",
-      "date": "2026-04-03",
-      "time": "16:00",
-      "endTime": null,
-      "location": "Rockefeller, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/inferno-metal-festival-2026-friday-ticket-tickets/2097510189?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/inferno-metal-festival-2026-friday-ticket-tickets/2097510189?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/e7c/86478562-7218-4e8f-b9d4-8080fe168e7c_105581_TABLET_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z1kONufq7",
-      "title": "St Matthew Passion by J. S. Bach",
-      "description": "Arrangement på Oslo domkirke, Oslo",
-      "date": "2026-04-03",
-      "time": "17:00",
-      "endTime": null,
-      "location": "Oslo domkirke, Oslo",
-      "categories": [
-        "konsert",
-        "familie"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/st-matthew-passion-by-j-s-bach-tickets/823354744?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/st-matthew-passion-by-j-s-bach-tickets/823354744?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/293/e6810afe-192a-49ea-b918-01c537b6c293_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z1kog_O_z",
       "title": "In the Footsteps of Munch",
       "description": "Arrangement på Clarion Hotel The Hub, Oslo",
@@ -938,12 +860,92 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1k-ZZK8z",
+      "title": "Morgan Sulele",
+      "description": "Arrangement på Rockefeller, Oslo",
+      "date": "2026-04-30",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Rockefeller, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/morgan-sulele-tickets/840013438?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/morgan-sulele-tickets/840013438?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/062/d471491e-d3c5-4d04-99d5-9768d8446062_SOURCE",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kPsj_As",
+      "title": "Ravi - Megabusjdafestkonsært",
+      "description": "Arrangement på Sentrum Scene, Oslo",
+      "date": "2026-04-30",
+      "time": "20:00",
+      "endTime": null,
+      "location": "Sentrum Scene, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/ravi-megabusjdafestkonsaert-tickets/971719171?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/ravi-megabusjdafestkonsaert-tickets/971719171?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/05d/a2c3584c-830d-4371-9cdc-c74f1cdd705d_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kJvAY3_",
+      "title": "Room 37",
+      "description": "Arrangement på John Dee, Oslo",
+      "date": "2026-04-30",
+      "time": "23:00",
+      "endTime": null,
+      "location": "John Dee, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/room-37-tickets/981170499?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/room-37-tickets/981170499?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/7b1/444543d2-afdc-474e-acf9-5c6b1fbea7b1_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vFfAxjb",
+      "title": "Poor Bambi + Sad Chloë | NY DATO!",
+      "description": "Arrangement på Vaterland Bar & Scene, Oslo",
+      "date": "2026-05-01",
+      "time": "20:00",
+      "endTime": null,
+      "location": "Vaterland Bar & Scene, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/poor-bambi--sad-chloe-%7C-ny-dato-tickets/1214162718?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/poor-bambi--sad-chloe-%7C-ny-dato-tickets/1214162718?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 48,
-    "fetchedAt": "2026-04-03T06:11:46.363Z",
+    "fetchedAt": "2026-04-04T05:56:08.955Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,
