@@ -1,102 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z1kog_O_z",
-      "title": "In the Footsteps of Munch",
-      "description": "Arrangement på Clarion Hotel The Hub, Oslo",
-      "date": "2026-04-04",
-      "time": "11:00",
-      "endTime": null,
-      "location": "Clarion Hotel The Hub, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/in-the-footsteps-of-munch-tickets/475660678?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/in-the-footsteps-of-munch-tickets/475660678?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/e7c/86478562-7218-4e8f-b9d4-8080fe168e7c_105581_TABLET_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z1kx7J8_0",
-      "title": "Charlie Koryn – Dimensional Playing in Extreme Music.",
-      "description": "Arrangement på Clarion Hotel The Hub, Oslo",
-      "date": "2026-04-04",
-      "time": "11:30",
-      "endTime": null,
-      "location": "Clarion Hotel The Hub, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/charlie-koryn--dimensional-playing-in-extreme-music-tickets/884990664?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/charlie-koryn--dimensional-playing-in-extreme-music-tickets/884990664?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/e7c/86478562-7218-4e8f-b9d4-8080fe168e7c_105581_TABLET_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z1kvye8qv",
-      "title": "Orgelkonsert på påskeaften",
-      "description": "Arrangement på Oslo domkirke, Oslo",
-      "date": "2026-04-04",
-      "time": "12:00",
-      "endTime": null,
-      "location": "Oslo domkirke, Oslo",
-      "categories": [
-        "konsert",
-        "familie"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/orgelkonsert-pa-paskeaften-tickets/79090741?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/orgelkonsert-pa-paskeaften-tickets/79090741?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/ddf/d850b4dd-71f3-4b63-95c3-a53983585ddf_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z1kvtffCF",
-      "title": "ESP Guitar Clinic Featuring Mayhem",
-      "description": "Arrangement på Clarion Hotel The Hub, Oslo",
-      "date": "2026-04-04",
-      "time": "14:00",
-      "endTime": null,
-      "location": "Clarion Hotel The Hub, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/esp-guitar-clinic-featuring-mayhem-tickets/69514388?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/esp-guitar-clinic-featuring-mayhem-tickets/69514388?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/e7c/86478562-7218-4e8f-b9d4-8080fe168e7c_105581_TABLET_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z1kb7qgvU",
-      "title": "INFERNO METAL FESTIVAL 2026 - Saturday Ticket",
-      "description": "Arrangement på Rockefeller, Oslo",
-      "date": "2026-04-04",
-      "time": "16:00",
-      "endTime": null,
-      "location": "Rockefeller, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/inferno-metal-festival-2026-saturday-ticket-tickets/604775076?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/inferno-metal-festival-2026-saturday-ticket-tickets/604775076?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/e7c/86478562-7218-4e8f-b9d4-8080fe168e7c_105581_TABLET_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z16ve6k8PP",
       "title": "Inferno Music Conference 2026",
       "description": "Arrangement på Clarion Hotel The Hub, Oslo",
@@ -940,12 +844,110 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vj34yGE",
+      "title": "Molly Sandén",
+      "description": "Arrangement på Sentrum Scene, Oslo",
+      "date": "2026-05-02",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Sentrum Scene, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/molly-sanden-tickets/1712579327?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/molly-sanden-tickets/1712579327?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/4b8/1d5224b8-7849-4ce8-b042-caccf70834b8_TABLET_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1k7epKuU",
+      "title": "Hr. Smiths Venner",
+      "description": "Arrangement på John Dee, Oslo",
+      "date": "2026-05-02",
+      "time": "19:00",
+      "endTime": null,
+      "location": "John Dee, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/hr-smiths-venner-tickets/102593376?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/hr-smiths-venner-tickets/102593376?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/576/3a3a911a-9fcd-4b28-9cbc-11b6d5814576_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vfEa-FA",
+      "title": "Smerz",
+      "description": "Arrangement på Rockefeller, Oslo",
+      "date": "2026-05-02",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Rockefeller, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/smerz-tickets/1527261205?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/smerz-tickets/1527261205?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/65f/b727c4f5-93f7-40bb-98f4-29738b75165f_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vGJaFb6",
+      "title": "Spårtsklubben Live",
+      "description": "Arrangement på Chateau Neuf,Storsalen, Oslo",
+      "date": "2026-05-02",
+      "time": "21:00",
+      "endTime": null,
+      "location": "Chateau Neuf,Storsalen, Oslo",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/spartsklubben-live-tickets/1326248607?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/spartsklubben-live-tickets/1326248607?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/220/f964886c-b55b-4c03-8a23-42e8226cd220_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageEmoji": "🎭",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16v3aC60V",
+      "title": "Mozarts Store Credo-messe",
+      "description": "Arrangement på Oslo domkirke, Oslo",
+      "date": "2026-05-03",
+      "time": "17:00",
+      "endTime": null,
+      "location": "Oslo domkirke, Oslo",
+      "categories": [
+        "konsert",
+        "familie"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/mozarts-store-credo-messe-tickets/1489387934?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/mozarts-store-credo-messe-tickets/1489387934?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/60e/458be508-3aaf-41e4-99bb-71af6f04660e_TABLET_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 48,
-    "fetchedAt": "2026-04-04T05:56:08.955Z",
+    "fetchedAt": "2026-04-05T06:13:38.960Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,

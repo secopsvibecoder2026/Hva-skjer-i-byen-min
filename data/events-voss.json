@@ -21,26 +21,6 @@
       "source": "local"
     },
     {
-      "id": "voss-2",
-      "title": "Vintersportcamp – Vossaresort",
-      "description": "Kom og lær snowboard og alpint med erfarne instruktører på Voss' flotte alpinanlegg. Kurs for nybegynnere og viderekomne.",
-      "date": "2026-04-04",
-      "time": "09:00",
-      "endTime": "16:00",
-      "location": "Vossaresort, Voss",
-      "categories": [
-        "familie",
-        "barn"
-      ],
-      "ticketUrl": "https://www.vossaresort.no",
-      "affiliateUrl": "https://www.vossaresort.no/billetter?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎿",
-      "sponsored": false,
-      "featured": false,
-      "source": "local"
-    },
-    {
       "id": "voss-3",
       "title": "Voss Folkemusikk Festspel",
       "description": "Tradisjonsrik festival for norsk folkemusikk og folkedans. Lystige toner og dans i Voss kulturhus og på friluftscenene.",
@@ -83,8 +63,8 @@
   ],
   "meta": {
     "city": "voss",
-    "count": 4,
-    "fetchedAt": "2026-03-28T05:00:00.000Z",
+    "count": 3,
+    "fetchedAt": "2026-04-05T06:14:04.186Z",
     "sources": {
       "ticketmaster": 0,
       "eventbrite": 0,
