@@ -1,64 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z16ve6k8PP",
-      "title": "Inferno Music Conference 2026",
-      "description": "Arrangement på Clarion Hotel The Hub, Oslo",
-      "date": "2026-04-05",
-      "time": "00:00",
-      "endTime": null,
-      "location": "Clarion Hotel The Hub, Oslo",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/inferno-music-conference-2026-tickets/1087190965?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/inferno-music-conference-2026-tickets/1087190965?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/e7c/86478562-7218-4e8f-b9d4-8080fe168e7c_105581_TABLET_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎭",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16v_FGz_f",
-      "title": "In the Footsteps of Munch",
-      "description": "Arrangement på Clarion Hotel The Hub, Oslo",
-      "date": "2026-04-05",
-      "time": "11:00",
-      "endTime": null,
-      "location": "Clarion Hotel The Hub, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/in-the-footsteps-of-munch-tickets/1648338654?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/in-the-footsteps-of-munch-tickets/1648338654?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/e7c/86478562-7218-4e8f-b9d4-8080fe168e7c_105581_TABLET_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z1k0Pu7xZ",
-      "title": "INFERNO METAL FESTIVAL 2026- Sunday Ticket",
-      "description": "Arrangement på Rockefeller, Oslo",
-      "date": "2026-04-05",
-      "time": "16:00",
-      "endTime": null,
-      "location": "Rockefeller, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/inferno-metal-festival-2026-sunday-ticket-tickets/925344880?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/inferno-metal-festival-2026-sunday-ticket-tickets/925344880?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/e7c/86478562-7218-4e8f-b9d4-8080fe168e7c_105581_TABLET_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z1kax_Ox4",
       "title": "Poppy: Constantly Nowhere Tour ",
       "description": "Arrangement på Sentrum Scene, Oslo",
@@ -942,12 +884,70 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kP6xk-F",
+      "title": "GoGo Penguin",
+      "description": "Arrangement på Rockefeller, Oslo",
+      "date": "2026-05-03",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Rockefeller, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/gogo-penguin-tickets/947886848?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/gogo-penguin-tickets/947886848?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/46c/606e24a4-6b23-434a-ba70-2d02c111146c_SOURCE",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vGavx0f",
+      "title": "Randall King",
+      "description": "Arrangement på Rockefeller, Oslo",
+      "date": "2026-05-04",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Rockefeller, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/randall-king-tickets/1309062914?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/randall-king-tickets/1309062914?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/8f7/b300955a-b11b-4f2c-93b5-ee6a698bc8f7_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kjJQ9uJ",
+      "title": "Standup: Jørgen EP & Javad El Bakali",
+      "description": "Arrangement på Chateau Neuf,Storsalen, Oslo",
+      "date": "2026-05-07",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Chateau Neuf,Storsalen, Oslo",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/standup-jorgen-ep--javad-el-bakali-tickets/726697366?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/standup-jorgen-ep--javad-el-bakali-tickets/726697366?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/53c/223d277a-8f8b-4ba6-82dd-24671e20e53c_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎭",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 48,
-    "fetchedAt": "2026-04-05T06:13:38.960Z",
+    "fetchedAt": "2026-04-06T06:53:41.918Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,
