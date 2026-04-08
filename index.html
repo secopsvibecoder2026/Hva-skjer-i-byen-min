@@ -17,6 +17,24 @@
     <!-- Favicon -->
     <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🏙️</text></svg>" />
 
+    <!-- Google Consent Mode v2 – må stå FØR alle Google-tagger -->
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('consent', 'default', {
+        'ad_storage':         'denied',
+        'analytics_storage':  'denied',
+        'ad_user_data':       'denied',
+        'ad_personalization': 'denied',
+        'wait_for_update':    500
+      });
+      gtag('set', 'ads_data_redaction', true);
+      gtag('set', 'url_passthrough',    true);
+    </script>
+
+    <!-- Google Funding Choices (CMP) – viser samtykke-banner for EU/EØS -->
+    <script async src="https://fundingchoices.google.com/fc/sites/ca-pub-3981936786393038.js"></script>
+
     <!-- Google Analytics 4 -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-FSLFBLRW2C"></script>
     <script>
