@@ -1,26 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z1kax_Ox4",
-      "title": "Poppy: Constantly Nowhere Tour ",
-      "description": "Arrangement på Sentrum Scene, Oslo",
-      "date": "2026-04-07",
-      "time": "18:00",
-      "endTime": null,
-      "location": "Sentrum Scene, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/poppy-constantly-nowhere-tour-tickets/262660895?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/poppy-constantly-nowhere-tour-tickets/262660895?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/89a/8d02ddbd-e158-4e63-870c-78191a9b789a_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z16vako3fS",
       "title": "Big Thief",
       "description": "Arrangement på Sentrum Scene, Oslo",
@@ -112,26 +92,6 @@
       "ticketUrl": "https://www.ticketmaster.no/event/deus-tickets/1689130546?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/deus-tickets/1689130546?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/a/f00/127608cd-c003-4569-8c19-be8335ad7f00_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16vjo-S0Y",
-      "title": "Witch Fever",
-      "description": "Arrangement på John Dee, Oslo",
-      "date": "2026-04-13",
-      "time": "19:00",
-      "endTime": null,
-      "location": "John Dee, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/witch-fever-tickets/1711873930?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/witch-fever-tickets/1711873930?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/835/44fd9581-3073-44ba-acc7-c2e1419d0835_SOURCE",
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -270,6 +230,25 @@
       "ticketUrl": "https://www.ticketmaster.no/event/5-seconds-of-summer-everyones-a-star-world-tour-%7C-vip-tickets/610935498?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/5-seconds-of-summer-everyones-a-star-world-tour-%7C-vip-tickets/610935498?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/a/ce2/922873d9-c41f-461b-9486-5c5adab78ce2_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18Qq2ElW6x7Zvqpyvh",
+      "title": "TRALL X TALIGADO",
+      "description": "Arrangement på Trall Bar & Kulturscene, Oslo",
+      "date": "2026-04-17",
+      "time": "08:00",
+      "endTime": null,
+      "location": "Trall Bar & Kulturscene, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/trall-x-taligado-tickets-52PN39?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/trall-x-taligado-tickets-52PN39?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/bea/03d47f66-d37b-4aca-aa17-0135be64dbea_105801_RETINA_LANDSCAPE_16_9.jpg",
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -942,12 +921,32 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1k-ZfyCa",
+      "title": "Desertfest Oslo 2026 - Friday ticket",
+      "description": "Arrangement på Rockefeller, Oslo",
+      "date": "2026-05-08",
+      "time": "15:30",
+      "endTime": null,
+      "location": "Rockefeller, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/desertfest-oslo-2026-friday-ticket-tickets/840539389?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/desertfest-oslo-2026-friday-ticket-tickets/840539389?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/947/fecf5507-a209-4de0-8468-5d29808ca947_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 48,
-    "fetchedAt": "2026-04-07T06:18:46.640Z",
+    "fetchedAt": "2026-04-08T06:20:17.125Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,
