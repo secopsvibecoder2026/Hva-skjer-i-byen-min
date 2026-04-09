@@ -68,8 +68,7 @@
       "endTime": null,
       "location": "Bergen",
       "categories": [
-        "konsert",
-        "uteliv"
+        "konsert"
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/beyond-the-gates-2026-wednesday-day-ticket-tickets/537451440?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/beyond-the-gates-2026-wednesday-day-ticket-tickets/537451440?language=en-us&ref=hvaSkjerIByenMin",
@@ -88,8 +87,7 @@
       "endTime": null,
       "location": "Grieghallen & USF Verftet, Bergen",
       "categories": [
-        "konsert",
-        "uteliv"
+        "konsert"
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/beyond-the-gates-4-day-festival-pass-2026-silver-tickets/2017432391?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/beyond-the-gates-4-day-festival-pass-2026-silver-tickets/2017432391?language=en-us&ref=hvaSkjerIByenMin",
@@ -128,12 +126,13 @@
       "endTime": null,
       "location": "Bergen",
       "categories": [
-        "konsert"
+        "konsert",
+        "uteliv"
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/beyond-the-gates-experience-black-metal-landmarks-with-tore-bratseth-tickets/427123807?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/beyond-the-gates-experience-black-metal-landmarks-with-tore-bratseth-tickets/427123807?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/a/aef/0a51cec7-c1ad-4ecc-81cf-882cf2dd5aef_TABLET_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎪",
+      "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
@@ -166,12 +165,13 @@
       "endTime": null,
       "location": "Bergen",
       "categories": [
-        "konsert"
+        "konsert",
+        "uteliv"
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/beyond-the-gates-experience-a-guided-tour-to-fantoft-stave-church-tickets/2053299232?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/beyond-the-gates-experience-a-guided-tour-to-fantoft-stave-church-tickets/2053299232?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/a/aef/0a51cec7-c1ad-4ecc-81cf-882cf2dd5aef_TABLET_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎪",
+      "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
@@ -185,8 +185,7 @@
       "endTime": null,
       "location": "Bergen",
       "categories": [
-        "konsert",
-        "uteliv"
+        "konsert"
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/beyond-the-gates-2026-thursday-day-ticket-tickets/419948712?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/beyond-the-gates-2026-thursday-day-ticket-tickets/419948712?language=en-us&ref=hvaSkjerIByenMin",
@@ -205,8 +204,7 @@
       "endTime": null,
       "location": "Bergen",
       "categories": [
-        "konsert",
-        "uteliv"
+        "konsert"
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/beyond-the-gates-2026-night-shift-pass-thursday-tickets/1541161273?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/beyond-the-gates-2026-night-shift-pass-thursday-tickets/1541161273?language=en-us&ref=hvaSkjerIByenMin",
@@ -225,8 +223,7 @@
       "endTime": null,
       "location": "Bergen",
       "categories": [
-        "konsert",
-        "uteliv"
+        "konsert"
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/beyond-the-gates-2026-day-and-night-shift-pass-thursday--friday-tickets/135694529?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/beyond-the-gates-2026-day-and-night-shift-pass-thursday--friday-tickets/135694529?language=en-us&ref=hvaSkjerIByenMin",
@@ -265,7 +262,8 @@
       "endTime": null,
       "location": "Bergen",
       "categories": [
-        "konsert"
+        "konsert",
+        "uteliv"
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/beyond-the-gates-2026-day-shift-pass-friday-tickets/163744429?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/beyond-the-gates-2026-day-shift-pass-friday-tickets/163744429?language=en-us&ref=hvaSkjerIByenMin",
@@ -323,8 +321,7 @@
       "endTime": null,
       "location": "Grieghallen, Griegsalen, Bergen",
       "categories": [
-        "konsert",
-        "uteliv"
+        "konsert"
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/beyond-the-gates-2026-friday-day-ticket-tickets/1712343251?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/beyond-the-gates-2026-friday-day-ticket-tickets/1712343251?language=en-us&ref=hvaSkjerIByenMin",
@@ -383,13 +380,12 @@
       "endTime": null,
       "location": "Bergen",
       "categories": [
-        "konsert",
-        "uteliv"
+        "konsert"
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/beyond-the-gates-experience-a-guided-tour-of-grieghallen-with-pytten-tickets/1135873465?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/beyond-the-gates-experience-a-guided-tour-of-grieghallen-with-pytten-tickets/1135873465?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/a/aef/0a51cec7-c1ad-4ecc-81cf-882cf2dd5aef_TABLET_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
+      "imageEmoji": "🎪",
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
@@ -437,7 +433,7 @@
   "meta": {
     "city": "bergen",
     "count": 22,
-    "fetchedAt": "2026-04-08T06:20:16.368Z",
+    "fetchedAt": "2026-04-09T06:21:03.186Z",
     "sources": {
       "ticketmaster": 24,
       "eventbrite": 0,

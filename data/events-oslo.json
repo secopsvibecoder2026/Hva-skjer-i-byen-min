@@ -1,25 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z16vako3fS",
-      "title": "Big Thief",
-      "description": "Arrangement på Sentrum Scene, Oslo",
-      "date": "2026-04-08",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Sentrum Scene, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/big-thief-tickets/1246452533?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/big-thief-tickets/1246452533?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/3d1/5c707006-f2ea-4a87-b641-8cf814b8c3d1_SOURCE",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z1kuo0ya0",
       "title": "Big Thief",
       "description": "Arrangement på Sentrum Scene, Oslo",
@@ -196,7 +177,7 @@
       "source": "ticketmaster"
     },
     {
-      "id": "tm-Z698xZb_Z16vfgQaqY",
+      "id": "tm-Z698xZb_Z16vO8Q77s",
       "title": "5 Seconds of Summer - Everyone's a star! World Tour",
       "description": "Arrangement på Unity Arena, Fornebu",
       "date": "2026-04-16",
@@ -207,8 +188,8 @@
         "konsert",
         "uteliv"
       ],
-      "ticketUrl": "https://www.ticketmaster.no/event/5-seconds-of-summer-everyones-a-star-world-tour-tickets/1535689770?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/5-seconds-of-summer-everyones-a-star-world-tour-tickets/1535689770?language=en-us&ref=hvaSkjerIByenMin",
+      "ticketUrl": "https://www.ticketmaster.no/event/5-seconds-of-summer-everyones-a-star-world-tour-tickets/1810684131?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/5-seconds-of-summer-everyones-a-star-world-tour-tickets/1810684131?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/a/ce2/922873d9-c41f-461b-9486-5c5adab78ce2_RETINA_PORTRAIT_16_9.jpg",
       "imageEmoji": "🎵",
       "sponsored": false,
@@ -787,25 +768,6 @@
       "source": "ticketmaster"
     },
     {
-      "id": "tm-Z698xZb_Z1k7epKuU",
-      "title": "Hr. Smiths Venner",
-      "description": "Arrangement på John Dee, Oslo",
-      "date": "2026-05-02",
-      "time": "19:00",
-      "endTime": null,
-      "location": "John Dee, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/hr-smiths-venner-tickets/102593376?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/hr-smiths-venner-tickets/102593376?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/576/3a3a911a-9fcd-4b28-9cbc-11b6d5814576_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z16vfEa-FA",
       "title": "Smerz",
       "description": "Arrangement på Rockefeller, Oslo",
@@ -838,7 +800,7 @@
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/spartsklubben-live-tickets/1326248607?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/spartsklubben-live-tickets/1326248607?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/220/f964886c-b55b-4c03-8a23-42e8226cd220_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageUrl": "https://s1.ticketm.net/dam/a/356/66a8dd4c-c421-45f0-9ee7-4c1820f29356_SOURCE",
       "imageEmoji": "🎭",
       "sponsored": false,
       "featured": false,
@@ -941,12 +903,50 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16v8k73u3",
+      "title": "Desertfest Oslo 2026 - Lørdagspass 9.mai",
+      "description": "Arrangement på Rockefeller, Oslo",
+      "date": "2026-05-09",
+      "time": "15:30",
+      "endTime": null,
+      "location": "Rockefeller, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/desertfest-oslo-2026-lordagspass-9mai-tickets/1406112352?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/desertfest-oslo-2026-lordagspass-9mai-tickets/1406112352?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/76f/0116a63e-02e3-4847-8add-01948f97c76f_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16v7U74-3",
+      "title": "Art Show",
+      "description": "Arrangement på Chateau Neuf,Storsalen, Oslo",
+      "date": "2026-05-10",
+      "time": "14:30",
+      "endTime": null,
+      "location": "Chateau Neuf,Storsalen, Oslo",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/art-show-tickets/1136115852?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/art-show-tickets/1136115852?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/a95/03c0f9a5-90a5-44dd-867f-7d858bc08a95_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎭",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 48,
-    "fetchedAt": "2026-04-08T06:20:17.125Z",
+    "fetchedAt": "2026-04-09T06:21:03.664Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,
