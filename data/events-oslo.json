@@ -1,25 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z1kuo0ya0",
-      "title": "Big Thief",
-      "description": "Arrangement på Sentrum Scene, Oslo",
-      "date": "2026-04-09",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Sentrum Scene, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/big-thief-tickets/351939264?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/big-thief-tickets/351939264?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/3d1/5c707006-f2ea-4a87-b641-8cf814b8c3d1_SOURCE",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z16evZ86Ay",
       "title": "Fit For A King - Lonely God European Tour 2026",
       "description": "Arrangement på Rockefeller, Oslo",
@@ -748,6 +729,25 @@
       "source": "ticketmaster"
     },
     {
+      "id": "tm-Z698xZb_Z1kbPFeCe",
+      "title": "Spårtsklubben Live",
+      "description": "Arrangement på Chateau Neuf,Storsalen, Oslo",
+      "date": "2026-05-02",
+      "time": "18:00",
+      "endTime": null,
+      "location": "Chateau Neuf,Storsalen, Oslo",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/spartsklubben-live-tickets/625202382?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/spartsklubben-live-tickets/625202382?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/9cc/40442d59-26f2-4cfd-ba96-3dc715b9d9cc_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎭",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
       "id": "tm-Z698xZb_Z16vj34yGE",
       "title": "Molly Sandén",
       "description": "Arrangement på Sentrum Scene, Oslo",
@@ -783,25 +783,6 @@
       "affiliateUrl": "https://www.ticketmaster.no/event/smerz-tickets/1527261205?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/e/65f/b727c4f5-93f7-40bb-98f4-29738b75165f_RETINA_PORTRAIT_16_9.jpg",
       "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16vGJaFb6",
-      "title": "Spårtsklubben Live",
-      "description": "Arrangement på Chateau Neuf,Storsalen, Oslo",
-      "date": "2026-05-02",
-      "time": "21:00",
-      "endTime": null,
-      "location": "Chateau Neuf,Storsalen, Oslo",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/spartsklubben-live-tickets/1326248607?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/spartsklubben-live-tickets/1326248607?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/356/66a8dd4c-c421-45f0-9ee7-4c1820f29356_SOURCE",
-      "imageEmoji": "🎭",
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
@@ -945,8 +926,8 @@
   ],
   "meta": {
     "city": "oslo",
-    "count": 48,
-    "fetchedAt": "2026-04-09T06:21:03.664Z",
+    "count": 47,
+    "fetchedAt": "2026-04-10T06:52:20.067Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,
