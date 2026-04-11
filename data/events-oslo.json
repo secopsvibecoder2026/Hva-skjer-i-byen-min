@@ -1,45 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z16evZ86Ay",
-      "title": "Fit For A King - Lonely God European Tour 2026",
-      "description": "Arrangement på Rockefeller, Oslo",
-      "date": "2026-04-10",
-      "time": "18:00",
-      "endTime": null,
-      "location": "Rockefeller, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/fit-for-a-king-lonely-god-european-tour-2026-tickets/2040407179?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/fit-for-a-king-lonely-god-european-tour-2026-tickets/2040407179?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/cb9/410920bc-8b6e-4aaa-af4c-e6c73bb80cb9_SOURCE",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z1kGJ76QF",
-      "title": "Royal Jam",
-      "description": "Arrangement på John Dee, Oslo",
-      "date": "2026-04-10",
-      "time": "19:00",
-      "endTime": null,
-      "location": "John Dee, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/royal-jam-tickets/326107688?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/royal-jam-tickets/326107688?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/5ec/c090e03f-7e75-4510-91ae-58151618d5ec_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z16vQa7Y4k",
       "title": "dEUS",
       "description": "Arrangement på Rockefeller, Oslo",
@@ -230,7 +191,7 @@
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/annika-tickets/1009658240?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/annika-tickets/1009658240?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/9fd/94e8cea0-fc44-4dd7-aab0-fed2a1c6b9fd_RETINA_PORTRAIT_16_9.jpg",
+      "imageUrl": "https://s1.ticketm.net/dam/e/9fd/94e8cea0-fc44-4dd7-aab0-fed2a1c6b9fd_TABLET_LANDSCAPE_16_9.jpg",
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -564,7 +525,7 @@
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/vidar-villa-tickets/1464052561?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/vidar-villa-tickets/1464052561?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/dcc/10e41d38-cdcb-4889-8675-0ef1ec972dcc_RETINA_PORTRAIT_16_9.jpg",
+      "imageUrl": "https://s1.ticketm.net/dam/e/dcc/10e41d38-cdcb-4889-8675-0ef1ec972dcc_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -622,7 +583,7 @@
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/trumps-krig-tickets/706922786?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/trumps-krig-tickets/706922786?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/bfd/8e88847e-75d9-467e-a016-5f4594768bfd_RETINA_LANDSCAPE_16_9.jpg",
+      "imageUrl": "https://s1.ticketm.net/dam/e/bfd/8e88847e-75d9-467e-a016-5f4594768bfd_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "imageEmoji": "🎭",
       "sponsored": false,
       "featured": false,
@@ -662,7 +623,7 @@
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/morgan-sulele-tickets/840013438?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/morgan-sulele-tickets/840013438?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/062/d471491e-d3c5-4d04-99d5-9768d8446062_SOURCE",
+      "imageUrl": "https://s1.ticketm.net/dam/e/062/d471491e-d3c5-4d04-99d5-9768d8446062_RETINA_PORTRAIT_16_9.jpg",
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -702,7 +663,7 @@
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/room-37-tickets/981170499?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/room-37-tickets/981170499?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/7b1/444543d2-afdc-474e-acf9-5c6b1fbea7b1_RETINA_LANDSCAPE_16_9.jpg",
+      "imageUrl": "https://s1.ticketm.net/dam/e/7b1/444543d2-afdc-474e-acf9-5c6b1fbea7b1_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -879,7 +840,7 @@
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/desertfest-oslo-2026-friday-ticket-tickets/840539389?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/desertfest-oslo-2026-friday-ticket-tickets/840539389?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/947/fecf5507-a209-4de0-8468-5d29808ca947_RETINA_LANDSCAPE_16_9.jpg",
+      "imageUrl": "https://s1.ticketm.net/dam/e/947/fecf5507-a209-4de0-8468-5d29808ca947_SOURCE",
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -922,12 +883,32 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16evs00F-",
+      "title": "Rodney Crowell with special guest Kezia Gill",
+      "description": "Arrangement på Rockefeller, Oslo",
+      "date": "2026-05-10",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Rockefeller, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/rodney-crowell-with-special-guest-kezia-gill-tickets/2071924221?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/rodney-crowell-with-special-guest-kezia-gill-tickets/2071924221?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/177/83266946-b33d-4720-ae01-782277f36177_SOURCE",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
-    "count": 47,
-    "fetchedAt": "2026-04-10T06:52:20.067Z",
+    "count": 46,
+    "fetchedAt": "2026-04-11T06:00:16.367Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,

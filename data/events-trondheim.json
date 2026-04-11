@@ -1,120 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z1kOE-64p",
-      "title": "Weekendpass - Snowcross World Championship",
-      "description": "Arrangement på Granåsen Arena, Trondheim",
-      "date": "2026-04-10",
-      "time": "00:00",
-      "endTime": null,
-      "location": "Granåsen Arena, Trondheim",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/weekendpass-snowcross-world-championship-tickets/827847556?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/weekendpass-snowcross-world-championship-tickets/827847556?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/163/c14cef6d-1bc2-473d-ba0f-be2d18eb4163_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16vFgZPaz",
-      "title": "SILVER Package - Snowcross World Championship - Trondheim",
-      "description": "Arrangement på Granåsen Arena, Trondheim",
-      "date": "2026-04-10",
-      "time": "15:00",
-      "endTime": null,
-      "location": "Granåsen Arena, Trondheim",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/silver-package-snowcross-world-championship-trondheim-tickets/1235025278?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/silver-package-snowcross-world-championship-trondheim-tickets/1235025278?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/163/c14cef6d-1bc2-473d-ba0f-be2d18eb4163_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16vfU_Kvg",
-      "title": "GOLD Group Package for 8ppl. -Snowcross World Championship - Trondheim",
-      "description": "Arrangement på Granåsen Arena, Trondheim",
-      "date": "2026-04-10",
-      "time": "15:00",
-      "endTime": null,
-      "location": "Granåsen Arena, Trondheim",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/gold-group-package-for-8ppl-snowcross-world-championship-trondheim-tickets/1536653075?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/gold-group-package-for-8ppl-snowcross-world-championship-trondheim-tickets/1536653075?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/163/c14cef6d-1bc2-473d-ba0f-be2d18eb4163_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z1kA0q0_f",
-      "title": "Daypass Friday - Snowcross World Championship",
-      "description": "Arrangement på Granåsen Arena, Trondheim",
-      "date": "2026-04-10",
-      "time": "15:00",
-      "endTime": null,
-      "location": "Granåsen Arena, Trondheim",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/daypass-friday-snowcross-world-championship-tickets/164764654?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/daypass-friday-snowcross-world-championship-tickets/164764654?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/163/c14cef6d-1bc2-473d-ba0f-be2d18eb4163_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z1kq_-Z4x",
-      "title": "Friday Group Package for 8ppl Snowcross World Championship - Trondheim",
-      "description": "Arrangement på Granåsen Arena, Trondheim",
-      "date": "2026-04-10",
-      "time": "15:00",
-      "endTime": null,
-      "location": "Granåsen Arena, Trondheim",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/friday-group-package-for-8ppl-snowcross-world-championship-trondheim-tickets/759840562?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/friday-group-package-for-8ppl-snowcross-world-championship-trondheim-tickets/759840562?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/163/c14cef6d-1bc2-473d-ba0f-be2d18eb4163_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z1kkajMO8",
-      "title": "Pre-Party Friday - Snowcross World Championship - Trondheim",
-      "description": "Arrangement på Granåsen Arena, Trondheim",
-      "date": "2026-04-10",
-      "time": "17:00",
-      "endTime": null,
-      "location": "Granåsen Arena, Trondheim",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/pre-party-friday-snowcross-world-championship-trondheim-tickets/189737810?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/pre-party-friday-snowcross-world-championship-trondheim-tickets/189737810?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/163/c14cef6d-1bc2-473d-ba0f-be2d18eb4163_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z16v0z0Sjo",
       "title": "Daypass Saturday - Snowcross World Championship",
       "description": "Arrangement på Granåsen Arena, Trondheim",
@@ -214,10 +100,10 @@
   ],
   "meta": {
     "city": "trondheim",
-    "count": 11,
-    "fetchedAt": "2026-04-10T06:52:21.751Z",
+    "count": 5,
+    "fetchedAt": "2026-04-11T06:00:17.915Z",
     "sources": {
-      "ticketmaster": 11,
+      "ticketmaster": 5,
       "eventbrite": 0,
       "scrape": 0
     }
