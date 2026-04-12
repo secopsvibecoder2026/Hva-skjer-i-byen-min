@@ -1,44 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z16v0z0Sjo",
-      "title": "Daypass Saturday - Snowcross World Championship",
-      "description": "Arrangement på Granåsen Arena, Trondheim",
-      "date": "2026-04-11",
-      "time": "10:00",
-      "endTime": null,
-      "location": "Granåsen Arena, Trondheim",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/daypass-saturday-snowcross-world-championship-tickets/1938933711?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/daypass-saturday-snowcross-world-championship-tickets/1938933711?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/163/c14cef6d-1bc2-473d-ba0f-be2d18eb4163_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16eZy_6jt",
-      "title": "Afterparty with Melody Market-Snowcross World Championship - Trondheim",
-      "description": "Arrangement på Granåsen Arena, Trondheim",
-      "date": "2026-04-11",
-      "time": "19:30",
-      "endTime": null,
-      "location": "Granåsen Arena, Trondheim",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/afterparty-with-melody-market-snowcross-world-championship-trondheim-tickets/2039647729?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/afterparty-with-melody-market-snowcross-world-championship-trondheim-tickets/2039647729?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/163/c14cef6d-1bc2-473d-ba0f-be2d18eb4163_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z16vfO1eGy",
       "title": "ZZ Top - THE BIG ONE!",
       "description": "Arrangement på Sverresborg, Trondheim",
@@ -100,10 +62,10 @@
   ],
   "meta": {
     "city": "trondheim",
-    "count": 5,
-    "fetchedAt": "2026-04-11T06:00:17.915Z",
+    "count": 3,
+    "fetchedAt": "2026-04-12T06:22:54.578Z",
     "sources": {
-      "ticketmaster": 5,
+      "ticketmaster": 3,
       "eventbrite": 0,
       "scrape": 0
     }
