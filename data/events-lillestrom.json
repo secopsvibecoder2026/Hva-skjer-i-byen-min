@@ -1,10 +1,29 @@
 {
   "events": [
     {
+      "id": "scrape-gen-myten-om-det-friske-mennesket-2026-04-14",
+      "title": "Myten om det friske mennesket",
+      "description": "Tirsdag. 14. april\nkl. 19.00",
+      "date": "2026-04-14",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17299-myten-om-det-friske-mennesket/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17299-myten-om-det-friske-mennesket/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
       "id": "scrape-gen-gi-bort-en-opplevelse--",
       "title": "Gi bort en opplevelse!",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-04-13",
+      "date": "2026-04-14",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -23,7 +42,7 @@
       "id": "scrape-gen-last-ned-v-r-app-",
       "title": "Last ned vår app",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-04-13",
+      "date": "2026-04-14",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -42,7 +61,7 @@
       "id": "scrape-gen-shopping-g-rdsbutikker-og-sm-byliv-p-rom-",
       "title": "Shopping, gårdsbutikker og småbyliv på Romerike",
       "description": "Arrangement i visitgreateroslo.com",
-      "date": "2026-04-13",
+      "date": "2026-04-14",
       "time": "12:00",
       "endTime": null,
       "location": "visitgreateroslo.com",
@@ -61,7 +80,7 @@
       "id": "scrape-gen-sykkel-og-turtips-p-romerike-",
       "title": "Sykkel og turtips på Romerike",
       "description": "Arrangement i visitgreateroslo.com",
-      "date": "2026-04-13",
+      "date": "2026-04-14",
       "time": "12:00",
       "endTime": null,
       "location": "visitgreateroslo.com",
@@ -70,25 +89,6 @@
       ],
       "ticketUrl": "https://visitgreateroslo.com/no/romerike/se-og-gjore/aktiviteter/sykkel-og-vandre-tips/",
       "affiliateUrl": "https://visitgreateroslo.com/no/romerike/se-og-gjore/aktiviteter/sykkel-og-vandre-tips/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
-      "id": "scrape-gen-myten-om-det-friske-mennesket-2026-04-14",
-      "title": "Myten om det friske mennesket",
-      "description": "Tirsdag. 14. april\nkl. 19.00",
-      "date": "2026-04-14",
-      "time": "12:00",
-      "endTime": null,
-      "location": "lillestrom-kultursenter.no",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17299-myten-om-det-friske-mennesket/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17299-myten-om-det-friske-mennesket/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -1737,7 +1737,7 @@
   "meta": {
     "city": "lillestrom",
     "count": 91,
-    "fetchedAt": "2026-04-12T06:23:04.161Z",
+    "fetchedAt": "2026-04-13T07:13:13.693Z",
     "sources": {
       "ticketmaster": 0,
       "eventbrite": 0,
