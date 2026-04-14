@@ -119,26 +119,6 @@
       "source": "ticketmaster"
     },
     {
-      "id": "tm-Z698xZb_Z1kb80g3b",
-      "title": "5 Seconds of Summer - Everyone's a star! World Tour | VIP",
-      "description": "Arrangement på Unity Arena, Fornebu",
-      "date": "2026-04-16",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Unity Arena, Fornebu",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/5-seconds-of-summer-everyones-a-star-world-tour-%7C-vip-tickets/610935498?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/5-seconds-of-summer-everyones-a-star-world-tour-%7C-vip-tickets/610935498?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/ce2/922873d9-c41f-461b-9486-5c5adab78ce2_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-LvZ18Qq2ElW6x7Zvqpyvh",
       "title": "TRALL X TALIGADO",
       "description": "Arrangement på Trall Bar & Kulturscene, Oslo",
@@ -903,12 +883,31 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1krKAdG8",
+      "title": "Art Show",
+      "description": "Arrangement på Chateau Neuf,Storsalen, Oslo",
+      "date": "2026-05-11",
+      "time": "18:00",
+      "endTime": null,
+      "location": "Chateau Neuf,Storsalen, Oslo",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/art-show-tickets/793143310?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/art-show-tickets/793143310?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/6f3/f1bacb3a-e45c-45c9-864c-fe339b0bd6f3_SOURCE",
+      "imageEmoji": "🎭",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 46,
-    "fetchedAt": "2026-04-13T07:13:08.475Z",
+    "fetchedAt": "2026-04-14T06:51:59.585Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,
