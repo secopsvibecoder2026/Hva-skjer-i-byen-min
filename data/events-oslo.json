@@ -1,44 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z16vPkj4GK",
-      "title": "TUCKER WETMORE | VIP",
-      "description": "Arrangement på Rockefeller, Oslo",
-      "date": "2026-04-14",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Rockefeller, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/tucker-wetmore-%7C-vip-tickets/1946715313?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/tucker-wetmore-%7C-vip-tickets/1946715313?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/1dd/ed874b36-2e29-45f1-8eed-bf4f3185b1dd_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16vjMCpC9",
-      "title": "Tucker Wetmore",
-      "description": "Arrangement på Rockefeller, Oslo",
-      "date": "2026-04-14",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Rockefeller, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/tucker-wetmore-tickets/1737396397?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/tucker-wetmore-tickets/1737396397?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/1de/1d39387e-9d15-4056-b7ab-ae5da59c31de_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z16vbU8Abg",
       "title": "BYTING",
       "description": "Arrangement på John Dee, Oslo",
@@ -310,7 +272,7 @@
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/ceccecile-moroni-allo-norge-tickets/1431865568?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/ceccecile-moroni-allo-norge-tickets/1431865568?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/ac6/2572a983-fb51-49b4-bfed-47884f089ac6_TABLET_LANDSCAPE_16_9.jpg",
+      "imageUrl": "https://s1.ticketm.net/dam/e/ac6/2572a983-fb51-49b4-bfed-47884f089ac6_SOURCE",
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -460,12 +422,11 @@
       "endTime": null,
       "location": "John Dee, Oslo",
       "categories": [
-        "konsert",
-        "uteliv"
+        "konsert"
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/rockebandet-ndal-tickets/1460475093?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/rockebandet-ndal-tickets/1460475093?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/844/683a81fe-acaf-43a5-9653-3841fa37f844_RETINA_LANDSCAPE_16_9.jpg",
+      "imageUrl": "https://s1.ticketm.net/dam/e/844/683a81fe-acaf-43a5-9653-3841fa37f844_RETINA_PORTRAIT_16_9.jpg",
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -543,7 +504,7 @@
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/trumps-krig-tickets/706922786?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/trumps-krig-tickets/706922786?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/bfd/8e88847e-75d9-467e-a016-5f4594768bfd_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageUrl": "https://s1.ticketm.net/dam/e/676/7ca92572-977b-4936-b596-a9fc13537676_RETINA_PORTRAIT_16_9.jpg",
       "imageEmoji": "🎭",
       "sponsored": false,
       "featured": false,
@@ -902,12 +863,51 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1k4_Ffjg",
+      "title": "Bob Wayne",
+      "description": "Arrangement på John Dee, Oslo",
+      "date": "2026-05-11",
+      "time": "19:00",
+      "endTime": null,
+      "location": "John Dee, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/bob-wayne-tickets/559214735?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/bob-wayne-tickets/559214735?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/e39/52991619-8c33-4aca-aa97-749aaee3fe39_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1k44utvb",
+      "title": "Art Show",
+      "description": "Arrangement på Chateau Neuf,Storsalen, Oslo",
+      "date": "2026-05-12",
+      "time": "18:00",
+      "endTime": null,
+      "location": "Chateau Neuf,Storsalen, Oslo",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/art-show-tickets/555369058?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/art-show-tickets/555369058?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/d0e/e1b72644-cf76-4fdf-a5bf-aca46457dd0e_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎭",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 46,
-    "fetchedAt": "2026-04-14T06:51:59.585Z",
+    "fetchedAt": "2026-04-15T06:53:27.954Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,
