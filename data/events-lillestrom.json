@@ -1,25 +1,6 @@
 {
   "events": [
     {
-      "id": "scrape-gen-korpub-2026-04-15",
-      "title": "Korpub",
-      "description": "Onsdag. 15. april\nkl. 19.00",
-      "date": "2026-04-15",
-      "time": "12:00",
-      "endTime": null,
-      "location": "lillestrom-kultursenter.no",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17506-korpub/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17506-korpub/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
       "id": "scrape-gen-ketil-bj-rnstad-i-ord-og-toner-2026-04-16",
       "title": "Ketil Bjørnstad i ord og toner",
       "description": "Torsdag. 16. april\nkl. 19.30",
@@ -42,7 +23,7 @@
       "id": "scrape-gen-gi-bort-en-opplevelse--",
       "title": "Gi bort en opplevelse!",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-04-16",
+      "date": "2026-04-17",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -61,7 +42,7 @@
       "id": "scrape-gen-last-ned-v-r-app-",
       "title": "Last ned vår app",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-04-16",
+      "date": "2026-04-17",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -80,7 +61,7 @@
       "id": "scrape-gen-shopping-g-rdsbutikker-og-sm-byliv-p-rom-",
       "title": "Shopping, gårdsbutikker og småbyliv på Romerike",
       "description": "Arrangement i visitgreateroslo.com",
-      "date": "2026-04-16",
+      "date": "2026-04-17",
       "time": "12:00",
       "endTime": null,
       "location": "visitgreateroslo.com",
@@ -99,7 +80,7 @@
       "id": "scrape-gen-sykkel-og-turtips-p-romerike-",
       "title": "Sykkel og turtips på Romerike",
       "description": "Arrangement i visitgreateroslo.com",
-      "date": "2026-04-16",
+      "date": "2026-04-17",
       "time": "12:00",
       "endTime": null,
       "location": "visitgreateroslo.com",
@@ -1717,12 +1698,12 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 90,
-    "fetchedAt": "2026-04-15T06:53:35.938Z",
+    "count": 89,
+    "fetchedAt": "2026-04-16T06:56:14.149Z",
     "sources": {
       "ticketmaster": 0,
       "eventbrite": 0,
-      "scrape": 92
+      "scrape": 91
     }
   }
 }
