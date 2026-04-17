@@ -1,65 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z16vGsaIf_",
-      "title": "Karnivool",
-      "description": "Arrangement på Rockefeller, Oslo",
-      "date": "2026-04-16",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Rockefeller, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/karnivool-tickets/1331268519?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/karnivool-tickets/1331268519?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/1a9/a6d24197-d784-41bc-b793-66f48bd641a9_TABLET_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16vO8Q77s",
-      "title": "5 Seconds of Summer - Everyone's a star! World Tour",
-      "description": "Arrangement på Unity Arena, Fornebu",
-      "date": "2026-04-16",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Unity Arena, Fornebu",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/5-seconds-of-summer-everyones-a-star-world-tour-tickets/1810684131?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/5-seconds-of-summer-everyones-a-star-world-tour-tickets/1810684131?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/ce2/922873d9-c41f-461b-9486-5c5adab78ce2_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18Qq2ElW6x7Zvqpyvh",
-      "title": "TRALL X TALIGADO",
-      "description": "Arrangement på Trall Bar & Kulturscene, Oslo",
-      "date": "2026-04-17",
-      "time": "08:00",
-      "endTime": null,
-      "location": "Trall Bar & Kulturscene, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/trall-x-taligado-tickets-52PN39?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/trall-x-taligado-tickets-52PN39?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/bea/03d47f66-d37b-4aca-aa17-0135be64dbea_105801_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z16vZa_baZ",
       "title": "Annika",
       "description": "Arrangement på Sentrum Scene, Oslo",
@@ -386,7 +327,7 @@
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/rockebandet-ndal-tickets/1460475093?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/rockebandet-ndal-tickets/1460475093?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/844/683a81fe-acaf-43a5-9653-3841fa37f844_RETINA_PORTRAIT_16_9.jpg",
+      "imageUrl": "https://s1.ticketm.net/dam/e/844/683a81fe-acaf-43a5-9653-3841fa37f844_RETINA_LANDSCAPE_16_9.jpg",
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -406,7 +347,7 @@
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/vidar-villa-tickets/1464052561?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/vidar-villa-tickets/1464052561?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/dcc/10e41d38-cdcb-4889-8675-0ef1ec972dcc_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageUrl": "https://s1.ticketm.net/dam/e/dcc/10e41d38-cdcb-4889-8675-0ef1ec972dcc_RETINA_PORTRAIT_16_9.jpg",
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -583,7 +524,7 @@
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/spartsklubben-live-tickets/625202382?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/spartsklubben-live-tickets/625202382?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/9cc/40442d59-26f2-4cfd-ba96-3dc715b9d9cc_RETINA_PORTRAIT_16_9.jpg",
+      "imageUrl": "https://s1.ticketm.net/dam/e/9cc/40442d59-26f2-4cfd-ba96-3dc715b9d9cc_SOURCE",
       "imageEmoji": "🎭",
       "sponsored": false,
       "featured": false,
@@ -603,7 +544,7 @@
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/molly-sanden-tickets/1712579327?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/molly-sanden-tickets/1712579327?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/4b8/1d5224b8-7849-4ce8-b042-caccf70834b8_TABLET_LANDSCAPE_16_9.jpg",
+      "imageUrl": "https://s1.ticketm.net/dam/e/4b8/1d5224b8-7849-4ce8-b042-caccf70834b8_RETINA_PORTRAIT_16_9.jpg",
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -774,8 +715,7 @@
       "endTime": null,
       "location": "Rockefeller, Oslo",
       "categories": [
-        "konsert",
-        "uteliv"
+        "konsert"
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/rodney-crowell-with-special-guest-kezia-gill-tickets/2071924221?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/rodney-crowell-with-special-guest-kezia-gill-tickets/2071924221?language=en-us&ref=hvaSkjerIByenMin",
@@ -902,12 +842,72 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kfAazqN",
+      "title": "SOFIA ISELLA",
+      "description": "Arrangement på Sentrum Scene, Oslo",
+      "date": "2026-05-15",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Sentrum Scene, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/sofia-isella-tickets/505278763?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/sofia-isella-tickets/505278763?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/7d6/15292e68-ddc9-4e88-acdd-fcd2c0fd17d6_SOURCE",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vPAppCb",
+      "title": "Fagert er landet! - Norwegian organ music meets the ceiling mural",
+      "description": "Arrangement på Oslo domkirke, Oslo",
+      "date": "2026-05-16",
+      "time": "12:00",
+      "endTime": null,
+      "location": "Oslo domkirke, Oslo",
+      "categories": [
+        "konsert",
+        "familie"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/fagert-er-landet-norwegian-organ-music-meets-the-ceiling-mural-tickets/1945596398?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/fagert-er-landet-norwegian-organ-music-meets-the-ceiling-mural-tickets/1945596398?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/d44/8547c1e2-ebc8-4554-a7be-82234209cd44_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kqKvb4v",
+      "title": "Willi Carlisle",
+      "description": "Arrangement på John Dee, Oslo",
+      "date": "2026-05-16",
+      "time": "19:00",
+      "endTime": null,
+      "location": "John Dee, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/willi-carlisle-tickets/753058541?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/willi-carlisle-tickets/753058541?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/399/bfe16572-125e-4a7d-bc3e-822fc5835399_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 46,
-    "fetchedAt": "2026-04-16T06:56:08.229Z",
+    "fetchedAt": "2026-04-17T06:57:08.592Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,

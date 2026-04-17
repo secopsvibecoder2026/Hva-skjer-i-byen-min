@@ -13,7 +13,7 @@
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/gamle-norge-pass-2026-tickets/1105171209?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/gamle-norge-pass-2026-tickets/1105171209?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/ab4/6367448e-7474-4650-bd2d-02a8f7166ab4_106161_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageUrl": "https://s1.ticketm.net/dam/c/ab4/6367448e-7474-4650-bd2d-02a8f7166ab4_106161_TABLET_LANDSCAPE_16_9.jpg",
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -23,7 +23,7 @@
   "meta": {
     "city": "kongsberg",
     "count": 1,
-    "fetchedAt": "2026-04-16T06:56:30.315Z",
+    "fetchedAt": "2026-04-17T06:57:41.383Z",
     "sources": {
       "ticketmaster": 1,
       "eventbrite": 0,

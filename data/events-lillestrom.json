@@ -1,18 +1,18 @@
 {
   "events": [
     {
-      "id": "scrape-gen-ketil-bj-rnstad-i-ord-og-toner-2026-04-16",
-      "title": "Ketil Bjørnstad i ord og toner",
-      "description": "Torsdag. 16. april\nkl. 19.30",
-      "date": "2026-04-16",
+      "id": "scrape-gen-jazzkaf-kjeld-lauritsen-norwegian-trio-2026-04-18",
+      "title": "Jazzkafé – Kjeld Lauritsen Norwegian Trio",
+      "description": "Lørdag. 18. april\nkl. 13.00",
+      "date": "2026-04-18",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
       "categories": [
-        "familie"
+        "konsert"
       ],
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17109-ketil-bjornstad-i-ord-og-toner/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17109-ketil-bjornstad-i-ord-og-toner/?ref=hvaSkjerIByenMin",
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16883-jazzkafe-kjeld-lauritsen-norwegian-trio/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16883-jazzkafe-kjeld-lauritsen-norwegian-trio/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -23,7 +23,7 @@
       "id": "scrape-gen-gi-bort-en-opplevelse--",
       "title": "Gi bort en opplevelse!",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-04-17",
+      "date": "2026-04-18",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -42,7 +42,7 @@
       "id": "scrape-gen-last-ned-v-r-app-",
       "title": "Last ned vår app",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-04-17",
+      "date": "2026-04-18",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -61,7 +61,7 @@
       "id": "scrape-gen-shopping-g-rdsbutikker-og-sm-byliv-p-rom-",
       "title": "Shopping, gårdsbutikker og småbyliv på Romerike",
       "description": "Arrangement i visitgreateroslo.com",
-      "date": "2026-04-17",
+      "date": "2026-04-18",
       "time": "12:00",
       "endTime": null,
       "location": "visitgreateroslo.com",
@@ -80,7 +80,7 @@
       "id": "scrape-gen-sykkel-og-turtips-p-romerike-",
       "title": "Sykkel og turtips på Romerike",
       "description": "Arrangement i visitgreateroslo.com",
-      "date": "2026-04-17",
+      "date": "2026-04-18",
       "time": "12:00",
       "endTime": null,
       "location": "visitgreateroslo.com",
@@ -89,25 +89,6 @@
       ],
       "ticketUrl": "https://visitgreateroslo.com/no/romerike/se-og-gjore/aktiviteter/sykkel-og-vandre-tips/",
       "affiliateUrl": "https://visitgreateroslo.com/no/romerike/se-og-gjore/aktiviteter/sykkel-og-vandre-tips/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
-      "id": "scrape-gen-jazzkaf-kjeld-lauritsen-norwegian-trio-2026-04-18",
-      "title": "Jazzkafé – Kjeld Lauritsen Norwegian Trio",
-      "description": "Lørdag. 18. april\nkl. 13.00",
-      "date": "2026-04-18",
-      "time": "12:00",
-      "endTime": null,
-      "location": "lillestrom-kultursenter.no",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16883-jazzkafe-kjeld-lauritsen-norwegian-trio/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16883-jazzkafe-kjeld-lauritsen-norwegian-trio/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -1411,6 +1392,25 @@
       "source": "scrape"
     },
     {
+      "id": "scrape-gen-en-annerledes-jul-med-fat-fred-the-possu-2026-11-21",
+      "title": "En annerledes jul med Fat Fred & The Possumhunters",
+      "description": "Lørdag. 21. november\nkl. 19.00",
+      "date": "2026-11-21",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16681-en-annerledes-jul-med-fat-fred-the-possumhunters/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16681-en-annerledes-jul-med-fat-fred-the-possumhunters/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
       "id": "scrape-gen-scrooge-et-juleeventyr-premiere-2026-11-27",
       "title": "Scrooge – et juleeventyr – PREMIERE",
       "description": "27. nov. – 13. des.\n14 forestillinger",
@@ -1442,6 +1442,25 @@
       ],
       "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17351-bard-tufte-johansen-prover-a-vaere-positiv/",
       "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17351-bard-tufte-johansen-prover-a-vaere-positiv/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-jul-med-pr-ysen-2026-11-29",
+      "title": "Jul med Prøysen",
+      "description": "Søndag. 29. november\nkl. 15.00",
+      "date": "2026-11-29",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17795-jul-med-proysen/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17795-jul-med-proysen/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -1698,12 +1717,12 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 89,
-    "fetchedAt": "2026-04-16T06:56:14.149Z",
+    "count": 90,
+    "fetchedAt": "2026-04-17T06:57:15.857Z",
     "sources": {
       "ticketmaster": 0,
       "eventbrite": 0,
-      "scrape": 91
+      "scrape": 92
     }
   }
 }

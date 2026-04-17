@@ -14,7 +14,7 @@
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/bergen-calling-dumdum-boys-raga-rockers-og-slomosa-tickets/560664247?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/bergen-calling-dumdum-boys-raga-rockers-og-slomosa-tickets/560664247?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/f26/5f688990-75e6-4e48-af01-7fcd47532f26_TABLET_LANDSCAPE_16_9.jpg",
+      "imageUrl": "https://s1.ticketm.net/dam/a/f26/5f688990-75e6-4e48-af01-7fcd47532f26_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -433,7 +433,7 @@
   "meta": {
     "city": "bergen",
     "count": 22,
-    "fetchedAt": "2026-04-16T06:56:07.688Z",
+    "fetchedAt": "2026-04-17T06:57:07.833Z",
     "sources": {
       "ticketmaster": 24,
       "eventbrite": 0,
