@@ -1,26 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z16vZa_baZ",
-      "title": "Annika",
-      "description": "Arrangement på Sentrum Scene, Oslo",
-      "date": "2026-04-17",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Sentrum Scene, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/annika-tickets/1009658240?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/annika-tickets/1009658240?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/9fd/94e8cea0-fc44-4dd7-aab0-fed2a1c6b9fd_TABLET_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z16vAf-tbS",
       "title": "Hagle",
       "description": "Arrangement på Rockefeller, Oslo",
@@ -93,7 +73,7 @@
       ],
       "ticketUrl": "https://www.universe.com/events/arna-for-helvete-supp-morfars-monokkel-tickets-N7RVML?ref=ticketmaster",
       "affiliateUrl": "https://www.universe.com/events/arna-for-helvete-supp-morfars-monokkel-tickets-N7RVML?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_RETINA_LANDSCAPE_16_9.jpg",
+      "imageUrl": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -902,12 +882,31 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18QhlnMy3qN8ZVDeEP",
+      "title": "Sjømat & Skål – 17. mai på Radisson Blu Park Hotel Fornebu",
+      "description": "Arrangement på Radisson Blu Park Hotel, Lysaker",
+      "date": "2026-05-17",
+      "time": "12:00",
+      "endTime": null,
+      "location": "Radisson Blu Park Hotel, Lysaker",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/sjomat-skal-17-mai-pa-radisson-blu-park-hotel-fornebu-tickets-3HZTSQ?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/sjomat-skal-17-mai-pa-radisson-blu-park-hotel-fornebu-tickets-3HZTSQ?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/a78/b54d9c27-4ddd-45e5-bc82-7b0a9be05a78_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 46,
-    "fetchedAt": "2026-04-17T06:57:08.592Z",
+    "fetchedAt": "2026-04-18T06:12:46.062Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,

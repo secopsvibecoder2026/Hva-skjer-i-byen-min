@@ -13,7 +13,7 @@
       ],
       "ticketUrl": "https://www.universe.com/events/coming-home-countryfestivalen-i-grimstad-tickets-Z41RXS?ref=ticketmaster",
       "affiliateUrl": "https://www.universe.com/events/coming-home-countryfestivalen-i-grimstad-tickets-Z41RXS?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/677/c58dd0af-cda8-49b2-bdaf-068540c3a677_106541_RETINA_PORTRAIT_16_9.jpg",
+      "imageUrl": "https://s1.ticketm.net/dam/c/677/c58dd0af-cda8-49b2-bdaf-068540c3a677_106541_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -23,7 +23,7 @@
   "meta": {
     "city": "arendal",
     "count": 1,
-    "fetchedAt": "2026-04-17T06:57:31.869Z",
+    "fetchedAt": "2026-04-18T06:13:05.087Z",
     "sources": {
       "ticketmaster": 1,
       "eventbrite": 0,
