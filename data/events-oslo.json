@@ -1,85 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z16vAf-tbS",
-      "title": "Hagle",
-      "description": "Arrangement på Rockefeller, Oslo",
-      "date": "2026-04-18",
-      "time": "16:00",
-      "endTime": null,
-      "location": "Rockefeller, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/hagle-tickets/1154869633?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/hagle-tickets/1154869633?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/459/b256394b-49a0-44a8-bb9e-df0015883459_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z1kA4x98g",
-      "title": "Matt Rife: Stay Golden Tour",
-      "description": "Arrangement på Unity Arena, Fornebu",
-      "date": "2026-04-18",
-      "time": "18:00",
-      "endTime": null,
-      "location": "Unity Arena, Fornebu",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/matt-rife-stay-golden-tour-tickets/155897435?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/matt-rife-stay-golden-tour-tickets/155897435?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/3a0/fd003cd1-c834-49c3-93cc-7366d77153a0_SOURCE",
-      "imageEmoji": "🎭",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16vqzebob",
-      "title": "Ninja Sex Party & TWRP - Pure Elegance Tour",
-      "description": "Arrangement på Sentrum Scene, Oslo",
-      "date": "2026-04-18",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Sentrum Scene, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/ninja-sex-party--twrp-pure-elegance-tour-tickets/1778098458?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/ninja-sex-party--twrp-pure-elegance-tour-tickets/1778098458?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/4a8/487eb89f-42f6-4fbe-8059-d92ea87dc4a8_SOURCE",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18Q_3rGZPOyZZl0fyp",
-      "title": "Arna for Helvete // Supp: Morfars Monokkel",
-      "description": "Arrangement på Oslo",
-      "date": "2026-04-18",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "ticketUrl": "https://www.universe.com/events/arna-for-helvete-supp-morfars-monokkel-tickets-N7RVML?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/arna-for-helvete-supp-morfars-monokkel-tickets-N7RVML?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z1kepb-aU",
       "title": "Masterwork recital - Chopin/Grieg/Liszt recital",
       "description": "Arrangement på Kampen Kirke, Oslo, Oslo",
@@ -901,12 +822,111 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vuS0p78",
+      "title": "Acid King",
+      "description": "Arrangement på John Dee, Oslo",
+      "date": "2026-05-20",
+      "time": "19:00",
+      "endTime": null,
+      "location": "John Dee, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/acid-king-tickets/1373916110?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/acid-king-tickets/1373916110?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/bc8/6ad1f242-124b-41cd-aed4-ea97dcf27bc8_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kPFftAs",
+      "title": "Flo Rida - Club Can’t Handle Europe Tour",
+      "description": "Arrangement på Unity Arena, Fornebu",
+      "date": "2026-05-20",
+      "time": "20:00",
+      "endTime": null,
+      "location": "Unity Arena, Fornebu",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/flo-rida-club-cant-handle-europe-tour-tickets/948529171?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/flo-rida-club-cant-handle-europe-tour-tickets/948529171?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/d39/750fb721-7770-4470-8ff9-49098a874d39_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kaV7Ze6",
+      "title": "Kristian Valen - Fartøy Valen, Siste Seilas",
+      "description": "Arrangement på Chateau Neuf,Storsalen, Oslo",
+      "date": "2026-05-21",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Chateau Neuf,Storsalen, Oslo",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/kristian-valen-fartoy-valen-siste-seilas-tickets/274100087?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/kristian-valen-fartoy-valen-siste-seilas-tickets/274100087?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/a27/b8741fc2-495c-4a88-a1cd-be7bf15f0a27_TABLET_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎭",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kJau4eb",
+      "title": "Joey Valence & Brae",
+      "description": "Arrangement på Sentrum Scene, Oslo",
+      "date": "2026-05-22",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Sentrum Scene, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/joey-valence--brae-tickets/989355098?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/joey-valence--brae-tickets/989355098?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/8f3/b8407b67-30c0-4ad5-a0c3-aba372c038f3_TABLET_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kbNFs1p",
+      "title": "Ondara",
+      "description": "Arrangement på John Dee, Oslo",
+      "date": "2026-05-22",
+      "time": "19:00",
+      "endTime": null,
+      "location": "John Dee, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/ondara-tickets/623231296?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/ondara-tickets/623231296?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/9eb/a0cc6517-bfc8-4b20-b813-8135bc0c09eb_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
-    "count": 46,
-    "fetchedAt": "2026-04-18T06:12:46.062Z",
+    "count": 47,
+    "fetchedAt": "2026-04-19T06:27:36.259Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,
