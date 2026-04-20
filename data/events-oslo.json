@@ -1,26 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z1kepb-aU",
-      "title": "Masterwork recital - Chopin/Grieg/Liszt recital",
-      "description": "Arrangement på Kampen Kirke, Oslo, Oslo",
-      "date": "2026-04-19",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Kampen Kirke, Oslo, Oslo",
-      "categories": [
-        "konsert",
-        "familie"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/masterwork-recital-chopin-grieg-liszt-recital-tickets/96621276?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/masterwork-recital-chopin-grieg-liszt-recital-tickets/96621276?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/426/de51a23a-e20c-4ec2-91d3-3a13d3c87426_SOURCE",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z1A3qpPw",
       "title": "Christopher Cross",
       "description": "Arrangement på Sentrum Scene, Oslo",
@@ -921,12 +901,31 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1k8tC700",
+      "title": "Kristian Valen - Fartøy Valen, Siste Seilas",
+      "description": "Arrangement på Chateau Neuf,Storsalen, Oslo",
+      "date": "2026-05-22",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Chateau Neuf,Storsalen, Oslo",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/kristian-valen-fartoy-valen-siste-seilas-tickets/429384924?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/kristian-valen-fartoy-valen-siste-seilas-tickets/429384924?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/a27/b8741fc2-495c-4a88-a1cd-be7bf15f0a27_TABLET_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎭",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 47,
-    "fetchedAt": "2026-04-19T06:27:36.259Z",
+    "fetchedAt": "2026-04-20T07:14:56.354Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,
