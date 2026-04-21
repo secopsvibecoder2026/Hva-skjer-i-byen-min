@@ -1,10 +1,29 @@
 {
   "events": [
     {
+      "id": "scrape-gen-folk-som-oss-og-cash-commitment-2026-04-22",
+      "title": "Folk som oss og Cash Commitment",
+      "description": "Onsdag. 22. april\nkl. 19.30",
+      "date": "2026-04-22",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17505-folk-som-oss-og-cash-commitment/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17505-folk-som-oss-og-cash-commitment/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
       "id": "scrape-gen-gi-bort-en-opplevelse--",
       "title": "Gi bort en opplevelse!",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-04-21",
+      "date": "2026-04-22",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -23,7 +42,7 @@
       "id": "scrape-gen-last-ned-v-r-app-",
       "title": "Last ned vår app",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-04-21",
+      "date": "2026-04-22",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -42,7 +61,7 @@
       "id": "scrape-gen-shopping-g-rdsbutikker-og-sm-byliv-p-rom-",
       "title": "Shopping, gårdsbutikker og småbyliv på Romerike",
       "description": "Arrangement i visitgreateroslo.com",
-      "date": "2026-04-21",
+      "date": "2026-04-22",
       "time": "12:00",
       "endTime": null,
       "location": "visitgreateroslo.com",
@@ -61,7 +80,7 @@
       "id": "scrape-gen-sykkel-og-turtips-p-romerike-",
       "title": "Sykkel og turtips på Romerike",
       "description": "Arrangement i visitgreateroslo.com",
-      "date": "2026-04-21",
+      "date": "2026-04-22",
       "time": "12:00",
       "endTime": null,
       "location": "visitgreateroslo.com",
@@ -70,25 +89,6 @@
       ],
       "ticketUrl": "https://visitgreateroslo.com/no/romerike/se-og-gjore/aktiviteter/sykkel-og-vandre-tips/",
       "affiliateUrl": "https://visitgreateroslo.com/no/romerike/se-og-gjore/aktiviteter/sykkel-og-vandre-tips/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
-      "id": "scrape-gen-folk-som-oss-og-cash-commitment-2026-04-22",
-      "title": "Folk som oss og Cash Commitment",
-      "description": "Onsdag. 22. april\nkl. 19.30",
-      "date": "2026-04-22",
-      "time": "12:00",
-      "endTime": null,
-      "location": "lillestrom-kultursenter.no",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17505-folk-som-oss-og-cash-commitment/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17505-folk-som-oss-og-cash-commitment/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -474,6 +474,26 @@
       "sponsored": false,
       "featured": false,
       "source": "scrape"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kF4FFak",
+      "title": "Morrissey",
+      "description": "Arrangement på Nova Spektrum Lillestrøm, Lillestrøm",
+      "date": "2026-06-27",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Nova Spektrum Lillestrøm, Lillestrøm",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/morrissey-tickets/215208246?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/morrissey-tickets/215208246?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/50e/94157ccd-9171-4c92-b0c8-73a2bfc2950e_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     },
     {
       "id": "scrape-gen-barnas-festdager-2026-08-08",
@@ -1506,6 +1526,25 @@
       "source": "scrape"
     },
     {
+      "id": "scrape-gen-kulturkaf-julespesial-2026-12-10",
+      "title": "Kulturkafé – Julespesial",
+      "description": "Torsdag. 10. desember\nkl. 12.00",
+      "date": "2026-12-10",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16640-kulturkafe-julespesial/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16640-kulturkafe-julespesial/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
       "id": "scrape-gen-for-v-r-jord-en-julekonsert-2026-12-17",
       "title": "For vår jord – en julekonsert",
       "description": "Torsdag. 17. desember\nkl. 19.00",
@@ -1679,12 +1718,12 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 88,
-    "fetchedAt": "2026-04-20T07:15:08.207Z",
+    "count": 90,
+    "fetchedAt": "2026-04-21T06:58:00.771Z",
     "sources": {
-      "ticketmaster": 0,
+      "ticketmaster": 1,
       "eventbrite": 0,
-      "scrape": 90
+      "scrape": 91
     }
   }
 }

@@ -267,7 +267,7 @@
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/tame-impala-deadbeat-tour-tickets/237838952?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/tame-impala-deadbeat-tour-tickets/237838952?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/cd0/d26204db-9477-43df-965b-ee262dc05cd0_RETINA_PORTRAIT_16_9.jpg",
+      "imageUrl": "https://s1.ticketm.net/dam/a/cd0/d26204db-9477-43df-965b-ee262dc05cd0_SOURCE",
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -925,7 +925,7 @@
   "meta": {
     "city": "oslo",
     "count": 47,
-    "fetchedAt": "2026-04-20T07:14:56.354Z",
+    "fetchedAt": "2026-04-21T06:57:53.399Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,
