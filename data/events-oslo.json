@@ -1,46 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z1A3qpPw",
-      "title": "Christopher Cross",
-      "description": "Arrangement på Sentrum Scene, Oslo",
-      "date": "2026-04-21",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Sentrum Scene, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/christopher-cross-tickets/12756972?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/christopher-cross-tickets/12756972?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/cc4/424765cf-5027-4035-8fbb-e33af28adcc4_TABLET_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z1kFfbg47",
-      "title": "The Barr Brothers",
-      "description": "Arrangement på John Dee, Oslo",
-      "date": "2026-04-21",
-      "time": "19:00",
-      "endTime": null,
-      "location": "John Dee, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/the-barr-brothers-tickets/214635544?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/the-barr-brothers-tickets/214635544?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/538/cda26f70-1df2-4899-b191-102c13af7538_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z16v8s-P4I",
       "title": "CécCécile Moroni - 'Allo Norge!",
       "description": "Arrangement på John Dee, Oslo",
@@ -920,12 +880,52 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kogxKaY",
+      "title": "NE-YO & AKON: Nights Like This Tour 2026",
+      "description": "Arrangement på Unity Arena, Fornebu",
+      "date": "2026-05-22",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Unity Arena, Fornebu",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/ne-yo--akon-nights-like-this-tour-2026-tickets/475893270?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/ne-yo--akon-nights-like-this-tour-2026-tickets/475893270?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/0d8/db62a0eb-b1c4-453b-8b77-bbdd730770d8_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vp7GPaI",
+      "title": "Organ recital on the Eve of Pentecost",
+      "description": "Arrangement på Oslo domkirke, Oslo",
+      "date": "2026-05-23",
+      "time": "12:00",
+      "endTime": null,
+      "location": "Oslo domkirke, Oslo",
+      "categories": [
+        "konsert",
+        "familie"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/organ-recital-on-the-eve-of-pentecost-tickets/1584325268?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/organ-recital-on-the-eve-of-pentecost-tickets/1584325268?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/c08/cce91f4d-9af7-4a37-910b-af25bde18c08_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 47,
-    "fetchedAt": "2026-04-21T06:57:53.399Z",
+    "fetchedAt": "2026-04-22T06:57:09.123Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,
