@@ -1,26 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z16v8s-P4I",
-      "title": "CécCécile Moroni - 'Allo Norge!",
-      "description": "Arrangement på John Dee, Oslo",
-      "date": "2026-04-22",
-      "time": "19:00",
-      "endTime": null,
-      "location": "John Dee, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/ceccecile-moroni-allo-norge-tickets/1431865568?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/ceccecile-moroni-allo-norge-tickets/1431865568?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/ac6/2572a983-fb51-49b4-bfed-47884f089ac6_SOURCE",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-LvZ18Qj1F0ma6n8vG1EUO",
       "title": "The Norway Show: Once Upon a Fjord",
       "description": "Arrangement på Oslo",
@@ -920,12 +900,31 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vGxb08E",
+      "title": "Kristian Valen - Fartøy Valen, Siste Seilas",
+      "description": "Arrangement på Chateau Neuf,Storsalen, Oslo",
+      "date": "2026-05-23",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Chateau Neuf,Storsalen, Oslo",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/kristian-valen-fartoy-valen-siste-seilas-tickets/1322624427?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/kristian-valen-fartoy-valen-siste-seilas-tickets/1322624427?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/a27/b8741fc2-495c-4a88-a1cd-be7bf15f0a27_TABLET_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎭",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 47,
-    "fetchedAt": "2026-04-22T06:57:09.123Z",
+    "fetchedAt": "2026-04-23T07:00:02.497Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,
