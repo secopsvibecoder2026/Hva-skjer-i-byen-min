@@ -1,63 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-LvZ18Qj1F0ma6n8vG1EUO",
-      "title": "The Norway Show: Once Upon a Fjord",
-      "description": "Arrangement på Oslo",
-      "date": "2026-04-23",
-      "time": "15:00",
-      "endTime": null,
-      "location": "Oslo",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://www.universe.com/events/the-norway-show-once-upon-a-fjord-tickets-QD9WKF?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/the-norway-show-once-upon-a-fjord-tickets-QD9WKF?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://images.universe.com/122fcbd3-0faf-449b-aff4-8e7652412cab/-/format/jpeg/-/scale_crop/1024x576/center/-/progressive/yes/-/inline/yes/",
-      "imageEmoji": "🎭",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16eZ4fzPS",
-      "title": "Fatoumata Diawara",
-      "description": "Arrangement på Sentrum Scene, Oslo",
-      "date": "2026-04-23",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Sentrum Scene, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/fatoumata-diawara-tickets/2015538973?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/fatoumata-diawara-tickets/2015538973?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/717/921cb540-0d5f-45ab-a90a-1a98f790c717_SOURCE",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16vjk14Pa",
-      "title": "Ufred. Russland fra Innsiden.",
-      "description": "Arrangement på Chateau Neuf,Storsalen, Oslo",
-      "date": "2026-04-23",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Chateau Neuf,Storsalen, Oslo",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/ufred-russland-fra-innsiden-tickets/1706295949?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/ufred-russland-fra-innsiden-tickets/1706295949?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/fee/ecfcfab8-c4a4-4502-b4c2-d1dfcd184fee_TABLET_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎭",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-LvZ18Qj26npYBuZZzzX4W",
       "title": "The Norway Show: Once Upon a Fjord",
       "description": "Arrangement på Oslo",
@@ -306,7 +249,7 @@
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/room-37-tickets/981170499?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/room-37-tickets/981170499?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/7b1/444543d2-afdc-474e-acf9-5c6b1fbea7b1_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageUrl": "https://s1.ticketm.net/dam/e/7b1/444543d2-afdc-474e-acf9-5c6b1fbea7b1_RETINA_LANDSCAPE_16_9.jpg",
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -803,6 +746,26 @@
       "source": "ticketmaster"
     },
     {
+      "id": "tm-Z698xZb_Z16v_zZaa7",
+      "title": "Vassendgutane",
+      "description": "Arrangement på Rockefeller, Oslo",
+      "date": "2026-05-22",
+      "time": "17:40",
+      "endTime": null,
+      "location": "Rockefeller, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/vassendgutane-tickets/1678009244?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/vassendgutane-tickets/1678009244?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/040/2d923ec4-982c-4915-928a-f06994e3d040_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
       "id": "tm-Z698xZb_Z1kJau4eb",
       "title": "Joey Valence & Brae",
       "description": "Arrangement på Sentrum Scene, Oslo",
@@ -919,12 +882,51 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vbyqd4x",
+      "title": "Conan Gray: Wishbone World Tour ",
+      "description": "Arrangement på Unity Arena, Fornebu",
+      "date": "2026-05-23",
+      "time": "20:30",
+      "endTime": null,
+      "location": "Unity Arena, Fornebu",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/conan-gray-wishbone-world-tour-tickets/1639743562?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/conan-gray-wishbone-world-tour-tickets/1639743562?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/8af/684b812e-6e96-4f60-b99e-5ca3e20188af_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18QhtVPiYShZZHbSEf",
+      "title": "HUSETFESTIVALEN 2026",
+      "description": "Arrangement på Kadettangen, Sandvika",
+      "date": "2026-05-28",
+      "time": "17:00",
+      "endTime": null,
+      "location": "Kadettangen, Sandvika",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/husetfestivalen-2026-tickets-SNRWK7?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/husetfestivalen-2026-tickets-SNRWK7?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 47,
-    "fetchedAt": "2026-04-23T07:00:02.497Z",
+    "fetchedAt": "2026-04-24T07:03:49.205Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,

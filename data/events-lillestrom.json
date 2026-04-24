@@ -1,25 +1,6 @@
 {
   "events": [
     {
-      "id": "scrape-gen-kulturkaf-tore-halvorsen-2026-04-23",
-      "title": "Kulturkafé – Tore Halvorsen",
-      "description": "Få billetter igjen",
-      "date": "2026-04-23",
-      "time": "12:00",
-      "endTime": null,
-      "location": "lillestrom-kultursenter.no",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16636-kulturkafe-tore-halvorsen/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16636-kulturkafe-tore-halvorsen/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
       "id": "scrape-gen-ukm-fylkesfinalen-2026-04-24",
       "title": "UKM fylkesfinalen",
       "description": "24. apr. – 26. apr.\n4 forestillinger",
@@ -32,101 +13,6 @@
       ],
       "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17151-ukm-fylkesfinalen/",
       "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17151-ukm-fylkesfinalen/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
-      "id": "scrape-gen-gi-bort-en-opplevelse--",
-      "title": "Gi bort en opplevelse!",
-      "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-04-24",
-      "time": "12:00",
-      "endTime": null,
-      "location": "lillestrom-kultursenter.no",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/gavekort/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/gavekort/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
-      "id": "scrape-gen-last-ned-v-r-app-",
-      "title": "Last ned vår app",
-      "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-04-24",
-      "time": "12:00",
-      "endTime": null,
-      "location": "lillestrom-kultursenter.no",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/app/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/app/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
-      "id": "scrape-gen-se-hva-som-skjer-17-mai-",
-      "title": "Se hva som skjer 17.mai",
-      "description": "Arrangement i visitgreateroslo.com",
-      "date": "2026-04-24",
-      "time": "12:00",
-      "endTime": null,
-      "location": "visitgreateroslo.com",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://visitgreateroslo.com/no/se-hva-som-skjer-17-mai/",
-      "affiliateUrl": "https://visitgreateroslo.com/no/se-hva-som-skjer-17-mai/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
-      "id": "scrape-gen-shopping-g-rdsbutikker-og-sm-byliv-p-rom-",
-      "title": "Shopping, gårdsbutikker og småbyliv på Romerike",
-      "description": "Arrangement i visitgreateroslo.com",
-      "date": "2026-04-24",
-      "time": "12:00",
-      "endTime": null,
-      "location": "visitgreateroslo.com",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://visitgreateroslo.com/no/romerike/se-og-gjore/shopping/",
-      "affiliateUrl": "https://visitgreateroslo.com/no/romerike/se-og-gjore/shopping/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
-      "id": "scrape-gen-sykkel-og-turtips-p-romerike-",
-      "title": "Sykkel og turtips på Romerike",
-      "description": "Arrangement i visitgreateroslo.com",
-      "date": "2026-04-24",
-      "time": "12:00",
-      "endTime": null,
-      "location": "visitgreateroslo.com",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://visitgreateroslo.com/no/romerike/se-og-gjore/aktiviteter/sykkel-og-vandre-tips/",
-      "affiliateUrl": "https://visitgreateroslo.com/no/romerike/se-og-gjore/aktiviteter/sykkel-og-vandre-tips/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -165,6 +51,101 @@
       ],
       "ticketUrl": "https://www.lillestrom-kultursenter.no/program/15731-norsk-ballettinstitutt-30-ar-med-danseglede/",
       "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/15731-norsk-ballettinstitutt-30-ar-med-danseglede/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-gi-bort-en-opplevelse--",
+      "title": "Gi bort en opplevelse!",
+      "description": "Arrangement i lillestrom-kultursenter.no",
+      "date": "2026-04-25",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/gavekort/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/gavekort/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-last-ned-v-r-app-",
+      "title": "Last ned vår app",
+      "description": "Arrangement i lillestrom-kultursenter.no",
+      "date": "2026-04-25",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/app/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/app/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-se-hva-som-skjer-17-mai-",
+      "title": "Se hva som skjer 17.mai",
+      "description": "Arrangement i visitgreateroslo.com",
+      "date": "2026-04-25",
+      "time": "12:00",
+      "endTime": null,
+      "location": "visitgreateroslo.com",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://visitgreateroslo.com/no/se-hva-som-skjer-17-mai/",
+      "affiliateUrl": "https://visitgreateroslo.com/no/se-hva-som-skjer-17-mai/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-shopping-g-rdsbutikker-og-sm-byliv-p-rom-",
+      "title": "Shopping, gårdsbutikker og småbyliv på Romerike",
+      "description": "Arrangement i visitgreateroslo.com",
+      "date": "2026-04-25",
+      "time": "12:00",
+      "endTime": null,
+      "location": "visitgreateroslo.com",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://visitgreateroslo.com/no/romerike/se-og-gjore/shopping/",
+      "affiliateUrl": "https://visitgreateroslo.com/no/romerike/se-og-gjore/shopping/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-sykkel-og-turtips-p-romerike-",
+      "title": "Sykkel og turtips på Romerike",
+      "description": "Arrangement i visitgreateroslo.com",
+      "date": "2026-04-25",
+      "time": "12:00",
+      "endTime": null,
+      "location": "visitgreateroslo.com",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://visitgreateroslo.com/no/romerike/se-og-gjore/aktiviteter/sykkel-og-vandre-tips/",
+      "affiliateUrl": "https://visitgreateroslo.com/no/romerike/se-og-gjore/aktiviteter/sykkel-og-vandre-tips/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -484,8 +465,7 @@
       "endTime": null,
       "location": "Nova Spektrum Lillestrøm, Lillestrøm",
       "categories": [
-        "konsert",
-        "uteliv"
+        "konsert"
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/morrissey-tickets/215208246?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/morrissey-tickets/215208246?language=en-us&ref=hvaSkjerIByenMin",
@@ -1203,6 +1183,25 @@
       "source": "scrape"
     },
     {
+      "id": "scrape-gen-espen-lind-2026-11-03",
+      "title": "Espen Lind",
+      "description": "Tirsdag. 3. november\nkl. 20.00",
+      "date": "2026-11-03",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17780-espen-lind/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17780-espen-lind/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
       "id": "scrape-gen-swan-lake-symphony-of-lights-2026-11-04",
       "title": "Swan Lake – Symphony of lights",
       "description": "Onsdag. 4. november\nkl. 19.00",
@@ -1564,6 +1563,28 @@
       "source": "scrape"
     },
     {
+      "id": "scrape-gen-rundt-et-flygel-for-barn-julekonsert-2026-12-12",
+      "title": "Rundt et flygel for barn – Julekonsert",
+      "description": "Lørdag. 12. desember\nkl. 14.00",
+      "date": "2026-12-12",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "konsert",
+        "uteliv",
+        "familie",
+        "barn"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17685-rundt-et-flygel-for-barn-julekonsert/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17685-rundt-et-flygel-for-barn-julekonsert/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
       "id": "scrape-gen-for-v-r-jord-en-julekonsert-2026-12-17",
       "title": "For vår jord – en julekonsert",
       "description": "Torsdag. 17. desember\nkl. 19.00",
@@ -1737,12 +1758,12 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 91,
-    "fetchedAt": "2026-04-23T07:00:09.201Z",
+    "count": 92,
+    "fetchedAt": "2026-04-24T07:03:55.926Z",
     "sources": {
       "ticketmaster": 1,
       "eventbrite": 0,
-      "scrape": 93
+      "scrape": 94
     }
   }
 }

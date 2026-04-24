@@ -28,12 +28,11 @@
       "endTime": null,
       "location": "Midgard Vikingsenter, Horten",
       "categories": [
-        "konsert",
-        "uteliv"
+        "konsert"
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/camp-ticket-camp-utgard-all-days-midgardsblot-metalfestival-2026-tickets/1903771037?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/camp-ticket-camp-utgard-all-days-midgardsblot-metalfestival-2026-tickets/1903771037?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/461/5b441f73-9549-4214-9f1f-0475aae20461_RETINA_LANDSCAPE_16_9.jpg",
+      "imageUrl": "https://s1.ticketm.net/dam/a/461/5b441f73-9549-4214-9f1f-0475aae20461_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -105,12 +104,11 @@
       "endTime": null,
       "location": "Midgard Vikingsenter, Horten",
       "categories": [
-        "konsert",
-        "uteliv"
+        "konsert"
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/midgardsblot-weekend-pass-2026-tickets/929710484?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/midgardsblot-weekend-pass-2026-tickets/929710484?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/461/5b441f73-9549-4214-9f1f-0475aae20461_RETINA_LANDSCAPE_16_9.jpg",
+      "imageUrl": "https://s1.ticketm.net/dam/a/461/5b441f73-9549-4214-9f1f-0475aae20461_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -144,11 +142,12 @@
       "endTime": null,
       "location": "Midgard Vikingsenter, Horten",
       "categories": [
-        "konsert"
+        "konsert",
+        "uteliv"
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/midgardsblot-festival-pass-2026-tickets/2044977024?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/midgardsblot-festival-pass-2026-tickets/2044977024?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/461/5b441f73-9549-4214-9f1f-0475aae20461_RETINA_LANDSCAPE_16_9.jpg",
+      "imageUrl": "https://s1.ticketm.net/dam/a/461/5b441f73-9549-4214-9f1f-0475aae20461_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -177,7 +176,7 @@
   "meta": {
     "city": "tonsberg",
     "count": 9,
-    "fetchedAt": "2026-04-23T07:00:18.592Z",
+    "fetchedAt": "2026-04-24T07:04:06.771Z",
     "sources": {
       "ticketmaster": 9,
       "eventbrite": 0,
