@@ -1,45 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z16voOogeK",
-      "title": "Rockebandet Ændal",
-      "description": "Arrangement på John Dee, Oslo",
-      "date": "2026-04-25",
-      "time": "19:00",
-      "endTime": null,
-      "location": "John Dee, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/rockebandet-ndal-tickets/1460475093?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/rockebandet-ndal-tickets/1460475093?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/844/683a81fe-acaf-43a5-9653-3841fa37f844_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16vo0v34-",
-      "title": "Vidar Villa",
-      "description": "Arrangement på Rockefeller, Oslo",
-      "date": "2026-04-25",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Rockefeller, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/vidar-villa-tickets/1464052561?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/vidar-villa-tickets/1464052561?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/dcc/10e41d38-cdcb-4889-8675-0ef1ec972dcc_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-LvZ18Qj26VTyL98ZzmD7A",
       "title": "The Norway Show: Once Upon a Fjord",
       "description": "Arrangement på Oslo",
@@ -940,12 +901,52 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1ko4QfOU",
+      "title": "Los Mexicanacas",
+      "description": "Arrangement på Rockefeller, Oslo",
+      "date": "2026-05-30",
+      "time": "20:00",
+      "endTime": null,
+      "location": "Rockefeller, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/los-mexicanacas-tickets/455694836?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/los-mexicanacas-tickets/455694836?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/dc2/82617504-8fa0-4b15-81ab-c77958317dc2_SOURCE",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16v_eFFP4",
+      "title": "Empire of the Sun",
+      "description": "Arrangement på Unity Arena, Fornebu",
+      "date": "2026-05-31",
+      "time": "18:30",
+      "endTime": null,
+      "location": "Unity Arena, Fornebu",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/empire-of-the-sun-tickets/1642208955?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/empire-of-the-sun-tickets/1642208955?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/763/242af1a3-8726-4111-b2a9-2d87c8689763_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 48,
-    "fetchedAt": "2026-04-25T06:19:57.603Z",
+    "fetchedAt": "2026-04-26T06:58:09.322Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,
