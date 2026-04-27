@@ -1,25 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-LvZ18Qj26VTyL98ZzmD7A",
-      "title": "The Norway Show: Once Upon a Fjord",
-      "description": "Arrangement på Oslo",
-      "date": "2026-04-26",
-      "time": "15:00",
-      "endTime": null,
-      "location": "Oslo",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://www.universe.com/events/the-norway-show-once-upon-a-fjord-tickets-Y2TXNS?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/the-norway-show-once-upon-a-fjord-tickets-Y2TXNS?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://images.universe.com/122fcbd3-0faf-449b-aff4-8e7652412cab/-/format/jpeg/-/scale_crop/1024x576/center/-/progressive/yes/-/inline/yes/",
-      "imageEmoji": "🎭",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z1kFMOzP3",
       "title": "Tame Impala - Deadbeat Tour",
       "description": "Arrangement på Unity Arena, Fornebu",
@@ -941,12 +922,32 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16eeeGV7y",
+      "title": "Fat Freddy's Drop",
+      "description": "Arrangement på Sentrum Scene, Oslo",
+      "date": "2026-06-01",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Sentrum Scene, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/fat-freddys-drop-tickets/2082334139?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/fat-freddys-drop-tickets/2082334139?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/824/54a80096-01b7-4d32-8656-455876c47824_SOURCE",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 48,
-    "fetchedAt": "2026-04-26T06:58:09.322Z",
+    "fetchedAt": "2026-04-27T07:33:35.057Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,

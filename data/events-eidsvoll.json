@@ -1,27 +1,6 @@
 {
   "events": [
     {
-      "id": "eidsvoll-3",
-      "title": "Barnedag på Eidsvoll Bibliotek",
-      "description": "Eventyrfortelling, tegning og aktiviteter for barn mellom 3 og 10 år. Gratis og åpent for alle – ingen påmelding nødvendig.",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "endTime": "13:00",
-      "location": "Eidsvoll Bibliotek, Eidsvoll verk",
-      "categories": [
-        "barn",
-        "familie",
-        "gratis"
-      ],
-      "ticketUrl": null,
-      "affiliateUrl": null,
-      "imageUrl": null,
-      "imageEmoji": "📚",
-      "sponsored": false,
-      "featured": false,
-      "source": "local"
-    },
-    {
       "id": "eidsvoll-4",
       "title": "17. mai feiring – Eidsvoll 2026",
       "description": "Bli med på Eidsvoll sin store 17. mai-feiring! Tog, musikk, taler og folkefest. Eidsvoll er Grunnlovens fødested – feiringen her er ekstra spesiell.",
@@ -64,8 +43,8 @@
   ],
   "meta": {
     "city": "eidsvoll",
-    "count": 3,
-    "fetchedAt": "2026-04-20T07:15:00.201Z",
+    "count": 2,
+    "fetchedAt": "2026-04-27T07:33:39.527Z",
     "sources": {
       "ticketmaster": 0,
       "eventbrite": 0,
