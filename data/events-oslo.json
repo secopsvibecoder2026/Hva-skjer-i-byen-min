@@ -1,26 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z1kFMOzP3",
-      "title": "Tame Impala - Deadbeat Tour",
-      "description": "Arrangement på Unity Arena, Fornebu",
-      "date": "2026-04-27",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Unity Arena, Fornebu",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/tame-impala-deadbeat-tour-tickets/237838952?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/tame-impala-deadbeat-tour-tickets/237838952?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/cd0/d26204db-9477-43df-965b-ee262dc05cd0_SOURCE",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z1kjk0xrk",
       "title": "TRUMPS KRIG",
       "description": "Arrangement på Chateau Neuf,Storsalen, Oslo",
@@ -221,18 +201,18 @@
     {
       "id": "tm-Z698xZb_Z1kP6xk-F",
       "title": "GoGo Penguin",
-      "description": "Arrangement på Rockefeller, Oslo",
+      "description": "Arrangement på John Dee, Oslo",
       "date": "2026-05-03",
       "time": "19:00",
       "endTime": null,
-      "location": "Rockefeller, Oslo",
+      "location": "John Dee, Oslo",
       "categories": [
         "konsert",
         "uteliv"
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/gogo-penguin-tickets/947886848?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/gogo-penguin-tickets/947886848?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/46c/606e24a4-6b23-434a-ba70-2d02c111146c_SOURCE",
+      "imageUrl": "https://s1.ticketm.net/dam/e/46c/606e24a4-6b23-434a-ba70-2d02c111146c_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -912,8 +892,7 @@
       "endTime": null,
       "location": "Unity Arena, Fornebu",
       "categories": [
-        "konsert",
-        "uteliv"
+        "konsert"
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/empire-of-the-sun-tickets/1642208955?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/empire-of-the-sun-tickets/1642208955?language=en-us&ref=hvaSkjerIByenMin",
@@ -942,12 +921,32 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vZO47ZN",
+      "title": "Chance Peña",
+      "description": "Arrangement på Sentrum Scene, Oslo",
+      "date": "2026-06-02",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Sentrum Scene, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/chance-pena-tickets/1020544023?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/chance-pena-tickets/1020544023?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/294/11f0c38e-5e95-45f3-9af5-70116f9ab294_TABLET_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 48,
-    "fetchedAt": "2026-04-27T07:33:35.057Z",
+    "fetchedAt": "2026-04-28T07:30:21.583Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,
