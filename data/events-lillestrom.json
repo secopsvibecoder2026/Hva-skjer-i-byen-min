@@ -23,7 +23,7 @@
       "id": "scrape-gen-gi-bort-en-opplevelse--",
       "title": "Gi bort en opplevelse!",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-04-29",
+      "date": "2026-04-30",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -42,7 +42,7 @@
       "id": "scrape-gen-last-ned-v-r-app-",
       "title": "Last ned vår app",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-04-29",
+      "date": "2026-04-30",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -61,7 +61,7 @@
       "id": "scrape-gen-se-hva-som-skjer-17-mai-",
       "title": "Se hva som skjer 17.mai",
       "description": "Arrangement i visitgreateroslo.com",
-      "date": "2026-04-29",
+      "date": "2026-04-30",
       "time": "12:00",
       "endTime": null,
       "location": "visitgreateroslo.com",
@@ -80,7 +80,7 @@
       "id": "scrape-gen-shopping-g-rdsbutikker-og-sm-byliv-p-rom-",
       "title": "Shopping, gårdsbutikker og småbyliv på Romerike",
       "description": "Arrangement i visitgreateroslo.com",
-      "date": "2026-04-29",
+      "date": "2026-04-30",
       "time": "12:00",
       "endTime": null,
       "location": "visitgreateroslo.com",
@@ -99,7 +99,7 @@
       "id": "scrape-gen-sykkel-og-turtips-p-romerike-",
       "title": "Sykkel og turtips på Romerike",
       "description": "Arrangement i visitgreateroslo.com",
-      "date": "2026-04-29",
+      "date": "2026-04-30",
       "time": "12:00",
       "endTime": null,
       "location": "visitgreateroslo.com",
@@ -260,6 +260,25 @@
       ],
       "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16889-jazzkafe-bodil-niska-kvartett-med-england-brooks/",
       "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16889-jazzkafe-bodil-niska-kvartett-med-england-brooks/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-ahske-2026-05-30",
+      "title": "Ahske",
+      "description": "Lørdag. 30. mai\nkl. 19.00",
+      "date": "2026-05-30",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17913-ahske/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17913-ahske/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -995,7 +1014,7 @@
     {
       "id": "scrape-gen-vamp-med-stjernelag-2026-10-23",
       "title": "Vamp med stjernelag",
-      "description": "Få billetter igjen",
+      "description": "Fredag. 23. oktober\nkl. 19.00",
       "date": "2026-10-23",
       "time": "12:00",
       "endTime": null,
@@ -1394,7 +1413,7 @@
     {
       "id": "scrape-gen-b-rd-tufte-johansen-pr-ver-v-re-positiv-2026-11-27",
       "title": "Bård Tufte Johansen – Prøver å være positiv",
-      "description": "Fredag. 27. november\nkl. 19.00",
+      "description": "Få billetter igjen",
       "date": "2026-11-27",
       "time": "12:00",
       "endTime": null,
@@ -1720,12 +1739,12 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 90,
-    "fetchedAt": "2026-04-28T07:30:25.882Z",
+    "count": 91,
+    "fetchedAt": "2026-04-29T07:22:27.519Z",
     "sources": {
       "ticketmaster": 1,
       "eventbrite": 0,
-      "scrape": 92
+      "scrape": 93
     }
   }
 }

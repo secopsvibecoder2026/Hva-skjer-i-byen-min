@@ -1,25 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z1kjk0xrk",
-      "title": "TRUMPS KRIG",
-      "description": "Arrangement på Chateau Neuf,Storsalen, Oslo",
-      "date": "2026-04-28",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Chateau Neuf,Storsalen, Oslo",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/trumps-krig-tickets/706922786?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/trumps-krig-tickets/706922786?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/676/7ca92572-977b-4936-b596-a9fc13537676_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎭",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z16v0AjyPy",
       "title": "Francis Rossi",
       "description": "Arrangement på Sentrum Scene, Oslo",
@@ -892,7 +873,8 @@
       "endTime": null,
       "location": "Unity Arena, Fornebu",
       "categories": [
-        "konsert"
+        "konsert",
+        "uteliv"
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/empire-of-the-sun-tickets/1642208955?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/empire-of-the-sun-tickets/1642208955?language=en-us&ref=hvaSkjerIByenMin",
@@ -941,12 +923,32 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kjaZNfM",
+      "title": "Social Distortion",
+      "description": "Arrangement på Sentrum Scene, Oslo",
+      "date": "2026-06-03",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Sentrum Scene, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/social-distortion-tickets/709023537?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/social-distortion-tickets/709023537?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/199/ce87d2c1-984a-4e8b-97f2-766421667199_TABLET_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 48,
-    "fetchedAt": "2026-04-28T07:30:21.583Z",
+    "fetchedAt": "2026-04-29T07:22:21.498Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,
