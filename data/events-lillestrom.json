@@ -1,18 +1,18 @@
 {
   "events": [
     {
-      "id": "scrape-gen-rundt-et-flygel-teachers-in-concert-5-2026-04-29",
-      "title": "Rundt et flygel – Teachers in concert 5",
-      "description": "Onsdag. 29. april\nkl. 19.00",
-      "date": "2026-04-29",
+      "id": "scrape-gen-chris-holsten-oppe-p-m-nen-turn-2026-2026-05-01",
+      "title": "Chris Holsten – Oppe på månen turné 2026",
+      "description": "Utsolgt",
+      "date": "2026-05-01",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
       "categories": [
         "familie"
       ],
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16644-rundt-et-flygel-teachers-in-concert-5/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16644-rundt-et-flygel-teachers-in-concert-5/?ref=hvaSkjerIByenMin",
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17424-chris-holsten-oppe-pa-manen-turne-2026/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17424-chris-holsten-oppe-pa-manen-turne-2026/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -23,7 +23,7 @@
       "id": "scrape-gen-gi-bort-en-opplevelse--",
       "title": "Gi bort en opplevelse!",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-04-30",
+      "date": "2026-05-01",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -42,7 +42,7 @@
       "id": "scrape-gen-last-ned-v-r-app-",
       "title": "Last ned vår app",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-04-30",
+      "date": "2026-05-01",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -61,7 +61,7 @@
       "id": "scrape-gen-se-hva-som-skjer-17-mai-",
       "title": "Se hva som skjer 17.mai",
       "description": "Arrangement i visitgreateroslo.com",
-      "date": "2026-04-30",
+      "date": "2026-05-01",
       "time": "12:00",
       "endTime": null,
       "location": "visitgreateroslo.com",
@@ -80,7 +80,7 @@
       "id": "scrape-gen-shopping-g-rdsbutikker-og-sm-byliv-p-rom-",
       "title": "Shopping, gårdsbutikker og småbyliv på Romerike",
       "description": "Arrangement i visitgreateroslo.com",
-      "date": "2026-04-30",
+      "date": "2026-05-01",
       "time": "12:00",
       "endTime": null,
       "location": "visitgreateroslo.com",
@@ -99,7 +99,7 @@
       "id": "scrape-gen-sykkel-og-turtips-p-romerike-",
       "title": "Sykkel og turtips på Romerike",
       "description": "Arrangement i visitgreateroslo.com",
-      "date": "2026-04-30",
+      "date": "2026-05-01",
       "time": "12:00",
       "endTime": null,
       "location": "visitgreateroslo.com",
@@ -108,25 +108,6 @@
       ],
       "ticketUrl": "https://visitgreateroslo.com/no/romerike/se-og-gjore/aktiviteter/sykkel-og-vandre-tips/",
       "affiliateUrl": "https://visitgreateroslo.com/no/romerike/se-og-gjore/aktiviteter/sykkel-og-vandre-tips/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
-      "id": "scrape-gen-chris-holsten-oppe-p-m-nen-turn-2026-2026-05-01",
-      "title": "Chris Holsten – Oppe på månen turné 2026",
-      "description": "Utsolgt",
-      "date": "2026-05-01",
-      "time": "12:00",
-      "endTime": null,
-      "location": "lillestrom-kultursenter.no",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17424-chris-holsten-oppe-pa-manen-turne-2026/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17424-chris-holsten-oppe-pa-manen-turne-2026/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -267,8 +248,8 @@
       "source": "scrape"
     },
     {
-      "id": "scrape-gen-ahske-2026-05-30",
-      "title": "Ahske",
+      "id": "scrape-gen-ashke-2026-05-30",
+      "title": "Ashke",
       "description": "Lørdag. 30. mai\nkl. 19.00",
       "date": "2026-05-30",
       "time": "12:00",
@@ -277,8 +258,8 @@
       "categories": [
         "familie"
       ],
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17913-ahske/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17913-ahske/?ref=hvaSkjerIByenMin",
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17913-ashke/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17913-ashke/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -1413,7 +1394,7 @@
     {
       "id": "scrape-gen-b-rd-tufte-johansen-pr-ver-v-re-positiv-2026-11-27",
       "title": "Bård Tufte Johansen – Prøver å være positiv",
-      "description": "Få billetter igjen",
+      "description": "Fredag. 27. november\nkl. 19.00",
       "date": "2026-11-27",
       "time": "12:00",
       "endTime": null,
@@ -1718,6 +1699,25 @@
       "source": "scrape"
     },
     {
+      "id": "scrape-gen-christel-alsos-til-nord-skal-du-bli-2027-03-12",
+      "title": "Christel Alsos – til Nord skal du bli",
+      "description": "Fredag. 12. mars 2027\nkl. 19.00",
+      "date": "2027-03-12",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17634-christel-alsos-til-nord-skal-du-bli/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17634-christel-alsos-til-nord-skal-du-bli/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
       "id": "scrape-gen-the-johnny-cash-june-carter-show-2027-04-02",
       "title": "The Johnny Cash & June Carter Show",
       "description": "Fredag. 2. april 2027\nkl. 20.00",
@@ -1740,7 +1740,7 @@
   "meta": {
     "city": "lillestrom",
     "count": 91,
-    "fetchedAt": "2026-04-29T07:22:27.519Z",
+    "fetchedAt": "2026-04-30T07:27:08.826Z",
     "sources": {
       "ticketmaster": 1,
       "eventbrite": 0,

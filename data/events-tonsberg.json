@@ -166,7 +166,7 @@
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/midgardsblot-saturday-pass-tickets/1465472998?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/midgardsblot-saturday-pass-tickets/1465472998?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/461/5b441f73-9549-4214-9f1f-0475aae20461_RETINA_LANDSCAPE_16_9.jpg",
+      "imageUrl": "https://s1.ticketm.net/dam/a/461/5b441f73-9549-4214-9f1f-0475aae20461_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -176,7 +176,7 @@
   "meta": {
     "city": "tonsberg",
     "count": 9,
-    "fetchedAt": "2026-04-29T07:22:39.010Z",
+    "fetchedAt": "2026-04-30T07:27:18.606Z",
     "sources": {
       "ticketmaster": 9,
       "eventbrite": 0,

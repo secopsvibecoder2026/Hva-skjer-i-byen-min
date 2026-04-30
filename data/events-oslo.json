@@ -1,26 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z16v0AjyPy",
-      "title": "Francis Rossi",
-      "description": "Arrangement på Sentrum Scene, Oslo",
-      "date": "2026-04-29",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Sentrum Scene, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/francis-rossi-tickets/1905739979?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/francis-rossi-tickets/1905739979?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/968/8cd4a2d9-24c5-48d2-bb92-3544688ae968_SOURCE",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z1k-ZZK8z",
       "title": "Morgan Sulele",
       "description": "Arrangement på Rockefeller, Oslo",
@@ -251,7 +231,7 @@
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/desertfest-oslo-2026-friday-ticket-tickets/840539389?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/desertfest-oslo-2026-friday-ticket-tickets/840539389?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/947/fecf5507-a209-4de0-8468-5d29808ca947_SOURCE",
+      "imageUrl": "https://s1.ticketm.net/dam/e/947/fecf5507-a209-4de0-8468-5d29808ca947_RETINA_LANDSCAPE_16_9.jpg",
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -304,7 +284,8 @@
       "endTime": null,
       "location": "Rockefeller, Oslo",
       "categories": [
-        "konsert"
+        "konsert",
+        "uteliv"
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/rodney-crowell-with-special-guest-kezia-gill-tickets/2071924221?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/rodney-crowell-with-special-guest-kezia-gill-tickets/2071924221?language=en-us&ref=hvaSkjerIByenMin",
@@ -494,7 +475,7 @@
     },
     {
       "id": "tm-LvZ18QhlnMy3qN8ZVDeEP",
-      "title": "Sjømat & Skål – 17. mai på Radisson Blu Park Hotel Fornebu",
+      "title": "17 mai på Radisson Blu Park Hotel Fornebu",
       "description": "Arrangement på Radisson Blu Park Hotel, Lysaker",
       "date": "2026-05-17",
       "time": "12:00",
@@ -503,8 +484,8 @@
       "categories": [
         "konsert"
       ],
-      "ticketUrl": "https://www.universe.com/events/sjomat-skal-17-mai-pa-radisson-blu-park-hotel-fornebu-tickets-3HZTSQ?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/sjomat-skal-17-mai-pa-radisson-blu-park-hotel-fornebu-tickets-3HZTSQ?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "ticketUrl": "https://www.universe.com/events/17-mai-pa-radisson-blu-park-hotel-fornebu-tickets-3HZTSQ?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/17-mai-pa-radisson-blu-park-hotel-fornebu-tickets-3HZTSQ?ref=ticketmaster&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/c/a78/b54d9c27-4ddd-45e5-bc82-7b0a9be05a78_RETINA_PORTRAIT_16_9.jpg",
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -776,11 +757,12 @@
       "endTime": null,
       "location": "Rockefeller, Oslo",
       "categories": [
-        "konsert"
+        "konsert",
+        "uteliv"
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/tinariwen-tickets/1939429261?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/tinariwen-tickets/1939429261?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/c2a/46a65eec-64cd-4458-af6b-1f0bce3d8c2a_SOURCE",
+      "imageUrl": "https://s1.ticketm.net/dam/e/c2a/46a65eec-64cd-4458-af6b-1f0bce3d8c2a_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -789,11 +771,11 @@
     {
       "id": "tm-LvZ18QbcOQG3SxYZwz8NF",
       "title": "Akuvi live in Oslo",
-      "description": "Arrangement på Oslo",
+      "description": "Arrangement på Sentralen, Oslo",
       "date": "2026-05-28",
       "time": "19:00",
       "endTime": null,
-      "location": "Oslo",
+      "location": "Sentralen, Oslo",
       "categories": [
         "konsert"
       ],
@@ -853,8 +835,7 @@
       "endTime": null,
       "location": "Rockefeller, Oslo",
       "categories": [
-        "konsert",
-        "uteliv"
+        "konsert"
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/los-mexicanacas-tickets/455694836?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/los-mexicanacas-tickets/455694836?language=en-us&ref=hvaSkjerIByenMin",
@@ -913,8 +894,7 @@
       "endTime": null,
       "location": "Sentrum Scene, Oslo",
       "categories": [
-        "konsert",
-        "uteliv"
+        "konsert"
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/chance-pena-tickets/1020544023?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/chance-pena-tickets/1020544023?language=en-us&ref=hvaSkjerIByenMin",
@@ -943,12 +923,31 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kj3qsO3",
+      "title": "Tower of Power",
+      "description": "Arrangement på Sentrum Scene, Oslo",
+      "date": "2026-06-04",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Sentrum Scene, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/tower-of-power-tickets/712771812?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/tower-of-power-tickets/712771812?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/e45/a1f32c9f-72b7-41a4-850b-c3e2e3ce3e45_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 48,
-    "fetchedAt": "2026-04-29T07:22:21.498Z",
+    "fetchedAt": "2026-04-30T07:27:02.538Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,

@@ -5,7 +5,7 @@
       "title": "Brad Paisley: Truck Still Works World Tour",
       "description": "Arrangement på Hamar",
       "date": "2026-06-13",
-      "time": "20:00",
+      "time": "17:00",
       "endTime": null,
       "location": "Hamar",
       "categories": [
@@ -14,7 +14,7 @@
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/brad-paisley-truck-still-works-world-tour-tickets/1009070018?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/brad-paisley-truck-still-works-world-tour-tickets/1009070018?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/a79/3021a7b6-9f02-417f-9f63-19be231a7a79_RETINA_LANDSCAPE_16_9.jpg",
+      "imageUrl": "https://s1.ticketm.net/dam/a/a79/3021a7b6-9f02-417f-9f63-19be231a7a79_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -44,7 +44,7 @@
   "meta": {
     "city": "hamar",
     "count": 2,
-    "fetchedAt": "2026-04-29T07:22:37.312Z",
+    "fetchedAt": "2026-04-30T07:27:17.040Z",
     "sources": {
       "ticketmaster": 2,
       "eventbrite": 0,
