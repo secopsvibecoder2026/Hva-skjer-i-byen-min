@@ -1,66 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z1k-ZZK8z",
-      "title": "Morgan Sulele",
-      "description": "Arrangement på Rockefeller, Oslo",
-      "date": "2026-04-30",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Rockefeller, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/morgan-sulele-tickets/840013438?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/morgan-sulele-tickets/840013438?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/062/d471491e-d3c5-4d04-99d5-9768d8446062_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z1kPsj_As",
-      "title": "Ravi - Megabusjdafestkonsært",
-      "description": "Arrangement på Sentrum Scene, Oslo",
-      "date": "2026-04-30",
-      "time": "20:00",
-      "endTime": null,
-      "location": "Sentrum Scene, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/ravi-megabusjdafestkonsaert-tickets/971719171?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/ravi-megabusjdafestkonsaert-tickets/971719171?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/05d/a2c3584c-830d-4371-9cdc-c74f1cdd705d_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z1kJvAY3_",
-      "title": "Room 37",
-      "description": "Arrangement på John Dee, Oslo",
-      "date": "2026-04-30",
-      "time": "23:00",
-      "endTime": null,
-      "location": "John Dee, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/room-37-tickets/981170499?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/room-37-tickets/981170499?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/7b1/444543d2-afdc-474e-acf9-5c6b1fbea7b1_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z16vFfAxjb",
       "title": "Poor Bambi + Sad Chloë | NY DATO!",
       "description": "Arrangement på Vaterland Bar & Scene, Oslo",
@@ -854,8 +794,7 @@
       "endTime": null,
       "location": "Unity Arena, Fornebu",
       "categories": [
-        "konsert",
-        "uteliv"
+        "konsert"
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/empire-of-the-sun-tickets/1642208955?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/empire-of-the-sun-tickets/1642208955?language=en-us&ref=hvaSkjerIByenMin",
@@ -942,12 +881,70 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16v8Af8Fo",
+      "title": "Indiebokfestivalen",
+      "description": "Arrangement på Carls - Arena, Oslo",
+      "date": "2026-06-05",
+      "time": "09:00",
+      "endTime": null,
+      "location": "Carls - Arena, Oslo",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/indiebokfestivalen-tickets/1405510211?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/indiebokfestivalen-tickets/1405510211?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/a2c/78726e92-f6ce-48d3-b5ed-e940faddda2c_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageEmoji": "🎭",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kfZk_k3",
+      "title": "Lakeview",
+      "description": "Arrangement på John Dee, Oslo",
+      "date": "2026-06-05",
+      "time": "19:00",
+      "endTime": null,
+      "location": "John Dee, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/lakeview-tickets/500199192?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/lakeview-tickets/500199192?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/8df/efdad6c5-a4b0-4388-97b5-6d7d0016b8df_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vfMA3b9",
+      "title": "Valentinerne feirer 40 år!",
+      "description": "Arrangement på Rockefeller, Oslo",
+      "date": "2026-06-06",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Rockefeller, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/valentinerne-feirer-40-ar-tickets/1537152617?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/valentinerne-feirer-40-ar-tickets/1537152617?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/d29/fea02c06-9e17-4fe0-bf43-30760bd05d29_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 48,
-    "fetchedAt": "2026-04-30T07:27:02.538Z",
+    "fetchedAt": "2026-05-01T07:24:39.183Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,
