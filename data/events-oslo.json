@@ -1,26 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z16vFfAxjb",
-      "title": "Poor Bambi + Sad Chloë | NY DATO!",
-      "description": "Arrangement på Vaterland Bar & Scene, Oslo",
-      "date": "2026-05-01",
-      "time": "20:00",
-      "endTime": null,
-      "location": "Vaterland Bar & Scene, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/poor-bambi--sad-chloe-%7C-ny-dato-tickets/1214162718?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/poor-bambi--sad-chloe-%7C-ny-dato-tickets/1214162718?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z1kbPFeCe",
       "title": "Spårtsklubben Live",
       "description": "Arrangement på Chateau Neuf,Storsalen, Oslo",
@@ -939,12 +919,32 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18Q_p0MtSJ28Z0BCcN",
+      "title": "Kjöter: Danser med Djevelen // Supp: Stevnemøte",
+      "description": "Arrangement på Oslo",
+      "date": "2026-06-06",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.universe.com/events/kjoter-danser-med-djevelen-supp-stevnemote-tickets-8Q5YRW?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/kjoter-danser-med-djevelen-supp-stevnemote-tickets-8Q5YRW?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://images.universe.com/4af85293-77f1-4003-b1c6-311587b408ce/-/format/jpeg/-/scale_crop/1024x576/center/-/progressive/yes/-/inline/yes/",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 48,
-    "fetchedAt": "2026-05-01T07:24:39.183Z",
+    "fetchedAt": "2026-05-02T07:00:20.421Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,
