@@ -1,65 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z1kbPFeCe",
-      "title": "Spårtsklubben Live",
-      "description": "Arrangement på Chateau Neuf,Storsalen, Oslo",
-      "date": "2026-05-02",
-      "time": "18:00",
-      "endTime": null,
-      "location": "Chateau Neuf,Storsalen, Oslo",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/spartsklubben-live-tickets/625202382?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/spartsklubben-live-tickets/625202382?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/9cc/40442d59-26f2-4cfd-ba96-3dc715b9d9cc_SOURCE",
-      "imageEmoji": "🎭",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16vj34yGE",
-      "title": "Molly Sandén",
-      "description": "Arrangement på Sentrum Scene, Oslo",
-      "date": "2026-05-02",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Sentrum Scene, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/molly-sanden-tickets/1712579327?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/molly-sanden-tickets/1712579327?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/4b8/1d5224b8-7849-4ce8-b042-caccf70834b8_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16vfEa-FA",
-      "title": "Smerz",
-      "description": "Arrangement på Rockefeller, Oslo",
-      "date": "2026-05-02",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Rockefeller, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/smerz-tickets/1527261205?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/smerz-tickets/1527261205?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/65f/b727c4f5-93f7-40bb-98f4-29738b75165f_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z16v3aC60V",
       "title": "Mozarts Store Credo-messe",
       "description": "Arrangement på Oslo domkirke, Oslo",
@@ -939,12 +880,89 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1k84vA4Y",
+      "title": "PINK FLOYD's THE WALL - in concert",
+      "description": "Arrangement på Chateau Neuf,Storsalen, Oslo",
+      "date": "2026-06-07",
+      "time": "16:00",
+      "endTime": null,
+      "location": "Chateau Neuf,Storsalen, Oslo",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/pink-floyds-the-wall-in-concert-tickets/415045570?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/pink-floyds-the-wall-in-concert-tickets/415045570?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/69f/14240c75-b3b9-4ada-926d-9e441fddd69f_SOURCE",
+      "imageEmoji": "🎭",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16eeabpZ0",
+      "title": "Foo Fighters: TAKE COVER TOUR 2026",
+      "description": "Arrangement på Unity Arena, Fornebu",
+      "date": "2026-06-10",
+      "time": "17:30",
+      "endTime": null,
+      "location": "Unity Arena, Fornebu",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/foo-fighters-take-cover-tour-2026-tickets/2089616024?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/foo-fighters-take-cover-tour-2026-tickets/2089616024?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/bc0/8341ed56-92be-4c3a-a4d2-7f1e76f09bc0_SOURCE",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kp3k9Ft",
+      "title": "Vandoliers",
+      "description": "Arrangement på John Dee, Oslo",
+      "date": "2026-06-10",
+      "time": "19:00",
+      "endTime": null,
+      "location": "John Dee, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/vandoliers-tickets/592197229?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/vandoliers-tickets/592197229?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/800/81df9f23-d24c-47f3-a1f6-6c5875ed1800_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18Qf5F72XCJOZSRlqN",
+      "title": "Folkefesten:  BORD Mexico - Sør-Afrika 21:00",
+      "description": "Arrangement på Kadettangen, Sandvika",
+      "date": "2026-06-11",
+      "time": "18:00",
+      "endTime": null,
+      "location": "Kadettangen, Sandvika",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-mexico-sor-afrika-21-00-tickets-XMV1FN?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-mexico-sor-afrika-21-00-tickets-XMV1FN?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "⚽",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
-    "count": 48,
-    "fetchedAt": "2026-05-02T07:00:20.421Z",
+    "count": 49,
+    "fetchedAt": "2026-05-03T07:17:08.150Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,
