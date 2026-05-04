@@ -9,8 +9,7 @@
       "endTime": null,
       "location": "Tønsberg",
       "categories": [
-        "konsert",
-        "uteliv"
+        "konsert"
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/festivalpass-med-natten-slottsfjell-2026-tickets/1809575327?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/festivalpass-med-natten-slottsfjell-2026-tickets/1809575327?language=en-us&ref=hvaSkjerIByenMin",
@@ -177,7 +176,7 @@
   "meta": {
     "city": "tonsberg",
     "count": 9,
-    "fetchedAt": "2026-05-03T07:17:30.254Z",
+    "fetchedAt": "2026-05-04T07:46:48.391Z",
     "sources": {
       "ticketmaster": 9,
       "eventbrite": 0,
