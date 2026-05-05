@@ -1,25 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z16vGavx0f",
-      "title": "Randall King",
-      "description": "Arrangement på Rockefeller, Oslo",
-      "date": "2026-05-04",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Rockefeller, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/randall-king-tickets/1309062914?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/randall-king-tickets/1309062914?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/8f7/b300955a-b11b-4f2c-93b5-ee6a698bc8f7_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z1kjJQ9uJ",
       "title": "Standup: Jørgen EP & Javad El Bakali",
       "description": "Arrangement på Chateau Neuf,Storsalen, Oslo",
@@ -854,7 +835,7 @@
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/pink-floyds-the-wall-in-concert-tickets/415045570?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/pink-floyds-the-wall-in-concert-tickets/415045570?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/69f/14240c75-b3b9-4ada-926d-9e441fddd69f_SOURCE",
+      "imageUrl": "https://s1.ticketm.net/dam/e/0af/49be214f-f6a1-4d0d-97ce-39f170f590af_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "imageEmoji": "🎭",
       "sponsored": false,
       "featured": false,
@@ -955,12 +936,31 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18QfGCWReJIZZweIHC",
+      "title": "Folkefesten:  FAST TRACK Canada vs Ita/Nir/Wal/Bih 21:00",
+      "description": "Arrangement på Kadettangen, Sandvika",
+      "date": "2026-06-12",
+      "time": "18:00",
+      "endTime": null,
+      "location": "Kadettangen, Sandvika",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/folkefesten-fast-track-canada-vs-ita-nir-wal-bih-21-00-tickets-89BPCQ?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/folkefesten-fast-track-canada-vs-ita-nir-wal-bih-21-00-tickets-89BPCQ?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "⚽",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 49,
-    "fetchedAt": "2026-05-04T07:46:33.827Z",
+    "fetchedAt": "2026-05-05T07:16:19.122Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,
