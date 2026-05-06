@@ -13,7 +13,7 @@
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/countryfesten-2026-tickets/1548605397?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/countryfesten-2026-tickets/1548605397?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/ecc/4b79a8e9-33ac-4023-bec9-01e666aa2ecc_RETINA_PORTRAIT_16_9.jpg",
+      "imageUrl": "https://s1.ticketm.net/dam/e/ecc/4b79a8e9-33ac-4023-bec9-01e666aa2ecc_RETINA_LANDSCAPE_16_9.jpg",
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -23,7 +23,7 @@
   "meta": {
     "city": "stavanger",
     "count": 1,
-    "fetchedAt": "2026-05-05T07:16:23.183Z",
+    "fetchedAt": "2026-05-06T07:38:47.528Z",
     "sources": {
       "ticketmaster": 1,
       "eventbrite": 0,

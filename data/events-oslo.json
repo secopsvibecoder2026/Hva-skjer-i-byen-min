@@ -48,7 +48,8 @@
       "endTime": null,
       "location": "Rockefeller, Oslo",
       "categories": [
-        "konsert"
+        "konsert",
+        "uteliv"
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/desertfest-oslo-2026-lordagspass-9mai-tickets/1406112352?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/desertfest-oslo-2026-lordagspass-9mai-tickets/1406112352?language=en-us&ref=hvaSkjerIByenMin",
@@ -106,13 +107,12 @@
       "endTime": null,
       "location": "Kampen Kirke, Oslo, Oslo",
       "categories": [
-        "konsert",
         "familie"
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/masterwork-recital-chopin-grieg-recital-tickets/1059067191?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/masterwork-recital-chopin-grieg-recital-tickets/1059067191?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/a/426/de51a23a-e20c-4ec2-91d3-3a13d3c87426_SOURCE",
-      "imageEmoji": "🎵",
+      "imageEmoji": "🎭",
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
@@ -784,6 +784,25 @@
       "source": "ticketmaster"
     },
     {
+      "id": "tm-Z698xZb_Z1k8VfU4E",
+      "title": "Smingel Jubileumsfest for single",
+      "description": "Arrangement på Carls, Oslo",
+      "date": "2026-06-06",
+      "time": "00:00",
+      "endTime": null,
+      "location": "Carls, Oslo",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/smingel-jubileumsfest-for-single-tickets/434536567?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/smingel-jubileumsfest-for-single-tickets/434536567?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/96a/f6c28ac7-0e0d-49c3-8580-ffbee063796a_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageEmoji": "🎭",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
       "id": "tm-Z698xZb_Z16vfMA3b9",
       "title": "Valentinerne feirer 40 år!",
       "description": "Arrangement på Rockefeller, Oslo",
@@ -824,7 +843,7 @@
     },
     {
       "id": "tm-Z698xZb_Z1k84vA4Y",
-      "title": "PINK FLOYD's THE WALL - in concert",
+      "title": "NEXT vol. 7 med Quick Style Studio",
       "description": "Arrangement på Chateau Neuf,Storsalen, Oslo",
       "date": "2026-06-07",
       "time": "16:00",
@@ -833,8 +852,8 @@
       "categories": [
         "familie"
       ],
-      "ticketUrl": "https://www.ticketmaster.no/event/pink-floyds-the-wall-in-concert-tickets/415045570?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/pink-floyds-the-wall-in-concert-tickets/415045570?language=en-us&ref=hvaSkjerIByenMin",
+      "ticketUrl": "https://www.ticketmaster.no/event/next-vol-7-med-quick-style-studio-tickets/415045570?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/next-vol-7-med-quick-style-studio-tickets/415045570?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/e/0af/49be214f-f6a1-4d0d-97ce-39f170f590af_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "imageEmoji": "🎭",
       "sponsored": false,
@@ -850,7 +869,8 @@
       "endTime": null,
       "location": "Unity Arena, Fornebu",
       "categories": [
-        "konsert"
+        "konsert",
+        "uteliv"
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/foo-fighters-take-cover-tour-2026-tickets/2089616024?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/foo-fighters-take-cover-tour-2026-tickets/2089616024?language=en-us&ref=hvaSkjerIByenMin",
@@ -936,31 +956,12 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18QfGCWReJIZZweIHC",
-      "title": "Folkefesten:  FAST TRACK Canada vs Ita/Nir/Wal/Bih 21:00",
-      "description": "Arrangement på Kadettangen, Sandvika",
-      "date": "2026-06-12",
-      "time": "18:00",
-      "endTime": null,
-      "location": "Kadettangen, Sandvika",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/folkefesten-fast-track-canada-vs-ita-nir-wal-bih-21-00-tickets-89BPCQ?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/folkefesten-fast-track-canada-vs-ita-nir-wal-bih-21-00-tickets-89BPCQ?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 49,
-    "fetchedAt": "2026-05-05T07:16:19.122Z",
+    "fetchedAt": "2026-05-06T07:38:43.579Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,
