@@ -1,11 +1,31 @@
 {
-  "events": [],
+  "events": [
+    {
+      "id": "tm-Z698xZb_Z16v8A_73o",
+      "title": "Pellygata Poporkester - Hafslundsøy Musikkorps - KULÅS",
+      "description": "Arrangement på Kulåsparken, Sarpsborg",
+      "date": "2026-06-06",
+      "time": "18:00",
+      "endTime": null,
+      "location": "Kulåsparken, Sarpsborg",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/pellygata-poporkester-hafslundsoy-musikkorps-kulas-tickets/1405644491?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/pellygata-poporkester-hafslundsoy-musikkorps-kulas-tickets/1405644491?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/69e/9ca1df7d-2649-4659-b1e6-ed2e32f0d69e_SOURCE",
+      "imageEmoji": "🎭",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    }
+  ],
   "meta": {
     "city": "fredrikstad",
-    "count": 0,
-    "fetchedAt": "2026-03-28T20:24:20.344Z",
+    "count": 1,
+    "fetchedAt": "2026-05-07T07:41:42.626Z",
     "sources": {
-      "ticketmaster": 0,
+      "ticketmaster": 1,
       "eventbrite": 0,
       "scrape": 0
     }

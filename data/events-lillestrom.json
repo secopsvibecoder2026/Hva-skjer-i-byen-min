@@ -23,7 +23,7 @@
       "id": "scrape-gen-gi-bort-en-opplevelse--",
       "title": "Gi bort en opplevelse!",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-05-07",
+      "date": "2026-05-08",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -42,7 +42,7 @@
       "id": "scrape-gen-last-ned-v-r-app-",
       "title": "Last ned vår app",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-05-07",
+      "date": "2026-05-08",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -61,7 +61,7 @@
       "id": "scrape-gen-se-hva-som-skjer-17-mai-",
       "title": "Se hva som skjer 17.mai",
       "description": "Arrangement i visitgreateroslo.com",
-      "date": "2026-05-07",
+      "date": "2026-05-08",
       "time": "12:00",
       "endTime": null,
       "location": "visitgreateroslo.com",
@@ -80,7 +80,7 @@
       "id": "scrape-gen-shopping-g-rdsbutikker-og-sm-byliv-p-rom-",
       "title": "Shopping, gårdsbutikker og småbyliv på Romerike",
       "description": "Arrangement i visitgreateroslo.com",
-      "date": "2026-05-07",
+      "date": "2026-05-08",
       "time": "12:00",
       "endTime": null,
       "location": "visitgreateroslo.com",
@@ -99,7 +99,7 @@
       "id": "scrape-gen-sykkel-og-turtips-p-romerike-",
       "title": "Sykkel og turtips på Romerike",
       "description": "Arrangement i visitgreateroslo.com",
-      "date": "2026-05-07",
+      "date": "2026-05-08",
       "time": "12:00",
       "endTime": null,
       "location": "visitgreateroslo.com",
@@ -841,6 +841,25 @@
       "source": "scrape"
     },
     {
+      "id": "scrape-gen-halvor-johansson-det-er-lov-pr-ve-seg-2026-10-09",
+      "title": "Halvor Johansson – Det er lov å prøve seg",
+      "description": "Fredag. 9. oktober\nkl. 19.00",
+      "date": "2026-10-09",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17876-halvor-johansson-det-er-lov-a-prove-seg/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17876-halvor-johansson-det-er-lov-a-prove-seg/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
       "id": "scrape-gen-teigens-tropper-med-anita-skorgan-2026-10-09",
       "title": "Teigens tropper med Anita Skorgan",
       "description": "Fredag. 9. oktober\nkl. 19.00",
@@ -1316,6 +1335,25 @@
       "source": "scrape"
     },
     {
+      "id": "scrape-gen-dance-with-a-stranger-2026-11-19",
+      "title": "Dance with a Stranger",
+      "description": "Torsdag. 19. november\nkl. 20.00",
+      "date": "2026-11-19",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17678-dance-with-a-stranger/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17678-dance-with-a-stranger/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
       "id": "scrape-gen-bj-rn-bjarte-den-t-ffe-og-den-sarte-2026-11-20",
       "title": "Bjørn & Bjarte – den tøffe og den sarte",
       "description": "Fredag. 20. november\nkl. 19.00",
@@ -1758,12 +1796,12 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 92,
-    "fetchedAt": "2026-05-06T07:38:50.990Z",
+    "count": 94,
+    "fetchedAt": "2026-05-07T07:41:38.488Z",
     "sources": {
       "ticketmaster": 1,
       "eventbrite": 0,
-      "scrape": 94
+      "scrape": 96
     }
   }
 }
