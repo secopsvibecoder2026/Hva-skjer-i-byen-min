@@ -18,14 +18,33 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18QLlBSGQzmYvGvNLw",
+      "title": "Dragsug presenterer: Humorhavari 2 i FREDRIKSTAD",
+      "description": "Arrangement på St. Harry, Fredrikstad",
+      "date": "2026-07-03",
+      "time": "19:00",
+      "endTime": null,
+      "location": "St. Harry, Fredrikstad",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.universe.com/events/dragsug-presenterer-humorhavari-2-i-fredrikstad-tickets-1S8WZT?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/dragsug-presenterer-humorhavari-2-i-fredrikstad-tickets-1S8WZT?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎭",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "fredrikstad",
-    "count": 1,
-    "fetchedAt": "2026-05-07T07:41:42.626Z",
+    "count": 2,
+    "fetchedAt": "2026-05-08T06:51:20.544Z",
     "sources": {
-      "ticketmaster": 1,
+      "ticketmaster": 2,
       "eventbrite": 0,
       "scrape": 0
     }
