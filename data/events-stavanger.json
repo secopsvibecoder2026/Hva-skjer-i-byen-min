@@ -5,7 +5,7 @@
       "title": "Countryfesten 2026",
       "description": "Arrangement på Stavanger",
       "date": "2026-05-23",
-      "time": "19:00",
+      "time": "18:00",
       "endTime": null,
       "location": "Stavanger",
       "categories": [
@@ -23,7 +23,7 @@
   "meta": {
     "city": "stavanger",
     "count": 1,
-    "fetchedAt": "2026-05-08T06:51:11.249Z",
+    "fetchedAt": "2026-05-09T07:06:03.790Z",
     "sources": {
       "ticketmaster": 1,
       "eventbrite": 0,

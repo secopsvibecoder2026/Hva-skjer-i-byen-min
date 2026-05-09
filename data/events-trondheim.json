@@ -58,14 +58,33 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16v1fGvFt",
+      "title": "Westlife 25: The Anniversary World Tour",
+      "description": "Arrangement på Trondheim",
+      "date": "2027-06-20",
+      "time": "18:00",
+      "endTime": null,
+      "location": "Trondheim",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/westlife-25-the-anniversary-world-tour-tickets/1294301229?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/westlife-25-the-anniversary-world-tour-tickets/1294301229?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/78c/07626348-f909-4270-af8d-3c8ecbfd378c_TABLET_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎭",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "trondheim",
-    "count": 3,
-    "fetchedAt": "2026-05-08T06:51:09.005Z",
+    "count": 4,
+    "fetchedAt": "2026-05-09T07:06:00.843Z",
     "sources": {
-      "ticketmaster": 3,
+      "ticketmaster": 4,
       "eventbrite": 0,
       "scrape": 0
     }
