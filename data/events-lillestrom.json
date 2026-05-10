@@ -1,25 +1,6 @@
 {
   "events": [
     {
-      "id": "scrape-gen-jazzkaf-christiania-12-2026-05-09",
-      "title": "Jazzkafé – Christiania 12",
-      "description": "Lørdag. 9. mai\nkl. 13.00",
-      "date": "2026-05-09",
-      "time": "12:00",
-      "endTime": null,
-      "location": "lillestrom-kultursenter.no",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16886-jazzkafe-christiania-12/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16886-jazzkafe-christiania-12/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
       "id": "scrape-gen-norsk-ballettinstitutt-30-r-med-dansegle-2026-05-10",
       "title": "Norsk Ballettinstitutt – 30 år med danseglede",
       "description": "Få billetter igjen",
@@ -42,7 +23,7 @@
       "id": "scrape-gen-gi-bort-en-opplevelse--",
       "title": "Gi bort en opplevelse!",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-05-10",
+      "date": "2026-05-11",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -61,7 +42,7 @@
       "id": "scrape-gen-last-ned-v-r-app-",
       "title": "Last ned vår app",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-05-10",
+      "date": "2026-05-11",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -80,7 +61,7 @@
       "id": "scrape-gen-se-hva-som-skjer-17-mai-",
       "title": "Se hva som skjer 17.mai",
       "description": "Arrangement i visitgreateroslo.com",
-      "date": "2026-05-10",
+      "date": "2026-05-11",
       "time": "12:00",
       "endTime": null,
       "location": "visitgreateroslo.com",
@@ -99,7 +80,7 @@
       "id": "scrape-gen-shopping-g-rdsbutikker-og-sm-byliv-p-rom-",
       "title": "Shopping, gårdsbutikker og småbyliv på Romerike",
       "description": "Arrangement i visitgreateroslo.com",
-      "date": "2026-05-10",
+      "date": "2026-05-11",
       "time": "12:00",
       "endTime": null,
       "location": "visitgreateroslo.com",
@@ -118,7 +99,7 @@
       "id": "scrape-gen-sykkel-og-turtips-p-romerike-",
       "title": "Sykkel og turtips på Romerike",
       "description": "Arrangement i visitgreateroslo.com",
-      "date": "2026-05-10",
+      "date": "2026-05-11",
       "time": "12:00",
       "endTime": null,
       "location": "visitgreateroslo.com",
@@ -1280,7 +1261,7 @@
     {
       "id": "scrape-gen-jonas-fjeld-setter-bagen-fra-seg-2026-11-13",
       "title": "Jonas Fjeld setter bagen fra seg",
-      "description": "Fredag. 13. november\nkl. 19.00",
+      "description": "Få billetter igjen",
       "date": "2026-11-13",
       "time": "12:00",
       "endTime": null,
@@ -1815,12 +1796,12 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 95,
-    "fetchedAt": "2026-05-09T07:06:07.204Z",
+    "count": 94,
+    "fetchedAt": "2026-05-10T07:24:53.727Z",
     "sources": {
       "ticketmaster": 1,
       "eventbrite": 0,
-      "scrape": 97
+      "scrape": 96
     }
   }
 }

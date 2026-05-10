@@ -1,26 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z16v8k73u3",
-      "title": "Desertfest Oslo 2026 - Lørdagspass 9.mai",
-      "description": "Arrangement på Rockefeller, Oslo",
-      "date": "2026-05-09",
-      "time": "15:30",
-      "endTime": null,
-      "location": "Rockefeller, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/desertfest-oslo-2026-lordagspass-9mai-tickets/1406112352?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/desertfest-oslo-2026-lordagspass-9mai-tickets/1406112352?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/76f/0116a63e-02e3-4847-8add-01948f97c76f_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z16v7U74-3",
       "title": "Art Show",
       "description": "Arrangement på Chateau Neuf,Storsalen, Oslo",
@@ -955,12 +935,32 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vC4Z9aV",
+      "title": "The Mary Wallopers",
+      "description": "Arrangement på Rockefeller, Oslo",
+      "date": "2026-06-12",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Rockefeller, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/the-mary-wallopers-tickets/1395017274?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/the-mary-wallopers-tickets/1395017274?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/4c9/51e68521-6868-4c8a-abf5-debe53d024c9_SOURCE",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 49,
-    "fetchedAt": "2026-05-09T07:05:58.842Z",
+    "fetchedAt": "2026-05-10T07:24:45.023Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,
