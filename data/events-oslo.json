@@ -1,64 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z16v7U74-3",
-      "title": "Art Show",
-      "description": "Arrangement på Chateau Neuf,Storsalen, Oslo",
-      "date": "2026-05-10",
-      "time": "14:30",
-      "endTime": null,
-      "location": "Chateau Neuf,Storsalen, Oslo",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/art-show-tickets/1136115852?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/art-show-tickets/1136115852?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/a95/03c0f9a5-90a5-44dd-867f-7d858bc08a95_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎭",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16evs00F-",
-      "title": "Rodney Crowell with special guest Kezia Gill",
-      "description": "Arrangement på Rockefeller, Oslo",
-      "date": "2026-05-10",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Rockefeller, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/rodney-crowell-with-special-guest-kezia-gill-tickets/2071924221?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/rodney-crowell-with-special-guest-kezia-gill-tickets/2071924221?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/177/83266946-b33d-4720-ae01-782277f36177_SOURCE",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16vv_vEko",
-      "title": "Masterwork recital - Chopin/Grieg recital",
-      "description": "Arrangement på Kampen Kirke, Oslo, Oslo",
-      "date": "2026-05-10",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Kampen Kirke, Oslo, Oslo",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/masterwork-recital-chopin-grieg-recital-tickets/1059067191?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/masterwork-recital-chopin-grieg-recital-tickets/1059067191?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/426/de51a23a-e20c-4ec2-91d3-3a13d3c87426_SOURCE",
-      "imageEmoji": "🎭",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z1krKAdG8",
       "title": "Art Show",
       "description": "Arrangement på Chateau Neuf,Storsalen, Oslo",
@@ -955,12 +897,89 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18QK35TBlcnOZlsGbC",
+      "title": "Fotball VM på Lekter´n | Canada - Italia / Uefa PO A*",
+      "description": "Arrangement på Lekter´n, Oslo",
+      "date": "2026-06-12",
+      "time": "21:00",
+      "endTime": null,
+      "location": "Lekter´n, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/fotball-vm-pa-lekter-n-canada-italia-uefa-po-a-tickets-TBW251?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/fotball-vm-pa-lekter-n-canada-italia-uefa-po-a-tickets-TBW251?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "⚽",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kJffEZY",
+      "title": "Wardruna - Nordic Night at Grefsenkollen, Oslo",
+      "description": "Arrangement på Oslo",
+      "date": "2026-06-13",
+      "time": "16:00",
+      "endTime": null,
+      "location": "Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/wardruna-nordic-night-at-grefsenkollen-oslo-tickets/994527030?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/wardruna-nordic-night-at-grefsenkollen-oslo-tickets/994527030?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/2e3/e0c6cbe1-ab88-44fd-82c2-8128fdf982e3_SOURCE",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18QfG8MXs1FZZ0uzIl",
+      "title": "Folkefesten:  BORD Qatar vs Sveits 21:00",
+      "description": "Arrangement på Kadettangen, Sandvika",
+      "date": "2026-06-13",
+      "time": "18:00",
+      "endTime": null,
+      "location": "Kadettangen, Sandvika",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-qatar-vs-sveits-21-00-tickets-KM0TFL?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-qatar-vs-sveits-21-00-tickets-KM0TFL?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "⚽",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vjd70Ag",
+      "title": "Extreme",
+      "description": "Arrangement på Sentrum Scene, Oslo",
+      "date": "2026-06-13",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Sentrum Scene, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/extreme-tickets/1703124175?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/extreme-tickets/1703124175?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/9f1/57f233b6-f6fb-4021-8d0f-0bd3f80b19f1_TABLET_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
-    "count": 49,
-    "fetchedAt": "2026-05-10T07:24:45.023Z",
+    "count": 50,
+    "fetchedAt": "2026-05-11T08:23:19.415Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,
