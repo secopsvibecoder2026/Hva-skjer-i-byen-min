@@ -23,7 +23,7 @@
       "id": "scrape-gen-gi-bort-en-opplevelse--",
       "title": "Gi bort en opplevelse!",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-05-12",
+      "date": "2026-05-13",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -42,7 +42,7 @@
       "id": "scrape-gen-last-ned-v-r-app-",
       "title": "Last ned vår app",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-05-12",
+      "date": "2026-05-13",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -61,7 +61,7 @@
       "id": "scrape-gen-se-hva-som-skjer-17-mai-",
       "title": "Se hva som skjer 17.mai",
       "description": "Arrangement i visitgreateroslo.com",
-      "date": "2026-05-12",
+      "date": "2026-05-13",
       "time": "12:00",
       "endTime": null,
       "location": "visitgreateroslo.com",
@@ -80,7 +80,7 @@
       "id": "scrape-gen-shopping-g-rdsbutikker-og-sm-byliv-p-rom-",
       "title": "Shopping, gårdsbutikker og småbyliv på Romerike",
       "description": "Arrangement i visitgreateroslo.com",
-      "date": "2026-05-12",
+      "date": "2026-05-13",
       "time": "12:00",
       "endTime": null,
       "location": "visitgreateroslo.com",
@@ -99,7 +99,7 @@
       "id": "scrape-gen-sykkel-og-turtips-p-romerike-",
       "title": "Sykkel og turtips på Romerike",
       "description": "Arrangement i visitgreateroslo.com",
-      "date": "2026-05-12",
+      "date": "2026-05-13",
       "time": "12:00",
       "endTime": null,
       "location": "visitgreateroslo.com",
@@ -777,6 +777,25 @@
       ],
       "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17694-hvorfor-det/",
       "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17694-hvorfor-det/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-jeg-hater-endring-et-musikalsk-foredrag--2026-10-08",
+      "title": "Jeg hater endring! – Et musikalsk foredrag med Erik Simensen",
+      "description": "Torsdag. 8. oktober\nkl. 19.30",
+      "date": "2026-10-08",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17939-jeg-hater-endring-et-musikalsk-foredrag-med-erik-simensen/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17939-jeg-hater-endring-et-musikalsk-foredrag-med-erik-simensen/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -1777,12 +1796,12 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 93,
-    "fetchedAt": "2026-05-11T08:23:28.021Z",
+    "count": 94,
+    "fetchedAt": "2026-05-12T07:41:30.011Z",
     "sources": {
       "ticketmaster": 1,
       "eventbrite": 0,
-      "scrape": 95
+      "scrape": 96
     }
   }
 }

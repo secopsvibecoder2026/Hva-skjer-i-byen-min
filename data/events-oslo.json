@@ -1,45 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z1krKAdG8",
-      "title": "Art Show",
-      "description": "Arrangement på Chateau Neuf,Storsalen, Oslo",
-      "date": "2026-05-11",
-      "time": "18:00",
-      "endTime": null,
-      "location": "Chateau Neuf,Storsalen, Oslo",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/art-show-tickets/793143310?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/art-show-tickets/793143310?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/6f3/f1bacb3a-e45c-45c9-864c-fe339b0bd6f3_SOURCE",
-      "imageEmoji": "🎭",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z1k4_Ffjg",
-      "title": "Bob Wayne",
-      "description": "Arrangement på John Dee, Oslo",
-      "date": "2026-05-11",
-      "time": "19:00",
-      "endTime": null,
-      "location": "John Dee, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/bob-wayne-tickets/559214735?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/bob-wayne-tickets/559214735?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/e39/52991619-8c33-4aca-aa97-749aaee3fe39_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z1k44utvb",
       "title": "Art Show",
       "description": "Arrangement på Chateau Neuf,Storsalen, Oslo",
@@ -147,8 +108,7 @@
       "endTime": null,
       "location": "John Dee, Oslo",
       "categories": [
-        "konsert",
-        "uteliv"
+        "konsert"
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/willi-carlisle-tickets/753058541?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/willi-carlisle-tickets/753058541?language=en-us&ref=hvaSkjerIByenMin",
@@ -520,7 +480,8 @@
       "endTime": null,
       "location": "Rockefeller, Oslo",
       "categories": [
-        "konsert"
+        "konsert",
+        "uteliv"
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/los-mexicanacas-tickets/455694836?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/los-mexicanacas-tickets/455694836?language=en-us&ref=hvaSkjerIByenMin",
@@ -578,7 +539,8 @@
       "endTime": null,
       "location": "Sentrum Scene, Oslo",
       "categories": [
-        "konsert"
+        "konsert",
+        "uteliv"
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/chance-pena-tickets/1020544023?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/chance-pena-tickets/1020544023?language=en-us&ref=hvaSkjerIByenMin",
@@ -698,7 +660,7 @@
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/valentinerne-feirer-40-ar-tickets/1537152617?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/valentinerne-feirer-40-ar-tickets/1537152617?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/d29/fea02c06-9e17-4fe0-bf43-30760bd05d29_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageUrl": "https://s1.ticketm.net/dam/e/d29/fea02c06-9e17-4fe0-bf43-30760bd05d29_RETINA_LANDSCAPE_16_9.jpg",
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -974,12 +936,51 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vx30_1K",
+      "title": "André Rieu",
+      "description": "Arrangement på Unity Arena, Fornebu",
+      "date": "2026-06-13",
+      "time": "19:30",
+      "endTime": null,
+      "location": "Unity Arena, Fornebu",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/andre-rieu-tickets/1892919293?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/andre-rieu-tickets/1892919293?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/ca7/33bc0a00-4387-4752-865a-14a6251ebca7_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18QK3Gff-nj8ZllHG8",
+      "title": "Fotball VM på Lekter´n | Qatar - Sveits",
+      "description": "Arrangement på Lekter´n, Oslo",
+      "date": "2026-06-13",
+      "time": "21:00",
+      "endTime": null,
+      "location": "Lekter´n, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/fotball-vm-pa-lekter-n-qatar-sveits-tickets-PRGJW7?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/fotball-vm-pa-lekter-n-qatar-sveits-tickets-PRGJW7?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "⚽",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 50,
-    "fetchedAt": "2026-05-11T08:23:19.415Z",
+    "fetchedAt": "2026-05-12T07:41:23.738Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,
