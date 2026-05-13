@@ -1,25 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z1k44utvb",
-      "title": "Art Show",
-      "description": "Arrangement på Chateau Neuf,Storsalen, Oslo",
-      "date": "2026-05-12",
-      "time": "18:00",
-      "endTime": null,
-      "location": "Chateau Neuf,Storsalen, Oslo",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/art-show-tickets/555369058?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/art-show-tickets/555369058?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/d0e/e1b72644-cf76-4fdf-a5bf-aca46457dd0e_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎭",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z1k1ZfSAN",
       "title": "LANY: soft world tour",
       "description": "Arrangement på Sentrum Scene, Oslo",
@@ -766,7 +747,7 @@
     },
     {
       "id": "tm-LvZ18QfGZbnSaWOZl9GOs",
-      "title": "Folkefesten:  FAST TRACK Mexico - Sør-Afrika 21:00",
+      "title": "Folkefesten: Mexico vs Sør-Afrika - 21:00 (FAST TRACK)",
       "description": "Arrangement på Kadettangen, Sandvika",
       "date": "2026-06-11",
       "time": "18:00",
@@ -775,8 +756,8 @@
       "categories": [
         "konsert"
       ],
-      "ticketUrl": "https://www.universe.com/events/folkefesten-fast-track-mexico-sor-afrika-21-00-tickets-QJ2YCF?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/folkefesten-fast-track-mexico-sor-afrika-21-00-tickets-QJ2YCF?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "ticketUrl": "https://www.universe.com/events/folkefesten-mexico-vs-sor-afrika-21-00-fast-track-tickets-QJ2YCF?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/folkefesten-mexico-vs-sor-afrika-21-00-fast-track-tickets-QJ2YCF?ref=ticketmaster&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
       "imageEmoji": "⚽",
       "sponsored": false,
@@ -785,7 +766,7 @@
     },
     {
       "id": "tm-LvZ18QK8zrnlcnOZlsFI3",
-      "title": "Fotball VM på Lekter´n | Mexico - Sør-Afrika",
+      "title": "Åpnignsfest + Mexico - Sør-Afrika",
       "description": "Arrangement på Lekter´n, Oslo",
       "date": "2026-06-11",
       "time": "21:00",
@@ -794,8 +775,8 @@
       "categories": [
         "konsert"
       ],
-      "ticketUrl": "https://www.universe.com/events/fotball-vm-pa-lekter-n-mexico-sor-afrika-tickets-1HNMQP?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/fotball-vm-pa-lekter-n-mexico-sor-afrika-tickets-1HNMQP?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "ticketUrl": "https://www.universe.com/events/apnignsfest-mexico-sor-afrika-tickets-1HNMQP?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/apnignsfest-mexico-sor-afrika-tickets-1HNMQP?ref=ticketmaster&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
       "imageEmoji": "⚽",
       "sponsored": false,
@@ -804,7 +785,7 @@
     },
     {
       "id": "tm-LvZ18QfGCWReJIZZweIHC",
-      "title": "Folkefesten:  FAST TRACK Canada vs Bosnia & Herzegovina 21:00",
+      "title": "Folkefesten: Canada vs Bosnia & Herzegovina - 21:00 (FAST TRACK)",
       "description": "Arrangement på Kadettangen, Sandvika",
       "date": "2026-06-12",
       "time": "18:00",
@@ -813,8 +794,8 @@
       "categories": [
         "konsert"
       ],
-      "ticketUrl": "https://www.universe.com/events/folkefesten-fast-track-canada-vs-bosnia-herzegovina-21-00-tickets-89BPCQ?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/folkefesten-fast-track-canada-vs-bosnia-herzegovina-21-00-tickets-89BPCQ?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "ticketUrl": "https://www.universe.com/events/folkefesten-canada-vs-bosnia-herzegovina-21-00-fast-track-tickets-89BPCQ?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/folkefesten-canada-vs-bosnia-herzegovina-21-00-fast-track-tickets-89BPCQ?ref=ticketmaster&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
       "imageEmoji": "⚽",
       "sponsored": false,
@@ -862,7 +843,7 @@
     },
     {
       "id": "tm-LvZ18QK35TBlcnOZlsGbC",
-      "title": "Fotball VM på Lekter´n | Canada - Italia / Uefa PO A*",
+      "title": "Canada - Bosnia-Hercegovina",
       "description": "Arrangement på Lekter´n, Oslo",
       "date": "2026-06-12",
       "time": "21:00",
@@ -871,8 +852,8 @@
       "categories": [
         "konsert"
       ],
-      "ticketUrl": "https://www.universe.com/events/fotball-vm-pa-lekter-n-canada-italia-uefa-po-a-tickets-TBW251?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/fotball-vm-pa-lekter-n-canada-italia-uefa-po-a-tickets-TBW251?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "ticketUrl": "https://www.universe.com/events/canada-bosnia-hercegovina-tickets-TBW251?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/canada-bosnia-hercegovina-tickets-TBW251?ref=ticketmaster&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
       "imageEmoji": "⚽",
       "sponsored": false,
@@ -959,7 +940,7 @@
     },
     {
       "id": "tm-LvZ18QK3Gff-nj8ZllHG8",
-      "title": "Fotball VM på Lekter´n | Qatar - Sveits",
+      "title": "Qatar - Sveits + Brasil - Marokko",
       "description": "Arrangement på Lekter´n, Oslo",
       "date": "2026-06-13",
       "time": "21:00",
@@ -968,8 +949,27 @@
       "categories": [
         "konsert"
       ],
-      "ticketUrl": "https://www.universe.com/events/fotball-vm-pa-lekter-n-qatar-sveits-tickets-PRGJW7?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/fotball-vm-pa-lekter-n-qatar-sveits-tickets-PRGJW7?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "ticketUrl": "https://www.universe.com/events/qatar-sveits-brasil-marokko-tickets-PRGJW7?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/qatar-sveits-brasil-marokko-tickets-PRGJW7?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "⚽",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18QfGKlZ6sNZZw8v3A",
+      "title": "Folkefesten: Brasil vs Marokko - 00:00 (FAST TRACK)",
+      "description": "Arrangement på Kadettangen, Sandvika",
+      "date": "2026-06-13",
+      "time": "23:00",
+      "endTime": null,
+      "location": "Kadettangen, Sandvika",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/folkefesten-brasil-vs-marokko-00-00-fast-track-tickets-G9HR5V?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/folkefesten-brasil-vs-marokko-00-00-fast-track-tickets-G9HR5V?ref=ticketmaster&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
       "imageEmoji": "⚽",
       "sponsored": false,
@@ -980,7 +980,7 @@
   "meta": {
     "city": "oslo",
     "count": 50,
-    "fetchedAt": "2026-05-12T07:41:23.738Z",
+    "fetchedAt": "2026-05-13T07:48:36.350Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,
