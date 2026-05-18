@@ -1,25 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-LvZ18QhlnMy3qN8ZVDeEP",
-      "title": "17 mai på Radisson Blu Park Hotel Fornebu",
-      "description": "Arrangement på Radisson Blu Park Hotel, Lysaker",
-      "date": "2026-05-17",
-      "time": "12:00",
-      "endTime": null,
-      "location": "Radisson Blu Park Hotel, Lysaker",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/17-mai-pa-radisson-blu-park-hotel-fornebu-tickets-3HZTSQ?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/17-mai-pa-radisson-blu-park-hotel-fornebu-tickets-3HZTSQ?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/a78/b54d9c27-4ddd-45e5-bc82-7b0a9be05a78_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z16vuS0p78",
       "title": "Acid King",
       "description": "Arrangement på John Dee, Oslo",
@@ -970,12 +951,31 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18QfGbIu-pzYZyl79j",
+      "title": "Folkefesten:  BORD Nederland vs Japan 22:00",
+      "description": "Arrangement på Kadettangen, Sandvika",
+      "date": "2026-06-14",
+      "time": "21:30",
+      "endTime": null,
+      "location": "Kadettangen, Sandvika",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-nederland-vs-japan-22-00-tickets-KJRTF1?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-nederland-vs-japan-22-00-tickets-KJRTF1?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "⚽",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 50,
-    "fetchedAt": "2026-05-17T07:32:40.063Z",
+    "fetchedAt": "2026-05-18T08:43:17.960Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,

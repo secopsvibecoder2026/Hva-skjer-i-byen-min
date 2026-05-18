@@ -1,26 +1,6 @@
 {
   "events": [
     {
-      "id": "eidsvoll-4",
-      "title": "17. mai feiring – Eidsvoll 2026",
-      "description": "Bli med på Eidsvoll sin store 17. mai-feiring! Tog, musikk, taler og folkefest. Eidsvoll er Grunnlovens fødested – feiringen her er ekstra spesiell.",
-      "date": "2026-05-17",
-      "time": "09:00",
-      "endTime": "18:00",
-      "location": "Sentrum, Eidsvoll",
-      "categories": [
-        "familie",
-        "gratis"
-      ],
-      "ticketUrl": null,
-      "affiliateUrl": null,
-      "imageUrl": null,
-      "imageEmoji": "🇳🇴",
-      "sponsored": false,
-      "featured": false,
-      "source": "local"
-    },
-    {
       "id": "eidsvoll-5",
       "title": "Sommermarked på Eidsvoll torg",
       "description": "Lokale håndverkere, bønder og kunstnere samles på torget. Fersk lokalmat, blomster, håndverk og hygge. Gratis inngang.",
@@ -43,8 +23,8 @@
   ],
   "meta": {
     "city": "eidsvoll",
-    "count": 2,
-    "fetchedAt": "2026-04-27T07:33:39.527Z",
+    "count": 1,
+    "fetchedAt": "2026-05-18T08:43:22.153Z",
     "sources": {
       "ticketmaster": 0,
       "eventbrite": 0,
