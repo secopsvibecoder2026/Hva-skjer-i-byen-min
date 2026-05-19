@@ -47,7 +47,8 @@
       "endTime": null,
       "location": "Midgard Vikingsenter, Horten",
       "categories": [
-        "konsert"
+        "konsert",
+        "uteliv"
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/camp-ticket-camp-utgard-all-days-midgardsblot-metalfestival-2026-tickets/1903771037?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/camp-ticket-camp-utgard-all-days-midgardsblot-metalfestival-2026-tickets/1903771037?language=en-us&ref=hvaSkjerIByenMin",
@@ -66,11 +67,12 @@
       "endTime": null,
       "location": "Midgard Vikingsenter, Horten",
       "categories": [
-        "konsert"
+        "konsert",
+        "uteliv"
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/tent-ticket-camp-utgard-midgardsblot-metalfestival-2026-tickets/1141182064?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/tent-ticket-camp-utgard-midgardsblot-metalfestival-2026-tickets/1141182064?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/461/5b441f73-9549-4214-9f1f-0475aae20461_RETINA_LANDSCAPE_16_9.jpg",
+      "imageUrl": "https://s1.ticketm.net/dam/a/461/5b441f73-9549-4214-9f1f-0475aae20461_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -195,7 +197,7 @@
   "meta": {
     "city": "tonsberg",
     "count": 10,
-    "fetchedAt": "2026-05-18T08:43:34.142Z",
+    "fetchedAt": "2026-05-19T08:26:46.135Z",
     "sources": {
       "ticketmaster": 10,
       "eventbrite": 0,
