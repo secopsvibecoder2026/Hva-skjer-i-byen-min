@@ -4,7 +4,7 @@
       "id": "scrape-gen-gi-bort-en-opplevelse--",
       "title": "Gi bort en opplevelse!",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-05-20",
+      "date": "2026-05-21",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -23,7 +23,7 @@
       "id": "scrape-gen-last-ned-v-r-app-",
       "title": "Last ned vår app",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-05-20",
+      "date": "2026-05-21",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -42,7 +42,7 @@
       "id": "scrape-gen-badeplasser-og-sv-mmehaller-p-romerike-",
       "title": "Badeplasser og svømmehaller på Romerike",
       "description": "Arrangement i visitgreateroslo.com",
-      "date": "2026-05-20",
+      "date": "2026-05-21",
       "time": "12:00",
       "endTime": null,
       "location": "visitgreateroslo.com",
@@ -61,7 +61,7 @@
       "id": "scrape-gen-shopping-g-rdsbutikker-og-sm-byliv-p-rom-",
       "title": "Shopping, gårdsbutikker og småbyliv på Romerike",
       "description": "Arrangement i visitgreateroslo.com",
-      "date": "2026-05-20",
+      "date": "2026-05-21",
       "time": "12:00",
       "endTime": null,
       "location": "visitgreateroslo.com",
@@ -80,7 +80,7 @@
       "id": "scrape-gen-sykkel-og-turtips-p-romerike-",
       "title": "Sykkel og turtips på Romerike",
       "description": "Arrangement i visitgreateroslo.com",
-      "date": "2026-05-20",
+      "date": "2026-05-21",
       "time": "12:00",
       "endTime": null,
       "location": "visitgreateroslo.com",
@@ -1259,6 +1259,25 @@
       "source": "scrape"
     },
     {
+      "id": "scrape-gen-p-gravens-rand-med-rigmor-galtung-2026-11-13",
+      "title": "På gravens rand – med Rigmor Galtung",
+      "description": "Fredag. 13. november\nkl. 19.30",
+      "date": "2026-11-13",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/18004-pa-gravens-rand-med-rigmor-galtung/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/18004-pa-gravens-rand-med-rigmor-galtung/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
       "id": "scrape-gen-the-magic-of-alexx-alexxander-2-0-2026-11-14",
       "title": "The Magic of Alexx Alexxander 2.0",
       "description": "Lørdag. 14. november\nkl. 19.00",
@@ -1451,7 +1470,7 @@
     {
       "id": "scrape-gen-avantgarde-med-espen-abrahamsen-2026-12-04",
       "title": "Avantgarde med Espen Abrahamsen",
-      "description": "Få billetter igjen",
+      "description": "Fredag. 4. desember\nkl. 19.00",
       "date": "2026-12-04",
       "time": "12:00",
       "endTime": null,
@@ -1777,12 +1796,12 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 93,
-    "fetchedAt": "2026-05-19T08:26:37.399Z",
+    "count": 94,
+    "fetchedAt": "2026-05-20T08:25:08.682Z",
     "sources": {
       "ticketmaster": 1,
       "eventbrite": 0,
-      "scrape": 95
+      "scrape": 96
     }
   }
 }

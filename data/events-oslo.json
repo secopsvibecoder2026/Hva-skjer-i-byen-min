@@ -314,6 +314,25 @@
       "source": "ticketmaster"
     },
     {
+      "id": "tm-LvZ18QOsS2eaEDOZ0DzK9",
+      "title": "CL Finale - PSG vs Arsenal",
+      "description": "Arrangement på Lekter´n, Oslo",
+      "date": "2026-05-30",
+      "time": "17:00",
+      "endTime": null,
+      "location": "Lekter´n, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/cl-finale-psg-vs-arsenal-tickets-M0WPT4?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/cl-finale-psg-vs-arsenal-tickets-M0WPT4?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://images.universe.com/0d544854-c1b0-4a47-8d18-4bd780675c26/-/format/jpeg/-/scale_crop/1024x576/center/-/progressive/yes/-/inline/yes/",
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
       "id": "tm-Z698xZb_Z16vOIvFkF",
       "title": "Gazpacho",
       "description": "Arrangement på John Dee, Oslo",
@@ -362,12 +381,32 @@
       "endTime": null,
       "location": "Unity Arena, Fornebu",
       "categories": [
-        "konsert"
+        "konsert",
+        "uteliv"
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/empire-of-the-sun-tickets/1642208955?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/empire-of-the-sun-tickets/1642208955?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/a/763/242af1a3-8726-4111-b2a9-2d87c8689763_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18QOsMhvWeGYZ0mjiE",
+      "title": "Norge - Sverige",
+      "description": "Arrangement på Lekter´n, Oslo",
+      "date": "2026-06-01",
+      "time": "18:00",
+      "endTime": null,
+      "location": "Lekter´n, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/norge-sverige-tickets-ZST5R1?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/norge-sverige-tickets-ZST5R1?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://images.universe.com/0d544854-c1b0-4a47-8d18-4bd780675c26/-/format/jpeg/-/scale_crop/1024x576/center/-/progressive/yes/-/inline/yes/",
+      "imageEmoji": "🎪",
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
@@ -568,6 +607,25 @@
       "source": "ticketmaster"
     },
     {
+      "id": "tm-LvZ18QOsz5sXUxZZ0JmAe",
+      "title": "Norge - Marokko",
+      "description": "Arrangement på Lekter´n, Oslo",
+      "date": "2026-06-07",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Lekter´n, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/norge-marokko-tickets-T68CKG?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/norge-marokko-tickets-T68CKG?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://images.universe.com/0d544854-c1b0-4a47-8d18-4bd780675c26/-/format/jpeg/-/scale_crop/1024x576/center/-/progressive/yes/-/inline/yes/",
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
       "id": "tm-Z698xZb_Z16eeabpZ0",
       "title": "Foo Fighters: TAKE COVER TOUR 2026",
       "description": "Arrangement på Unity Arena, Fornebu",
@@ -647,7 +705,7 @@
     },
     {
       "id": "tm-LvZ18QK8zrnlcnOZlsFI3",
-      "title": "Åpnignsfest + Mexico - Sør-Afrika",
+      "title": "Åpningsfest og Mexico vs Sør-Afrika",
       "description": "Arrangement på Lekter´n, Oslo",
       "date": "2026-06-11",
       "time": "21:00",
@@ -656,8 +714,8 @@
       "categories": [
         "konsert"
       ],
-      "ticketUrl": "https://www.universe.com/events/apnignsfest-mexico-sor-afrika-tickets-1HNMQP?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/apnignsfest-mexico-sor-afrika-tickets-1HNMQP?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "ticketUrl": "https://www.universe.com/events/apningsfest-og-mexico-vs-sor-afrika-tickets-1HNMQP?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/apningsfest-og-mexico-vs-sor-afrika-tickets-1HNMQP?ref=ticketmaster&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
       "imageEmoji": "⚽",
       "sponsored": false,
@@ -913,69 +971,12 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18QKQ9-NnSCOZ0zOCR",
-      "title": "Tyskland - Curaçao + Nederland - Japan",
-      "description": "Arrangement på Lekter´n, Oslo",
-      "date": "2026-06-14",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Lekter´n, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/tyskland-curacao-nederland-japan-tickets-864BSR?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/tyskland-curacao-nederland-japan-tickets-864BSR?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18QfG_naqiEOZyj6kW",
-      "title": "Folkefesten: Nederland vs Japan - 22:00 (FAST TRACK)",
-      "description": "Arrangement på Kadettangen, Sandvika",
-      "date": "2026-06-14",
-      "time": "21:30",
-      "endTime": null,
-      "location": "Kadettangen, Sandvika",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/folkefesten-nederland-vs-japan-22-00-fast-track-tickets-C9L62R?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/folkefesten-nederland-vs-japan-22-00-fast-track-tickets-C9L62R?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18QfGbIu-pzYZyl79j",
-      "title": "Folkefesten:  BORD Nederland vs Japan 22:00",
-      "description": "Arrangement på Kadettangen, Sandvika",
-      "date": "2026-06-14",
-      "time": "21:30",
-      "endTime": null,
-      "location": "Kadettangen, Sandvika",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-nederland-vs-japan-22-00-tickets-KJRTF1?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-nederland-vs-japan-22-00-tickets-KJRTF1?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 50,
-    "fetchedAt": "2026-05-19T08:26:32.234Z",
+    "fetchedAt": "2026-05-20T08:25:01.034Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,
