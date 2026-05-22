@@ -1,25 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z1kaV7Ze6",
-      "title": "Kristian Valen - Fartøy Valen, Siste Seilas",
-      "description": "Arrangement på Chateau Neuf,Storsalen, Oslo",
-      "date": "2026-05-21",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Chateau Neuf,Storsalen, Oslo",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/kristian-valen-fartoy-valen-siste-seilas-tickets/274100087?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/kristian-valen-fartoy-valen-siste-seilas-tickets/274100087?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/a27/b8741fc2-495c-4a88-a1cd-be7bf15f0a27_TABLET_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎭",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z1kJau4eb",
       "title": "Joey Valence & Brae",
       "description": "Arrangement på Sentrum Scene, Oslo",
@@ -321,8 +302,7 @@
       "endTime": null,
       "location": "Rockefeller, Oslo",
       "categories": [
-        "konsert",
-        "uteliv"
+        "konsert"
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/los-mexicanacas-tickets/455694836?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/los-mexicanacas-tickets/455694836?language=en-us&ref=hvaSkjerIByenMin",
@@ -341,7 +321,8 @@
       "endTime": null,
       "location": "Unity Arena, Fornebu",
       "categories": [
-        "konsert"
+        "konsert",
+        "uteliv"
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/empire-of-the-sun-tickets/1642208955?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/empire-of-the-sun-tickets/1642208955?language=en-us&ref=hvaSkjerIByenMin",
@@ -626,7 +607,7 @@
     },
     {
       "id": "tm-LvZ18Qf5F72XCJOZSRlqN",
-      "title": "Folkefesten: BORD til Mexico vs Sør-Afrika (21:00) + Alex Rosén Show 19:00",
+      "title": "Folkefesten: BORD til VM-åpningen + Alex Rosén Show",
       "description": "Arrangement på Kadettangen, Sandvika",
       "date": "2026-06-11",
       "time": "18:00",
@@ -635,8 +616,8 @@
       "categories": [
         "konsert"
       ],
-      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-til-mexico-vs-sor-afrika-21-00-alex-rosen-show-19-00-tickets-XMV1FN?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-til-mexico-vs-sor-afrika-21-00-alex-rosen-show-19-00-tickets-XMV1FN?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-til-vm-apningen-alex-rosen-show-tickets-XMV1FN?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-til-vm-apningen-alex-rosen-show-tickets-XMV1FN?ref=ticketmaster&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
       "imageEmoji": "⚽",
       "sponsored": false,
@@ -968,12 +949,31 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18QfGbIu-pzYZyl79j",
+      "title": "Folkefesten:  BORD Nederland vs Japan 22:00",
+      "description": "Arrangement på Kadettangen, Sandvika",
+      "date": "2026-06-14",
+      "time": "21:30",
+      "endTime": null,
+      "location": "Kadettangen, Sandvika",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-nederland-vs-japan-22-00-tickets-KJRTF1?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-nederland-vs-japan-22-00-tickets-KJRTF1?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "⚽",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 50,
-    "fetchedAt": "2026-05-21T08:31:11.146Z",
+    "fetchedAt": "2026-05-22T08:20:51.331Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,

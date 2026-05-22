@@ -4,7 +4,7 @@
       "id": "scrape-gen-gi-bort-en-opplevelse--",
       "title": "Gi bort en opplevelse!",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-05-22",
+      "date": "2026-05-23",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -23,7 +23,7 @@
       "id": "scrape-gen-last-ned-v-r-app-",
       "title": "Last ned vår app",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-05-22",
+      "date": "2026-05-23",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -42,7 +42,7 @@
       "id": "scrape-gen-badeplasser-og-sv-mmehaller-p-romerike-",
       "title": "Badeplasser og svømmehaller på Romerike",
       "description": "Arrangement i visitgreateroslo.com",
-      "date": "2026-05-22",
+      "date": "2026-05-23",
       "time": "12:00",
       "endTime": null,
       "location": "visitgreateroslo.com",
@@ -61,7 +61,7 @@
       "id": "scrape-gen-shopping-g-rdsbutikker-og-sm-byliv-p-rom-",
       "title": "Shopping, gårdsbutikker og småbyliv på Romerike",
       "description": "Arrangement i visitgreateroslo.com",
-      "date": "2026-05-22",
+      "date": "2026-05-23",
       "time": "12:00",
       "endTime": null,
       "location": "visitgreateroslo.com",
@@ -80,7 +80,7 @@
       "id": "scrape-gen-sykkel-og-turtips-p-romerike-",
       "title": "Sykkel og turtips på Romerike",
       "description": "Arrangement i visitgreateroslo.com",
-      "date": "2026-05-22",
+      "date": "2026-05-23",
       "time": "12:00",
       "endTime": null,
       "location": "visitgreateroslo.com",
@@ -432,6 +432,25 @@
       ],
       "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17617-are-sende-osen-vikingtiden-fra-aaaah-til-aaaah/",
       "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17617-are-sende-osen-vikingtiden-fra-aaaah-til-aaaah/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-oppskrift-p-ekstase-med-anne-lindmo-og-n-2026-09-10",
+      "title": "Oppskrift på ekstase med Anne Lindmo og Nina Brockmann",
+      "description": "Torsdag. 10. september\nkl. 19.00",
+      "date": "2026-09-10",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17917-oppskrift-pa-ekstase-med-anne-lindmo-og-nina-brockmann/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17917-oppskrift-pa-ekstase-med-anne-lindmo-og-nina-brockmann/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -1373,6 +1392,25 @@
       "source": "scrape"
     },
     {
+      "id": "scrape-gen-anders-jektvik-2026-11-20",
+      "title": "Anders Jektvik",
+      "description": "Fredag. 20. november\nkl. 20.00",
+      "date": "2026-11-20",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17711-anders-jektvik/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17711-anders-jektvik/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
       "id": "scrape-gen-en-annerledes-jul-med-fat-fred-the-possu-2026-11-21",
       "title": "En annerledes jul med Fat Fred & The Possumhunters",
       "description": "Lørdag. 21. november\nkl. 19.00",
@@ -1815,12 +1853,12 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 95,
-    "fetchedAt": "2026-05-21T08:31:16.995Z",
+    "count": 97,
+    "fetchedAt": "2026-05-22T08:20:57.194Z",
     "sources": {
       "ticketmaster": 1,
       "eventbrite": 0,
-      "scrape": 97
+      "scrape": 99
     }
   }
 }
