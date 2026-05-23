@@ -3,11 +3,11 @@
     {
       "id": "tm-Z698xZb_Z16vZavYZb",
       "title": "Brad Paisley: Truck Still Works World Tour",
-      "description": "Arrangement på Hamar",
+      "description": "Arrangement på Utenfor Vikingskipet, Hamar",
       "date": "2026-06-13",
       "time": "17:00",
       "endTime": null,
-      "location": "Hamar",
+      "location": "Utenfor Vikingskipet, Hamar",
       "categories": [
         "konsert",
         "uteliv"
@@ -44,7 +44,7 @@
   "meta": {
     "city": "hamar",
     "count": 2,
-    "fetchedAt": "2026-05-22T08:21:07.511Z",
+    "fetchedAt": "2026-05-23T07:30:47.149Z",
     "sources": {
       "ticketmaster": 2,
       "eventbrite": 0,

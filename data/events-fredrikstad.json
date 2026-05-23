@@ -37,14 +37,33 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kq-Avxd",
+      "title": "Pellygata Poporkester - Hafslundsøy Musikkorps - KULÅS",
+      "description": "Arrangement på Hotel Fredrikstad, Fredrikstad",
+      "date": "2026-08-15",
+      "time": "21:00",
+      "endTime": null,
+      "location": "Hotel Fredrikstad, Fredrikstad",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/pellygata-poporkester-hafslundsoy-musikkorps-kulas-tickets/761141883?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/pellygata-poporkester-hafslundsoy-musikkorps-kulas-tickets/761141883?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/9f8/2b444e1c-f911-4e96-980e-3090e9b0e9f8_SOURCE",
+      "imageEmoji": "🎭",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "fredrikstad",
-    "count": 2,
-    "fetchedAt": "2026-05-22T08:21:04.006Z",
+    "count": 3,
+    "fetchedAt": "2026-05-23T07:30:42.734Z",
     "sources": {
-      "ticketmaster": 2,
+      "ticketmaster": 3,
       "eventbrite": 0,
       "scrape": 0
     }
