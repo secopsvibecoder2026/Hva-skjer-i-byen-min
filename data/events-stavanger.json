@@ -1,29 +1,9 @@
 {
-  "events": [
-    {
-      "id": "tm-Z698xZb_Z16v4FbAC9",
-      "title": "VÅRENS VILLESTE COUNTRYFEST 2026",
-      "description": "Arrangement på Stavanger",
-      "date": "2026-05-23",
-      "time": "18:00",
-      "endTime": null,
-      "location": "Stavanger",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/varens-villeste-countryfest-2026-tickets/1548605397?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/varens-villeste-countryfest-2026-tickets/1548605397?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/ecc/4b79a8e9-33ac-4023-bec9-01e666aa2ecc_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    }
-  ],
+  "events": [],
   "meta": {
     "city": "stavanger",
-    "count": 1,
-    "fetchedAt": "2026-05-23T07:30:32.381Z",
+    "count": 0,
+    "fetchedAt": "2026-05-24T07:48:24.208Z",
     "sources": {
       "ticketmaster": 1,
       "eventbrite": 0,

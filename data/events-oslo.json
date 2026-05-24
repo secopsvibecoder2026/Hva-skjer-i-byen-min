@@ -1,64 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z16vp7GPaI",
-      "title": "Organ recital on the Eve of Pentecost",
-      "description": "Arrangement på Oslo domkirke, Oslo",
-      "date": "2026-05-23",
-      "time": "12:00",
-      "endTime": null,
-      "location": "Oslo domkirke, Oslo",
-      "categories": [
-        "konsert",
-        "familie"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/organ-recital-on-the-eve-of-pentecost-tickets/1584325268?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/organ-recital-on-the-eve-of-pentecost-tickets/1584325268?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/c08/cce91f4d-9af7-4a37-910b-af25bde18c08_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16vGxb08E",
-      "title": "Kristian Valen - Fartøy Valen, Siste Seilas",
-      "description": "Arrangement på Chateau Neuf,Storsalen, Oslo",
-      "date": "2026-05-23",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Chateau Neuf,Storsalen, Oslo",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/kristian-valen-fartoy-valen-siste-seilas-tickets/1322624427?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/kristian-valen-fartoy-valen-siste-seilas-tickets/1322624427?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/a27/b8741fc2-495c-4a88-a1cd-be7bf15f0a27_TABLET_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎭",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16vbyqd4x",
-      "title": "Conan Gray: Wishbone World Tour ",
-      "description": "Arrangement på Unity Arena, Fornebu",
-      "date": "2026-05-23",
-      "time": "20:30",
-      "endTime": null,
-      "location": "Unity Arena, Fornebu",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/conan-gray-wishbone-world-tour-tickets/1639743562?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/conan-gray-wishbone-world-tour-tickets/1639743562?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/8af/684b812e-6e96-4f60-b99e-5ca3e20188af_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎭",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z1kfPPZGg",
       "title": "Natalie Imbruglia",
       "description": "Arrangement på Sentrum Scene, Oslo",
@@ -965,12 +907,69 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18QfGrs7uDsOZw_xwp",
+      "title": "Folkefesten:  BORD Frankrike vs Senegal 21:00",
+      "description": "Arrangement på Kadettangen, Sandvika",
+      "date": "2026-06-16",
+      "time": "16:00",
+      "endTime": null,
+      "location": "Kadettangen, Sandvika",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-frankrike-vs-senegal-21-00-tickets-BRCV2Y?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-frankrike-vs-senegal-21-00-tickets-BRCV2Y?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "⚽",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18QfGLpZtFj8Z0EMNM",
+      "title": "Folkefesten: BORD Norge vs Irak (17. juni kl 00:01)",
+      "description": "Arrangement på Kadettangen, Sandvika",
+      "date": "2026-06-16",
+      "time": "23:30",
+      "endTime": null,
+      "location": "Kadettangen, Sandvika",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-norge-vs-irak-17-juni-kl-00-01-tickets-T2GNXP?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-norge-vs-irak-17-juni-kl-00-01-tickets-T2GNXP?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "⚽",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18QK389izA0OZ0ZgqV",
+      "title": "Norge - Irak + Frankrike - Senegal",
+      "description": "Arrangement på Lekter´n, Oslo",
+      "date": "2026-06-17",
+      "time": "00:00",
+      "endTime": null,
+      "location": "Lekter´n, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/norge-irak-frankrike-senegal-tickets-RSGQL9?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/norge-irak-frankrike-senegal-tickets-RSGQL9?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "⚽",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 50,
-    "fetchedAt": "2026-05-23T07:30:27.821Z",
+    "fetchedAt": "2026-05-24T07:48:20.615Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,
