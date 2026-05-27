@@ -184,8 +184,7 @@
       "endTime": null,
       "location": "Unity Arena, Fornebu",
       "categories": [
-        "konsert",
-        "uteliv"
+        "konsert"
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/empire-of-the-sun-tickets/1642208955?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/empire-of-the-sun-tickets/1642208955?language=en-us&ref=hvaSkjerIByenMin",
@@ -969,7 +968,7 @@
   "meta": {
     "city": "oslo",
     "count": 50,
-    "fetchedAt": "2026-05-26T08:30:30.604Z",
+    "fetchedAt": "2026-05-27T08:37:39.761Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,

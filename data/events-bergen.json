@@ -410,6 +410,26 @@
       "source": "ticketmaster"
     },
     {
+      "id": "tm-Z698xZb_Z16evAQ9jM",
+      "title": "Tundra and Lightning 2026 - Friday Pass",
+      "description": "Arrangement på Bergen",
+      "date": "2026-10-02",
+      "time": "00:00",
+      "endTime": null,
+      "location": "Bergen",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/tundra-and-lightning-2026-friday-pass-tickets/2045697737?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/tundra-and-lightning-2026-friday-pass-tickets/2045697737?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/25c/40d9adf2-f6a6-4002-93dc-803c7cd6625c_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
       "id": "tm-Z698xZb_Z16v43aw7P",
       "title": "Tundra and Lightning 2026",
       "description": "Arrangement på Bergen",
@@ -427,14 +447,34 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kxaqPaw",
+      "title": "Tundra and Lightning 2026 - Saturday Pass",
+      "description": "Arrangement på Bergen",
+      "date": "2026-10-03",
+      "time": "00:00",
+      "endTime": null,
+      "location": "Bergen",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/tundra-and-lightning-2026-saturday-pass-tickets/889765272?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/tundra-and-lightning-2026-saturday-pass-tickets/889765272?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/25c/40d9adf2-f6a6-4002-93dc-803c7cd6625c_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "bergen",
-    "count": 22,
-    "fetchedAt": "2026-05-26T08:30:29.315Z",
+    "count": 24,
+    "fetchedAt": "2026-05-27T08:37:39.248Z",
     "sources": {
-      "ticketmaster": 24,
+      "ticketmaster": 26,
       "eventbrite": 0,
       "scrape": 0
     }
