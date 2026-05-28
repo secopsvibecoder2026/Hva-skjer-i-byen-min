@@ -372,6 +372,25 @@
       "source": "ticketmaster"
     },
     {
+      "id": "tm-Z698xZb_Z16vPPPpAv",
+      "title": "Beyond the Gates Experience: Black metal landmarks with Tore Bratseth",
+      "description": "Arrangement på Bergen",
+      "date": "2026-08-01",
+      "time": "11:00",
+      "endTime": null,
+      "location": "Bergen",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/beyond-the-gates-experience-black-metal-landmarks-with-tore-bratseth-tickets/1965956141?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/beyond-the-gates-experience-black-metal-landmarks-with-tore-bratseth-tickets/1965956141?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/aef/0a51cec7-c1ad-4ecc-81cf-882cf2dd5aef_TABLET_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
       "id": "tm-Z698xZb_Z16v7g-SoP",
       "title": "Beyond the Gates Experience: A guided tour of Grieghallen with Pytten",
       "description": "Arrangement på Bergen",
@@ -423,7 +442,7 @@
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/tundra-and-lightning-2026-friday-pass-tickets/2045697737?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/tundra-and-lightning-2026-friday-pass-tickets/2045697737?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/25c/40d9adf2-f6a6-4002-93dc-803c7cd6625c_RETINA_LANDSCAPE_16_9.jpg",
+      "imageUrl": "https://s1.ticketm.net/dam/a/6fd/9e9e302b-0f50-4236-8cee-2420f80af6fd_RETINA_LANDSCAPE_16_9.jpg",
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -442,7 +461,7 @@
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/tundra-and-lightning-2026-tickets/1552272125?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/tundra-and-lightning-2026-tickets/1552272125?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/25c/40d9adf2-f6a6-4002-93dc-803c7cd6625c_RETINA_LANDSCAPE_16_9.jpg",
+      "imageUrl": "https://s1.ticketm.net/dam/a/6fd/9e9e302b-0f50-4236-8cee-2420f80af6fd_RETINA_LANDSCAPE_16_9.jpg",
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -462,7 +481,7 @@
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/tundra-and-lightning-2026-saturday-pass-tickets/889765272?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/tundra-and-lightning-2026-saturday-pass-tickets/889765272?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/25c/40d9adf2-f6a6-4002-93dc-803c7cd6625c_RETINA_LANDSCAPE_16_9.jpg",
+      "imageUrl": "https://s1.ticketm.net/dam/a/6fd/9e9e302b-0f50-4236-8cee-2420f80af6fd_RETINA_LANDSCAPE_16_9.jpg",
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -471,10 +490,10 @@
   ],
   "meta": {
     "city": "bergen",
-    "count": 24,
-    "fetchedAt": "2026-05-27T08:37:39.248Z",
+    "count": 25,
+    "fetchedAt": "2026-05-28T08:41:14.999Z",
     "sources": {
-      "ticketmaster": 26,
+      "ticketmaster": 27,
       "eventbrite": 0,
       "scrape": 0
     }

@@ -39,14 +39,52 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16v_VZM_a",
+      "title": "Oktoberfest Hamar 2025 | FREDAG",
+      "description": "Arrangement på Vikingskipet, Hamar",
+      "date": "2026-10-09",
+      "time": "17:00",
+      "endTime": null,
+      "location": "Vikingskipet, Hamar",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/oktoberfest-hamar-2025-%7C-fredag-tickets/1674037649?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/oktoberfest-hamar-2025-%7C-fredag-tickets/1674037649?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/950/a5438b79-8462-4304-96fa-b21e59c5c950_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vqwjFa4",
+      "title": "Oktoberfest Hamar 2025 | FREDAG",
+      "description": "Arrangement på Vikingskipet, Hamar",
+      "date": "2026-10-10",
+      "time": "16:00",
+      "endTime": null,
+      "location": "Vikingskipet, Hamar",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/oktoberfest-hamar-2025-%7C-fredag-tickets/1772708255?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/oktoberfest-hamar-2025-%7C-fredag-tickets/1772708255?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/950/a5438b79-8462-4304-96fa-b21e59c5c950_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "hamar",
-    "count": 2,
-    "fetchedAt": "2026-05-27T08:37:53.632Z",
+    "count": 4,
+    "fetchedAt": "2026-05-28T08:41:31.994Z",
     "sources": {
-      "ticketmaster": 2,
+      "ticketmaster": 5,
       "eventbrite": 0,
       "scrape": 0
     }

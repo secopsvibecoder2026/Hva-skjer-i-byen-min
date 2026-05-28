@@ -3,7 +3,7 @@
     {
       "id": "scrape-gen-john-hammersmark-det-kan-alltid-bli-verr-2026-05-28",
       "title": "John Hammersmark – Det kan alltid bli verre",
-      "description": "Utsolgt",
+      "description": "Få billetter igjen",
       "date": "2026-05-28",
       "time": "12:00",
       "endTime": null,
@@ -23,7 +23,7 @@
       "id": "scrape-gen-gi-bort-en-opplevelse--",
       "title": "Gi bort en opplevelse!",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-05-28",
+      "date": "2026-05-29",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -42,7 +42,7 @@
       "id": "scrape-gen-last-ned-v-r-app-",
       "title": "Last ned vår app",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-05-28",
+      "date": "2026-05-29",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -61,7 +61,7 @@
       "id": "scrape-gen-badeplasser-og-sv-mmehaller-p-romerike-",
       "title": "Badeplasser og svømmehaller på Romerike",
       "description": "Arrangement i visitgreateroslo.com",
-      "date": "2026-05-28",
+      "date": "2026-05-29",
       "time": "12:00",
       "endTime": null,
       "location": "visitgreateroslo.com",
@@ -80,7 +80,7 @@
       "id": "scrape-gen-shopping-g-rdsbutikker-og-sm-byliv-p-rom-",
       "title": "Shopping, gårdsbutikker og småbyliv på Romerike",
       "description": "Arrangement i visitgreateroslo.com",
-      "date": "2026-05-28",
+      "date": "2026-05-29",
       "time": "12:00",
       "endTime": null,
       "location": "visitgreateroslo.com",
@@ -99,7 +99,7 @@
       "id": "scrape-gen-sykkel-og-turtips-p-romerike-",
       "title": "Sykkel og turtips på Romerike",
       "description": "Arrangement i visitgreateroslo.com",
-      "date": "2026-05-28",
+      "date": "2026-05-29",
       "time": "12:00",
       "endTime": null,
       "location": "visitgreateroslo.com",
@@ -439,25 +439,6 @@
       "source": "scrape"
     },
     {
-      "id": "scrape-gen-oppskrift-p-ekstase-med-anne-lindmo-og-n-2026-09-10",
-      "title": "Oppskrift på ekstase med Anne Lindmo og Nina Brochmann",
-      "description": "Torsdag. 10. september\nkl. 19.00",
-      "date": "2026-09-10",
-      "time": "12:00",
-      "endTime": null,
-      "location": "lillestrom-kultursenter.no",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17917-oppskrift-pa-ekstase-med-anne-lindmo-og-nina-brochmann/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17917-oppskrift-pa-ekstase-med-anne-lindmo-og-nina-brochmann/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
       "id": "scrape-gen-adam-douglas-2026-09-10",
       "title": "Adam Douglas",
       "description": "Torsdag. 10. september\nkl. 19.00",
@@ -470,6 +451,25 @@
       ],
       "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17581-adam-douglas/",
       "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17581-adam-douglas/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-oppskrift-p-ekstase-med-anne-lindmo-og-n-2026-09-10",
+      "title": "Oppskrift på ekstase med Anne Lindmo og Nina Brochmann",
+      "description": "Torsdag. 10. september\nkl. 19.00",
+      "date": "2026-09-10",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17917-oppskrift-pa-ekstase-med-anne-lindmo-og-nina-brochmann/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17917-oppskrift-pa-ekstase-med-anne-lindmo-og-nina-brochmann/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -1487,6 +1487,25 @@
       "source": "scrape"
     },
     {
+      "id": "scrape-gen-jul-med-elvis-en-varm-og-stemningsfull-j-2026-11-28",
+      "title": "Jul med Elvis – en varm og stemningsfull julekonsert",
+      "description": "Lørdag. 28. november\nkl. 20.00",
+      "date": "2026-11-28",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17615-jul-med-elvis-en-varm-og-stemningsfull-julekonsert/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17615-jul-med-elvis-en-varm-og-stemningsfull-julekonsert/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
       "id": "scrape-gen-jul-med-pr-ysen-2026-11-29",
       "title": "Jul med Prøysen",
       "description": "Søndag. 29. november\nkl. 15.00",
@@ -1853,12 +1872,12 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 97,
-    "fetchedAt": "2026-05-27T08:37:45.803Z",
+    "count": 98,
+    "fetchedAt": "2026-05-28T08:41:23.670Z",
     "sources": {
       "ticketmaster": 1,
       "eventbrite": 0,
-      "scrape": 99
+      "scrape": 100
     }
   }
 }
