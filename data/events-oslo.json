@@ -1,84 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z1kfPPZGg",
-      "title": "Natalie Imbruglia",
-      "description": "Arrangement på Sentrum Scene, Oslo",
-      "date": "2026-05-28",
-      "time": "00:00",
-      "endTime": null,
-      "location": "Sentrum Scene, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/natalie-imbruglia-tickets/525940335?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/natalie-imbruglia-tickets/525940335?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/b9c/a945a31d-d2af-47d3-b3c5-6bfe3fec7b9c_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18QhtVPiYShZZHbSEf",
-      "title": "HUSETFESTIVALEN 2026",
-      "description": "Arrangement på Kadettangen, Sandvika",
-      "date": "2026-05-28",
-      "time": "17:00",
-      "endTime": null,
-      "location": "Kadettangen, Sandvika",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/husetfestivalen-2026-tickets-SNRWK7?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/husetfestivalen-2026-tickets-SNRWK7?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16v0fOJFd",
-      "title": "Gents",
-      "description": "Arrangement på John Dee, Oslo",
-      "date": "2026-05-28",
-      "time": "19:00",
-      "endTime": null,
-      "location": "John Dee, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/gents-tickets/1914826203?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/gents-tickets/1914826203?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/f40/7162b94b-ff4e-4567-a233-f5035d5b5f40_SOURCE",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18QbcOQG3SxYZwz8NF",
-      "title": "Akuvi live in Oslo",
-      "description": "Arrangement på Sentralen, Oslo",
-      "date": "2026-05-28",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Sentralen, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/akuvi-live-in-oslo-tickets-GSV8LC?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/akuvi-live-in-oslo-tickets-GSV8LC?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/48b/2352e3b5-8496-496b-97a3-e605177e848b_105851_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-LvZ18QLiEkZ_uj8ZUodHi",
       "title": "TRALL X KONSEPT. DYPHUS",
       "description": "Arrangement på Trall Bar & Kulturscene, Oslo",
@@ -184,7 +106,8 @@
       "endTime": null,
       "location": "Unity Arena, Fornebu",
       "categories": [
-        "konsert"
+        "konsert",
+        "uteliv"
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/empire-of-the-sun-tickets/1642208955?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/empire-of-the-sun-tickets/1642208955?language=en-us&ref=hvaSkjerIByenMin",
@@ -242,8 +165,7 @@
       "endTime": null,
       "location": "Sentrum Scene, Oslo",
       "categories": [
-        "konsert",
-        "uteliv"
+        "konsert"
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/chance-pena-tickets/1020544023?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/chance-pena-tickets/1020544023?language=en-us&ref=hvaSkjerIByenMin",
@@ -468,6 +390,25 @@
       "source": "ticketmaster"
     },
     {
+      "id": "tm-LvZ18QK8zrnlcnOZlsFI3",
+      "title": "Åpningsfest og Mexico vs Sør-Afrika",
+      "description": "Arrangement på Lekter´n, Oslo",
+      "date": "2026-06-11",
+      "time": "11:00",
+      "endTime": null,
+      "location": "Lekter´n, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/apningsfest-og-mexico-vs-sor-afrika-tickets-1HNMQP?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/apningsfest-og-mexico-vs-sor-afrika-tickets-1HNMQP?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "⚽",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
       "id": "tm-LvZ18Qf5F72XCJOZSRlqN",
       "title": "Folkefesten: BORD til VM-åpningen + Alex Rosén Show",
       "description": "Arrangement på Kadettangen, Sandvika",
@@ -499,25 +440,6 @@
       ],
       "ticketUrl": "https://www.universe.com/events/folkefesten-mexico-vs-sor-afrika-21-00-fast-track-tickets-QJ2YCF?ref=ticketmaster",
       "affiliateUrl": "https://www.universe.com/events/folkefesten-mexico-vs-sor-afrika-21-00-fast-track-tickets-QJ2YCF?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18QK8zrnlcnOZlsFI3",
-      "title": "Åpningsfest og Mexico vs Sør-Afrika",
-      "description": "Arrangement på Lekter´n, Oslo",
-      "date": "2026-06-11",
-      "time": "21:00",
-      "endTime": null,
-      "location": "Lekter´n, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/apningsfest-og-mexico-vs-sor-afrika-tickets-1HNMQP?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/apningsfest-og-mexico-vs-sor-afrika-tickets-1HNMQP?ref=ticketmaster&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
       "imageEmoji": "⚽",
       "sponsored": false,
@@ -610,7 +532,8 @@
       "endTime": null,
       "location": "Oslo",
       "categories": [
-        "konsert"
+        "konsert",
+        "uteliv"
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/wardruna-nordic-night-at-grefsenkollen-oslo-tickets/994527030?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/wardruna-nordic-night-at-grefsenkollen-oslo-tickets/994527030?language=en-us&ref=hvaSkjerIByenMin",
@@ -681,7 +604,7 @@
     },
     {
       "id": "tm-LvZ18QK3Gff-nj8ZllHG8",
-      "title": "Qatar - Sveits + Brasil - Marokko",
+      "title": "Qatar - Sveits og Brasil - Marokko",
       "description": "Arrangement på Lekter´n, Oslo",
       "date": "2026-06-13",
       "time": "21:00",
@@ -690,8 +613,8 @@
       "categories": [
         "konsert"
       ],
-      "ticketUrl": "https://www.universe.com/events/qatar-sveits-brasil-marokko-tickets-PRGJW7?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/qatar-sveits-brasil-marokko-tickets-PRGJW7?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "ticketUrl": "https://www.universe.com/events/qatar-sveits-og-brasil-marokko-tickets-PRGJW7?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/qatar-sveits-og-brasil-marokko-tickets-PRGJW7?ref=ticketmaster&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
       "imageEmoji": "⚽",
       "sponsored": false,
@@ -776,7 +699,7 @@
     },
     {
       "id": "tm-LvZ18QKQ9-NnSCOZ0zOCR",
-      "title": "Tyskland - Curaçao + Nederland - Japan",
+      "title": "Tyskland - Curaçao og Nederland - Japan",
       "description": "Arrangement på Lekter´n, Oslo",
       "date": "2026-06-14",
       "time": "19:00",
@@ -785,8 +708,8 @@
       "categories": [
         "konsert"
       ],
-      "ticketUrl": "https://www.universe.com/events/tyskland-curacao-nederland-japan-tickets-864BSR?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/tyskland-curacao-nederland-japan-tickets-864BSR?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "ticketUrl": "https://www.universe.com/events/tyskland-curacao-og-nederland-japan-tickets-864BSR?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/tyskland-curacao-og-nederland-japan-tickets-864BSR?ref=ticketmaster&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
       "imageEmoji": "⚽",
       "sponsored": false,
@@ -852,7 +775,7 @@
     },
     {
       "id": "tm-LvZ18QKQbtDftt8ZlPU-z",
-      "title": "Spania - Kapp Verde + Belgia - Egypt",
+      "title": "Spania - Kapp Verde og Belgia - Egypt",
       "description": "Arrangement på Lekter´n, Oslo",
       "date": "2026-06-15",
       "time": "18:00",
@@ -861,8 +784,8 @@
       "categories": [
         "konsert"
       ],
-      "ticketUrl": "https://www.universe.com/events/spania-kapp-verde-belgia-egypt-tickets-0BWGF9?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/spania-kapp-verde-belgia-egypt-tickets-0BWGF9?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "ticketUrl": "https://www.universe.com/events/spania-kapp-verde-og-belgia-egypt-tickets-0BWGF9?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/spania-kapp-verde-og-belgia-egypt-tickets-0BWGF9?ref=ticketmaster&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
       "imageEmoji": "⚽",
       "sponsored": false,
@@ -909,7 +832,7 @@
     },
     {
       "id": "tm-LvZ18QfGrs7uDsOZw_xwp",
-      "title": "Folkefesten:  BORD Frankrike vs Senegal 21:00",
+      "title": "Folkefesten: BORD Frankrike vs Senegal (kl 21:00)",
       "description": "Arrangement på Kadettangen, Sandvika",
       "date": "2026-06-16",
       "time": "16:00",
@@ -918,8 +841,8 @@
       "categories": [
         "konsert"
       ],
-      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-frankrike-vs-senegal-21-00-tickets-BRCV2Y?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-frankrike-vs-senegal-21-00-tickets-BRCV2Y?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-frankrike-vs-senegal-kl-21-00-tickets-BRCV2Y?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-frankrike-vs-senegal-kl-21-00-tickets-BRCV2Y?ref=ticketmaster&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
       "imageEmoji": "⚽",
       "sponsored": false,
@@ -947,7 +870,7 @@
     },
     {
       "id": "tm-LvZ18QK389izA0OZ0ZgqV",
-      "title": "Norge - Irak + Frankrike - Senegal",
+      "title": "Norge - Irak og Frankrike - Senegal",
       "description": "Arrangement på Lekter´n, Oslo",
       "date": "2026-06-17",
       "time": "00:00",
@@ -956,8 +879,84 @@
       "categories": [
         "konsert"
       ],
-      "ticketUrl": "https://www.universe.com/events/norge-irak-frankrike-senegal-tickets-RSGQL9?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/norge-irak-frankrike-senegal-tickets-RSGQL9?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "ticketUrl": "https://www.universe.com/events/norge-irak-og-frankrike-senegal-tickets-RSGQL9?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/norge-irak-og-frankrike-senegal-tickets-RSGQL9?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "⚽",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18QfG0B8tFj8ZwEMzc",
+      "title": "Folkefesten: Portugal vs DR Kongo - 19:00 (FAST TRACK)",
+      "description": "Arrangement på Kadettangen, Sandvika",
+      "date": "2026-06-17",
+      "time": "16:00",
+      "endTime": null,
+      "location": "Kadettangen, Sandvika",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/folkefesten-portugal-vs-dr-kongo-19-00-fast-track-tickets-XKQMT6?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/folkefesten-portugal-vs-dr-kongo-19-00-fast-track-tickets-XKQMT6?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "⚽",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kkfCfk3",
+      "title": "CURTIS HARDING",
+      "description": "Arrangement på John Dee, Oslo",
+      "date": "2026-06-17",
+      "time": "19:00",
+      "endTime": null,
+      "location": "John Dee, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/curtis-harding-tickets/194394192?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/curtis-harding-tickets/194394192?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/f50/951e56b2-b83b-4cf6-a2dc-bfc77da1ef50_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18QKQQKHlVY8Zlzuvf",
+      "title": "Portugal - Kongo og England - Kroatia",
+      "description": "Arrangement på Lekter´n, Oslo",
+      "date": "2026-06-17",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Lekter´n, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/portugal-kongo-og-england-kroatia-tickets-16R4SL?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/portugal-kongo-og-england-kroatia-tickets-16R4SL?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "⚽",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18QfGJTZtFj8Z0EMUB",
+      "title": "Folkefesten: England vs Kroatia - 22:00 (FAST TRACK)",
+      "description": "Arrangement på Kadettangen, Sandvika",
+      "date": "2026-06-17",
+      "time": "21:00",
+      "endTime": null,
+      "location": "Kadettangen, Sandvika",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/folkefesten-england-vs-kroatia-22-00-fast-track-tickets-6ZNY2C?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/folkefesten-england-vs-kroatia-22-00-fast-track-tickets-6ZNY2C?ref=ticketmaster&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
       "imageEmoji": "⚽",
       "sponsored": false,
@@ -968,7 +967,7 @@
   "meta": {
     "city": "oslo",
     "count": 50,
-    "fetchedAt": "2026-05-28T08:41:15.470Z",
+    "fetchedAt": "2026-05-29T08:41:03.588Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,
