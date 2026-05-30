@@ -1,50 +1,11 @@
 {
   "events": [
     {
-      "id": "tm-LvZ18QLiEkZ_uj8ZUodHi",
-      "title": "TRALL X KONSEPT. DYPHUS",
-      "description": "Arrangement på Trall Bar & Kulturscene, Oslo",
-      "date": "2026-05-29",
-      "time": "18:00",
-      "endTime": null,
-      "location": "Trall Bar & Kulturscene, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "ticketUrl": "https://www.universe.com/events/trall-x-konsept-dyphus-tickets-ZSGPBD?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/trall-x-konsept-dyphus-tickets-ZSGPBD?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/80b/f3cd8d24-c3ae-4fa0-b4bc-1ba99f9b380b_106091_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18Q4B5kSPmcOZ0w2em",
-      "title": "Kaddatreffet 2026",
-      "description": "Arrangement på Kadettangen, Sandvika",
-      "date": "2026-05-29",
-      "time": "18:00",
-      "endTime": null,
-      "location": "Kadettangen, Sandvika",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/kaddatreffet-2026-tickets-48JTDR?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/kaddatreffet-2026-tickets-48JTDR?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-LvZ18QOsS2eaEDOZ0DzK9",
       "title": "CL Finale - PSG vs Arsenal",
       "description": "Arrangement på Lekter´n, Oslo",
       "date": "2026-05-30",
-      "time": "17:00",
+      "time": "11:00",
       "endTime": null,
       "location": "Lekter´n, Oslo",
       "categories": [
@@ -962,12 +923,50 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18QfGJZ4c-G8ZyJSG3",
+      "title": "Folkefesten:  BORD England vs Kroatia 22:00",
+      "description": "Arrangement på Kadettangen, Sandvika",
+      "date": "2026-06-17",
+      "time": "21:00",
+      "endTime": null,
+      "location": "Kadettangen, Sandvika",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-england-vs-kroatia-22-00-tickets-WCTJ4F?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-england-vs-kroatia-22-00-tickets-WCTJ4F?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "⚽",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18QKQQJGlVY8Zlzudh",
+      "title": "England - Kroatia // UTSOLGT",
+      "description": "Arrangement på Lekter´n, Oslo",
+      "date": "2026-06-17",
+      "time": "22:00",
+      "endTime": null,
+      "location": "Lekter´n, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/england-kroatia-utsolgt-tickets-QN9WRC?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/england-kroatia-utsolgt-tickets-QN9WRC?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "⚽",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 50,
-    "fetchedAt": "2026-05-29T08:41:03.588Z",
+    "fetchedAt": "2026-05-30T07:40:20.014Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,

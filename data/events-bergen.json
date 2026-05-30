@@ -457,7 +457,8 @@
       "endTime": null,
       "location": "Bergen",
       "categories": [
-        "konsert"
+        "konsert",
+        "uteliv"
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/tundra-and-lightning-2026-tickets/1552272125?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/tundra-and-lightning-2026-tickets/1552272125?language=en-us&ref=hvaSkjerIByenMin",
@@ -491,7 +492,7 @@
   "meta": {
     "city": "bergen",
     "count": 25,
-    "fetchedAt": "2026-05-29T08:41:02.820Z",
+    "fetchedAt": "2026-05-30T07:40:19.555Z",
     "sources": {
       "ticketmaster": 27,
       "eventbrite": 0,
