@@ -1,64 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-LvZ18QOsS2eaEDOZ0DzK9",
-      "title": "CL Finale - PSG vs Arsenal",
-      "description": "Arrangement på Lekter´n, Oslo",
-      "date": "2026-05-30",
-      "time": "11:00",
-      "endTime": null,
-      "location": "Lekter´n, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/cl-finale-psg-vs-arsenal-tickets-M0WPT4?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/cl-finale-psg-vs-arsenal-tickets-M0WPT4?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://images.universe.com/0d544854-c1b0-4a47-8d18-4bd780675c26/-/format/jpeg/-/scale_crop/1024x576/center/-/progressive/yes/-/inline/yes/",
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16vOIvFkF",
-      "title": "Gazpacho",
-      "description": "Arrangement på John Dee, Oslo",
-      "date": "2026-05-30",
-      "time": "19:00",
-      "endTime": null,
-      "location": "John Dee, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/gazpacho-tickets/1828048188?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/gazpacho-tickets/1828048188?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/215/78529ace-3ac1-4efa-b43c-1058eceee215_TABLET_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z1ko4QfOU",
-      "title": "Los Mexicanacas",
-      "description": "Arrangement på Rockefeller, Oslo",
-      "date": "2026-05-30",
-      "time": "20:00",
-      "endTime": null,
-      "location": "Rockefeller, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/los-mexicanacas-tickets/455694836?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/los-mexicanacas-tickets/455694836?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/dc2/82617504-8fa0-4b15-81ab-c77958317dc2_SOURCE",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z16v_eFFP4",
       "title": "Empire of the Sun",
       "description": "Arrangement på Unity Arena, Fornebu",
@@ -834,7 +776,7 @@
       "title": "Norge - Irak og Frankrike - Senegal",
       "description": "Arrangement på Lekter´n, Oslo",
       "date": "2026-06-17",
-      "time": "00:00",
+      "time": "11:00",
       "endTime": null,
       "location": "Lekter´n, Oslo",
       "categories": [
@@ -961,12 +903,69 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18QfGh1fuDsOZw_xJ2",
+      "title": "Folkefesten: Tsjekkia - Sør-Afrika - 18:00 (FAST TRACK)",
+      "description": "Arrangement på Kadettangen, Sandvika",
+      "date": "2026-06-18",
+      "time": "16:00",
+      "endTime": null,
+      "location": "Kadettangen, Sandvika",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/folkefesten-tsjekkia-sor-afrika-18-00-fast-track-tickets-80KHPG?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/folkefesten-tsjekkia-sor-afrika-18-00-fast-track-tickets-80KHPG?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "⚽",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18QfGkSu-pzYZ0ldtE",
+      "title": "Folkefesten:  BORD Tsjekkia - Sør-Afrika 18:00",
+      "description": "Arrangement på Kadettangen, Sandvika",
+      "date": "2026-06-18",
+      "time": "16:00",
+      "endTime": null,
+      "location": "Kadettangen, Sandvika",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-tsjekkia-sor-afrika-18-00-tickets-SGL85Q?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-tsjekkia-sor-afrika-18-00-tickets-SGL85Q?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "⚽",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16eZP8db4",
+      "title": "St.Hans Tjuvholmen presenterer",
+      "description": "Arrangement på Tjuvholmen Bystrand, Oslo",
+      "date": "2026-06-18",
+      "time": "17:30",
+      "endTime": null,
+      "location": "Tjuvholmen Bystrand, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/sthans-tjuvholmen-presenterer-tickets/2025403615?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/sthans-tjuvholmen-presenterer-tickets/2025403615?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/79b/eba713b4-868c-4b5b-b05e-e1e8870b679b_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 50,
-    "fetchedAt": "2026-05-30T07:40:20.014Z",
+    "fetchedAt": "2026-05-31T08:12:59.121Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,
