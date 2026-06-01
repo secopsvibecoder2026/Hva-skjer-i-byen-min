@@ -1,26 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z16v_eFFP4",
-      "title": "Empire of the Sun",
-      "description": "Arrangement på Unity Arena, Fornebu",
-      "date": "2026-05-31",
-      "time": "18:30",
-      "endTime": null,
-      "location": "Unity Arena, Fornebu",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/empire-of-the-sun-tickets/1642208955?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/empire-of-the-sun-tickets/1642208955?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/763/242af1a3-8726-4111-b2a9-2d87c8689763_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-LvZ18QOsMhvWeGYZ0mjiE",
       "title": "Norge - Sverige",
       "description": "Arrangement på Lekter´n, Oslo",
@@ -73,26 +53,6 @@
       "ticketUrl": "https://www.ticketmaster.no/event/chance-pena-tickets/1020544023?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/chance-pena-tickets/1020544023?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/e/294/11f0c38e-5e95-45f3-9af5-70116f9ab294_TABLET_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z1kjaZNfM",
-      "title": "Social Distortion",
-      "description": "Arrangement på Sentrum Scene, Oslo",
-      "date": "2026-06-03",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Sentrum Scene, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/social-distortion-tickets/709023537?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/social-distortion-tickets/709023537?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/199/ce87d2c1-984a-4e8b-97f2-766421667199_TABLET_LANDSCAPE_16_9.jpg",
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -499,7 +459,7 @@
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/andre-rieu-tickets/1892919293?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/andre-rieu-tickets/1892919293?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/ca7/33bc0a00-4387-4752-865a-14a6251ebca7_RETINA_LANDSCAPE_16_9.jpg",
+      "imageUrl": "https://s1.ticketm.net/dam/a/ca7/33bc0a00-4387-4752-865a-14a6251ebca7_SOURCE",
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -960,12 +920,51 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18QKQhhNLY28ZlhpOK",
+      "title": "Tjekkia - Sør-Afrika og Sveits - Bosnia-Hercegovina",
+      "description": "Arrangement på Lekter´n, Oslo",
+      "date": "2026-06-18",
+      "time": "18:00",
+      "endTime": null,
+      "location": "Lekter´n, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/tjekkia-sor-afrika-og-sveits-bosnia-hercegovina-tickets-SF2VDH?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/tjekkia-sor-afrika-og-sveits-bosnia-hercegovina-tickets-SF2VDH?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "⚽",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kAY7Y8J",
+      "title": "SYNG om kjærlighet",
+      "description": "Arrangement på Oslo domkirke, Oslo",
+      "date": "2026-06-18",
+      "time": "20:00",
+      "endTime": null,
+      "location": "Oslo domkirke, Oslo",
+      "categories": [
+        "konsert",
+        "familie"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/syng-om-kjaerlighet-tickets/170130426?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/syng-om-kjaerlighet-tickets/170130426?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/b59/dae39675-ae15-4bc6-acfd-859c76414b59_SOURCE",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 50,
-    "fetchedAt": "2026-05-31T08:12:59.121Z",
+    "fetchedAt": "2026-06-01T10:17:08.946Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,

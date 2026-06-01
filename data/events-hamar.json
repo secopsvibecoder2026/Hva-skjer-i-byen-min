@@ -53,7 +53,7 @@
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/oktoberfest-hamar-2025-%7C-fredag-tickets/1674037649?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/oktoberfest-hamar-2025-%7C-fredag-tickets/1674037649?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/950/a5438b79-8462-4304-96fa-b21e59c5c950_RETINA_PORTRAIT_16_9.jpg",
+      "imageUrl": "https://s1.ticketm.net/dam/e/8a1/009a2fad-1f03-40be-be1c-95337aaf88a1_RETINA_LANDSCAPE_16_9.jpg",
       "imageEmoji": "🎪",
       "sponsored": false,
       "featured": false,
@@ -72,7 +72,7 @@
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/oktoberfest-hamar-2025-%7C-fredag-tickets/1772708255?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/oktoberfest-hamar-2025-%7C-fredag-tickets/1772708255?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/950/a5438b79-8462-4304-96fa-b21e59c5c950_RETINA_PORTRAIT_16_9.jpg",
+      "imageUrl": "https://s1.ticketm.net/dam/e/e52/069c1eb6-8805-47d6-adf4-33d01932ae52_RETINA_LANDSCAPE_16_9.jpg",
       "imageEmoji": "🎪",
       "sponsored": false,
       "featured": false,
@@ -82,7 +82,7 @@
   "meta": {
     "city": "hamar",
     "count": 4,
-    "fetchedAt": "2026-05-31T08:13:13.711Z",
+    "fetchedAt": "2026-06-01T10:17:24.802Z",
     "sources": {
       "ticketmaster": 5,
       "eventbrite": 0,
