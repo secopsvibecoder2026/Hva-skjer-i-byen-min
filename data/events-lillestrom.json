@@ -4,7 +4,7 @@
       "id": "scrape-gen-gi-bort-en-opplevelse--",
       "title": "Gi bort en opplevelse!",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-06-02",
+      "date": "2026-06-03",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -23,7 +23,7 @@
       "id": "scrape-gen-last-ned-v-r-app-",
       "title": "Last ned vår app",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-06-02",
+      "date": "2026-06-03",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -32,63 +32,6 @@
       ],
       "ticketUrl": "https://www.lillestrom-kultursenter.no/app/",
       "affiliateUrl": "https://www.lillestrom-kultursenter.no/app/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
-      "id": "scrape-gen-badeplasser-og-sv-mmehaller-p-romerike-",
-      "title": "Badeplasser og svømmehaller på Romerike",
-      "description": "Arrangement i visitgreateroslo.com",
-      "date": "2026-06-02",
-      "time": "12:00",
-      "endTime": null,
-      "location": "visitgreateroslo.com",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://visitgreateroslo.com/no/romerike/se-og-gjore/aktiviteter/badeplasser-pa-romerike/",
-      "affiliateUrl": "https://visitgreateroslo.com/no/romerike/se-og-gjore/aktiviteter/badeplasser-pa-romerike/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
-      "id": "scrape-gen-shopping-g-rdsbutikker-og-sm-byliv-p-rom-",
-      "title": "Shopping, gårdsbutikker og småbyliv på Romerike",
-      "description": "Arrangement i visitgreateroslo.com",
-      "date": "2026-06-02",
-      "time": "12:00",
-      "endTime": null,
-      "location": "visitgreateroslo.com",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://visitgreateroslo.com/no/romerike/se-og-gjore/shopping/",
-      "affiliateUrl": "https://visitgreateroslo.com/no/romerike/se-og-gjore/shopping/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
-      "id": "scrape-gen-sykkel-og-turtips-p-romerike-",
-      "title": "Sykkel og turtips på Romerike",
-      "description": "Arrangement i visitgreateroslo.com",
-      "date": "2026-06-02",
-      "time": "12:00",
-      "endTime": null,
-      "location": "visitgreateroslo.com",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://visitgreateroslo.com/no/romerike/se-og-gjore/aktiviteter/sykkel-og-vandre-tips/",
-      "affiliateUrl": "https://visitgreateroslo.com/no/romerike/se-og-gjore/aktiviteter/sykkel-og-vandre-tips/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -1931,12 +1874,12 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 101,
-    "fetchedAt": "2026-06-01T10:17:17.154Z",
+    "count": 98,
+    "fetchedAt": "2026-06-02T09:05:17.065Z",
     "sources": {
       "ticketmaster": 1,
       "eventbrite": 0,
-      "scrape": 103
+      "scrape": 97
     }
   }
 }

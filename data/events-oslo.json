@@ -1,45 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-LvZ18QOsMhvWeGYZ0mjiE",
-      "title": "Norge - Sverige",
-      "description": "Arrangement på Lekter´n, Oslo",
-      "date": "2026-06-01",
-      "time": "18:00",
-      "endTime": null,
-      "location": "Lekter´n, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/norge-sverige-tickets-ZST5R1?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/norge-sverige-tickets-ZST5R1?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://images.universe.com/0d544854-c1b0-4a47-8d18-4bd780675c26/-/format/jpeg/-/scale_crop/1024x576/center/-/progressive/yes/-/inline/yes/",
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16eeeGV7y",
-      "title": "Fat Freddy's Drop",
-      "description": "Arrangement på Sentrum Scene, Oslo",
-      "date": "2026-06-01",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Sentrum Scene, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/fat-freddys-drop-tickets/2082334139?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/fat-freddys-drop-tickets/2082334139?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/824/54a80096-01b7-4d32-8656-455876c47824_SOURCE",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z16vZO47ZN",
       "title": "Chance Peña",
       "description": "Arrangement på Sentrum Scene, Oslo",
@@ -53,6 +14,26 @@
       "ticketUrl": "https://www.ticketmaster.no/event/chance-pena-tickets/1020544023?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/chance-pena-tickets/1020544023?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/e/294/11f0c38e-5e95-45f3-9af5-70116f9ab294_TABLET_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kC9owug",
+      "title": "Zach Bryan - With Heaven On Tour",
+      "description": "Arrangement på Unity Arena, Fornebu",
+      "date": "2026-06-03",
+      "time": "17:30",
+      "endTime": null,
+      "location": "Unity Arena, Fornebu",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/zach-bryan-with-heaven-on-tour-tickets/397472375?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/zach-bryan-with-heaven-on-tour-tickets/397472375?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/2aa/868228c4-c34d-4c6a-af3c-4a70c3f512aa_RETINA_PORTRAIT_16_9.jpg",
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -310,6 +291,25 @@
       "source": "ticketmaster"
     },
     {
+      "id": "tm-LvZ18QK35TBlcnOZlsGbC",
+      "title": "Canada - Bosnia-Hercegovina",
+      "description": "Arrangement på Lekter´n, Oslo",
+      "date": "2026-06-12",
+      "time": "11:00",
+      "endTime": null,
+      "location": "Lekter´n, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/canada-bosnia-hercegovina-tickets-TBW251?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/canada-bosnia-hercegovina-tickets-TBW251?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "⚽",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
       "id": "tm-LvZ18QfGCWReJIZZweIHC",
       "title": "Folkefesten: Canada vs Bosnia & Herzegovina - 21:00 (FAST TRACK)",
       "description": "Arrangement på Kadettangen, Sandvika",
@@ -363,25 +363,6 @@
       "affiliateUrl": "https://www.ticketmaster.no/event/the-mary-wallopers-tickets/1395017274?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/e/4c9/51e68521-6868-4c8a-abf5-debe53d024c9_SOURCE",
       "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18QK35TBlcnOZlsGbC",
-      "title": "Canada - Bosnia-Hercegovina",
-      "description": "Arrangement på Lekter´n, Oslo",
-      "date": "2026-06-12",
-      "time": "21:00",
-      "endTime": null,
-      "location": "Lekter´n, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/canada-bosnia-hercegovina-tickets-TBW251?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/canada-bosnia-hercegovina-tickets-TBW251?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "⚽",
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
@@ -959,12 +940,31 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18QfGcY18M1OZlVbR6",
+      "title": "Folkefesten:  BORD Sveits - Bosnia & Herzegovina 21:00",
+      "description": "Arrangement på Kadettangen, Sandvika",
+      "date": "2026-06-18",
+      "time": "20:30",
+      "endTime": null,
+      "location": "Kadettangen, Sandvika",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-sveits-bosnia-herzegovina-21-00-tickets-5PT1JL?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-sveits-bosnia-herzegovina-21-00-tickets-5PT1JL?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "⚽",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 50,
-    "fetchedAt": "2026-06-01T10:17:08.946Z",
+    "fetchedAt": "2026-06-02T09:05:11.952Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,
