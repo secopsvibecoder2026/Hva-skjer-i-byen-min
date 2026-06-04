@@ -3,11 +3,11 @@
     {
       "id": "tm-Z698xZb_Z1k4O_0a6",
       "title": "Bergen Calling: Dumdum Boys, Raga Rockers og Slomosa",
-      "description": "Arrangement på Bergenhus Festning, Bergen",
+      "description": "Arrangement på Bergen",
       "date": "2026-06-19",
       "time": "18:30",
       "endTime": null,
-      "location": "Bergenhus Festning, Bergen",
+      "location": "Bergen",
       "categories": [
         "konsert",
         "uteliv"
@@ -492,7 +492,7 @@
   "meta": {
     "city": "bergen",
     "count": 25,
-    "fetchedAt": "2026-06-03T09:23:39.327Z",
+    "fetchedAt": "2026-06-04T08:46:31.169Z",
     "sources": {
       "ticketmaster": 27,
       "eventbrite": 0,

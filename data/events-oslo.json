@@ -1,26 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z1kC9owug",
-      "title": "Zach Bryan - With Heaven On Tour",
-      "description": "Arrangement på Unity Arena, Fornebu",
-      "date": "2026-06-03",
-      "time": "17:30",
-      "endTime": null,
-      "location": "Unity Arena, Fornebu",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/zach-bryan-with-heaven-on-tour-tickets/397472375?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/zach-bryan-with-heaven-on-tour-tickets/397472375?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/2aa/868228c4-c34d-4c6a-af3c-4a70c3f512aa_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z1kj3qsO3",
       "title": "Tower of Power",
       "description": "Arrangement på Sentrum Scene, Oslo",
@@ -129,8 +109,8 @@
       ],
       "ticketUrl": "https://www.universe.com/events/norge-marokko-tickets-T68CKG?ref=ticketmaster",
       "affiliateUrl": "https://www.universe.com/events/norge-marokko-tickets-T68CKG?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎪",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "⚽",
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
@@ -655,6 +635,25 @@
       "source": "ticketmaster"
     },
     {
+      "id": "tm-LvZ18QK389izA0OZ0ZgqV",
+      "title": "Norge - Irak og Frankrike - Senegal",
+      "description": "Arrangement på Lekter´n, Oslo",
+      "date": "2026-06-16",
+      "time": "11:00",
+      "endTime": null,
+      "location": "Lekter´n, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/norge-irak-og-frankrike-senegal-tickets-RSGQL9?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/norge-irak-og-frankrike-senegal-tickets-RSGQL9?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "⚽",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
       "id": "tm-LvZ18QfGrs7uDsOZw_xwp",
       "title": "Folkefesten: BORD Frankrike vs Senegal (kl 21:00)",
       "description": "Arrangement på Kadettangen, Sandvika",
@@ -686,25 +685,6 @@
       ],
       "ticketUrl": "https://www.universe.com/events/folkefesten-bord-norge-vs-irak-17-juni-kl-00-01-tickets-T2GNXP?ref=ticketmaster",
       "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-norge-vs-irak-17-juni-kl-00-01-tickets-T2GNXP?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18QK389izA0OZ0ZgqV",
-      "title": "Norge - Irak og Frankrike - Senegal",
-      "description": "Arrangement på Lekter´n, Oslo",
-      "date": "2026-06-17",
-      "time": "11:00",
-      "endTime": null,
-      "location": "Lekter´n, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/norge-irak-og-frankrike-senegal-tickets-RSGQL9?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/norge-irak-og-frankrike-senegal-tickets-RSGQL9?ref=ticketmaster&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
       "imageEmoji": "⚽",
       "sponsored": false,
@@ -807,25 +787,6 @@
       "source": "ticketmaster"
     },
     {
-      "id": "tm-LvZ18QKQQJGlVY8Zlzudh",
-      "title": "England - Kroatia // UTSOLGT",
-      "description": "Arrangement på Lekter´n, Oslo",
-      "date": "2026-06-17",
-      "time": "22:00",
-      "endTime": null,
-      "location": "Lekter´n, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/england-kroatia-utsolgt-tickets-QN9WRC?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/england-kroatia-utsolgt-tickets-QN9WRC?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-LvZ18QKQhhNLY28ZlhpOK",
       "title": "Tjekkia - Sør-Afrika og Sveits - Bosnia-Hercegovina",
       "description": "Arrangement på Lekter´n, Oslo",
@@ -891,7 +852,8 @@
       "endTime": null,
       "location": "Tjuvholmen Bystrand, Oslo",
       "categories": [
-        "konsert"
+        "konsert",
+        "uteliv"
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/sthans-tjuvholmen-presenterer-tickets/2025403615?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/sthans-tjuvholmen-presenterer-tickets/2025403615?language=en-us&ref=hvaSkjerIByenMin",
@@ -958,12 +920,50 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18QfGY3X3zfYZ0wWBR",
+      "title": "Folkefesten:  BORD Canada vs Qatar 00:00",
+      "description": "Arrangement på Kadettangen, Sandvika",
+      "date": "2026-06-19",
+      "time": "00:00",
+      "endTime": null,
+      "location": "Kadettangen, Sandvika",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-canada-vs-qatar-00-00-tickets-5WGKL0?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-canada-vs-qatar-00-00-tickets-5WGKL0?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "⚽",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18QKQjQSUmt8Z0W4ez",
+      "title": "USA - Australia og Skottland - Marokko",
+      "description": "Arrangement på Lekter´n, Oslo",
+      "date": "2026-06-19",
+      "time": "11:00",
+      "endTime": null,
+      "location": "Lekter´n, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/usa-australia-og-skottland-marokko-tickets-1T2NSM?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/usa-australia-og-skottland-marokko-tickets-1T2NSM?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "⚽",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 50,
-    "fetchedAt": "2026-06-03T09:23:39.712Z",
+    "fetchedAt": "2026-06-04T08:46:31.917Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,
