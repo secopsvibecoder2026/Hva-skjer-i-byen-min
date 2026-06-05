@@ -1,44 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z1kj3qsO3",
-      "title": "Tower of Power",
-      "description": "Arrangement på Sentrum Scene, Oslo",
-      "date": "2026-06-04",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Sentrum Scene, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/tower-of-power-tickets/712771812?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/tower-of-power-tickets/712771812?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/e45/a1f32c9f-72b7-41a4-850b-c3e2e3ce3e45_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16v8Af8Fo",
-      "title": "Indiebokfestivalen",
-      "description": "Arrangement på Carls - Arena, Oslo",
-      "date": "2026-06-05",
-      "time": "09:00",
-      "endTime": null,
-      "location": "Carls - Arena, Oslo",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/indiebokfestivalen-tickets/1405510211?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/indiebokfestivalen-tickets/1405510211?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/a2c/78726e92-f6ce-48d3-b5ed-e940faddda2c_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "imageEmoji": "🎭",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z1kfZk_k3",
       "title": "Lakeview",
       "description": "Arrangement på John Dee, Oslo",
@@ -143,7 +105,8 @@
       "endTime": null,
       "location": "Unity Arena, Fornebu",
       "categories": [
-        "konsert"
+        "konsert",
+        "uteliv"
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/foo-fighters-take-cover-tour-2026-tickets/2089616024?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/foo-fighters-take-cover-tour-2026-tickets/2089616024?language=en-us&ref=hvaSkjerIByenMin",
@@ -301,7 +264,7 @@
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/the-mary-wallopers-tickets/1395017274?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/the-mary-wallopers-tickets/1395017274?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/4c9/51e68521-6868-4c8a-abf5-debe53d024c9_SOURCE",
+      "imageUrl": "https://s1.ticketm.net/dam/e/4c9/51e68521-6868-4c8a-abf5-debe53d024c9_TABLET_LANDSCAPE_16_9.jpg",
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -852,8 +815,7 @@
       "endTime": null,
       "location": "Tjuvholmen Bystrand, Oslo",
       "categories": [
-        "konsert",
-        "uteliv"
+        "konsert"
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/sthans-tjuvholmen-presenterer-tickets/2025403615?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/sthans-tjuvholmen-presenterer-tickets/2025403615?language=en-us&ref=hvaSkjerIByenMin",
@@ -958,12 +920,50 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kF7uvPt",
+      "title": "CC Cowboys",
+      "description": "Arrangement på Rockefeller, Oslo",
+      "date": "2026-06-19",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Rockefeller, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/cc-cowboys-tickets/204341969?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/cc-cowboys-tickets/204341969?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/47f/24778212-e4c0-42f5-bf0c-162b32fed47f_TABLET_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18QfGsZbuVgZZlX_xs",
+      "title": "Folkefesten:  BORD USA vs Australia 21:00",
+      "description": "Arrangement på Kadettangen, Sandvika",
+      "date": "2026-06-19",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Kadettangen, Sandvika",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-usa-vs-australia-21-00-tickets-12WQBC?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-usa-vs-australia-21-00-tickets-12WQBC?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "⚽",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 50,
-    "fetchedAt": "2026-06-04T08:46:31.917Z",
+    "fetchedAt": "2026-06-05T08:42:24.926Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,

@@ -1,25 +1,6 @@
 {
   "events": [
     {
-      "id": "scrape-gen-lillestr-mkonferansen-2026-06-04",
-      "title": "Lillestrømkonferansen",
-      "description": "Torsdag. 4. juni\nkl. 10.00",
-      "date": "2026-06-04",
-      "time": "12:00",
-      "endTime": null,
-      "location": "lillestrom-kultursenter.no",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16987-lillestromkonferansen/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16987-lillestromkonferansen/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
       "id": "scrape-gen-h-ybr-ten-skoles-musikkorps-100-r-2026-06-05",
       "title": "Høybråten skoles musikkorps 100 år",
       "description": "Fredag. 5. juni\nkl. 18.00",
@@ -41,7 +22,7 @@
     {
       "id": "scrape-gen-jenta-i-gummist-vler-2026-06-05",
       "title": "Jenta i gummistøvler",
-      "description": "5. jun. – 6. jun.\n2 forestillinger",
+      "description": "Få billetter igjen",
       "date": "2026-06-05",
       "time": "12:00",
       "endTime": null,
@@ -51,44 +32,6 @@
       ],
       "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17181-jenta-i-gummistovler/",
       "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17181-jenta-i-gummistovler/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
-      "id": "scrape-gen-gi-bort-en-opplevelse--",
-      "title": "Gi bort en opplevelse!",
-      "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-06-05",
-      "time": "12:00",
-      "endTime": null,
-      "location": "lillestrom-kultursenter.no",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/gavekort/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/gavekort/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
-      "id": "scrape-gen-last-ned-v-r-app-",
-      "title": "Last ned vår app",
-      "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-06-05",
-      "time": "12:00",
-      "endTime": null,
-      "location": "lillestrom-kultursenter.no",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/app/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/app/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -108,6 +51,44 @@
       ],
       "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16871-jazzkafe-monicaz-vals/",
       "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16871-jazzkafe-monicaz-vals/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-gi-bort-en-opplevelse--",
+      "title": "Gi bort en opplevelse!",
+      "description": "Arrangement i lillestrom-kultursenter.no",
+      "date": "2026-06-06",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/gavekort/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/gavekort/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-last-ned-v-r-app-",
+      "title": "Last ned vår app",
+      "description": "Arrangement i lillestrom-kultursenter.no",
+      "date": "2026-06-06",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/app/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/app/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -771,8 +752,8 @@
       "source": "scrape"
     },
     {
-      "id": "scrape-gen-jeg-hater-endring-et-musikalsk-foredrag--2026-10-08",
-      "title": "Jeg hater endring! – Et musikalsk foredrag med Erik Simensen",
+      "id": "scrape-gen-erik-simensen-jeg-hater-endring-det-er-s-2026-10-08",
+      "title": "Erik Simensen: Jeg hater endring! – Det er så innmari slitsomt",
       "description": "Torsdag. 8. oktober\nkl. 19.30",
       "date": "2026-10-08",
       "time": "12:00",
@@ -781,8 +762,8 @@
       "categories": [
         "familie"
       ],
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17939-jeg-hater-endring-et-musikalsk-foredrag-med-erik-simensen/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17939-jeg-hater-endring-et-musikalsk-foredrag-med-erik-simensen/?ref=hvaSkjerIByenMin",
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17939-erik-simensen-jeg-hater-endring-det-er-sa-innmari-slitsomt/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17939-erik-simensen-jeg-hater-endring-det-er-sa-innmari-slitsomt/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -2034,12 +2015,12 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 106,
-    "fetchedAt": "2026-06-04T08:46:37.042Z",
+    "count": 105,
+    "fetchedAt": "2026-06-05T08:42:29.456Z",
     "sources": {
       "ticketmaster": 1,
       "eventbrite": 0,
-      "scrape": 105
+      "scrape": 104
     }
   }
 }

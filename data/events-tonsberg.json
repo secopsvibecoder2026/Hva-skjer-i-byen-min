@@ -28,7 +28,8 @@
       "endTime": null,
       "location": "Tønsberg",
       "categories": [
-        "konsert"
+        "konsert",
+        "uteliv"
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/festivalpass-med-natten-slottsfjell-2026-tickets/1809575327?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/festivalpass-med-natten-slottsfjell-2026-tickets/1809575327?language=en-us&ref=hvaSkjerIByenMin",
@@ -67,8 +68,7 @@
       "endTime": null,
       "location": "Midgard Vikingsenter, Horten",
       "categories": [
-        "konsert",
-        "uteliv"
+        "konsert"
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/tent-ticket-camp-utgard-midgardsblot-metalfestival-2026-tickets/1141182064?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/tent-ticket-camp-utgard-midgardsblot-metalfestival-2026-tickets/1141182064?language=en-us&ref=hvaSkjerIByenMin",
@@ -125,7 +125,8 @@
       "endTime": null,
       "location": "Midgard Vikingsenter, Horten",
       "categories": [
-        "konsert"
+        "konsert",
+        "uteliv"
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/midgardsblot-weekend-pass-2026-tickets/929710484?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/midgardsblot-weekend-pass-2026-tickets/929710484?language=en-us&ref=hvaSkjerIByenMin",
@@ -197,7 +198,7 @@
   "meta": {
     "city": "tonsberg",
     "count": 10,
-    "fetchedAt": "2026-06-04T08:46:47.441Z",
+    "fetchedAt": "2026-06-05T08:42:39.868Z",
     "sources": {
       "ticketmaster": 10,
       "eventbrite": 0,

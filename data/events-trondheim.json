@@ -68,12 +68,13 @@
       "endTime": null,
       "location": "Trondheim",
       "categories": [
-        "familie"
+        "konsert",
+        "uteliv"
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/westlife-25-the-anniversary-world-tour-tickets/1294301229?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/westlife-25-the-anniversary-world-tour-tickets/1294301229?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/a/78c/07626348-f909-4270-af8d-3c8ecbfd378c_SOURCE",
-      "imageEmoji": "🎭",
+      "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
@@ -82,7 +83,7 @@
   "meta": {
     "city": "trondheim",
     "count": 4,
-    "fetchedAt": "2026-06-04T08:46:32.590Z",
+    "fetchedAt": "2026-06-05T08:42:26.268Z",
     "sources": {
       "ticketmaster": 4,
       "eventbrite": 0,
