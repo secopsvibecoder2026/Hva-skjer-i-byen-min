@@ -1,44 +1,6 @@
 {
   "events": [
     {
-      "id": "scrape-gen-h-ybr-ten-skoles-musikkorps-100-r-2026-06-05",
-      "title": "Høybråten skoles musikkorps 100 år",
-      "description": "Fredag. 5. juni\nkl. 18.00",
-      "date": "2026-06-05",
-      "time": "12:00",
-      "endTime": null,
-      "location": "lillestrom-kultursenter.no",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17533-hoybraten-skoles-musikkorps-100-ar/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17533-hoybraten-skoles-musikkorps-100-ar/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
-      "id": "scrape-gen-jenta-i-gummist-vler-2026-06-05",
-      "title": "Jenta i gummistøvler",
-      "description": "Få billetter igjen",
-      "date": "2026-06-05",
-      "time": "12:00",
-      "endTime": null,
-      "location": "lillestrom-kultursenter.no",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17181-jenta-i-gummistovler/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17181-jenta-i-gummistovler/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
       "id": "scrape-gen-jazzkaf-monicaz-vals-2026-06-06",
       "title": "Jazzkafé – MonicaZ Vals",
       "description": "Lørdag. 6. juni\nkl. 13.00",
@@ -58,9 +20,9 @@
       "source": "scrape"
     },
     {
-      "id": "scrape-gen-gi-bort-en-opplevelse--",
-      "title": "Gi bort en opplevelse!",
-      "description": "Arrangement i lillestrom-kultursenter.no",
+      "id": "scrape-gen-jenta-i-gummist-vler-2026-06-06",
+      "title": "Jenta i gummistøvler",
+      "description": "Få billetter igjen",
       "date": "2026-06-06",
       "time": "12:00",
       "endTime": null,
@@ -68,27 +30,8 @@
       "categories": [
         "familie"
       ],
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/gavekort/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/gavekort/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
-      "id": "scrape-gen-last-ned-v-r-app-",
-      "title": "Last ned vår app",
-      "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-06-06",
-      "time": "12:00",
-      "endTime": null,
-      "location": "lillestrom-kultursenter.no",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/app/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/app/?ref=hvaSkjerIByenMin",
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17181-jenta-i-gummistovler/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17181-jenta-i-gummistovler/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -108,6 +51,44 @@
       ],
       "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17061-lets-groove-med-lillestrom-skolekorps/",
       "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17061-lets-groove-med-lillestrom-skolekorps/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-gi-bort-en-opplevelse--",
+      "title": "Gi bort en opplevelse!",
+      "description": "Arrangement i lillestrom-kultursenter.no",
+      "date": "2026-06-07",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/gavekort/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/gavekort/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-last-ned-v-r-app-",
+      "title": "Last ned vår app",
+      "description": "Arrangement i lillestrom-kultursenter.no",
+      "date": "2026-06-07",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/app/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/app/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -2015,12 +1996,12 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 105,
-    "fetchedAt": "2026-06-05T08:42:29.456Z",
+    "count": 104,
+    "fetchedAt": "2026-06-06T07:44:55.885Z",
     "sources": {
       "ticketmaster": 1,
       "eventbrite": 0,
-      "scrape": 104
+      "scrape": 103
     }
   }
 }
