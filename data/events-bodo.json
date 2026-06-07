@@ -1,26 +1,6 @@
 {
   "events": [
     {
-      "id": "bodo-1",
-      "title": "Bodø2024 Kulturarrangement – Arktisk Scene",
-      "description": "Bodø er Norges arktiske kulturhovedstad! Opplev spennende kulturprogram med musikk, kunst og performance som reflekterer livet i nord.",
-      "date": "2026-06-06",
-      "time": "17:00",
-      "endTime": "22:00",
-      "location": "Stormen Kulturhus, Bodø",
-      "categories": [
-        "konsert",
-        "familie"
-      ],
-      "ticketUrl": "https://www.visitbodo.com",
-      "affiliateUrl": "https://www.visitbodo.com/hva-skjer/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "✈️",
-      "sponsored": false,
-      "featured": true,
-      "source": "local"
-    },
-    {
       "id": "bodo-2",
       "title": "Nordland Musikkfestuke",
       "description": "En uke med klassisk musikk, opera og kammermusikk på høyt internasjonalt nivå. Festivalen trekker musikere fra hele verden til Bodø.",
@@ -61,8 +41,8 @@
   ],
   "meta": {
     "city": "bodo",
-    "count": 3,
-    "fetchedAt": "2026-03-28T05:00:00.000Z",
+    "count": 2,
+    "fetchedAt": "2026-06-07T08:23:00.348Z",
     "sources": {
       "ticketmaster": 0,
       "eventbrite": 0,

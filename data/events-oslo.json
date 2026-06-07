@@ -1,44 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z1k8VfU4E",
-      "title": "Smingel Jubileumsfest for single",
-      "description": "Arrangement på Carls, Oslo",
-      "date": "2026-06-06",
-      "time": "00:00",
-      "endTime": null,
-      "location": "Carls, Oslo",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/smingel-jubileumsfest-for-single-tickets/434536567?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/smingel-jubileumsfest-for-single-tickets/434536567?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/96a/f6c28ac7-0e0d-49c3-8580-ffbee063796a_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "imageEmoji": "🎭",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16vfMA3b9",
-      "title": "Valentinerne feirer 40 år!",
-      "description": "Arrangement på Rockefeller, Oslo",
-      "date": "2026-06-06",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Rockefeller, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/valentinerne-feirer-40-ar-tickets/1537152617?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/valentinerne-feirer-40-ar-tickets/1537152617?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/d29/fea02c06-9e17-4fe0-bf43-30760bd05d29_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-LvZ18QOsz5sXUxZZ0JmAe",
       "title": "Norge - Marokko",
       "description": "Arrangement på Lekter´n, Oslo",
@@ -957,12 +919,50 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18QfGsXYtFj8Z0EzQV",
+      "title": "Folkefesten: Skottland vs Marokko - 00:00 (FAST TRACK)",
+      "description": "Arrangement på Kadettangen, Sandvika",
+      "date": "2026-06-19",
+      "time": "23:30",
+      "endTime": null,
+      "location": "Kadettangen, Sandvika",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/folkefesten-skottland-vs-marokko-00-00-fast-track-tickets-P17DFB?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/folkefesten-skottland-vs-marokko-00-00-fast-track-tickets-P17DFB?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "⚽",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18QKQjmeMJ5ZZw30Zg",
+      "title": "Brasil - Haiti",
+      "description": "Arrangement på Lekter´n, Oslo",
+      "date": "2026-06-20",
+      "time": "11:00",
+      "endTime": null,
+      "location": "Lekter´n, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/brasil-haiti-tickets-NZ93FQ?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/brasil-haiti-tickets-NZ93FQ?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "⚽",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 50,
-    "fetchedAt": "2026-06-06T07:44:43.474Z",
+    "fetchedAt": "2026-06-07T08:22:45.789Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,

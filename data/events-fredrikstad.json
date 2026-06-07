@@ -1,25 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z16v8A_73o",
-      "title": "Pellygata Poporkester - Hafslundsøy Musikkorps - KULÅS",
-      "description": "Arrangement på Kulåsparken, Sarpsborg",
-      "date": "2026-06-06",
-      "time": "18:00",
-      "endTime": null,
-      "location": "Kulåsparken, Sarpsborg",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/pellygata-poporkester-hafslundsoy-musikkorps-kulas-tickets/1405644491?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/pellygata-poporkester-hafslundsoy-musikkorps-kulas-tickets/1405644491?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/69e/9ca1df7d-2649-4659-b1e6-ed2e32f0d69e_SOURCE",
-      "imageEmoji": "🎭",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-LvZ18QLlBSGQzmYvGvNLw",
       "title": "Dragsug presenterer: Humorhavari 2 i FREDRIKSTAD",
       "description": "Arrangement på St. Harry, Fredrikstad",
@@ -60,10 +41,10 @@
   ],
   "meta": {
     "city": "fredrikstad",
-    "count": 3,
-    "fetchedAt": "2026-06-06T07:45:08.203Z",
+    "count": 2,
+    "fetchedAt": "2026-06-07T08:22:57.905Z",
     "sources": {
-      "ticketmaster": 3,
+      "ticketmaster": 2,
       "eventbrite": 0,
       "scrape": 0
     }
