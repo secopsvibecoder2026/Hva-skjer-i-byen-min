@@ -1,44 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-LvZ18QOsz5sXUxZZ0JmAe",
-      "title": "Norge - Marokko",
-      "description": "Arrangement på Lekter´n, Oslo",
-      "date": "2026-06-07",
-      "time": "11:00",
-      "endTime": null,
-      "location": "Lekter´n, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/norge-marokko-tickets-T68CKG?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/norge-marokko-tickets-T68CKG?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z1k84vA4Y",
-      "title": "NEXT vol. 7 med Quick Style Studio",
-      "description": "Arrangement på Chateau Neuf,Storsalen, Oslo",
-      "date": "2026-06-07",
-      "time": "16:00",
-      "endTime": null,
-      "location": "Chateau Neuf,Storsalen, Oslo",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/next-vol-7-med-quick-style-studio-tickets/415045570?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/next-vol-7-med-quick-style-studio-tickets/415045570?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/0af/49be214f-f6a1-4d0d-97ce-39f170f590af_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "imageEmoji": "🎭",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z16eeabpZ0",
       "title": "Foo Fighters: TAKE COVER TOUR 2026",
       "description": "Arrangement på Unity Arena, Fornebu",
@@ -408,7 +370,7 @@
     },
     {
       "id": "tm-LvZ18QfGpY0uDsOZy_xqU",
-      "title": "Folkefesten:  BORD Tyskland vs Curacao 19:00",
+      "title": "Folkefesten: BORD Tyskland vs Curacao 19:00",
       "description": "Arrangement på Kadettangen, Sandvika",
       "date": "2026-06-14",
       "time": "16:00",
@@ -630,25 +592,6 @@
       "affiliateUrl": "https://www.universe.com/events/folkefesten-portugal-vs-dr-kongo-19-00-fast-track-tickets-XKQMT6?ref=ticketmaster&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
       "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z1kkfCfk3",
-      "title": "CURTIS HARDING",
-      "description": "Arrangement på John Dee, Oslo",
-      "date": "2026-06-17",
-      "time": "19:00",
-      "endTime": null,
-      "location": "John Dee, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/curtis-harding-tickets/194394192?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/curtis-harding-tickets/194394192?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/f50/951e56b2-b83b-4cf6-a2dc-bfc77da1ef50_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
@@ -957,12 +900,69 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18QKQq5sUhWYZySB1-",
+      "title": "Nederland - Sverige og Tyskland - Elfenbenkysten",
+      "description": "Arrangement på Lekter´n, Oslo",
+      "date": "2026-06-20",
+      "time": "11:00",
+      "endTime": null,
+      "location": "Lekter´n, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/nederland-sverige-og-tyskland-elfenbenkysten-tickets-HLCYD9?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/nederland-sverige-og-tyskland-elfenbenkysten-tickets-HLCYD9?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "⚽",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18QfGRULsNOYZ0sfSe",
+      "title": "Folkefesten: Nederland vs Sverige - 19:00 (FAST TRACK)",
+      "description": "Arrangement på Kadettangen, Sandvika",
+      "date": "2026-06-20",
+      "time": "16:00",
+      "endTime": null,
+      "location": "Kadettangen, Sandvika",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/folkefesten-nederland-vs-sverige-19-00-fast-track-tickets-NFSZP9?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/folkefesten-nederland-vs-sverige-19-00-fast-track-tickets-NFSZP9?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "⚽",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18QfGwnn8M1OZ0VbMQ",
+      "title": "Folkefesten: BORD Nederland vs Sverige (kl 19:00)",
+      "description": "Arrangement på Kadettangen, Sandvika",
+      "date": "2026-06-20",
+      "time": "16:00",
+      "endTime": null,
+      "location": "Kadettangen, Sandvika",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-nederland-vs-sverige-kl-19-00-tickets-RVTBPZ?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-nederland-vs-sverige-kl-19-00-tickets-RVTBPZ?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "⚽",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 50,
-    "fetchedAt": "2026-06-07T08:22:45.789Z",
+    "fetchedAt": "2026-06-08T09:21:30.882Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,
