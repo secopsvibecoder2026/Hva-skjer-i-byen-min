@@ -198,12 +198,11 @@
       "title": "Wardruna - Nordic Night at Grefsenkollen, Oslo",
       "description": "Arrangement på Oslo",
       "date": "2026-06-13",
-      "time": "16:00",
+      "time": "15:00",
       "endTime": null,
       "location": "Oslo",
       "categories": [
-        "konsert",
-        "uteliv"
+        "konsert"
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/wardruna-nordic-night-at-grefsenkollen-oslo-tickets/994527030?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/wardruna-nordic-night-at-grefsenkollen-oslo-tickets/994527030?language=en-us&ref=hvaSkjerIByenMin",
@@ -962,7 +961,7 @@
   "meta": {
     "city": "oslo",
     "count": 50,
-    "fetchedAt": "2026-06-09T08:29:49.768Z",
+    "fetchedAt": "2026-06-10T08:47:35.219Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,
