@@ -20,10 +20,29 @@
       "source": "scrape"
     },
     {
+      "id": "scrape-gen-en-hyllest-til-earth-wind-fire-2026-06-12",
+      "title": "En hyllest til Earth, Wind & Fire",
+      "description": "Gratis",
+      "date": "2026-06-12",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17189-en-hyllest-til-earth-wind-fire/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17189-en-hyllest-til-earth-wind-fire/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
       "id": "scrape-gen-gi-bort-en-opplevelse--",
       "title": "Gi bort en opplevelse!",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-06-11",
+      "date": "2026-06-12",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -42,7 +61,7 @@
       "id": "scrape-gen-last-ned-v-r-app-",
       "title": "Last ned vår app",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-06-11",
+      "date": "2026-06-12",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -51,25 +70,6 @@
       ],
       "ticketUrl": "https://www.lillestrom-kultursenter.no/app/",
       "affiliateUrl": "https://www.lillestrom-kultursenter.no/app/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
-      "id": "scrape-gen-en-hyllest-til-earth-wind-fire-2026-06-12",
-      "title": "En hyllest til Earth, Wind & Fire",
-      "description": "Gratis",
-      "date": "2026-06-12",
-      "time": "12:00",
-      "endTime": null,
-      "location": "lillestrom-kultursenter.no",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17189-en-hyllest-til-earth-wind-fire/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17189-en-hyllest-til-earth-wind-fire/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -581,7 +581,7 @@
     {
       "id": "scrape-gen-barnas-teaterl-rdag-det-var-en-gang-en-s-2026-09-26",
       "title": "Barnas teaterlørdag – Det var en gang en skog",
-      "description": "Lørdag. 26. september\nkl. 13.00",
+      "description": "Lør. 26. sep.\n2 forestillinger",
       "date": "2026-09-26",
       "time": "12:00",
       "endTime": null,
@@ -745,6 +745,25 @@
       ],
       "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17932-dolly-style/",
       "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17932-dolly-style/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-mix-koret-jubileumskonsert-2026-10-11",
+      "title": "Mix Koret – Jubileumskonsert",
+      "description": "Søndag. 11. oktober\nkl. 18.00",
+      "date": "2026-10-11",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17649-mix-koret-jubileumskonsert/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17649-mix-koret-jubileumskonsert/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -1821,8 +1840,8 @@
       "source": "scrape"
     },
     {
-      "id": "scrape-gen-70-70-j-rn-hoel-steinar-albrigstsen-2027-02-05",
-      "title": "70+70 – Jørn Hoel & Steinar Albrigstsen",
+      "id": "scrape-gen-70-70-j-rn-hoel-steinar-albrigtsen-2027-02-05",
+      "title": "70+70 – Jørn Hoel & Steinar  Albrigtsen",
       "description": "Fredag. 5. februar 2027\nkl. 19.00",
       "date": "2027-02-05",
       "time": "12:00",
@@ -1831,8 +1850,8 @@
       "categories": [
         "familie"
       ],
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17691-7070-jorn-hoel-steinar-albrigstsen/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17691-7070-jorn-hoel-steinar-albrigstsen/?ref=hvaSkjerIByenMin",
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17691-7070-jorn-hoel-steinar-albrigtsen/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17691-7070-jorn-hoel-steinar-albrigtsen/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -1977,12 +1996,12 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 103,
-    "fetchedAt": "2026-06-10T08:47:39.354Z",
+    "count": 104,
+    "fetchedAt": "2026-06-11T09:11:26.519Z",
     "sources": {
       "ticketmaster": 1,
       "eventbrite": 0,
-      "scrape": 102
+      "scrape": 103
     }
   }
 }

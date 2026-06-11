@@ -3,11 +3,11 @@
     {
       "id": "tm-LvZ18QLlX3Z_uj8ZUovsx",
       "title": "Dragsug presenterer: Humorhavari 2 i ARENDAL",
-      "description": "Arrangement på Arendal",
+      "description": "Arrangement på Bakgården, Arendal",
       "date": "2026-07-10",
       "time": "19:00",
       "endTime": null,
-      "location": "Arendal",
+      "location": "Bakgården, Arendal",
       "categories": [
         "familie"
       ],
@@ -22,11 +22,11 @@
     {
       "id": "tm-LvZ18QLlX3Z_uj8ZUovsN",
       "title": "Dragsug presenterer: Humorhavari 2 i ARENDAL",
-      "description": "Arrangement på Arendal",
+      "description": "Arrangement på Bakgården, Arendal",
       "date": "2026-07-11",
       "time": "19:00",
       "endTime": null,
-      "location": "Arendal",
+      "location": "Bakgården, Arendal",
       "categories": [
         "familie"
       ],
@@ -61,7 +61,7 @@
   "meta": {
     "city": "arendal",
     "count": 3,
-    "fetchedAt": "2026-06-10T08:47:50.662Z",
+    "fetchedAt": "2026-06-11T09:11:40.115Z",
     "sources": {
       "ticketmaster": 3,
       "eventbrite": 0,
