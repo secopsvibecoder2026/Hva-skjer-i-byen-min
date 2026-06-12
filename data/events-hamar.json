@@ -68,12 +68,12 @@
       "endTime": null,
       "location": "Vikingskipet, Hamar",
       "categories": [
-        "konsert"
+        "familie"
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/oktoberfest-hamar-2025-%7C-fredag-tickets/1772708255?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/oktoberfest-hamar-2025-%7C-fredag-tickets/1772708255?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/e/e52/069c1eb6-8805-47d6-adf4-33d01932ae52_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎪",
+      "imageEmoji": "🎭",
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
@@ -82,7 +82,7 @@
   "meta": {
     "city": "hamar",
     "count": 4,
-    "fetchedAt": "2026-06-11T09:11:34.881Z",
+    "fetchedAt": "2026-06-12T08:56:20.393Z",
     "sources": {
       "ticketmaster": 5,
       "eventbrite": 0,

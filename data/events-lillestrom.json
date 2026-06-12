@@ -1,25 +1,6 @@
 {
   "events": [
     {
-      "id": "scrape-gen-byfesten-i-lillestr-m-2026-06-11",
-      "title": "Byfesten i Lillestrøm",
-      "description": "Gratis",
-      "date": "2026-06-11",
-      "time": "12:00",
-      "endTime": null,
-      "location": "lillestrom-kultursenter.no",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17187-byfesten-i-lillestrom/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17187-byfesten-i-lillestrom/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
       "id": "scrape-gen-en-hyllest-til-earth-wind-fire-2026-06-12",
       "title": "En hyllest til Earth, Wind & Fire",
       "description": "Gratis",
@@ -42,7 +23,7 @@
       "id": "scrape-gen-gi-bort-en-opplevelse--",
       "title": "Gi bort en opplevelse!",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-06-12",
+      "date": "2026-06-13",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -61,7 +42,7 @@
       "id": "scrape-gen-last-ned-v-r-app-",
       "title": "Last ned vår app",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-06-12",
+      "date": "2026-06-13",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -250,25 +231,6 @@
       "source": "scrape"
     },
     {
-      "id": "scrape-gen-adam-douglas-2026-09-10",
-      "title": "Adam Douglas",
-      "description": "Torsdag. 10. september\nkl. 19.00",
-      "date": "2026-09-10",
-      "time": "12:00",
-      "endTime": null,
-      "location": "lillestrom-kultursenter.no",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17581-adam-douglas/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17581-adam-douglas/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
       "id": "scrape-gen-oppskrift-p-ekstase-med-anne-lindmo-og-n-2026-09-10",
       "title": "Oppskrift på ekstase med Anne Lindmo og Nina Brochmann",
       "description": "Torsdag. 10. september\nkl. 19.00",
@@ -281,6 +243,25 @@
       ],
       "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17917-oppskrift-pa-ekstase-med-anne-lindmo-og-nina-brochmann/",
       "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17917-oppskrift-pa-ekstase-med-anne-lindmo-og-nina-brochmann/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-adam-douglas-2026-09-10",
+      "title": "Adam Douglas",
+      "description": "Torsdag. 10. september\nkl. 19.00",
+      "date": "2026-09-10",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17581-adam-douglas/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17581-adam-douglas/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -1457,6 +1438,25 @@
       "source": "scrape"
     },
     {
+      "id": "scrape-gen-ylvis-calle-et-juleshow-2026-11-28",
+      "title": "Ylvis & Calle – Et juleshow",
+      "description": "Lørdag. 28. november\nkl. 19.00",
+      "date": "2026-11-28",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17444-ylvis-calle-et-juleshow/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17444-ylvis-calle-et-juleshow/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
       "id": "scrape-gen-jul-med-elvis-en-varm-og-stemningsfull-j-2026-11-28",
       "title": "Jul med Elvis – en varm og stemningsfull julekonsert",
       "description": "Lørdag. 28. november\nkl. 20.00",
@@ -1997,7 +1997,7 @@
   "meta": {
     "city": "lillestrom",
     "count": 104,
-    "fetchedAt": "2026-06-11T09:11:26.519Z",
+    "fetchedAt": "2026-06-12T08:56:11.694Z",
     "sources": {
       "ticketmaster": 1,
       "eventbrite": 0,

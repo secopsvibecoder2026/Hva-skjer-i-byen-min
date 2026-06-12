@@ -1,44 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-LvZ18Qf5F72XCJOZSRlqN",
-      "title": "Folkefesten: BORD til VM-åpningen + Alex Rosén Show",
-      "description": "Arrangement på Kadettangen, Sandvika",
-      "date": "2026-06-11",
-      "time": "18:00",
-      "endTime": null,
-      "location": "Kadettangen, Sandvika",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-til-vm-apningen-alex-rosen-show-tickets-XMV1FN?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-til-vm-apningen-alex-rosen-show-tickets-XMV1FN?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18QfGZbnSaWOZl9GOs",
-      "title": "Folkefesten: Mexico vs Sør-Afrika - 21:00 (FAST TRACK) + Alex Rosen Show",
-      "description": "Arrangement på Kadettangen, Sandvika",
-      "date": "2026-06-11",
-      "time": "18:00",
-      "endTime": null,
-      "location": "Kadettangen, Sandvika",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/folkefesten-mexico-vs-sor-afrika-21-00-fast-track-alex-rosen-show-tickets-QJ2YCF?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/folkefesten-mexico-vs-sor-afrika-21-00-fast-track-alex-rosen-show-tickets-QJ2YCF?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-LvZ18QK35TBlcnOZlsGbC",
       "title": "Canada - Bosnia-Hercegovina",
       "description": "Arrangement på Lekter´n, Oslo",
@@ -954,12 +916,50 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18QfGSw8tFj8ZwEzMF",
+      "title": "Folkefesten:  BORD Tyskland vs Elfenbenskysten 22:00",
+      "description": "Arrangement på Kadettangen, Sandvika",
+      "date": "2026-06-20",
+      "time": "21:30",
+      "endTime": null,
+      "location": "Kadettangen, Sandvika",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-tyskland-vs-elfenbenskysten-22-00-tickets-BP9RWY?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-tyskland-vs-elfenbenskysten-22-00-tickets-BP9RWY?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "⚽",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vF444r9",
+      "title": "Crash Club #6: blue, white and pink (18+)",
+      "description": "Arrangement på Chateau Neuf, Betong, Oslo",
+      "date": "2026-06-20",
+      "time": "22:00",
+      "endTime": null,
+      "location": "Chateau Neuf, Betong, Oslo",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/crash-club-6-blue-white-and-pink-18--tickets/1215555797?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/crash-club-6-blue-white-and-pink-18--tickets/1215555797?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/abd/cf502df9-d4a4-44b7-92be-9c3b1bd3dabd_TABLET_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎭",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 50,
-    "fetchedAt": "2026-06-11T09:11:21.490Z",
+    "fetchedAt": "2026-06-12T08:56:05.124Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,
