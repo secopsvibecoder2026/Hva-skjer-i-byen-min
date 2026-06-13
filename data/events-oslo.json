@@ -1,83 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-LvZ18QK35TBlcnOZlsGbC",
-      "title": "Canada - Bosnia-Hercegovina",
-      "description": "Arrangement på Lekter´n, Oslo",
-      "date": "2026-06-12",
-      "time": "11:00",
-      "endTime": null,
-      "location": "Lekter´n, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/canada-bosnia-hercegovina-tickets-TBW251?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/canada-bosnia-hercegovina-tickets-TBW251?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://images.universe.com/ef65b0fe-6d8d-49c6-a4af-c2311ff4736e/-/format/jpeg/-/scale_crop/1024x576/center/-/progressive/yes/-/inline/yes/",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18QfGCWReJIZZweIHC",
-      "title": "Folkefesten: Canada vs Bosnia & Herzegovina - 21:00 (FAST TRACK)",
-      "description": "Arrangement på Kadettangen, Sandvika",
-      "date": "2026-06-12",
-      "time": "18:00",
-      "endTime": null,
-      "location": "Kadettangen, Sandvika",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/folkefesten-canada-vs-bosnia-herzegovina-21-00-fast-track-tickets-89BPCQ?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/folkefesten-canada-vs-bosnia-herzegovina-21-00-fast-track-tickets-89BPCQ?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18QfGusPvaxYZlGpdr",
-      "title": "Folkefesten:  BORD Canada vs Bosnia & Herzegovina 21:00",
-      "description": "Arrangement på Kadettangen, Sandvika",
-      "date": "2026-06-12",
-      "time": "18:00",
-      "endTime": null,
-      "location": "Kadettangen, Sandvika",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-canada-vs-bosnia-herzegovina-21-00-tickets-1WBTDQ?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-canada-vs-bosnia-herzegovina-21-00-tickets-1WBTDQ?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16vC4Z9aV",
-      "title": "The Mary Wallopers",
-      "description": "Arrangement på Rockefeller, Oslo",
-      "date": "2026-06-12",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Rockefeller, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/the-mary-wallopers-tickets/1395017274?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/the-mary-wallopers-tickets/1395017274?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/4c9/51e68521-6868-4c8a-abf5-debe53d024c9_TABLET_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-LvZ18QK3Gff-nj8ZllHG8",
       "title": "Qatar - Sveits og Brasil - Marokko",
       "description": "Arrangement på Lekter´n, Oslo",
@@ -954,12 +877,89 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18QKQqMwzyQYZyPr4x",
+      "title": "Spania - Saudi-Arabia og Belgia - Iran",
+      "description": "Arrangement på Lekter´n, Oslo",
+      "date": "2026-06-21",
+      "time": "11:00",
+      "endTime": null,
+      "location": "Lekter´n, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/spania-saudi-arabia-og-belgia-iran-tickets-B9WS7F?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/spania-saudi-arabia-og-belgia-iran-tickets-B9WS7F?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "⚽",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18QfGMGFuVgZZ0X_nx",
+      "title": "Folkefesten: Spania vs Saudi Arabia - 18:00 (FAST TRACK)",
+      "description": "Arrangement på Kadettangen, Sandvika",
+      "date": "2026-06-21",
+      "time": "16:00",
+      "endTime": null,
+      "location": "Kadettangen, Sandvika",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/folkefesten-spania-vs-saudi-arabia-18-00-fast-track-tickets-2T180D?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/folkefesten-spania-vs-saudi-arabia-18-00-fast-track-tickets-2T180D?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "⚽",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18QfGgAC3zfYZywXkN",
+      "title": "Folkefesten:  BORD Spania vs Saudi Arabia 18:00",
+      "description": "Arrangement på Kadettangen, Sandvika",
+      "date": "2026-06-21",
+      "time": "16:00",
+      "endTime": null,
+      "location": "Kadettangen, Sandvika",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-spania-vs-saudi-arabia-18-00-tickets-VSBFXR?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-spania-vs-saudi-arabia-18-00-tickets-VSBFXR?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "⚽",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kfO7bbx",
+      "title": "Masterwork recital - Chopin/Grieg/Mozart/Schubert recital",
+      "description": "Arrangement på Kampen Kirke, Oslo, Oslo",
+      "date": "2026-06-21",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Kampen Kirke, Oslo, Oslo",
+      "categories": [
+        "konsert",
+        "familie"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/masterwork-recital-chopin-grieg-mozart-schubert-recital-tickets/520118622?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/masterwork-recital-chopin-grieg-mozart-schubert-recital-tickets/520118622?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/426/de51a23a-e20c-4ec2-91d3-3a13d3c87426_SOURCE",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 50,
-    "fetchedAt": "2026-06-12T08:56:05.124Z",
+    "fetchedAt": "2026-06-13T08:19:42.860Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,

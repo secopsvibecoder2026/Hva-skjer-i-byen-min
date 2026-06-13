@@ -1,29 +1,10 @@
 {
   "events": [
     {
-      "id": "scrape-gen-en-hyllest-til-earth-wind-fire-2026-06-12",
-      "title": "En hyllest til Earth, Wind & Fire",
-      "description": "Gratis",
-      "date": "2026-06-12",
-      "time": "12:00",
-      "endTime": null,
-      "location": "lillestrom-kultursenter.no",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17189-en-hyllest-til-earth-wind-fire/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17189-en-hyllest-til-earth-wind-fire/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
       "id": "scrape-gen-gi-bort-en-opplevelse--",
       "title": "Gi bort en opplevelse!",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-06-13",
+      "date": "2026-06-14",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -42,7 +23,7 @@
       "id": "scrape-gen-last-ned-v-r-app-",
       "title": "Last ned vår app",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-06-13",
+      "date": "2026-06-14",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -868,7 +849,7 @@
     {
       "id": "scrape-gen-vamp-med-stjernelag-2026-10-23",
       "title": "Vamp med stjernelag",
-      "description": "Fredag. 23. oktober\nkl. 19.00",
+      "description": "Få billetter igjen",
       "date": "2026-10-23",
       "time": "12:00",
       "endTime": null,
@@ -1996,12 +1977,12 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 104,
-    "fetchedAt": "2026-06-12T08:56:11.694Z",
+    "count": 103,
+    "fetchedAt": "2026-06-13T08:19:49.380Z",
     "sources": {
       "ticketmaster": 1,
       "eventbrite": 0,
-      "scrape": 103
+      "scrape": 102
     }
   }
 }
