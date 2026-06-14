@@ -37,14 +37,33 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18QxR3mPQ_GZZ0wc6X",
+      "title": "Bakpå Presenterer Nico D @ Savoy Terrasse",
+      "description": "Arrangement på Savoy Terrasse, Fredrikstad",
+      "date": "2026-08-28",
+      "time": "20:00",
+      "endTime": null,
+      "location": "Savoy Terrasse, Fredrikstad",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/bakpa-presenterer-nico-d-savoy-terrasse-tickets-94PLJ7?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/bakpa-presenterer-nico-d-savoy-terrasse-tickets-94PLJ7?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/27e/458d1b62-6e4f-4ffd-8941-9ed303d8e27e_106041_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "fredrikstad",
-    "count": 2,
-    "fetchedAt": "2026-06-13T08:19:53.940Z",
+    "count": 3,
+    "fetchedAt": "2026-06-14T08:39:57.125Z",
     "sources": {
-      "ticketmaster": 2,
+      "ticketmaster": 3,
       "eventbrite": 0,
       "scrape": 0
     }

@@ -39,31 +39,12 @@
       "sponsored": false,
       "featured": false,
       "source": "local"
-    },
-    {
-      "id": "alesund-3",
-      "title": "Fjordkryssing – Guida tur fra Ålesund",
-      "description": "Bli med på guidet fjordkryssing fra Ålesund med stopp ved Geirangerfjorden. Opplev det beste av norsk fjordnatur med lokale guider.",
-      "date": "2026-06-13",
-      "time": "09:00",
-      "endTime": "18:00",
-      "location": "Ålesund Rutebilstasjon, Ålesund",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://www.fjordnorway.com",
-      "affiliateUrl": "https://www.fjordnorway.com/turer?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "⛴️",
-      "sponsored": false,
-      "featured": false,
-      "source": "local"
     }
   ],
   "meta": {
     "city": "alesund",
-    "count": 3,
-    "fetchedAt": "2026-03-28T05:00:00.000Z",
+    "count": 2,
+    "fetchedAt": "2026-06-14T08:39:58.855Z",
     "sources": {
       "ticketmaster": 0,
       "eventbrite": 0,

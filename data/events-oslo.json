@@ -1,161 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-LvZ18QK3Gff-nj8ZllHG8",
-      "title": "Qatar - Sveits og Brasil - Marokko",
-      "description": "Arrangement på Lekter´n, Oslo",
-      "date": "2026-06-13",
-      "time": "11:00",
-      "endTime": null,
-      "location": "Lekter´n, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/qatar-sveits-og-brasil-marokko-tickets-PRGJW7?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/qatar-sveits-og-brasil-marokko-tickets-PRGJW7?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z1kJffEZY",
-      "title": "Wardruna - Nordic Night at Grefsenkollen, Oslo",
-      "description": "Arrangement på Oslo",
-      "date": "2026-06-13",
-      "time": "15:00",
-      "endTime": null,
-      "location": "Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/wardruna-nordic-night-at-grefsenkollen-oslo-tickets/994527030?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/wardruna-nordic-night-at-grefsenkollen-oslo-tickets/994527030?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/2e3/e0c6cbe1-ab88-44fd-82c2-8128fdf982e3_SOURCE",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18QfG8MXs1FZZ0uzIl",
-      "title": "Folkefesten:  BORD Qatar vs Sveits 21:00",
-      "description": "Arrangement på Kadettangen, Sandvika",
-      "date": "2026-06-13",
-      "time": "18:00",
-      "endTime": null,
-      "location": "Kadettangen, Sandvika",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-qatar-vs-sveits-21-00-tickets-KM0TFL?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-qatar-vs-sveits-21-00-tickets-KM0TFL?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16vjd70Ag",
-      "title": "Extreme",
-      "description": "Arrangement på Sentrum Scene, Oslo",
-      "date": "2026-06-13",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Sentrum Scene, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/extreme-tickets/1703124175?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/extreme-tickets/1703124175?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/9f1/57f233b6-f6fb-4021-8d0f-0bd3f80b19f1_TABLET_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18Q_p0MtSJ28Z0BCcN",
-      "title": "Kjöter: Danser med Djevelen // Supp: Hofmann's",
-      "description": "Arrangement på Oslo",
-      "date": "2026-06-13",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "ticketUrl": "https://www.universe.com/events/kjoter-danser-med-djevelen-supp-hofmanns-tickets-8Q5YRW?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/kjoter-danser-med-djevelen-supp-hofmanns-tickets-8Q5YRW?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://images.universe.com/4af85293-77f1-4003-b1c6-311587b408ce/-/format/jpeg/-/scale_crop/1024x576/center/-/progressive/yes/-/inline/yes/",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16vx30_1K",
-      "title": "André Rieu",
-      "description": "Arrangement på Unity Arena, Fornebu",
-      "date": "2026-06-13",
-      "time": "19:30",
-      "endTime": null,
-      "location": "Unity Arena, Fornebu",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/andre-rieu-tickets/1892919293?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/andre-rieu-tickets/1892919293?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/ca7/33bc0a00-4387-4752-865a-14a6251ebca7_SOURCE",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18QfGKlZ6sNZZw8v3A",
-      "title": "Folkefesten: Brasil vs Marokko - 00:00 (FAST TRACK)",
-      "description": "Arrangement på Kadettangen, Sandvika",
-      "date": "2026-06-13",
-      "time": "23:00",
-      "endTime": null,
-      "location": "Kadettangen, Sandvika",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/folkefesten-brasil-vs-marokko-00-00-fast-track-tickets-G9HR5V?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/folkefesten-brasil-vs-marokko-00-00-fast-track-tickets-G9HR5V?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18QfG3fYh9pYZ0OuOQ",
-      "title": "Folkefesten:  BORD Brasil vs Marokko 00:00",
-      "description": "Arrangement på Kadettangen, Sandvika",
-      "date": "2026-06-13",
-      "time": "23:30",
-      "endTime": null,
-      "location": "Kadettangen, Sandvika",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-brasil-vs-marokko-00-00-tickets-1PK7XH?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-brasil-vs-marokko-00-00-tickets-1PK7XH?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-LvZ18QKQ9-NnSCOZ0zOCR",
       "title": "Tyskland - Curaçao og Nederland - Japan",
       "description": "Arrangement på Lekter´n, Oslo",
@@ -954,12 +799,164 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18QfGMcQ8M1OZ0V_GZ",
+      "title": "Folkefesten:  BORD Belgia vs Iran 21:00",
+      "description": "Arrangement på Kadettangen, Sandvika",
+      "date": "2026-06-21",
+      "time": "20:30",
+      "endTime": null,
+      "location": "Kadettangen, Sandvika",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-belgia-vs-iran-21-00-tickets-LF3Z2X?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-belgia-vs-iran-21-00-tickets-LF3Z2X?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "⚽",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18QfGz270mXZZ0FNdL",
+      "title": "Folkefesten: Belgia vs Iran - 21:00 (FAST TRACK)",
+      "description": "Arrangement på Kadettangen, Sandvika",
+      "date": "2026-06-21",
+      "time": "20:30",
+      "endTime": null,
+      "location": "Kadettangen, Sandvika",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/folkefesten-belgia-vs-iran-21-00-fast-track-tickets-BHGL3W?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/folkefesten-belgia-vs-iran-21-00-fast-track-tickets-BHGL3W?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "⚽",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18QKQrJjlVY8Z0zuo8",
+      "title": "Norge - Senegal og Frankrike - Irak og Argentina - Østerrike",
+      "description": "Arrangement på Lekter´n, Oslo",
+      "date": "2026-06-22",
+      "time": "11:00",
+      "endTime": null,
+      "location": "Lekter´n, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/norge-senegal-og-frankrike-irak-og-argentina-osterrike-tickets-JXHLV0?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/norge-senegal-og-frankrike-irak-og-argentina-osterrike-tickets-JXHLV0?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "⚽",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18QfGyGgc-G8ZwJVoZ",
+      "title": "Folkefesten: Argentina vs Østerrike - 19:00 (FAST TRACK)",
+      "description": "Arrangement på Kadettangen, Sandvika",
+      "date": "2026-06-22",
+      "time": "16:00",
+      "endTime": null,
+      "location": "Kadettangen, Sandvika",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/folkefesten-argentina-vs-osterrike-19-00-fast-track-tickets-J6830X?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/folkefesten-argentina-vs-osterrike-19-00-fast-track-tickets-J6830X?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "⚽",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18QfGzRX3zfYZ0wXfs",
+      "title": "Folkefesten: BORD Argentina vs Østerrike 19:00",
+      "description": "Arrangement på Kadettangen, Sandvika",
+      "date": "2026-06-22",
+      "time": "16:00",
+      "endTime": null,
+      "location": "Kadettangen, Sandvika",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-argentina-vs-osterrike-19-00-tickets-4RM17G?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-argentina-vs-osterrike-19-00-tickets-4RM17G?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "⚽",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vu9Faqx",
+      "title": "Joost Klein: World Tour",
+      "description": "Arrangement på Sentrum Scene, Oslo",
+      "date": "2026-06-22",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Sentrum Scene, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/joost-klein-world-tour-tickets/1357209762?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/joost-klein-world-tour-tickets/1357209762?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/0ab/5683364a-24bb-49c4-95f7-69794b4dd0ab_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18QfGDK-XFdZZwJEvI",
+      "title": "Folkefesten: BORD Norge vs Senegal (kl. 02:00)",
+      "description": "Arrangement på Kadettangen, Sandvika",
+      "date": "2026-06-23",
+      "time": "01:30",
+      "endTime": null,
+      "location": "Kadettangen, Sandvika",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-norge-vs-senegal-kl-02-00-tickets-2PVR37?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-norge-vs-senegal-kl-02-00-tickets-2PVR37?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "⚽",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18QKQLq5ftt8Z0PU0G",
+      "title": "Portugal - Usbekistan og England - Ghana",
+      "description": "Arrangement på Lekter´n, Oslo",
+      "date": "2026-06-23",
+      "time": "11:00",
+      "endTime": null,
+      "location": "Lekter´n, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/portugal-usbekistan-og-england-ghana-tickets-KBL40Z?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/portugal-usbekistan-og-england-ghana-tickets-KBL40Z?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "⚽",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 50,
-    "fetchedAt": "2026-06-13T08:19:42.860Z",
+    "fetchedAt": "2026-06-14T08:39:36.468Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,
