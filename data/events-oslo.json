@@ -1,120 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-LvZ18QKQ9-NnSCOZ0zOCR",
-      "title": "Tyskland - Curaçao og Nederland - Japan",
-      "description": "Arrangement på Lekter´n, Oslo",
-      "date": "2026-06-14",
-      "time": "11:00",
-      "endTime": null,
-      "location": "Lekter´n, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/tyskland-curacao-og-nederland-japan-tickets-864BSR?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/tyskland-curacao-og-nederland-japan-tickets-864BSR?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://images.universe.com/650c862c-a641-4740-aa53-a7e8be77804f/-/format/jpeg/-/scale_crop/1024x576/center/-/progressive/yes/-/inline/yes/",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18QfG9nfuDsOZw_x9l",
-      "title": "Folkefesten: Tyskland vs Curacao - 19:00 (FAST TRACK)",
-      "description": "Arrangement på Kadettangen, Sandvika",
-      "date": "2026-06-14",
-      "time": "16:00",
-      "endTime": null,
-      "location": "Kadettangen, Sandvika",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/folkefesten-tyskland-vs-curacao-19-00-fast-track-tickets-0ZKNV9?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/folkefesten-tyskland-vs-curacao-19-00-fast-track-tickets-0ZKNV9?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18QfGpY0uDsOZy_xqU",
-      "title": "Folkefesten: BORD Tyskland vs Curacao 19:00",
-      "description": "Arrangement på Kadettangen, Sandvika",
-      "date": "2026-06-14",
-      "time": "16:00",
-      "endTime": null,
-      "location": "Kadettangen, Sandvika",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-tyskland-vs-curacao-19-00-tickets-V9H63F?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-tyskland-vs-curacao-19-00-tickets-V9H63F?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18QfG_naqiEOZyj6kW",
-      "title": "Folkefesten: Nederland vs Japan - 22:00 (FAST TRACK)",
-      "description": "Arrangement på Kadettangen, Sandvika",
-      "date": "2026-06-14",
-      "time": "21:30",
-      "endTime": null,
-      "location": "Kadettangen, Sandvika",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/folkefesten-nederland-vs-japan-22-00-fast-track-tickets-C9L62R?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/folkefesten-nederland-vs-japan-22-00-fast-track-tickets-C9L62R?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18QfGbIu-pzYZyl79j",
-      "title": "Folkefesten:  BORD Nederland vs Japan 22:00",
-      "description": "Arrangement på Kadettangen, Sandvika",
-      "date": "2026-06-14",
-      "time": "21:30",
-      "endTime": null,
-      "location": "Kadettangen, Sandvika",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-nederland-vs-japan-22-00-tickets-KJRTF1?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-nederland-vs-japan-22-00-tickets-KJRTF1?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18QKQbtDftt8ZlPU-z",
-      "title": "Spania - Kapp Verde og Belgia - Egypt",
-      "description": "Arrangement på Lekter´n, Oslo",
-      "date": "2026-06-15",
-      "time": "11:00",
-      "endTime": null,
-      "location": "Lekter´n, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/spania-kapp-verde-og-belgia-egypt-tickets-0BWGF9?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/spania-kapp-verde-og-belgia-egypt-tickets-0BWGF9?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-LvZ18QfGQxfuDsOZ0_xPk",
       "title": "Folkefesten:  BORD Spania vs Kapp Verde 18:00",
       "description": "Arrangement på Kadettangen, Sandvika",
@@ -459,7 +345,7 @@
     },
     {
       "id": "tm-LvZ18QKQjQSUmt8Z0W4ez",
-      "title": "USA - Australia og Skottland - Marokko",
+      "title": "USA - Australia og Skottland - Marokko og Brasil - Haiti",
       "description": "Arrangement på Lekter´n, Oslo",
       "date": "2026-06-19",
       "time": "11:00",
@@ -468,8 +354,8 @@
       "categories": [
         "konsert"
       ],
-      "ticketUrl": "https://www.universe.com/events/usa-australia-og-skottland-marokko-tickets-1T2NSM?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/usa-australia-og-skottland-marokko-tickets-1T2NSM?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "ticketUrl": "https://www.universe.com/events/usa-australia-og-skottland-marokko-og-brasil-haiti-tickets-1T2NSM?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/usa-australia-og-skottland-marokko-og-brasil-haiti-tickets-1T2NSM?ref=ticketmaster&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
       "imageEmoji": "⚽",
       "sponsored": false,
@@ -485,7 +371,8 @@
       "endTime": null,
       "location": "Rockefeller, Oslo",
       "categories": [
-        "konsert"
+        "konsert",
+        "uteliv"
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/cc-cowboys-tickets/204341969?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/cc-cowboys-tickets/204341969?language=en-us&ref=hvaSkjerIByenMin",
@@ -951,12 +838,126 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18QfGDS2sNOYZys4Nq",
+      "title": "Folkefesten:  BORD Portugal vs Usbekistan 19:00",
+      "description": "Arrangement på Kadettangen, Sandvika",
+      "date": "2026-06-23",
+      "time": "16:00",
+      "endTime": null,
+      "location": "Kadettangen, Sandvika",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-portugal-vs-usbekistan-19-00-tickets-8LZG5C?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-portugal-vs-usbekistan-19-00-tickets-8LZG5C?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "⚽",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18QfGHbRsNOYZys4PE",
+      "title": "Folkefesten: Portugal vs Usbekistan - 19:00 (FAST TRACK)",
+      "description": "Arrangement på Kadettangen, Sandvika",
+      "date": "2026-06-23",
+      "time": "16:00",
+      "endTime": null,
+      "location": "Kadettangen, Sandvika",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/folkefesten-portugal-vs-usbekistan-19-00-fast-track-tickets-J5LTVN?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/folkefesten-portugal-vs-usbekistan-19-00-fast-track-tickets-J5LTVN?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "⚽",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18QfGHV-XFdZZlJEaC",
+      "title": "Folkefesten:  BORD England vs Ghana 22:00",
+      "description": "Arrangement på Kadettangen, Sandvika",
+      "date": "2026-06-23",
+      "time": "21:30",
+      "endTime": null,
+      "location": "Kadettangen, Sandvika",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-england-vs-ghana-22-00-tickets-DHFK59?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-england-vs-ghana-22-00-tickets-DHFK59?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "⚽",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18QfGWGIuVgZZlXQkX",
+      "title": "Folkefesten: England vs Ghana - 22:00 (FAST TRACK)",
+      "description": "Arrangement på Kadettangen, Sandvika",
+      "date": "2026-06-23",
+      "time": "21:30",
+      "endTime": null,
+      "location": "Kadettangen, Sandvika",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/folkefesten-england-vs-ghana-22-00-fast-track-tickets-80KL2C?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/folkefesten-england-vs-ghana-22-00-fast-track-tickets-80KL2C?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "⚽",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18QfGWnIuVgZZ0X_Wu",
+      "title": "Folkefesten:  BORD Panama vs Kroatia 01:00",
+      "description": "Arrangement på Kadettangen, Sandvika",
+      "date": "2026-06-24",
+      "time": "00:30",
+      "endTime": null,
+      "location": "Kadettangen, Sandvika",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-panama-vs-kroatia-01-00-tickets-BW307D?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-panama-vs-kroatia-01-00-tickets-BW307D?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "⚽",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18QKQNKKnSCOZyz-7F",
+      "title": "Sveits - Canada og Skottland - Brasil",
+      "description": "Arrangement på Lekter´n, Oslo",
+      "date": "2026-06-24",
+      "time": "11:00",
+      "endTime": null,
+      "location": "Lekter´n, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/sveits-canada-og-skottland-brasil-tickets-L2DNC8?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/sveits-canada-og-skottland-brasil-tickets-L2DNC8?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "⚽",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 50,
-    "fetchedAt": "2026-06-14T08:39:36.468Z",
+    "fetchedAt": "2026-06-15T10:54:03.296Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,
