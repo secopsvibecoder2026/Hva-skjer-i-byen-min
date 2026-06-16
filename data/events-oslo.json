@@ -1,82 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-LvZ18QfGQxfuDsOZ0_xPk",
-      "title": "Folkefesten:  BORD Spania vs Kapp Verde 18:00",
-      "description": "Arrangement på Kadettangen, Sandvika",
-      "date": "2026-06-15",
-      "time": "16:00",
-      "endTime": null,
-      "location": "Kadettangen, Sandvika",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-spania-vs-kapp-verde-18-00-tickets-4WMC9S?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-spania-vs-kapp-verde-18-00-tickets-4WMC9S?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18QfGqrQgtbOZy44WC",
-      "title": "Folkefesten: Belgia vs Egypt - 21:00 (FAST TRACK)",
-      "description": "Arrangement på Kadettangen, Sandvika",
-      "date": "2026-06-15",
-      "time": "19:30",
-      "endTime": null,
-      "location": "Kadettangen, Sandvika",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/folkefesten-belgia-vs-egypt-21-00-fast-track-tickets-LQRYN6?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/folkefesten-belgia-vs-egypt-21-00-fast-track-tickets-LQRYN6?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18QfGj0VuDsOZ0_xU0",
-      "title": "Folkefesten:  BORD Belgia vs Egypt 21:00",
-      "description": "Arrangement på Kadettangen, Sandvika",
-      "date": "2026-06-15",
-      "time": "20:30",
-      "endTime": null,
-      "location": "Kadettangen, Sandvika",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-belgia-vs-egypt-21-00-tickets-GFDC03?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-belgia-vs-egypt-21-00-tickets-GFDC03?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18QK389izA0OZ0ZgqV",
-      "title": "Norge - Irak og Frankrike - Senegal",
-      "description": "Arrangement på Lekter´n, Oslo",
-      "date": "2026-06-16",
-      "time": "11:00",
-      "endTime": null,
-      "location": "Lekter´n, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/norge-irak-og-frankrike-senegal-tickets-RSGQL9?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/norge-irak-og-frankrike-senegal-tickets-RSGQL9?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-LvZ18QfGrs7uDsOZw_xwp",
       "title": "Folkefesten: BORD Frankrike vs Senegal (kl 21:00)",
       "description": "Arrangement på Kadettangen, Sandvika",
@@ -952,12 +876,88 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18QfGX218M1OZlV_xH",
+      "title": "Folkefesten:  BORD Bosnia & Herzegovina vs Qatar 21:00",
+      "description": "Arrangement på Kadettangen, Sandvika",
+      "date": "2026-06-24",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Kadettangen, Sandvika",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-bosnia-herzegovina-vs-qatar-21-00-tickets-VXTQWG?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-bosnia-herzegovina-vs-qatar-21-00-tickets-VXTQWG?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "⚽",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18QfGXtsXFdZZ0JJDJ",
+      "title": "Folkefesten: Bosnia & Herzegovina vs Qatar - 21:00 (FAST TRACK)",
+      "description": "Arrangement på Kadettangen, Sandvika",
+      "date": "2026-06-24",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Kadettangen, Sandvika",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/folkefesten-bosnia-herzegovina-vs-qatar-21-00-fast-track-tickets-FZQL13?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/folkefesten-bosnia-herzegovina-vs-qatar-21-00-fast-track-tickets-FZQL13?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "⚽",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18QfGTYAc-G8ZyJV0P",
+      "title": "Folkefesten: Skottland vs Brasil - 00:00 (FAST TRACK)",
+      "description": "Arrangement på Kadettangen, Sandvika",
+      "date": "2026-06-25",
+      "time": "00:00",
+      "endTime": null,
+      "location": "Kadettangen, Sandvika",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/folkefesten-skottland-vs-brasil-00-00-fast-track-tickets-TSL8F1?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/folkefesten-skottland-vs-brasil-00-00-fast-track-tickets-TSL8F1?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "⚽",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18QfGT_Q8M1OZlV_JG",
+      "title": "Folkefesten:  BORD Skottland vs Brasil 00:00",
+      "description": "Arrangement på Kadettangen, Sandvika",
+      "date": "2026-06-25",
+      "time": "00:00",
+      "endTime": null,
+      "location": "Kadettangen, Sandvika",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-skottland-vs-brasil-00-00-tickets-HG0CRP?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-skottland-vs-brasil-00-00-tickets-HG0CRP?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "⚽",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 50,
-    "fetchedAt": "2026-06-15T10:54:03.296Z",
+    "fetchedAt": "2026-06-16T10:05:34.051Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,
