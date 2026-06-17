@@ -4,7 +4,7 @@
       "id": "scrape-gen-gi-bort-en-opplevelse--",
       "title": "Gi bort en opplevelse!",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -23,7 +23,7 @@
       "id": "scrape-gen-last-ned-v-r-app-",
       "title": "Last ned vår app",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -524,7 +524,7 @@
     {
       "id": "scrape-gen-men-har-du-pr-vd-yoga--2026-09-25",
       "title": "Men har du prøvd yoga?",
-      "description": "Fredag. 25. september\nkl. 19.30",
+      "description": "Få billetter igjen",
       "date": "2026-09-25",
       "time": "12:00",
       "endTime": null,
@@ -1978,7 +1978,7 @@
   "meta": {
     "city": "lillestrom",
     "count": 103,
-    "fetchedAt": "2026-06-16T10:05:39.837Z",
+    "fetchedAt": "2026-06-17T09:28:16.969Z",
     "sources": {
       "ticketmaster": 1,
       "eventbrite": 0,

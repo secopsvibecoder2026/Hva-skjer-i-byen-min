@@ -1,63 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-LvZ18QfGrs7uDsOZw_xwp",
-      "title": "Folkefesten: BORD Frankrike vs Senegal (kl 21:00)",
-      "description": "Arrangement på Kadettangen, Sandvika",
-      "date": "2026-06-16",
-      "time": "16:00",
-      "endTime": null,
-      "location": "Kadettangen, Sandvika",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-frankrike-vs-senegal-kl-21-00-tickets-BRCV2Y?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-frankrike-vs-senegal-kl-21-00-tickets-BRCV2Y?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18QfGLpZtFj8Z0EMNM",
-      "title": "Folkefesten: BORD Norge vs Irak (17. juni kl 00:01)",
-      "description": "Arrangement på Kadettangen, Sandvika",
-      "date": "2026-06-16",
-      "time": "23:30",
-      "endTime": null,
-      "location": "Kadettangen, Sandvika",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-norge-vs-irak-17-juni-kl-00-01-tickets-T2GNXP?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-norge-vs-irak-17-juni-kl-00-01-tickets-T2GNXP?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18QKQQKHlVY8Zlzuvf",
-      "title": "Portugal - Kongo og England - Kroatia",
-      "description": "Arrangement på Lekter´n, Oslo",
-      "date": "2026-06-17",
-      "time": "11:00",
-      "endTime": null,
-      "location": "Lekter´n, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/portugal-kongo-og-england-kroatia-tickets-16R4SL?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/portugal-kongo-og-england-kroatia-tickets-16R4SL?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-LvZ18QfG0B8tFj8ZwEMzc",
       "title": "Folkefesten: Portugal vs DR Kongo - 19:00 (FAST TRACK)",
       "description": "Arrangement på Kadettangen, Sandvika",
@@ -952,12 +895,69 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18QKQ--NLY28ZwhpfG",
+      "title": "Ecuador - Tyskland og Japan - Sverige",
+      "description": "Arrangement på Lekter´n, Oslo",
+      "date": "2026-06-25",
+      "time": "11:00",
+      "endTime": null,
+      "location": "Lekter´n, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/ecuador-tyskland-og-japan-sverige-tickets-C073MG?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/ecuador-tyskland-og-japan-sverige-tickets-C073MG?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://images.universe.com/95ea2952-82c4-47cc-ad40-920e7f4d6397/-/format/jpeg/-/scale_crop/1024x576/center/-/progressive/yes/-/inline/yes/",
+      "imageEmoji": "⚽",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18QfuZ8Q8M1OZlV_n4",
+      "title": "Folkefesten:  BORD Ekvador vs Tyskland 22:00",
+      "description": "Arrangement på Kadettangen, Sandvika",
+      "date": "2026-06-25",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Kadettangen, Sandvika",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-ekvador-vs-tyskland-22-00-tickets-Z3R7LQ?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-ekvador-vs-tyskland-22-00-tickets-Z3R7LQ?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "⚽",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18QfuZnV0mXZZwFNPg",
+      "title": "Folkefesten: Ekvador vs Tyskland - 22:00 (FAST TRACK)",
+      "description": "Arrangement på Kadettangen, Sandvika",
+      "date": "2026-06-25",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Kadettangen, Sandvika",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/folkefesten-ekvador-vs-tyskland-22-00-fast-track-tickets-PG8S7C?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/folkefesten-ekvador-vs-tyskland-22-00-fast-track-tickets-PG8S7C?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "⚽",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 50,
-    "fetchedAt": "2026-06-16T10:05:34.051Z",
+    "fetchedAt": "2026-06-17T09:28:12.696Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,
