@@ -4,7 +4,7 @@
       "id": "scrape-gen-gi-bort-en-opplevelse--",
       "title": "Gi bort en opplevelse!",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-06-18",
+      "date": "2026-06-19",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -23,7 +23,7 @@
       "id": "scrape-gen-last-ned-v-r-app-",
       "title": "Last ned vår app",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-06-18",
+      "date": "2026-06-19",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -524,7 +524,7 @@
     {
       "id": "scrape-gen-men-har-du-pr-vd-yoga--2026-09-25",
       "title": "Men har du prøvd yoga?",
-      "description": "Få billetter igjen",
+      "description": "Fredag. 25. september\nkl. 19.30",
       "date": "2026-09-25",
       "time": "12:00",
       "endTime": null,
@@ -1956,6 +1956,25 @@
       "source": "scrape"
     },
     {
+      "id": "scrape-gen-hans-wilhelm-steinfeld-russland-v-r-dyst-2027-04-06",
+      "title": "Hans-Wilhelm Steinfeld – Russland – Vår dystre nåtid",
+      "description": "Tirsdag. 6. april 2027\nkl. 19.00",
+      "date": "2027-04-06",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/18048-hans-wilhelm-steinfeld-russland-var-dystre-natid/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/18048-hans-wilhelm-steinfeld-russland-var-dystre-natid/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
       "id": "scrape-gen-kulturkaf-arne-benoni-2027-04-22",
       "title": "Kulturkafé – Arne Benoni",
       "description": "Torsdag. 22. april 2027\nkl. 12.00",
@@ -1977,12 +1996,12 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 103,
-    "fetchedAt": "2026-06-17T09:28:16.969Z",
+    "count": 104,
+    "fetchedAt": "2026-06-18T09:12:11.820Z",
     "sources": {
       "ticketmaster": 1,
       "eventbrite": 0,
-      "scrape": 102
+      "scrape": 103
     }
   }
 }
