@@ -4,7 +4,7 @@
       "id": "scrape-gen-gi-bort-en-opplevelse--",
       "title": "Gi bort en opplevelse!",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-06-19",
+      "date": "2026-06-20",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -23,7 +23,7 @@
       "id": "scrape-gen-last-ned-v-r-app-",
       "title": "Last ned vår app",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-06-19",
+      "date": "2026-06-20",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -212,25 +212,6 @@
       "source": "scrape"
     },
     {
-      "id": "scrape-gen-oppskrift-p-ekstase-med-anne-lindmo-og-n-2026-09-10",
-      "title": "Oppskrift på ekstase med Anne Lindmo og Nina Brochmann",
-      "description": "Torsdag. 10. september\nkl. 19.00",
-      "date": "2026-09-10",
-      "time": "12:00",
-      "endTime": null,
-      "location": "lillestrom-kultursenter.no",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17917-oppskrift-pa-ekstase-med-anne-lindmo-og-nina-brochmann/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17917-oppskrift-pa-ekstase-med-anne-lindmo-og-nina-brochmann/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
       "id": "scrape-gen-adam-douglas-2026-09-10",
       "title": "Adam Douglas",
       "description": "Torsdag. 10. september\nkl. 19.00",
@@ -243,6 +224,25 @@
       ],
       "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17581-adam-douglas/",
       "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17581-adam-douglas/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-oppskrift-p-ekstase-med-anne-lindmo-og-n-2026-09-10",
+      "title": "Oppskrift på ekstase med Anne Lindmo og Nina Brochmann",
+      "description": "Torsdag. 10. september\nkl. 19.00",
+      "date": "2026-09-10",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17917-oppskrift-pa-ekstase-med-anne-lindmo-og-nina-brochmann/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17917-oppskrift-pa-ekstase-med-anne-lindmo-og-nina-brochmann/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -1171,6 +1171,25 @@
       "source": "scrape"
     },
     {
+      "id": "scrape-gen-noman-mobashir-m-rke-menn-som-pusher-50-2026-11-11",
+      "title": "Noman Mobashir – Mørke menn som pusher 50",
+      "description": "Onsdag. 11. november\nkl. 19.00",
+      "date": "2026-11-11",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/18064-noman-mobashir-morke-menn-som-pusher-50/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/18064-noman-mobashir-morke-menn-som-pusher-50/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
       "id": "scrape-gen-kulturkaf-wwb-trio-2026-11-12",
       "title": "Kulturkafé – WWB trio",
       "description": "Torsdag. 12. november\nkl. 12.00",
@@ -1996,12 +2015,12 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 104,
-    "fetchedAt": "2026-06-18T09:12:11.820Z",
+    "count": 105,
+    "fetchedAt": "2026-06-19T09:27:15.676Z",
     "sources": {
       "ticketmaster": 1,
       "eventbrite": 0,
-      "scrape": 103
+      "scrape": 104
     }
   }
 }

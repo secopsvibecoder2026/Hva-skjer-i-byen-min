@@ -1,160 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-LvZ18QfGh1fuDsOZw_xJ2",
-      "title": "Folkefesten: Tsjekkia - Sør-Afrika - 18:00 (FAST TRACK)",
-      "description": "Arrangement på Kadettangen, Sandvika",
-      "date": "2026-06-18",
-      "time": "16:00",
-      "endTime": null,
-      "location": "Kadettangen, Sandvika",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/folkefesten-tsjekkia-sor-afrika-18-00-fast-track-tickets-80KHPG?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/folkefesten-tsjekkia-sor-afrika-18-00-fast-track-tickets-80KHPG?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18QfGkSu-pzYZ0ldtE",
-      "title": "Folkefesten:  BORD Tsjekkia - Sør-Afrika 18:00",
-      "description": "Arrangement på Kadettangen, Sandvika",
-      "date": "2026-06-18",
-      "time": "16:00",
-      "endTime": null,
-      "location": "Kadettangen, Sandvika",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-tsjekkia-sor-afrika-18-00-tickets-SGL85Q?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-tsjekkia-sor-afrika-18-00-tickets-SGL85Q?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16eZP8db4",
-      "title": "St.Hans Tjuvholmen presenterer",
-      "description": "Arrangement på Tjuvholmen Bystrand, Oslo",
-      "date": "2026-06-18",
-      "time": "17:30",
-      "endTime": null,
-      "location": "Tjuvholmen Bystrand, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/sthans-tjuvholmen-presenterer-tickets/2025403615?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/sthans-tjuvholmen-presenterer-tickets/2025403615?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/79b/eba713b4-868c-4b5b-b05e-e1e8870b679b_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z1kAY7Y8J",
-      "title": "SYNG om kjærlighet",
-      "description": "Arrangement på Oslo domkirke, Oslo",
-      "date": "2026-06-18",
-      "time": "20:00",
-      "endTime": null,
-      "location": "Oslo domkirke, Oslo",
-      "categories": [
-        "konsert",
-        "familie"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/syng-om-kjaerlighet-tickets/170130426?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/syng-om-kjaerlighet-tickets/170130426?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/b59/dae39675-ae15-4bc6-acfd-859c76414b59_SOURCE",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18QfGcY18M1OZlVbR6",
-      "title": "Folkefesten:  BORD Sveits - Bosnia & Herzegovina 21:00",
-      "description": "Arrangement på Kadettangen, Sandvika",
-      "date": "2026-06-18",
-      "time": "20:30",
-      "endTime": null,
-      "location": "Kadettangen, Sandvika",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-sveits-bosnia-herzegovina-21-00-tickets-5PT1JL?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-sveits-bosnia-herzegovina-21-00-tickets-5PT1JL?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18QfGm1FuVgZZlX_Qv",
-      "title": "Folkefesten: Sveits vs Bosnia & Herzegovina - 21:00 (FAST TRACK)",
-      "description": "Arrangement på Kadettangen, Sandvika",
-      "date": "2026-06-18",
-      "time": "20:30",
-      "endTime": null,
-      "location": "Kadettangen, Sandvika",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/folkefesten-sveits-vs-bosnia-herzegovina-21-00-fast-track-tickets-KBGY50?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/folkefesten-sveits-vs-bosnia-herzegovina-21-00-fast-track-tickets-KBGY50?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18QfGY3X3zfYZ0wWBR",
-      "title": "Folkefesten:  BORD Canada vs Qatar 00:00",
-      "description": "Arrangement på Kadettangen, Sandvika",
-      "date": "2026-06-19",
-      "time": "00:00",
-      "endTime": null,
-      "location": "Kadettangen, Sandvika",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-canada-vs-qatar-00-00-tickets-5WGKL0?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-canada-vs-qatar-00-00-tickets-5WGKL0?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18QKQjQSUmt8Z0W4ez",
-      "title": "USA - Australia og Skottland - Marokko og Brasil - Haiti",
-      "description": "Arrangement på Lekter´n, Oslo",
-      "date": "2026-06-19",
-      "time": "11:00",
-      "endTime": null,
-      "location": "Lekter´n, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/usa-australia-og-skottland-marokko-og-brasil-haiti-tickets-1T2NSM?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/usa-australia-og-skottland-marokko-og-brasil-haiti-tickets-1T2NSM?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z1kF7uvPt",
       "title": "CC Cowboys",
       "description": "Arrangement på Rockefeller, Oslo",
@@ -701,7 +547,7 @@
       ],
       "ticketUrl": "https://www.universe.com/events/folkefesten-england-vs-ghana-22-00-fast-track-tickets-80KL2C?ref=ticketmaster",
       "affiliateUrl": "https://www.universe.com/events/folkefesten-england-vs-ghana-22-00-fast-track-tickets-80KL2C?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
       "imageEmoji": "⚽",
       "sponsored": false,
       "featured": false,
@@ -953,12 +799,165 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18QKQ0LwzyQYZyPLqi",
+      "title": "Panama - England og Colombia - Portugal",
+      "description": "Arrangement på Lekter´n, Oslo",
+      "date": "2026-06-27",
+      "time": "11:00",
+      "endTime": null,
+      "location": "Lekter´n, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/panama-england-og-colombia-portugal-tickets-P468MW?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/panama-england-og-colombia-portugal-tickets-P468MW?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://images.universe.com/6d0a0393-2aed-47b6-a754-3da4198c424d/-/format/jpeg/-/scale_crop/1024x576/center/-/progressive/yes/-/inline/yes/",
+      "imageEmoji": "⚽",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18Qfudum3zfYZwwXYO",
+      "title": "Folkefesten: Panama vs England - 23:00 (FAST TRACK)",
+      "description": "Arrangement på Kadettangen, Sandvika",
+      "date": "2026-06-27",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Kadettangen, Sandvika",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/folkefesten-panama-vs-england-23-00-fast-track-tickets-4WD6K5?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/folkefesten-panama-vs-england-23-00-fast-track-tickets-4WD6K5?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "⚽",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18QfuesTsNOYZ0s40G",
+      "title": "Folkefesten:  BORD Panama vs England 23:00",
+      "description": "Arrangement på Kadettangen, Sandvika",
+      "date": "2026-06-27",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Kadettangen, Sandvika",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-panama-vs-england-23-00-tickets-T4GMK3?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-panama-vs-england-23-00-tickets-T4GMK3?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "⚽",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kF4FFak",
+      "title": "Morrissey",
+      "description": "Arrangement på Nova Spektrum Lillestrøm, Lillestrøm",
+      "date": "2026-06-27",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Nova Spektrum Lillestrøm, Lillestrøm",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/morrissey-tickets/215208246?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/morrissey-tickets/215208246?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/50e/94157ccd-9171-4c92-b0c8-73a2bfc2950e_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16v38-MuU",
+      "title": "Skeiv Natt 2026",
+      "description": "Arrangement på Rockefeller, Oslo",
+      "date": "2026-06-27",
+      "time": "21:00",
+      "endTime": null,
+      "location": "Rockefeller, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/skeiv-natt-2026-tickets/1490877376?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/skeiv-natt-2026-tickets/1490877376?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/43e/240082cd-9562-4dcb-b486-c06ec814343e_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18Qf2Zx8tFj8Z0EW-6",
+      "title": "Folkefesten:  FAST TRACK 32-delsfinale 2A vs 2B 21:00",
+      "description": "Arrangement på Kadettangen, Sandvika",
+      "date": "2026-06-28",
+      "time": "18:00",
+      "endTime": null,
+      "location": "Kadettangen, Sandvika",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/folkefesten-fast-track-32-delsfinale-2a-vs-2b-21-00-tickets-ZL265K?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/folkefesten-fast-track-32-delsfinale-2a-vs-2b-21-00-tickets-ZL265K?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "⚽",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18QfCXiIuVgZZwXrYm",
+      "title": "Folkefesten:  BORD 32-delsfinale 2A vs 2B 21:00",
+      "description": "Arrangement på Kadettangen, Sandvika",
+      "date": "2026-06-28",
+      "time": "18:00",
+      "endTime": null,
+      "location": "Kadettangen, Sandvika",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-32-delsfinale-2a-vs-2b-21-00-tickets-BPM597?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-32-delsfinale-2a-vs-2b-21-00-tickets-BPM597?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "⚽",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18Qf2d1gc-G8ZwJyAE",
+      "title": "Folkefesten:  BORD 32-delsfinale 1C vs 2F 19:00",
+      "description": "Arrangement på Kadettangen, Sandvika",
+      "date": "2026-06-29",
+      "time": "16:00",
+      "endTime": null,
+      "location": "Kadettangen, Sandvika",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-32-delsfinale-1c-vs-2f-19-00-tickets-5W14KV?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-32-delsfinale-1c-vs-2f-19-00-tickets-5W14KV?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "⚽",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 50,
-    "fetchedAt": "2026-06-18T09:12:05.902Z",
+    "fetchedAt": "2026-06-19T09:27:11.703Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,
