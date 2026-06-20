@@ -4,7 +4,7 @@
       "id": "scrape-gen-gi-bort-en-opplevelse--",
       "title": "Gi bort en opplevelse!",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-06-20",
+      "date": "2026-06-21",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -23,7 +23,7 @@
       "id": "scrape-gen-last-ned-v-r-app-",
       "title": "Last ned vår app",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-06-20",
+      "date": "2026-06-21",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -573,6 +573,25 @@
       ],
       "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17791-dragbingo-med-ivana-impeachum/",
       "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17791-dragbingo-med-ivana-impeachum/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-temakveld-akevittsmaking-2026-09-30",
+      "title": "Temakveld – akevittsmaking",
+      "description": "Onsdag. 30. september\nkl. 18.00",
+      "date": "2026-09-30",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/18080-temakveld-akevittsmaking/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/18080-temakveld-akevittsmaking/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -1171,8 +1190,8 @@
       "source": "scrape"
     },
     {
-      "id": "scrape-gen-noman-mobashir-m-rke-menn-som-pusher-50-2026-11-11",
-      "title": "Noman Mobashir – Mørke menn som pusher 50",
+      "id": "scrape-gen-noman-mubashir-m-rke-menn-som-pusher-50-2026-11-11",
+      "title": "Noman Mubashir – Mørke menn som pusher 50",
       "description": "Onsdag. 11. november\nkl. 19.00",
       "date": "2026-11-11",
       "time": "12:00",
@@ -1181,8 +1200,8 @@
       "categories": [
         "familie"
       ],
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/18064-noman-mobashir-morke-menn-som-pusher-50/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/18064-noman-mobashir-morke-menn-som-pusher-50/?ref=hvaSkjerIByenMin",
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/18064-noman-mubashir-morke-menn-som-pusher-50/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/18064-noman-mubashir-morke-menn-som-pusher-50/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -2015,12 +2034,12 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 105,
-    "fetchedAt": "2026-06-19T09:27:15.676Z",
+    "count": 106,
+    "fetchedAt": "2026-06-20T08:20:18.606Z",
     "sources": {
       "ticketmaster": 1,
       "eventbrite": 0,
-      "scrape": 104
+      "scrape": 105
     }
   }
 }
