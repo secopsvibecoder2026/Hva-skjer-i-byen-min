@@ -40,26 +40,6 @@
       "source": "local"
     },
     {
-      "id": "tromso-3",
-      "title": "Midnattssol-festival",
-      "description": "Feir midnattsolen i Tromsø med musikk, kunst og kultur under sola som aldri går ned. Festivalen samler artister og publikum i en unik arktisk stemning.",
-      "date": "2026-06-20",
-      "time": "20:00",
-      "endTime": "01:00",
-      "location": "Stortorget, Tromsø",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "ticketUrl": "https://www.visittromso.no",
-      "affiliateUrl": "https://www.visittromso.no/hva-skjer/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "☀️",
-      "sponsored": false,
-      "featured": false,
-      "source": "local"
-    },
-    {
       "id": "tromso-4",
       "title": "Samisk kulturfestival",
       "description": "Opplev samisk kultur, joik, håndverk og tradisjonell mat i hjertet av Tromsø. En unik mulighet til å lære om urfolkskulturen i Nord-Norge.",
@@ -82,8 +62,8 @@
   ],
   "meta": {
     "city": "tromso",
-    "count": 4,
-    "fetchedAt": "2026-03-28T05:00:00.000Z",
+    "count": 3,
+    "fetchedAt": "2026-06-21T08:56:47.602Z",
     "sources": {
       "ticketmaster": 0,
       "eventbrite": 0,
