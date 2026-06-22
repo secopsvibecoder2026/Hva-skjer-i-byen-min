@@ -4,7 +4,7 @@
       "id": "scrape-gen-gi-bort-en-opplevelse--",
       "title": "Gi bort en opplevelse!",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-06-22",
+      "date": "2026-06-23",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -23,7 +23,7 @@
       "id": "scrape-gen-last-ned-v-r-app-",
       "title": "Last ned vår app",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-06-22",
+      "date": "2026-06-23",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -1802,8 +1802,8 @@
       "source": "scrape"
     },
     {
-      "id": "scrape-gen--queen-the-golden-years-med-ge-steen-nil-2027-01-22",
-      "title": "«Queen – The golden years» med Åge Steen Nilsen",
+      "id": "scrape-gen--queen-the-golden-years-1975-1976-med-ge-2027-01-22",
+      "title": "«Queen – The golden years 1975-1976» med Åge Sten Nilsen",
       "description": "Fredag. 22. januar 2027\nkl. 19.00",
       "date": "2027-01-22",
       "time": "12:00",
@@ -1812,8 +1812,8 @@
       "categories": [
         "familie"
       ],
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17748-queen-the-golden-years-med-age-steen-nilsen/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17748-queen-the-golden-years-med-age-steen-nilsen/?ref=hvaSkjerIByenMin",
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17748-queen-the-golden-years-1975-1976-med-age-sten-nilsen/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17748-queen-the-golden-years-1975-1976-med-age-sten-nilsen/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -2035,7 +2035,7 @@
   "meta": {
     "city": "lillestrom",
     "count": 106,
-    "fetchedAt": "2026-06-21T08:56:43.008Z",
+    "fetchedAt": "2026-06-22T10:35:41.840Z",
     "sources": {
       "ticketmaster": 1,
       "eventbrite": 0,
