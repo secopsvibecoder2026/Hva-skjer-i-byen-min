@@ -4,7 +4,7 @@
       "id": "scrape-gen-gi-bort-en-opplevelse--",
       "title": "Gi bort en opplevelse!",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-06-23",
+      "date": "2026-06-24",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -23,7 +23,7 @@
       "id": "scrape-gen-last-ned-v-r-app-",
       "title": "Last ned vår app",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-06-23",
+      "date": "2026-06-24",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -212,25 +212,6 @@
       "source": "scrape"
     },
     {
-      "id": "scrape-gen-adam-douglas-2026-09-10",
-      "title": "Adam Douglas",
-      "description": "Torsdag. 10. september\nkl. 19.00",
-      "date": "2026-09-10",
-      "time": "12:00",
-      "endTime": null,
-      "location": "lillestrom-kultursenter.no",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17581-adam-douglas/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17581-adam-douglas/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
       "id": "scrape-gen-oppskrift-p-ekstase-med-anne-lindmo-og-n-2026-09-10",
       "title": "Oppskrift på ekstase med Anne Lindmo og Nina Brochmann",
       "description": "Torsdag. 10. september\nkl. 19.00",
@@ -243,6 +224,25 @@
       ],
       "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17917-oppskrift-pa-ekstase-med-anne-lindmo-og-nina-brochmann/",
       "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17917-oppskrift-pa-ekstase-med-anne-lindmo-og-nina-brochmann/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-adam-douglas-2026-09-10",
+      "title": "Adam Douglas",
+      "description": "Torsdag. 10. september\nkl. 19.00",
+      "date": "2026-09-10",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17581-adam-douglas/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17581-adam-douglas/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -524,7 +524,7 @@
     {
       "id": "scrape-gen-men-har-du-pr-vd-yoga--2026-09-25",
       "title": "Men har du prøvd yoga?",
-      "description": "Fredag. 25. september\nkl. 19.30",
+      "description": "Få billetter igjen",
       "date": "2026-09-25",
       "time": "12:00",
       "endTime": null,
@@ -631,6 +631,25 @@
       ],
       "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17545-barnas-teaterlordag-trufilotten/",
       "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17545-barnas-teaterlordag-trufilotten/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-hurra-meg-rundt-i-80-2026-10-07",
+      "title": "HURRA-meg-RUNDT i 80",
+      "description": "Onsdag. 7. oktober\nkl. 19.00",
+      "date": "2026-10-07",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17958-hurra-meg-rundt-i-80/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17958-hurra-meg-rundt-i-80/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -1221,6 +1240,25 @@
       ],
       "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16639-kulturkafe-wwb-trio/",
       "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16639-kulturkafe-wwb-trio/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-en-musikalsk-reise-gjennom-70-tallet-med-2026-11-12",
+      "title": "En musikalsk reise gjennom 70-tallet med LillCanto og Palle Wagnberg",
+      "description": "Torsdag. 12. november\nkl. 19.30",
+      "date": "2026-11-12",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17984-en-musikalsk-reise-gjennom-70-tallet-med-lillcanto-og-palle-wagnberg/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17984-en-musikalsk-reise-gjennom-70-tallet-med-lillcanto-og-palle-wagnberg/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -2034,12 +2072,12 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 106,
-    "fetchedAt": "2026-06-22T10:35:41.840Z",
+    "count": 108,
+    "fetchedAt": "2026-06-23T08:27:56.746Z",
     "sources": {
       "ticketmaster": 1,
       "eventbrite": 0,
-      "scrape": 105
+      "scrape": 107
     }
   }
 }

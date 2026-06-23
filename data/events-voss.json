@@ -1,26 +1,6 @@
 {
   "events": [
     {
-      "id": "voss-1",
-      "title": "Voss Extreme Sports Week 2026",
-      "description": "Verdens største ekstremsporfestival samler toppatleter og entusiaster fra hele kloden. Skydiving, BASE-hopping, kajakk og mye mer i naturskjønne Voss.",
-      "date": "2026-06-22",
-      "time": "09:00",
-      "endTime": "21:00",
-      "location": "Voss sentrum, Voss",
-      "categories": [
-        "familie",
-        "uteliv"
-      ],
-      "ticketUrl": "https://www.ekstremsportveko.com",
-      "affiliateUrl": "https://www.ekstremsportveko.com/billetter?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🏔️",
-      "sponsored": false,
-      "featured": true,
-      "source": "local"
-    },
-    {
       "id": "voss-3",
       "title": "Voss Folkemusikk Festspel",
       "description": "Tradisjonsrik festival for norsk folkemusikk og folkedans. Lystige toner og dans i Voss kulturhus og på friluftscenene.",
@@ -63,8 +43,8 @@
   ],
   "meta": {
     "city": "voss",
-    "count": 3,
-    "fetchedAt": "2026-04-05T06:14:04.186Z",
+    "count": 2,
+    "fetchedAt": "2026-06-23T08:28:10.668Z",
     "sources": {
       "ticketmaster": 0,
       "eventbrite": 0,
