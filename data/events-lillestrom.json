@@ -4,7 +4,7 @@
       "id": "scrape-gen-gi-bort-en-opplevelse--",
       "title": "Gi bort en opplevelse!",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-06-24",
+      "date": "2026-06-25",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -23,7 +23,7 @@
       "id": "scrape-gen-last-ned-v-r-app-",
       "title": "Last ned vår app",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-06-24",
+      "date": "2026-06-25",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -580,25 +580,6 @@
       "source": "scrape"
     },
     {
-      "id": "scrape-gen-temakveld-akevittsmaking-2026-09-30",
-      "title": "Temakveld – akevittsmaking",
-      "description": "Onsdag. 30. september\nkl. 18.00",
-      "date": "2026-09-30",
-      "time": "12:00",
-      "endTime": null,
-      "location": "lillestrom-kultursenter.no",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/18080-temakveld-akevittsmaking/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/18080-temakveld-akevittsmaking/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
       "id": "scrape-gen-shrek-the-musical-premiere-2026-10-02",
       "title": "Shrek the musical – premiere",
       "description": "2. okt. – 11. okt.\n9 forestillinger",
@@ -638,8 +619,8 @@
       "source": "scrape"
     },
     {
-      "id": "scrape-gen-hurra-meg-rundt-i-80-2026-10-07",
-      "title": "HURRA-meg-RUNDT i 80",
+      "id": "scrape-gen--ystein-sunde-med-hurra-meg-rundt-i-80-2026-10-07",
+      "title": "Øystein Sunde med HURRA-meg-RUNDT i 80",
       "description": "Onsdag. 7. oktober\nkl. 19.00",
       "date": "2026-10-07",
       "time": "12:00",
@@ -648,8 +629,8 @@
       "categories": [
         "familie"
       ],
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17958-hurra-meg-rundt-i-80/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17958-hurra-meg-rundt-i-80/?ref=hvaSkjerIByenMin",
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17958-oystein-sunde-med-hurra-meg-rundt-i-80/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17958-oystein-sunde-med-hurra-meg-rundt-i-80/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -2072,12 +2053,12 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 108,
-    "fetchedAt": "2026-06-23T08:27:56.746Z",
+    "count": 107,
+    "fetchedAt": "2026-06-24T08:20:47.438Z",
     "sources": {
       "ticketmaster": 1,
       "eventbrite": 0,
-      "scrape": 107
+      "scrape": 106
     }
   }
 }
