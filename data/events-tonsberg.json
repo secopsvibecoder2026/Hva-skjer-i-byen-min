@@ -136,6 +136,25 @@
       "source": "ticketmaster"
     },
     {
+      "id": "tm-Z698xZb_Z16v8p0Iv8",
+      "title": "Vestfold Viking Tour",
+      "description": "Arrangement på Midgard Vikingsenter, Horten",
+      "date": "2026-08-13",
+      "time": "11:00",
+      "endTime": null,
+      "location": "Midgard Vikingsenter, Horten",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/vestfold-viking-tour-tickets/1416928050?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/vestfold-viking-tour-tickets/1416928050?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/461/5b441f73-9549-4214-9f1f-0475aae20461_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
       "id": "tm-Z698xZb_Z1kq44EP7",
       "title": "Saga Oseberg",
       "description": "Arrangement på Midgard Vikingsenter, Horten",
@@ -271,6 +290,25 @@
       "source": "ticketmaster"
     },
     {
+      "id": "tm-Z698xZb_Z1kP-QfJ7",
+      "title": "Vestfold Viking Tour",
+      "description": "Arrangement på Midgard Vikingsenter, Horten",
+      "date": "2026-08-15",
+      "time": "11:00",
+      "endTime": null,
+      "location": "Midgard Vikingsenter, Horten",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/vestfold-viking-tour-tickets/961694984?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/vestfold-viking-tour-tickets/961694984?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/461/5b441f73-9549-4214-9f1f-0475aae20461_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
       "id": "tm-Z698xZb_Z16voPowJb",
       "title": "Midgardsblot - Saturday Pass",
       "description": "Arrangement på Midgard Vikingsenter, Horten",
@@ -292,10 +330,10 @@
   ],
   "meta": {
     "city": "tonsberg",
-    "count": 15,
-    "fetchedAt": "2026-06-24T08:20:58.849Z",
+    "count": 17,
+    "fetchedAt": "2026-06-25T08:21:57.286Z",
     "sources": {
-      "ticketmaster": 18,
+      "ticketmaster": 20,
       "eventbrite": 0,
       "scrape": 0
     }
