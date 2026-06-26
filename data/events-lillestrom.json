@@ -4,7 +4,7 @@
       "id": "scrape-gen-gi-bort-en-opplevelse--",
       "title": "Gi bort en opplevelse!",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-06-26",
+      "date": "2026-06-27",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -23,7 +23,7 @@
       "id": "scrape-gen-last-ned-v-r-app-",
       "title": "Last ned vår app",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-06-26",
+      "date": "2026-06-27",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -458,6 +458,25 @@
       ],
       "ticketUrl": "https://www.lillestrom-kultursenter.no/program/18049-barnas-showkonsert/",
       "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/18049-barnas-showkonsert/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-jazzkaf-jazz-og-s-nt-2026-09-19",
+      "title": "Jazzkafé – Jazz og Sånt",
+      "description": "Lørdag. 19. september\nkl. 15.00",
+      "date": "2026-09-19",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16869-jazzkafe-jazz-og-sant/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16869-jazzkafe-jazz-og-sant/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -2110,12 +2129,12 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 110,
-    "fetchedAt": "2026-06-25T08:21:45.754Z",
+    "count": 111,
+    "fetchedAt": "2026-06-26T08:28:53.856Z",
     "sources": {
       "ticketmaster": 1,
       "eventbrite": 0,
-      "scrape": 109
+      "scrape": 110
     }
   }
 }
