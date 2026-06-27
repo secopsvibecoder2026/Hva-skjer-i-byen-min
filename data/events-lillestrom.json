@@ -1,10 +1,29 @@
 {
   "events": [
     {
+      "id": "tm-Z698xZb_Z1kF4FFak",
+      "title": "Morrissey",
+      "description": "Arrangement på Nova Spektrum Lillestrøm, Lillestrøm",
+      "date": "2026-06-27",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Nova Spektrum Lillestrøm, Lillestrøm",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/morrissey-tickets/215208246?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/morrissey-tickets/215208246?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/50e/94157ccd-9171-4c92-b0c8-73a2bfc2950e_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
       "id": "scrape-gen-gi-bort-en-opplevelse--",
       "title": "Gi bort en opplevelse!",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-06-27",
+      "date": "2026-06-28",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -23,7 +42,7 @@
       "id": "scrape-gen-last-ned-v-r-app-",
       "title": "Last ned vår app",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-06-27",
+      "date": "2026-06-28",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -37,25 +56,6 @@
       "sponsored": false,
       "featured": false,
       "source": "scrape"
-    },
-    {
-      "id": "tm-Z698xZb_Z1kF4FFak",
-      "title": "Morrissey",
-      "description": "Arrangement på Nova Spektrum Lillestrøm, Lillestrøm",
-      "date": "2026-06-27",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Nova Spektrum Lillestrøm, Lillestrøm",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/morrissey-tickets/215208246?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/morrissey-tickets/215208246?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/50e/94157ccd-9171-4c92-b0c8-73a2bfc2950e_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
     },
     {
       "id": "scrape-gen-barnas-festdager-2026-08-08",
@@ -897,6 +897,25 @@
       ],
       "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17458-det-betales/",
       "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17458-det-betales/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-lillestr-m-storbandfestival-2026-10-16",
+      "title": "LILLESTRØM STORBANDFESTIVAL",
+      "description": "16. okt. – 17. okt.\n2 forestillinger",
+      "date": "2026-10-16",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/15586-lillestrom-storbandfestival/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/15586-lillestrom-storbandfestival/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -2129,12 +2148,12 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 111,
-    "fetchedAt": "2026-06-26T08:28:53.856Z",
+    "count": 112,
+    "fetchedAt": "2026-06-27T07:48:26.466Z",
     "sources": {
       "ticketmaster": 1,
       "eventbrite": 0,
-      "scrape": 110
+      "scrape": 111
     }
   }
 }

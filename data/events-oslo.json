@@ -1,44 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-LvZ18QKQ2d-UhWYZwSzUZ",
-      "title": "Norge - Frankrike og Uruguay - Spania",
-      "description": "Arrangement på Lekter´n, Oslo",
-      "date": "2026-06-26",
-      "time": "11:00",
-      "endTime": null,
-      "location": "Lekter´n, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/norge-frankrike-og-uruguay-spania-tickets-GSKL7Q?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/norge-frankrike-og-uruguay-spania-tickets-GSKL7Q?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18QfuvBr3zfYZywXc9",
-      "title": "Folkefesten:  BORD Norge vs Frankrike 21:00 (18 års grense)",
-      "description": "Arrangement på Kadettangen, Sandvika",
-      "date": "2026-06-26",
-      "time": "18:00",
-      "endTime": null,
-      "location": "Kadettangen, Sandvika",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-norge-vs-frankrike-21-00-18-ars-grense-tickets-HR9YX3?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-norge-vs-frankrike-21-00-18-ars-grense-tickets-HR9YX3?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-LvZ18QKQ0LwzyQYZyPLqi",
       "title": "Panama - England og Colombia - Portugal",
       "description": "Arrangement på Lekter´n, Oslo",
@@ -231,7 +193,7 @@
     },
     {
       "id": "tm-LvZ18QNSydSRTOm5rFEAm",
-      "title": "Brasil - 2F",
+      "title": "Brasil - Japan",
       "description": "Arrangement på Lekter´n, Oslo",
       "date": "2026-06-29",
       "time": "18:00",
@@ -240,8 +202,8 @@
       "categories": [
         "konsert"
       ],
-      "ticketUrl": "https://www.universe.com/events/brasil-2f-tickets-PQTDLH?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/brasil-2f-tickets-PQTDLH?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "ticketUrl": "https://www.universe.com/events/brasil-japan-tickets-PQTDLH?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/brasil-japan-tickets-PQTDLH?ref=ticketmaster&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
       "imageEmoji": "⚽",
       "sponsored": false,
@@ -382,6 +344,25 @@
       "source": "ticketmaster"
     },
     {
+      "id": "tm-LvZ18Qf2kRC3zfYZ0SdON",
+      "title": "Folkefesten: BORD til Burrito-Onsdag (16-delsfinaler og Kahoot-konkurranse)",
+      "description": "Arrangement på Kadettangen, Sandvika",
+      "date": "2026-07-01",
+      "time": "12:00",
+      "endTime": null,
+      "location": "Kadettangen, Sandvika",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-til-burrito-onsdag-16-delsfinaler-og-kahoot-konkurranse-tickets-F9D4MW?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-til-burrito-onsdag-16-delsfinaler-og-kahoot-konkurranse-tickets-F9D4MW?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "⚽",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
       "id": "tm-LvZ18Qf2ATYtFj8ZlEWR-",
       "title": "Folkefesten:  BORD 16-delsfinale 1L vs 3EHIJK 18:00",
       "description": "Arrangement på Kadettangen, Sandvika",
@@ -394,25 +375,6 @@
       ],
       "ticketUrl": "https://www.universe.com/events/folkefesten-bord-16-delsfinale-1l-vs-3ehijk-18-00-tickets-N619WZ?ref=ticketmaster",
       "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-16-delsfinale-1l-vs-3ehijk-18-00-tickets-N619WZ?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18Qf2kRC3zfYZ0SdON",
-      "title": "Folkefesten:  FAST TRACK 16-delsfinale 1L vs 3EHIJK 18:00",
-      "description": "Arrangement på Kadettangen, Sandvika",
-      "date": "2026-07-01",
-      "time": "16:00",
-      "endTime": null,
-      "location": "Kadettangen, Sandvika",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/folkefesten-fast-track-16-delsfinale-1l-vs-3ehijk-18-00-tickets-F9D4MW?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/folkefesten-fast-track-16-delsfinale-1l-vs-3ehijk-18-00-tickets-F9D4MW?ref=ticketmaster&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
       "imageEmoji": "⚽",
       "sponsored": false,
@@ -959,12 +921,52 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vFNuOj-",
+      "title": "Organ recital with Ourania Gassiou",
+      "description": "Arrangement på Oslo domkirke, Oslo",
+      "date": "2026-08-01",
+      "time": "12:00",
+      "endTime": null,
+      "location": "Oslo domkirke, Oslo",
+      "categories": [
+        "konsert",
+        "familie"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/organ-recital-with-ourania-gassiou-tickets/1223360721?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/organ-recital-with-ourania-gassiou-tickets/1223360721?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/60e/458be508-3aaf-41e4-99bb-71af6f04660e_TABLET_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1k4VO_83",
+      "title": "Rose Tattoo",
+      "description": "Arrangement på Rockefeller, Oslo",
+      "date": "2026-08-01",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Rockefeller, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/rose-tattoo-tickets/574819412?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/rose-tattoo-tickets/574819412?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/ea5/7ba479cd-f65c-48ab-ad81-02008ba15ea5_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 50,
-    "fetchedAt": "2026-06-26T08:28:49.181Z",
+    "fetchedAt": "2026-06-27T07:48:20.534Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,
