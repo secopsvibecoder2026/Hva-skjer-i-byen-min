@@ -1,29 +1,10 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z1kF4FFak",
-      "title": "Morrissey",
-      "description": "Arrangement på Nova Spektrum Lillestrøm, Lillestrøm",
-      "date": "2026-06-27",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Nova Spektrum Lillestrøm, Lillestrøm",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/morrissey-tickets/215208246?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/morrissey-tickets/215208246?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/50e/94157ccd-9171-4c92-b0c8-73a2bfc2950e_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "scrape-gen-gi-bort-en-opplevelse--",
       "title": "Gi bort en opplevelse!",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-06-28",
+      "date": "2026-06-29",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -42,7 +23,7 @@
       "id": "scrape-gen-last-ned-v-r-app-",
       "title": "Last ned vår app",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-06-28",
+      "date": "2026-06-29",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -2148,10 +2129,10 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 112,
-    "fetchedAt": "2026-06-27T07:48:26.466Z",
+    "count": 111,
+    "fetchedAt": "2026-06-28T08:20:11.845Z",
     "sources": {
-      "ticketmaster": 1,
+      "ticketmaster": 0,
       "eventbrite": 0,
       "scrape": 111
     }

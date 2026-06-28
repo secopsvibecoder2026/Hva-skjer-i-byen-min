@@ -1,29 +1,10 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z1kF4FFak",
-      "title": "Morrissey",
-      "description": "Arrangement på Nova Spektrum Lillestrøm, Lillestrøm",
-      "date": "2026-06-27",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Nova Spektrum Lillestrøm, Lillestrøm",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/morrissey-tickets/215208246?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/morrissey-tickets/215208246?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/50e/94157ccd-9171-4c92-b0c8-73a2bfc2950e_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "scrape-gen-hva-skjer--",
       "title": "Hva skjer?",
       "description": "Arrangement i ahbygdetun.no (kalender)",
-      "date": "2026-06-28",
+      "date": "2026-06-29",
       "time": "12:00",
       "endTime": null,
       "location": "ahbygdetun.no (kalender)",
@@ -42,7 +23,7 @@
       "id": "scrape-gen-aktiviteter-og-opplevelser-",
       "title": "Aktiviteter og opplevelser",
       "description": "Finn aktiviteter i Haldenkanalen – fra padling og båtturer til kultur, fiske og…",
-      "date": "2026-06-28",
+      "date": "2026-06-29",
       "time": "12:00",
       "endTime": null,
       "location": "visitoestfold.com/haldenkanalen",
@@ -61,7 +42,7 @@
       "id": "scrape-gen-reisen-p-kanalen-",
       "title": "Reisen på kanalen",
       "description": "Planlegg båttur i Haldenkanalen og opplev slusene",
-      "date": "2026-06-28",
+      "date": "2026-06-29",
       "time": "12:00",
       "endTime": null,
       "location": "visitoestfold.com/haldenkanalen",
@@ -80,7 +61,7 @@
       "id": "scrape-gen-i-v-re-forfedres-fotspor-",
       "title": "I våre forfedres fotspor",
       "description": "Utforsk historie og kulturminner langs Haldenkanalen",
-      "date": "2026-06-28",
+      "date": "2026-06-29",
       "time": "12:00",
       "endTime": null,
       "location": "visitoestfold.com/haldenkanalen",
@@ -99,7 +80,7 @@
       "id": "scrape-gen-naturopplevelser-",
       "title": "Naturopplevelser",
       "description": "Finn de beste tipsene for naturopplevelser i Haldenkanalen og turer langs vannveien",
-      "date": "2026-06-28",
+      "date": "2026-06-29",
       "time": "12:00",
       "endTime": null,
       "location": "visitoestfold.com/haldenkanalen",
@@ -118,7 +99,7 @@
       "id": "scrape-gen-egen-fritidsb-t-i-kanalen-",
       "title": "Egen fritidsbåt i kanalen",
       "description": "Din guide til å oppleve Haldenkanalen med egen fritidsbåt",
-      "date": "2026-06-28",
+      "date": "2026-06-29",
       "time": "12:00",
       "endTime": null,
       "location": "visitoestfold.com/haldenkanalen",
@@ -137,7 +118,7 @@
       "id": "scrape-gen-b-tturer-",
       "title": "Båtturer",
       "description": "Arrangement i visitoestfold.com/haldenkanalen",
-      "date": "2026-06-28",
+      "date": "2026-06-29",
       "time": "12:00",
       "endTime": null,
       "location": "visitoestfold.com/haldenkanalen",
@@ -155,10 +136,10 @@
   ],
   "meta": {
     "city": "aurskog-holand",
-    "count": 8,
-    "fetchedAt": "2026-06-27T07:48:28.679Z",
+    "count": 7,
+    "fetchedAt": "2026-06-28T08:20:13.796Z",
     "sources": {
-      "ticketmaster": 1,
+      "ticketmaster": 0,
       "eventbrite": 0,
       "scrape": 7
     }
