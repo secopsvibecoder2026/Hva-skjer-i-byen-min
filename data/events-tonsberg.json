@@ -13,7 +13,7 @@
       ],
       "ticketUrl": "https://www.universe.com/events/dragsug-presenterer-humorhavari-2-i-tonsberg-tickets-LY6V8W?ref=ticketmaster",
       "affiliateUrl": "https://www.universe.com/events/dragsug-presenterer-humorhavari-2-i-tonsberg-tickets-LY6V8W?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://images.universe.com/2808bb33-ed57-49d2-9eee-0e4bdd3437d4/-/format/jpeg/-/scale_crop/1024x576/center/-/progressive/yes/-/inline/yes/",
+      "imageUrl": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "imageEmoji": "🎭",
       "sponsored": false,
       "featured": false,
@@ -331,7 +331,7 @@
   "meta": {
     "city": "tonsberg",
     "count": 17,
-    "fetchedAt": "2026-06-28T08:20:23.179Z",
+    "fetchedAt": "2026-06-29T09:25:21.703Z",
     "sources": {
       "ticketmaster": 20,
       "eventbrite": 0,

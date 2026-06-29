@@ -13,7 +13,7 @@
       ],
       "ticketUrl": "https://www.universe.com/events/dragsug-presenterer-humorhavari-2-i-fredrikstad-tickets-1S8WZT?ref=ticketmaster",
       "affiliateUrl": "https://www.universe.com/events/dragsug-presenterer-humorhavari-2-i-fredrikstad-tickets-1S8WZT?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_RETINA_PORTRAIT_16_9.jpg",
+      "imageUrl": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "imageEmoji": "🎭",
       "sponsored": false,
       "featured": false,
@@ -121,7 +121,7 @@
   "meta": {
     "city": "fredrikstad",
     "count": 6,
-    "fetchedAt": "2026-06-28T08:20:18.138Z",
+    "fetchedAt": "2026-06-29T09:25:16.041Z",
     "sources": {
       "ticketmaster": 6,
       "eventbrite": 0,

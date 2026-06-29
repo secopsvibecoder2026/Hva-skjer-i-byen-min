@@ -1,26 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z16vfO1eGy",
-      "title": "ZZ Top - THE BIG ONE!",
-      "description": "Arrangement på Sverresborg, Trondheim",
-      "date": "2026-06-28",
-      "time": "18:00",
-      "endTime": null,
-      "location": "Sverresborg, Trondheim",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/zz-top-the-big-one-tickets/1520282339?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/zz-top-the-big-one-tickets/1520282339?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/4ac/eea62576-3d6e-4140-9beb-f0b9de7864ac_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z16v7YF7GZ",
       "title": "STING 3.0 TOUR",
       "description": "Arrangement på Sverresborg, Trondheim",
@@ -82,10 +62,10 @@
   ],
   "meta": {
     "city": "trondheim",
-    "count": 4,
-    "fetchedAt": "2026-06-28T08:20:07.253Z",
+    "count": 3,
+    "fetchedAt": "2026-06-29T09:25:06.118Z",
     "sources": {
-      "ticketmaster": 4,
+      "ticketmaster": 3,
       "eventbrite": 0,
       "scrape": 0
     }
