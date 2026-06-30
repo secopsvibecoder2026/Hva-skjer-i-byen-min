@@ -1,139 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-LvZ18QNyMEjOPxwrq4qre",
-      "title": "Folkefesten: BORD til sluttspill-åpningen i VM (med Musikk-Quiz og Spill)",
-      "description": "Arrangement på Kadettangen, Sandvika",
-      "date": "2026-06-29",
-      "time": "12:00",
-      "endTime": null,
-      "location": "Kadettangen, Sandvika",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-til-sluttspill-apningen-i-vm-med-musikk-quiz-og-spill-tickets-9RN32F?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-til-sluttspill-apningen-i-vm-med-musikk-quiz-og-spill-tickets-9RN32F?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18Qf2d1gc-G8ZwJyAE",
-      "title": "Folkefesten:  BORD 16-delsfinale Brasil vs Japan 19:00",
-      "description": "Arrangement på Kadettangen, Sandvika",
-      "date": "2026-06-29",
-      "time": "16:00",
-      "endTime": null,
-      "location": "Kadettangen, Sandvika",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-16-delsfinale-brasil-vs-japan-19-00-tickets-5W14KV?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-16-delsfinale-brasil-vs-japan-19-00-tickets-5W14KV?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18Qf2dt00mXZZyFI43",
-      "title": "Folkefesten:  FAST TRACK 16-delsfinale Brasil vs Japan 19:00",
-      "description": "Arrangement på Kadettangen, Sandvika",
-      "date": "2026-06-29",
-      "time": "16:00",
-      "endTime": null,
-      "location": "Kadettangen, Sandvika",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/folkefesten-fast-track-16-delsfinale-brasil-vs-japan-19-00-tickets-98G3J5?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/folkefesten-fast-track-16-delsfinale-brasil-vs-japan-19-00-tickets-98G3J5?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18QNSydSRTOm5rFEAm",
-      "title": "Brasil - Japan",
-      "description": "Arrangement på Lekter´n, Oslo",
-      "date": "2026-06-29",
-      "time": "18:00",
-      "endTime": null,
-      "location": "Lekter´n, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/brasil-japan-tickets-PQTDLH?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/brasil-japan-tickets-PQTDLH?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18Q077FObJamsa4lRv",
-      "title": "Folkefesten:  BORD 16-delsfinale Tyskland vs Paraguay 22:30",
-      "description": "Arrangement på Kadettangen, Sandvika",
-      "date": "2026-06-29",
-      "time": "18:00",
-      "endTime": null,
-      "location": "Kadettangen, Sandvika",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-16-delsfinale-tyskland-vs-paraguay-22-30-tickets-Q64W0T?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-16-delsfinale-tyskland-vs-paraguay-22-30-tickets-Q64W0T?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z1AoJF8M",
-      "title": "Galvan tenker høyt",
-      "description": "Arrangement på nieu torshov, Oslo",
-      "date": "2026-06-29",
-      "time": "20:00",
-      "endTime": null,
-      "location": "nieu torshov, Oslo",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/galvan-tenker-hoyt-tickets/11988437?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/galvan-tenker-hoyt-tickets/11988437?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/e53/90337e18-b723-4dfb-a412-61a7ec0fae53_TABLET_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎭",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18QNSyHu6VbxCmXdta",
-      "title": "Tyskland - Paraguay",
-      "description": "Arrangement på Lekter´n, Oslo",
-      "date": "2026-06-29",
-      "time": "21:30",
-      "endTime": null,
-      "location": "Lekter´n, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/tyskland-paraguay-tickets-9JLWMC?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/tyskland-paraguay-tickets-9JLWMC?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-LvZ18QN7fMviKm8Z0ZpoK",
       "title": "Norge - Elfenbenkysten",
       "description": "Arrangement på Lekter´n, Oslo",
@@ -595,7 +462,7 @@
     },
     {
       "id": "tm-LvZ18Q07C2wrTQcxVLRqR",
-      "title": "Sør-Afrika/Canada - Nederland/Marokko",
+      "title": "Canada - Nederland/Marokko",
       "description": "Arrangement på Lekter´n, Oslo",
       "date": "2026-07-04",
       "time": "18:00",
@@ -604,8 +471,8 @@
       "categories": [
         "konsert"
       ],
-      "ticketUrl": "https://www.universe.com/events/sor-afrika-canada-nederland-marokko-tickets-M8DXPJ?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/sor-afrika-canada-nederland-marokko-tickets-M8DXPJ?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "ticketUrl": "https://www.universe.com/events/canada-nederland-marokko-tickets-M8DXPJ?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/canada-nederland-marokko-tickets-M8DXPJ?ref=ticketmaster&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -633,7 +500,7 @@
     },
     {
       "id": "tm-LvZ18Q0ASnmCawoNevvTx",
-      "title": "Norge/Elfenbenkysten - Brasil/Japan",
+      "title": "Norge/Elfenbenkysten - Brasil",
       "description": "Arrangement på Lekter´n, Oslo",
       "date": "2026-07-05",
       "time": "17:00",
@@ -642,8 +509,8 @@
       "categories": [
         "konsert"
       ],
-      "ticketUrl": "https://www.universe.com/events/norge-elfenbenkysten-brasil-japan-tickets-5PB27X?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/norge-elfenbenkysten-brasil-japan-tickets-5PB27X?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "ticketUrl": "https://www.universe.com/events/norge-elfenbenkysten-brasil-tickets-5PB27X?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/norge-elfenbenkysten-brasil-tickets-5PB27X?ref=ticketmaster&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -666,6 +533,25 @@
       "affiliateUrl": "https://www.ticketmaster.no/event/masterwork-recital-chopin-grieg-mork-karlsen-recital-tickets/619907933?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/a/426/de51a23a-e20c-4ec2-91d3-3a13d3c87426_SOURCE",
       "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kj-oE_P",
+      "title": "Fotball-VM på Sentrum Scene: Åttendedelsfinale",
+      "description": "Arrangement på Sentrum Scene, Oslo",
+      "date": "2026-07-05",
+      "time": "20:00",
+      "endTime": null,
+      "location": "Sentrum Scene, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/fotball-vm-pa-sentrum-scene-attendedelsfinale-tickets/721467665?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/fotball-vm-pa-sentrum-scene-attendedelsfinale-tickets/721467665?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/14a/c3e39af9-6b09-414d-a51b-876cc9fc814a_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "⚽",
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
@@ -775,7 +661,8 @@
       "endTime": null,
       "location": "Unity Arena, Fornebu",
       "categories": [
-        "konsert"
+        "konsert",
+        "uteliv"
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/robyn-the-sexistential-tour-tickets/2026520189?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/robyn-the-sexistential-tour-tickets/2026520189?language=en-us&ref=hvaSkjerIByenMin",
@@ -923,12 +810,170 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1k4ebwG3",
+      "title": "Masterwork recital - Grieg/Rachmaninoff recital",
+      "description": "Arrangement på Kampen Kirke, Oslo, Oslo",
+      "date": "2026-08-09",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Kampen Kirke, Oslo, Oslo",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/masterwork-recital-grieg-rachmaninoff-recital-tickets/542632312?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/masterwork-recital-grieg-rachmaninoff-recital-tickets/542632312?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/426/de51a23a-e20c-4ec2-91d3-3a13d3c87426_SOURCE",
+      "imageEmoji": "🎭",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1k7a_VPa",
+      "title": "Øyanatt: Dancing The Conga",
+      "description": "Arrangement på John Dee, Oslo",
+      "date": "2026-08-13",
+      "time": "22:30",
+      "endTime": null,
+      "location": "John Dee, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/yanatt-dancing-the-conga-tickets/109674949?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/yanatt-dancing-the-conga-tickets/109674949?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/12c/cfe2f052-c4d1-4dde-93c3-cc683499512c_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vxkq8FJ",
+      "title": "Jaga Jazzist og Kristiansand Symfoniorkester",
+      "description": "Arrangement på Sentrum Scene, Oslo",
+      "date": "2026-08-14",
+      "time": "18:30",
+      "endTime": null,
+      "location": "Sentrum Scene, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/jaga-jazzist-og-kristiansand-symfoniorkester-tickets/1886750226?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/jaga-jazzist-og-kristiansand-symfoniorkester-tickets/1886750226?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/b64/ffdb21f2-abcc-4b12-83b7-dd9e94343b64_TABLET_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kvkvIZV",
+      "title": "Øyanatt: Fred Soila",
+      "description": "Arrangement på John Dee, Oslo",
+      "date": "2026-08-14",
+      "time": "22:00",
+      "endTime": null,
+      "location": "John Dee, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/yanatt-fred-soila-tickets/46068034?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/yanatt-fred-soila-tickets/46068034?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/b74/0ed8adb5-6c4c-4ef2-879b-257cb045cb74_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1koV7Fka",
+      "title": "Orgelsommer i Oslo domkirke",
+      "description": "Arrangement på Oslo domkirke, Oslo",
+      "date": "2026-08-15",
+      "time": "12:00",
+      "endTime": null,
+      "location": "Oslo domkirke, Oslo",
+      "categories": [
+        "konsert",
+        "familie"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/orgelsommer-i-oslo-domkirke-tickets/474108189?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/orgelsommer-i-oslo-domkirke-tickets/474108189?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/60e/458be508-3aaf-41e4-99bb-71af6f04660e_TABLET_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kazvOO0",
+      "title": "Pet Shop Boys",
+      "description": "Arrangement på Unity Arena, Fornebu",
+      "date": "2026-08-20",
+      "time": "18:00",
+      "endTime": null,
+      "location": "Unity Arena, Fornebu",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/pet-shop-boys-tickets/278060824?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/pet-shop-boys-tickets/278060824?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/ce6/8fdfa1a8-3ac2-421f-8eba-fefd76ec4ce6_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vFafzQv",
+      "title": "Skunk Anansie",
+      "description": "Arrangement på Sentrum Scene, Oslo",
+      "date": "2026-08-20",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Sentrum Scene, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/skunk-anansie-tickets/1209538681?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/skunk-anansie-tickets/1209538681?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/024/144aac92-c0bb-42d4-b155-9dbc3a24a024_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1A9vb0f",
+      "title": "Paczes & Lotek 2",
+      "description": "Arrangement på Sentrum Scene, Oslo",
+      "date": "2026-08-21",
+      "time": "16:30",
+      "endTime": null,
+      "location": "Sentrum Scene, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/paczes--lotek-2-tickets/17058914?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/paczes--lotek-2-tickets/17058914?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/d24/68c50494-325f-412c-8f7d-c10b32e55d24_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
-    "count": 48,
-    "fetchedAt": "2026-06-29T09:25:04.323Z",
+    "count": 50,
+    "fetchedAt": "2026-06-30T08:28:30.595Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,

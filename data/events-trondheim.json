@@ -1,26 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z16v7YF7GZ",
-      "title": "STING 3.0 TOUR",
-      "description": "Arrangement på Sverresborg, Trondheim",
-      "date": "2026-06-29",
-      "time": "18:00",
-      "endTime": null,
-      "location": "Sverresborg, Trondheim",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/sting-30-tour-tickets/1130204300?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/sting-30-tour-tickets/1130204300?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/0ca/42733b41-0ce3-4f12-a608-daaf529e60ca_TABLET_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z1kQ70IOf",
       "title": "NIDARAVE 2026",
       "description": "Arrangement på Trondheim Spektrum Hall F, Trondheim",
@@ -62,10 +42,10 @@
   ],
   "meta": {
     "city": "trondheim",
-    "count": 3,
-    "fetchedAt": "2026-06-29T09:25:06.118Z",
+    "count": 2,
+    "fetchedAt": "2026-06-30T08:28:32.374Z",
     "sources": {
-      "ticketmaster": 3,
+      "ticketmaster": 2,
       "eventbrite": 0,
       "scrape": 0
     }
