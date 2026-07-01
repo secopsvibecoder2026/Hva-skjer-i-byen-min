@@ -1,26 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z16vP--eCf",
-      "title": "STING 3.0 TOUR",
-      "description": "Arrangement på Hamar",
-      "date": "2026-06-30",
-      "time": "18:00",
-      "endTime": null,
-      "location": "Hamar",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/sting-30-tour-tickets/1961842394?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/sting-30-tour-tickets/1961842394?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/0ca/42733b41-0ce3-4f12-a608-daaf529e60ca_TABLET_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z16v_VZM_a",
       "title": "Oktoberfest Hamar 2026 | FREDAG",
       "description": "Arrangement på Vikingskipet, Hamar",
@@ -80,10 +60,10 @@
   ],
   "meta": {
     "city": "hamar",
-    "count": 4,
-    "fetchedAt": "2026-06-30T08:28:46.038Z",
+    "count": 3,
+    "fetchedAt": "2026-07-01T08:48:39.052Z",
     "sources": {
-      "ticketmaster": 4,
+      "ticketmaster": 3,
       "eventbrite": 0,
       "scrape": 0
     }

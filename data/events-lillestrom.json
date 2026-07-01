@@ -4,7 +4,7 @@
       "id": "scrape-gen-gi-bort-en-opplevelse--",
       "title": "Gi bort en opplevelse!",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-07-01",
+      "date": "2026-07-02",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -23,7 +23,7 @@
       "id": "scrape-gen-last-ned-v-r-app-",
       "title": "Last ned vår app",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-07-01",
+      "date": "2026-07-02",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -52,6 +52,25 @@
       ],
       "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16809-barnas-festdager/",
       "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16809-barnas-festdager/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-kulturstiftelsen-visyn-presenterer-forte-2026-08-18",
+      "title": "Kulturstiftelsen Visyn presenterer – Fortellingen om Lillestrøm kommune",
+      "description": "18. aug. – 19. aug.\n2 forestillinger",
+      "date": "2026-08-18",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/18108-kulturstiftelsen-visyn-presenterer-fortellingen-om-lillestrom-kommune/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/18108-kulturstiftelsen-visyn-presenterer-fortellingen-om-lillestrom-kommune/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -167,6 +186,25 @@
       ],
       "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16926-peter-joback/",
       "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16926-peter-joback/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-bollywood-musical-night-2026-09-06",
+      "title": "Bollywood Musical Night",
+      "description": "Søndag. 6. september\nkl. 18.00",
+      "date": "2026-09-06",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17162-bollywood-musical-night/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17162-bollywood-musical-night/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -2129,12 +2167,12 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 111,
-    "fetchedAt": "2026-06-30T08:28:36.661Z",
+    "count": 113,
+    "fetchedAt": "2026-07-01T08:48:31.242Z",
     "sources": {
       "ticketmaster": 0,
       "eventbrite": 0,
-      "scrape": 111
+      "scrape": 113
     }
   }
 }
