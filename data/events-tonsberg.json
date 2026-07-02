@@ -40,6 +40,25 @@
       "source": "ticketmaster"
     },
     {
+      "id": "tm-Z698xZb_Z1kA3_8rA",
+      "title": "Fredag Natten Oppgradering - Slottsfjell 2026",
+      "description": "Slottsfjell is a rock- and pop festival located at Slottsfjellet in Tønsberg where stages and public areas is constructed amongst the ruins of the medieval fortress Tunsberghus on Slottsfjellet and the surrounding area. There are also concerts in other venues in the city. This festival pass is ONLY for those over 18 years - valid ID required! HC Companion is free if valid escort certificate can be presented at the entrance. The gates open at. 13:00 every day. For more information about artist announcments, program and practical information, see Slottsfjell's homepage og facebookpage. Also, check the mood of previous festivals on their YouTube channel.",
+      "date": "2026-07-10",
+      "time": "00:00",
+      "endTime": null,
+      "location": "Tønsberg",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/fredag-natten-oppgradering-slottsfjell-2026-tickets/152650785?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/fredag-natten-oppgradering-slottsfjell-2026-tickets/152650785?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/40e/f526b176-2175-4a99-9fdb-21cc977fb40e_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
       "id": "tm-Z698xZb_Z16v0dqsZM",
       "title": "Camp ticket Camp Utgard ALL DAYS Midgardsblot Metalfestival 2026",
       "description": "Arrangement på Midgard Vikingsenter, Horten",
@@ -330,10 +349,10 @@
   ],
   "meta": {
     "city": "tonsberg",
-    "count": 17,
-    "fetchedAt": "2026-07-01T08:48:40.288Z",
+    "count": 18,
+    "fetchedAt": "2026-07-02T08:10:49.549Z",
     "sources": {
-      "ticketmaster": 20,
+      "ticketmaster": 21,
       "eventbrite": 0,
       "scrape": 0
     }

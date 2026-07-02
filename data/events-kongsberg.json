@@ -1,29 +1,9 @@
 {
-  "events": [
-    {
-      "id": "tm-Z698xZb_Z16v7AAsFa",
-      "title": "Gamle Norge pass 2026",
-      "description": "Arrangement på Kongsberg",
-      "date": "2026-07-01",
-      "time": "00:00",
-      "endTime": null,
-      "location": "Kongsberg",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/gamle-norge-pass-2026-tickets/1105171209?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/gamle-norge-pass-2026-tickets/1105171209?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/ab4/6367448e-7474-4650-bd2d-02a8f7166ab4_106161_TABLET_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    }
-  ],
+  "events": [],
   "meta": {
     "city": "kongsberg",
-    "count": 1,
-    "fetchedAt": "2026-07-01T08:48:48.930Z",
+    "count": 0,
+    "fetchedAt": "2026-07-02T08:11:00.005Z",
     "sources": {
       "ticketmaster": 1,
       "eventbrite": 0,

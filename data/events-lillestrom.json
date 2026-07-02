@@ -4,7 +4,7 @@
       "id": "scrape-gen-gi-bort-en-opplevelse--",
       "title": "Gi bort en opplevelse!",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-07-02",
+      "date": "2026-07-03",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -23,7 +23,7 @@
       "id": "scrape-gen-last-ned-v-r-app-",
       "title": "Last ned vår app",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-07-02",
+      "date": "2026-07-03",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -250,25 +250,6 @@
       "source": "scrape"
     },
     {
-      "id": "scrape-gen-oppskrift-p-ekstase-med-anne-lindmo-og-n-2026-09-10",
-      "title": "Oppskrift på ekstase med Anne Lindmo og Nina Brochmann",
-      "description": "Torsdag. 10. september\nkl. 19.00",
-      "date": "2026-09-10",
-      "time": "12:00",
-      "endTime": null,
-      "location": "lillestrom-kultursenter.no",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17917-oppskrift-pa-ekstase-med-anne-lindmo-og-nina-brochmann/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17917-oppskrift-pa-ekstase-med-anne-lindmo-og-nina-brochmann/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
       "id": "scrape-gen-adam-douglas-2026-09-10",
       "title": "Adam Douglas",
       "description": "Torsdag. 10. september\nkl. 19.00",
@@ -281,6 +262,25 @@
       ],
       "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17581-adam-douglas/",
       "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17581-adam-douglas/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-oppskrift-p-ekstase-med-anne-lindmo-og-n-2026-09-10",
+      "title": "Oppskrift på ekstase med Anne Lindmo og Nina Brochmann",
+      "description": "Torsdag. 10. september\nkl. 19.00",
+      "date": "2026-09-10",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17917-oppskrift-pa-ekstase-med-anne-lindmo-og-nina-brochmann/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17917-oppskrift-pa-ekstase-med-anne-lindmo-og-nina-brochmann/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -1012,6 +1012,25 @@
       ],
       "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17544-barnas-teaterlordag-knorv/",
       "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17544-barnas-teaterlordag-knorv/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-30-r-med-kor-i-lia-2026-10-24",
+      "title": "30 år med Kor i Lia",
+      "description": "Lørdag. 24. oktober\nkl. 17.00",
+      "date": "2026-10-24",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17623-30-ar-med-kor-i-lia/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17623-30-ar-med-kor-i-lia/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -2167,12 +2186,12 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 113,
-    "fetchedAt": "2026-07-01T08:48:31.242Z",
+    "count": 114,
+    "fetchedAt": "2026-07-02T08:10:37.768Z",
     "sources": {
       "ticketmaster": 0,
       "eventbrite": 0,
-      "scrape": 113
+      "scrape": 114
     }
   }
 }

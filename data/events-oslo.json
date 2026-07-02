@@ -1,120 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-LvZ18Qf2kRC3zfYZ0SdON",
-      "title": "Folkefesten: BORD til Burrito-Onsdag (16-delsfinaler og Kahoot-konkurranse)",
-      "description": "Arrangement på Kadettangen, Sandvika",
-      "date": "2026-07-01",
-      "time": "12:00",
-      "endTime": null,
-      "location": "Kadettangen, Sandvika",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-til-burrito-onsdag-16-delsfinaler-og-kahoot-konkurranse-tickets-F9D4MW?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-til-burrito-onsdag-16-delsfinaler-og-kahoot-konkurranse-tickets-F9D4MW?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18Qf2ATYtFj8ZlEWR-",
-      "title": "Folkefesten:  BORD 16-delsfinale England vs DR Kongo 18:00",
-      "description": "Arrangement på Kadettangen, Sandvika",
-      "date": "2026-07-01",
-      "time": "16:00",
-      "endTime": null,
-      "location": "Kadettangen, Sandvika",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-16-delsfinale-england-vs-dr-kongo-18-00-tickets-N619WZ?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-16-delsfinale-england-vs-dr-kongo-18-00-tickets-N619WZ?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18QNSHeVVrywoMXdbQ",
-      "title": "England - DR Kongo",
-      "description": "Arrangement på Lekter´n, Oslo",
-      "date": "2026-07-01",
-      "time": "17:00",
-      "endTime": null,
-      "location": "Lekter´n, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/england-dr-kongo-tickets-ZTP9XY?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/england-dr-kongo-tickets-ZTP9XY?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18QNSHnGke7WWy5_U2",
-      "title": "Belgia - Senegal",
-      "description": "Arrangement på Lekter´n, Oslo",
-      "date": "2026-07-01",
-      "time": "21:00",
-      "endTime": null,
-      "location": "Lekter´n, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/belgia-senegal-tickets-M2VPBQ?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/belgia-senegal-tickets-M2VPBQ?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18Qf26CC3zfYZ0Sd-J",
-      "title": "Folkefesten:  FAST TRACK 16-delsfinale Belgia vs Senegal 22:00",
-      "description": "Arrangement på Kadettangen, Sandvika",
-      "date": "2026-07-01",
-      "time": "21:00",
-      "endTime": null,
-      "location": "Kadettangen, Sandvika",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/folkefesten-fast-track-16-delsfinale-belgia-vs-senegal-22-00-tickets-3TLJ7R?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/folkefesten-fast-track-16-delsfinale-belgia-vs-senegal-22-00-tickets-3TLJ7R?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18Qf26YOtFj8ZwEXEH",
-      "title": "Folkefesten:  BORD 16-delsfinale Belgia vs Senegal 22:00",
-      "description": "Arrangement på Kadettangen, Sandvika",
-      "date": "2026-07-01",
-      "time": "21:00",
-      "endTime": null,
-      "location": "Kadettangen, Sandvika",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-16-delsfinale-belgia-vs-senegal-22-00-tickets-MGKHX0?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-16-delsfinale-belgia-vs-senegal-22-00-tickets-MGKHX0?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z1kC9u_xe",
       "title": "KARPE WORLD",
       "description": "Sales Information There is a maximum limit of 8 tickets per customer. Tickets are only sold at https://www.ticketmaster.no. In addition to the main area, SAS PLUS tickets are available, which grant access to an exclusive VIP area with: + Access to a grandstand and seating area with a view of the main stage + Fast track entry to KARPE WORLD + Dedicated bars with an extended drink selection + Exclusive food service for the area + Private restrooms + Unique activity offerings + A scenic and relaxing hangout area + The SAS PLUS area is a separate zone within KARPE WORLD, and you may enter and exit freely with a valid ticket Age limit: 20 years! Ticket Delivery Tickets will be available as mobile tickets (QR codes) via the Ticketmaster app and your user account well in advance of the concert (about 30 days). At the same time, you will have the option to transfer tickets to friends. Learn more about delayed delivery of admission passes here. Age Limits There is no age limit in the main area, but everyone entering KARPE WORLD must have a valid ticket. Children under 15 must be accompanied by an adult. Important Times KARPE WORLD opens at 15:00 and closes at 23:00. Accessibility / Wheelchair & Companion Purchase a regular ticket for your preferred area. There is no companion ticket scheme. Transport Transport options to Ekebergsletta will be communicated to ticket holders at a later date. Food & Beverage Food and drinks will be available for purchase inside the venue. Security and Entry Control Tickets, bags, backpacks, and purses will be checked at the entrance. The following items are prohibited: food, drinks, bottles, cans, umbrellas, folding chairs, animals, weapons, professional cameras, recording equipment, selfie sticks, and laser pointers. There is no cloakroom available. Please do not bring valuables. More Info The concert is organized by Live Nation Norway and KARPE. More information is available at Live Nation and KARPE WORLD. How do I contact Ticketmaster Norway? Frequently asked questions can be found on ticketmaster Customer Service If you don't find the answer you're looking for, use the contact form on the same page to reach us.",
@@ -403,6 +289,25 @@
       "source": "ticketmaster"
     },
     {
+      "id": "tm-LvZ18Q08ZR3zsEBPlUaag",
+      "title": "Folkefesten:  BORD 8-delsfinale Paraguay vs Frankrike 23:00",
+      "description": "Arrangement på Kadettangen, Sandvika",
+      "date": "2026-07-04",
+      "time": "12:00",
+      "endTime": null,
+      "location": "Kadettangen, Sandvika",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-8-delsfinale-paraguay-vs-frankrike-23-00-tickets-KQP2H9?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-8-delsfinale-paraguay-vs-frankrike-23-00-tickets-KQP2H9?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
       "id": "tm-Z698xZb_Z16eZ3OpfE",
       "title": "KARPE WORLD",
       "description": "Sales Information There is a maximum limit of 8 tickets per customer. Tickets are only sold at https://www.ticketmaster.no. In addition to the main area, SAS PLUS tickets are available, which grant access to an exclusive VIP area with: + Access to a grandstand and seating area with a view of the main stage + Fast track entry to KARPE WORLD + Dedicated bars with an extended drink selection + Exclusive food service for the area + Private restrooms + Unique activity offerings + A scenic and relaxing hangout area + The SAS PLUS area is a separate zone within KARPE WORLD, and you may enter and exit freely with a valid ticket Age limit: 20 years! Ticket Delivery Tickets will be available as mobile tickets (QR codes) via the Ticketmaster app and your user account well in advance of the concert (about 30 days). At the same time, you will have the option to transfer tickets to friends. Learn more about delayed delivery of admission passes here. Age Limits There is no age limit in the main area, but everyone entering KARPE WORLD must have a valid ticket. Children under 15 must be accompanied by an adult. Important Times KARPE WORLD opens at 15:00 and closes at 23:00. Accessibility / Wheelchair & Companion Purchase a regular ticket for your preferred area. There is no companion ticket scheme. Transport Transport options to Ekebergsletta will be communicated to ticket holders at a later date. Food & Beverage Food and drinks will be available for purchase inside the venue. Security and Entry Control Tickets, bags, backpacks, and purses will be checked at the entrance. The following items are prohibited: food, drinks, bottles, cans, umbrellas, folding chairs, animals, weapons, professional cameras, recording equipment, selfie sticks, and laser pointers. There is no cloakroom available. Please do not bring valuables. More Info The concert is organized by Live Nation Norway and KARPE. More information is available at Live Nation and KARPE WORLD. How do I contact Ticketmaster Norway? Frequently asked questions can be found on ticketmaster Customer Service If you don't find the answer you're looking for, use the contact form on the same page to reach us.",
@@ -418,6 +323,25 @@
       "affiliateUrl": "https://www.ticketmaster.no/event/karpe-world-tickets/2012816527?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/a/d25/db744b16-79eb-44a9-bd4a-9307e8ad2d25_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18Q07C4nX8m6sW3mQq",
+      "title": "Folkefesten:  BORD 8-delsfinale Canada vs Marokko 19:00",
+      "description": "Arrangement på Kadettangen, Sandvika",
+      "date": "2026-07-04",
+      "time": "16:00",
+      "endTime": null,
+      "location": "Kadettangen, Sandvika",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-8-delsfinale-canada-vs-marokko-19-00-tickets-53X8GR?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-8-delsfinale-canada-vs-marokko-19-00-tickets-53X8GR?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎪",
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
@@ -443,7 +367,7 @@
     },
     {
       "id": "tm-LvZ18Q0AJNa_9OiHUlddv",
-      "title": "Paraguay - Frankrike/Sverige",
+      "title": "Paraguay - Frankrike",
       "description": "Arrangement på Lekter´n, Oslo",
       "date": "2026-07-04",
       "time": "22:00",
@@ -452,8 +376,8 @@
       "categories": [
         "konsert"
       ],
-      "ticketUrl": "https://www.universe.com/events/paraguay-frankrike-sverige-tickets-B5Q4N0?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/paraguay-frankrike-sverige-tickets-B5Q4N0?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "ticketUrl": "https://www.universe.com/events/paraguay-frankrike-tickets-B5Q4N0?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/paraguay-frankrike-tickets-B5Q4N0?ref=ticketmaster&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -521,18 +445,38 @@
     {
       "id": "tm-Z698xZb_Z1kj-oE_P",
       "title": "FIFA World Cup: Brazil - Norway",
-      "description": "Arrangement på Sentrum Scene, Oslo",
+      "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's.",
       "date": "2026-07-05",
       "time": "20:00",
       "endTime": null,
       "location": "Sentrum Scene, Oslo",
       "categories": [
-        "konsert"
+        "konsert",
+        "uteliv"
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/fifa-world-cup-brazil-norway-tickets/721467665?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/fifa-world-cup-brazil-norway-tickets/721467665?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/a/14a/c3e39af9-6b09-414d-a51b-876cc9fc814a_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "⚽",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18Q08ka19LU1rEQxxC",
+      "title": "Folkefesten:  BORD 8-delsfinale 2K/2L VS 1H/2J 21:00",
+      "description": "Arrangement på Kadettangen, Sandvika",
+      "date": "2026-07-06",
+      "time": "06:00",
+      "endTime": null,
+      "location": "Kadettangen, Sandvika",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-8-delsfinale-2k-2l-vs-1h-2j-21-00-tickets-43082P?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-8-delsfinale-2k-2l-vs-1h-2j-21-00-tickets-43082P?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎪",
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
@@ -558,7 +502,7 @@
     },
     {
       "id": "tm-LvZ18Q0AlLX1RE5UzMrfN",
-      "title": "USA/Bosnia-Hercegovina - Belgia/Senegal",
+      "title": "USA - Belgia",
       "description": "Arrangement på Lekter´n, Oslo",
       "date": "2026-07-07",
       "time": "01:00",
@@ -567,8 +511,8 @@
       "categories": [
         "konsert"
       ],
-      "ticketUrl": "https://www.universe.com/events/usa-bosnia-hercegovina-belgia-senegal-tickets-SVZHBJ?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/usa-bosnia-hercegovina-belgia-senegal-tickets-SVZHBJ?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "ticketUrl": "https://www.universe.com/events/usa-belgia-tickets-SVZHBJ?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/usa-belgia-tickets-SVZHBJ?ref=ticketmaster&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -607,6 +551,25 @@
       ],
       "ticketUrl": "https://www.universe.com/events/sveits-algerie-colombia-ghana-tickets-4BQLP3?ref=ticketmaster",
       "affiliateUrl": "https://www.universe.com/events/sveits-algerie-colombia-ghana-tickets-4BQLP3?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18Q0feq6dfm_9akeYW",
+      "title": "Folkefesten:  BORD 8-delsfinale W85 VS W87 22:00",
+      "description": "Arrangement på Kadettangen, Sandvika",
+      "date": "2026-07-07",
+      "time": "21:00",
+      "endTime": null,
+      "location": "Kadettangen, Sandvika",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-8-delsfinale-w85-vs-w87-22-00-tickets-MYH25D?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-8-delsfinale-w85-vs-w87-22-00-tickets-MYH25D?ref=ticketmaster&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -768,6 +731,25 @@
       "affiliateUrl": "https://www.ticketmaster.no/event/rose-tattoo-tickets/574819412?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/e/ea5/7ba479cd-f65c-48ab-ad81-02008ba15ea5_RETINA_LANDSCAPE_16_9.jpg",
       "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18Q0fvRDXyc4rqyoCg",
+      "title": "Folkefesten:  BORD 8-delsfinale W86 VS W88 18:00",
+      "description": "Arrangement på Kadettangen, Sandvika",
+      "date": "2026-08-07",
+      "time": "04:00",
+      "endTime": null,
+      "location": "Kadettangen, Sandvika",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-8-delsfinale-w86-vs-w88-18-00-tickets-G1HP2W?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-8-delsfinale-w86-vs-w88-18-00-tickets-G1HP2W?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎪",
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
@@ -953,8 +935,8 @@
   ],
   "meta": {
     "city": "oslo",
-    "count": 49,
-    "fetchedAt": "2026-07-01T08:48:26.450Z",
+    "count": 48,
+    "fetchedAt": "2026-07-02T08:10:31.511Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,
