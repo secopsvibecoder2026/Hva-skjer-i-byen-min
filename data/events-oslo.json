@@ -1,140 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z1kC9u_xe",
-      "title": "KARPE WORLD",
-      "description": "Sales Information There is a maximum limit of 8 tickets per customer. Tickets are only sold at https://www.ticketmaster.no. In addition to the main area, SAS PLUS tickets are available, which grant access to an exclusive VIP area with: + Access to a grandstand and seating area with a view of the main stage + Fast track entry to KARPE WORLD + Dedicated bars with an extended drink selection + Exclusive food service for the area + Private restrooms + Unique activity offerings + A scenic and relaxing hangout area + The SAS PLUS area is a separate zone within KARPE WORLD, and you may enter and exit freely with a valid ticket Age limit: 20 years! Ticket Delivery Tickets will be available as mobile tickets (QR codes) via the Ticketmaster app and your user account well in advance of the concert (about 30 days). At the same time, you will have the option to transfer tickets to friends. Learn more about delayed delivery of admission passes here. Age Limits There is no age limit in the main area, but everyone entering KARPE WORLD must have a valid ticket. Children under 15 must be accompanied by an adult. Important Times KARPE WORLD opens at 15:00 and closes at 23:00. Accessibility / Wheelchair & Companion Purchase a regular ticket for your preferred area. There is no companion ticket scheme. Transport Transport options to Ekebergsletta will be communicated to ticket holders at a later date. Food & Beverage Food and drinks will be available for purchase inside the venue. Security and Entry Control Tickets, bags, backpacks, and purses will be checked at the entrance. The following items are prohibited: food, drinks, bottles, cans, umbrellas, folding chairs, animals, weapons, professional cameras, recording equipment, selfie sticks, and laser pointers. There is no cloakroom available. Please do not bring valuables. More Info The concert is organized by Live Nation Norway and KARPE. More information is available at Live Nation and KARPE WORLD. How do I contact Ticketmaster Norway? Frequently asked questions can be found on ticketmaster Customer Service If you don't find the answer you're looking for, use the contact form on the same page to reach us.",
-      "date": "2026-07-02",
-      "time": "15:00",
-      "endTime": null,
-      "location": "Ekebergsletta, Oslo, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/karpe-world-tickets/397359882?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/karpe-world-tickets/397359882?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/d25/db744b16-79eb-44a9-bd4a-9307e8ad2d25_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18Qf2a4ZtFj8ZwEXnk",
-      "title": "Folkefesten:  BORD 16-delsfinale Spania vs Østerrike 21:00",
-      "description": "Arrangement på Kadettangen, Sandvika",
-      "date": "2026-07-02",
-      "time": "18:00",
-      "endTime": null,
-      "location": "Kadettangen, Sandvika",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-16-delsfinale-spania-vs-osterrike-21-00-tickets-Z12BP5?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-16-delsfinale-spania-vs-osterrike-21-00-tickets-Z12BP5?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18Qf2aiYtFj8ZyEWB9",
-      "title": "Folkefesten:  FAST TRACK 16-delsfinale Spania vs Østerrike 21:00",
-      "description": "Arrangement på Kadettangen, Sandvika",
-      "date": "2026-07-02",
-      "time": "18:00",
-      "endTime": null,
-      "location": "Kadettangen, Sandvika",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/folkefesten-fast-track-16-delsfinale-spania-vs-osterrike-21-00-tickets-HP5FGC?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/folkefesten-fast-track-16-delsfinale-spania-vs-osterrike-21-00-tickets-HP5FGC?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18QNSWPX9gy97s84sV",
-      "title": "Spania - Østerrike",
-      "description": "Arrangement på Lekter´n, Oslo",
-      "date": "2026-07-02",
-      "time": "20:00",
-      "endTime": null,
-      "location": "Lekter´n, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/spania-osterrike-tickets-WCK01S?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/spania-osterrike-tickets-WCK01S?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18Q0eTG0js0P2-SPO2",
-      "title": "Portugal - Kroatia",
-      "description": "Arrangement på Lekter´n, Oslo",
-      "date": "2026-07-03",
-      "time": "00:00",
-      "endTime": null,
-      "location": "Lekter´n, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/portugal-kroatia-tickets-D7V6LR?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/portugal-kroatia-tickets-D7V6LR?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18Qf21d18M1OZlVrzi",
-      "title": "Folkefesten:  BORD 16-delsfinale Portugal vs Kroatia 01:00",
-      "description": "Arrangement på Kadettangen, Sandvika",
-      "date": "2026-07-03",
-      "time": "00:00",
-      "endTime": null,
-      "location": "Kadettangen, Sandvika",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-16-delsfinale-portugal-vs-kroatia-01-00-tickets-W31BX5?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-16-delsfinale-portugal-vs-kroatia-01-00-tickets-W31BX5?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18Qf21hn8M1OZyVrQ2",
-      "title": "Folkefesten:  FAST TRACK 16-delsfinale Portugal vs Kroatia 01:00",
-      "description": "Arrangement på Kadettangen, Sandvika",
-      "date": "2026-07-03",
-      "time": "00:00",
-      "endTime": null,
-      "location": "Kadettangen, Sandvika",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/folkefesten-fast-track-16-delsfinale-portugal-vs-kroatia-01-00-tickets-KLSDCX?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/folkefesten-fast-track-16-delsfinale-portugal-vs-kroatia-01-00-tickets-KLSDCX?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z1k7dFt4N",
       "title": "KARPE WORLD",
       "description": "Sales Information There is a maximum limit of 8 tickets per customer. Tickets are only sold at https://www.ticketmaster.no. In addition to the main area, SAS PLUS tickets are available, which grant access to an exclusive VIP area with: + Access to a grandstand and seating area with a view of the main stage + Fast track entry to KARPE WORLD + Dedicated bars with an extended drink selection + Exclusive food service for the area + Private restrooms + Unique activity offerings + A scenic and relaxing hangout area + The SAS PLUS area is a separate zone within KARPE WORLD, and you may enter and exit freely with a valid ticket Age limit: 20 years! Ticket Delivery Tickets will be available as mobile tickets (QR codes) via the Ticketmaster app and your user account well in advance of the concert (about 30 days). At the same time, you will have the option to transfer tickets to friends. Learn more about delayed delivery of admission passes here. Age Limits There is no age limit in the main area, but everyone entering KARPE WORLD must have a valid ticket. Children under 15 must be accompanied by an adult. Important Times KARPE WORLD opens at 15:00 and closes at 23:00. Accessibility / Wheelchair & Companion Purchase a regular ticket for your preferred area. There is no companion ticket scheme. Transport Transport options to Ekebergsletta will be communicated to ticket holders at a later date. Food & Beverage Food and drinks will be available for purchase inside the venue. Security and Entry Control Tickets, bags, backpacks, and purses will be checked at the entrance. The following items are prohibited: food, drinks, bottles, cans, umbrellas, folding chairs, animals, weapons, professional cameras, recording equipment, selfie sticks, and laser pointers. There is no cloakroom available. Please do not bring valuables. More Info The concert is organized by Live Nation Norway and KARPE. More information is available at Live Nation and KARPE WORLD. How do I contact Ticketmaster Norway? Frequently asked questions can be found on ticketmaster Customer Service If you don't find the answer you're looking for, use the contact form on the same page to reach us.",
@@ -483,7 +349,7 @@
     },
     {
       "id": "tm-LvZ18Q0AIQ4yfWbebgvFw",
-      "title": "Portugal/Kroatia - Spania/Østerrike",
+      "title": "Portugal - Spania",
       "description": "Arrangement på Lekter´n, Oslo",
       "date": "2026-07-06",
       "time": "20:00",
@@ -492,8 +358,8 @@
       "categories": [
         "konsert"
       ],
-      "ticketUrl": "https://www.universe.com/events/portugal-kroatia-spania-osterrike-tickets-1BQ4SK?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/portugal-kroatia-spania-osterrike-tickets-1BQ4SK?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "ticketUrl": "https://www.universe.com/events/portugal-spania-tickets-1BQ4SK?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/portugal-spania-tickets-1BQ4SK?ref=ticketmaster&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -513,6 +379,25 @@
       ],
       "ticketUrl": "https://www.universe.com/events/usa-belgia-tickets-SVZHBJ?ref=ticketmaster",
       "affiliateUrl": "https://www.universe.com/events/usa-belgia-tickets-SVZHBJ?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18Q0fvRDXyc4rqyoCg",
+      "title": "Folkefesten:  BORD 8-delsfinale W86 VS W88 18:00",
+      "description": "Arrangement på Kadettangen, Sandvika",
+      "date": "2026-07-07",
+      "time": "12:00",
+      "endTime": null,
+      "location": "Kadettangen, Sandvika",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-8-delsfinale-w86-vs-w88-18-00-tickets-G1HP2W?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-8-delsfinale-w86-vs-w88-18-00-tickets-G1HP2W?ref=ticketmaster&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -540,7 +425,7 @@
     },
     {
       "id": "tm-LvZ18Q0AR_pR4b-PUPA7s",
-      "title": "Sveits/Algerie - Colombia/Ghana",
+      "title": "Sveits - Colombia/Ghana",
       "description": "Arrangement på Lekter´n, Oslo",
       "date": "2026-07-07",
       "time": "21:00",
@@ -549,8 +434,8 @@
       "categories": [
         "konsert"
       ],
-      "ticketUrl": "https://www.universe.com/events/sveits-algerie-colombia-ghana-tickets-4BQLP3?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/sveits-algerie-colombia-ghana-tickets-4BQLP3?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "ticketUrl": "https://www.universe.com/events/sveits-colombia-ghana-tickets-4BQLP3?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/sveits-colombia-ghana-tickets-4BQLP3?ref=ticketmaster&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -599,7 +484,7 @@
     {
       "id": "tm-Z698xZb_Z16eZJfOka",
       "title": "Robyn - The Sexistential Tour",
-      "description": "Arrangement på Unity Arena, Fornebu",
+      "description": "Doors: 18:00 / 6PM Max 6 tickets per order For more information about the concert, artists, entry times, etc. unityarena.no Transport Use public transportation to Unity Arena. See unityarena.no or ruter.no for public transport option. Wheel Chair/ Companion Tickets for Wheel chairs and companions General information The organizer reserves the right to deny entry to individuals who refuse a personal search (This may include a body search and inspection of any luggage) Additional info unityarena.no For more information about items that are not allowed inside the arena. Persons who are removed have no right to a refund of ticket expenses. There is no minimum age for the concert, but children under 15 must be accompanied by an adult (as per the Police Act in Bærum Municipality).",
       "date": "2026-07-11",
       "time": "18:00",
       "endTime": null,
@@ -731,25 +616,6 @@
       "affiliateUrl": "https://www.ticketmaster.no/event/rose-tattoo-tickets/574819412?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/e/ea5/7ba479cd-f65c-48ab-ad81-02008ba15ea5_RETINA_LANDSCAPE_16_9.jpg",
       "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18Q0fvRDXyc4rqyoCg",
-      "title": "Folkefesten:  BORD 8-delsfinale W86 VS W88 18:00",
-      "description": "Arrangement på Kadettangen, Sandvika",
-      "date": "2026-08-07",
-      "time": "04:00",
-      "endTime": null,
-      "location": "Kadettangen, Sandvika",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-8-delsfinale-w86-vs-w88-18-00-tickets-G1HP2W?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-8-delsfinale-w86-vs-w88-18-00-tickets-G1HP2W?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎪",
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
@@ -931,12 +797,130 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vJ9ukj3",
+      "title": "B-boy Myhre (18+)",
+      "description": "Arrangement på Chateau Neuf, Betong, Oslo",
+      "date": "2026-08-21",
+      "time": "21:00",
+      "endTime": null,
+      "location": "Chateau Neuf, Betong, Oslo",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/b-boy-myhre-18--tickets/1997346712?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/b-boy-myhre-18--tickets/1997346712?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/43a/c741fc81-ecd4-414d-98aa-65c3006ae43a_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎭",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vj3Joo8",
+      "title": "Kløbb Ka2",
+      "description": "Arrangement på Hangaren, Fornebu",
+      "date": "2026-08-21",
+      "time": "22:00",
+      "endTime": null,
+      "location": "Hangaren, Fornebu",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/klobb-ka2-tickets/1712991450?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/klobb-ka2-tickets/1712991450?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/220/a06b080c-1130-4779-92f0-cad4864ad220_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎭",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1krpob-6",
+      "title": "Orgelsommer i Oslo domkirke",
+      "description": "Arrangement på Oslo domkirke, Oslo",
+      "date": "2026-08-22",
+      "time": "12:00",
+      "endTime": null,
+      "location": "Oslo domkirke, Oslo",
+      "categories": [
+        "konsert",
+        "familie"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/orgelsommer-i-oslo-domkirke-tickets/796458847?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/orgelsommer-i-oslo-domkirke-tickets/796458847?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/60e/458be508-3aaf-41e4-99bb-71af6f04660e_TABLET_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kPzZNAo",
+      "title": "Crashville",
+      "description": "Arrangement på John Dee, Oslo",
+      "date": "2026-08-22",
+      "time": "19:00",
+      "endTime": null,
+      "location": "John Dee, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/crashville-tickets/978023151?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/crashville-tickets/978023151?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/50a/36429bff-b25f-42ac-80f4-86242647050a_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kGN19rf",
+      "title": "Masterwork recital - Grieg/Rachmaninoff recital",
+      "description": "Arrangement på Kampen Kirke, Oslo, Oslo",
+      "date": "2026-08-23",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Kampen Kirke, Oslo, Oslo",
+      "categories": [
+        "konsert",
+        "familie"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/masterwork-recital-grieg-rachmaninoff-recital-tickets/323297794?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/masterwork-recital-grieg-rachmaninoff-recital-tickets/323297794?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/426/de51a23a-e20c-4ec2-91d3-3a13d3c87426_SOURCE",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vagbUba",
+      "title": "The Neighbourhood: THE WOURLD TOUR",
+      "description": "Arrangement på Unity Arena, Fornebu",
+      "date": "2026-08-25",
+      "time": "18:00",
+      "endTime": null,
+      "location": "Unity Arena, Fornebu",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/the-neighbourhood-the-wourld-tour-tickets/1275636609?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/the-neighbourhood-the-wourld-tour-tickets/1275636609?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/59a/74eacbfc-af64-4e60-b775-5ddfa21b259a_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
-    "count": 48,
-    "fetchedAt": "2026-07-02T08:10:31.511Z",
+    "count": 47,
+    "fetchedAt": "2026-07-03T08:07:43.985Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,

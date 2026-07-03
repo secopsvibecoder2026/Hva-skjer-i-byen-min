@@ -409,6 +409,26 @@
       "source": "ticketmaster"
     },
     {
+      "id": "tm-Z698xZb_Z16vqYaSaO",
+      "title": "Anatolaks",
+      "description": "Anatolaks is a music band based in Oslo, mainly covering songs in the genres of Turkish-Anatolian and Psychedelic Rock (a fusion of Turkish folk music and rock). The band was founded in 2024 by Arda Unlusoy (drums, back vocal), Burak Kara (vocal, electric guitar), Yavuzer Cetin (electric guitar) and Numan Hekimoglu (bass guitar). Emre Onder Guner (baglama/saz) and Ahmet Emin Memis (darbuka and ney) joined later and completed the band's final lineup. Each member is an experienced musician who has previously performed at various well-known events in Turkiye. These six individuals, each with different backgrounds, came together in Oslo and now share a common goal: to carry the distinctive sound of Anatolia beyond borders!",
+      "date": "2026-09-26",
+      "time": "20:00",
+      "endTime": null,
+      "location": "Studio, USF Verftet, Bergen",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/anatolaks-tickets/1770273260?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/anatolaks-tickets/1770273260?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/e8a/24559749-f1a8-43f6-ab3d-5ece98efde8a_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
       "id": "tm-Z698xZb_Z16evAQ9jM",
       "title": "Tundra and Lightning 2026 - Friday Pass",
       "description": "Arrangement på Bergen",
@@ -471,10 +491,10 @@
   ],
   "meta": {
     "city": "bergen",
-    "count": 24,
-    "fetchedAt": "2026-07-02T08:10:30.002Z",
+    "count": 25,
+    "fetchedAt": "2026-07-03T08:07:43.265Z",
     "sources": {
-      "ticketmaster": 26,
+      "ticketmaster": 27,
       "eventbrite": 0,
       "scrape": 0
     }

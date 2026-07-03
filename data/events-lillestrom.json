@@ -4,7 +4,7 @@
       "id": "scrape-gen-gi-bort-en-opplevelse--",
       "title": "Gi bort en opplevelse!",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-07-03",
+      "date": "2026-07-04",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -23,7 +23,7 @@
       "id": "scrape-gen-last-ned-v-r-app-",
       "title": "Last ned vår app",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-07-03",
+      "date": "2026-07-04",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -250,25 +250,6 @@
       "source": "scrape"
     },
     {
-      "id": "scrape-gen-adam-douglas-2026-09-10",
-      "title": "Adam Douglas",
-      "description": "Torsdag. 10. september\nkl. 19.00",
-      "date": "2026-09-10",
-      "time": "12:00",
-      "endTime": null,
-      "location": "lillestrom-kultursenter.no",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17581-adam-douglas/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17581-adam-douglas/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
       "id": "scrape-gen-oppskrift-p-ekstase-med-anne-lindmo-og-n-2026-09-10",
       "title": "Oppskrift på ekstase med Anne Lindmo og Nina Brochmann",
       "description": "Torsdag. 10. september\nkl. 19.00",
@@ -281,6 +262,25 @@
       ],
       "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17917-oppskrift-pa-ekstase-med-anne-lindmo-og-nina-brochmann/",
       "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17917-oppskrift-pa-ekstase-med-anne-lindmo-og-nina-brochmann/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-adam-douglas-2026-09-10",
+      "title": "Adam Douglas",
+      "description": "Torsdag. 10. september\nkl. 19.00",
+      "date": "2026-09-10",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17581-adam-douglas/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17581-adam-douglas/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -618,6 +618,25 @@
       "source": "scrape"
     },
     {
+      "id": "scrape-gen-jazzkaf-primabandet-2026-09-26",
+      "title": "Jazzkafé – Primabandet",
+      "description": "Lørdag. 26. september\nkl. 15.00",
+      "date": "2026-09-26",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16890-jazzkafe-primabandet/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16890-jazzkafe-primabandet/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
       "id": "scrape-gen-dragbingo-med-ivana-impeachum-2026-09-26",
       "title": "Dragbingo med Ivana Impeachum",
       "description": "Lørdag. 26. september\nkl. 19.00",
@@ -657,7 +676,7 @@
     },
     {
       "id": "scrape-gen-shrek-the-musical-premiere-2026-10-02",
-      "title": "Shrek the musical – premiere",
+      "title": "Shrek The Musical – premiere",
       "description": "2. okt. – 11. okt.\n9 forestillinger",
       "date": "2026-10-02",
       "time": "12:00",
@@ -2186,12 +2205,12 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 114,
-    "fetchedAt": "2026-07-02T08:10:37.768Z",
+    "count": 115,
+    "fetchedAt": "2026-07-03T08:07:52.343Z",
     "sources": {
       "ticketmaster": 0,
       "eventbrite": 0,
-      "scrape": 114
+      "scrape": 115
     }
   }
 }

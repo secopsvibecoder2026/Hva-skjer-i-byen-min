@@ -1,11 +1,51 @@
 {
-  "events": [],
+  "events": [
+    {
+      "id": "tm-Z698xZb_Z16vu_v77I",
+      "title": "Drammen Metalfest",
+      "description": "The 3rd edition of DMF is just around the corner! On September 18th and 19th, it all kicks off again in the basement of Kometen. Expect art, beer, love, hate, pizza, and of course a whole lot of heavy METAL!! Grab your limited Early Bird tickets now before they're gone!",
+      "date": "2026-09-18",
+      "time": "18:00",
+      "endTime": null,
+      "location": "Kometen, Drammen",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/drammen-metalfest-tickets/1359044128?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/drammen-metalfest-tickets/1359044128?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/eca/e5cb1fa7-f151-4a52-9422-a6eb3c428eca_TABLET_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16ee97wk9",
+      "title": "Drammen Metalfest",
+      "description": "The 3rd edition of DMF is just around the corner! On September 18th and 19th, it all kicks off again in the basement of Kometen. Expect art, beer, love, hate, pizza, and of course a whole lot of heavy METAL!! Grab your limited Early Bird tickets now before they're gone!",
+      "date": "2026-09-19",
+      "time": "18:00",
+      "endTime": null,
+      "location": "Kometen, Drammen",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/drammen-metalfest-tickets/2097132197?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/drammen-metalfest-tickets/2097132197?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/bd1/dbece1a4-0872-40a2-a080-1400c4d11bd1_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    }
+  ],
   "meta": {
     "city": "drammen",
-    "count": 0,
-    "fetchedAt": "2026-03-28T20:24:19.384Z",
+    "count": 2,
+    "fetchedAt": "2026-07-03T08:08:03.658Z",
     "sources": {
-      "ticketmaster": 0,
+      "ticketmaster": 2,
       "eventbrite": 0,
       "scrape": 0
     }
