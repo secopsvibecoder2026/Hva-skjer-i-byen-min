@@ -422,7 +422,7 @@
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/anatolaks-tickets/1770273260?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/anatolaks-tickets/1770273260?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/e8a/24559749-f1a8-43f6-ab3d-5ece98efde8a_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageUrl": "https://s1.ticketm.net/dam/e/559/e692cfbf-24f4-4666-864b-76b8dd763559_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -492,7 +492,7 @@
   "meta": {
     "city": "bergen",
     "count": 25,
-    "fetchedAt": "2026-07-03T08:07:43.265Z",
+    "fetchedAt": "2026-07-04T07:44:47.301Z",
     "sources": {
       "ticketmaster": 27,
       "eventbrite": 0,

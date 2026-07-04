@@ -1,25 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-LvZ18QLlBSGQzmYvGvNLw",
-      "title": "Dragsug presenterer: Humorhavari 2 i FREDRIKSTAD",
-      "description": "Arrangement på St. Harry, Fredrikstad",
-      "date": "2026-07-03",
-      "time": "19:00",
-      "endTime": null,
-      "location": "St. Harry, Fredrikstad",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://www.universe.com/events/dragsug-presenterer-humorhavari-2-i-fredrikstad-tickets-1S8WZT?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/dragsug-presenterer-humorhavari-2-i-fredrikstad-tickets-1S8WZT?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "imageEmoji": "🎭",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z1kq-Avxd",
       "title": "Pellygata Poporkester - Hafslundsøy Musikkorps - KULÅS",
       "description": "Arrangement på Hotel Fredrikstad, Fredrikstad",
@@ -120,10 +101,10 @@
   ],
   "meta": {
     "city": "fredrikstad",
-    "count": 6,
-    "fetchedAt": "2026-07-03T08:08:04.616Z",
+    "count": 5,
+    "fetchedAt": "2026-07-04T07:44:58.367Z",
     "sources": {
-      "ticketmaster": 6,
+      "ticketmaster": 5,
       "eventbrite": 0,
       "scrape": 0
     }
