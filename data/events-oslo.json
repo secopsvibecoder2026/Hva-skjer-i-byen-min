@@ -1,141 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z1k70uaZU",
-      "title": "Orgelsommer i Oslo domkirke",
-      "description": "Arrangement på Oslo domkirke, Oslo",
-      "date": "2026-07-04",
-      "time": "12:00",
-      "endTime": null,
-      "location": "Oslo domkirke, Oslo",
-      "categories": [
-        "konsert",
-        "familie"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/orgelsommer-i-oslo-domkirke-tickets/124349036?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/orgelsommer-i-oslo-domkirke-tickets/124349036?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/d1e/57afcf70-38d9-4c82-96ff-2e4b9ecf2d1e_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18Q08ZR3zsEBPlUaag",
-      "title": "Folkefesten:  BORD 8-delsfinale Paraguay vs Frankrike 23:00",
-      "description": "Arrangement på Kadettangen, Sandvika",
-      "date": "2026-07-04",
-      "time": "12:00",
-      "endTime": null,
-      "location": "Kadettangen, Sandvika",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-8-delsfinale-paraguay-vs-frankrike-23-00-tickets-KQP2H9?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-8-delsfinale-paraguay-vs-frankrike-23-00-tickets-KQP2H9?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16eZ3OpfE",
-      "title": "KARPE WORLD",
-      "description": "Sales Information There is a maximum limit of 8 tickets per customer. Tickets are only sold at https://www.ticketmaster.no. In addition to the main area, SAS PLUS tickets are available, which grant access to an exclusive VIP area with: + Access to a grandstand and seating area with a view of the main stage + Fast track entry to KARPE WORLD + Dedicated bars with an extended drink selection + Exclusive food service for the area + Private restrooms + Unique activity offerings + A scenic and relaxing hangout area + The SAS PLUS area is a separate zone within KARPE WORLD, and you may enter and exit freely with a valid ticket Age limit: 20 years! Ticket Delivery Tickets will be available as mobile tickets (QR codes) via the Ticketmaster app and your user account well in advance of the concert (about 30 days). At the same time, you will have the option to transfer tickets to friends. Learn more about delayed delivery of admission passes here. Age Limits There is no age limit in the main area, but everyone entering KARPE WORLD must have a valid ticket. Children under 15 must be accompanied by an adult. Important Times KARPE WORLD opens at 15:00 and closes at 23:00. Accessibility / Wheelchair & Companion Purchase a regular ticket for your preferred area. There is no companion ticket scheme. Transport Transport options to Ekebergsletta will be communicated to ticket holders at a later date. Food & Beverage Food and drinks will be available for purchase inside the venue. Security and Entry Control Tickets, bags, backpacks, and purses will be checked at the entrance. The following items are prohibited: food, drinks, bottles, cans, umbrellas, folding chairs, animals, weapons, professional cameras, recording equipment, selfie sticks, and laser pointers. There is no cloakroom available. Please do not bring valuables. More Info The concert is organized by Live Nation Norway and KARPE. More information is available at Live Nation and KARPE WORLD. How do I contact Ticketmaster Norway? Frequently asked questions can be found on ticketmaster Customer Service If you don't find the answer you're looking for, use the contact form on the same page to reach us.",
-      "date": "2026-07-04",
-      "time": "15:00",
-      "endTime": null,
-      "location": "Ekebergsletta, Oslo, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/karpe-world-tickets/2012816527?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/karpe-world-tickets/2012816527?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/d25/db744b16-79eb-44a9-bd4a-9307e8ad2d25_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18Q07C4nX8m6sW3mQq",
-      "title": "Folkefesten:  BORD 8-delsfinale Canada vs Marokko 19:00",
-      "description": "Arrangement på Kadettangen, Sandvika",
-      "date": "2026-07-04",
-      "time": "16:00",
-      "endTime": null,
-      "location": "Kadettangen, Sandvika",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-8-delsfinale-canada-vs-marokko-19-00-tickets-53X8GR?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-8-delsfinale-canada-vs-marokko-19-00-tickets-53X8GR?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18Q07C2wrTQcxVLRqR",
-      "title": "Canada - Marokko",
-      "description": "Arrangement på Lekter´n, Oslo",
-      "date": "2026-07-04",
-      "time": "18:00",
-      "endTime": null,
-      "location": "Lekter´n, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/canada-marokko-tickets-M8DXPJ?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/canada-marokko-tickets-M8DXPJ?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18Q0AJNa_9OiHUlddv",
-      "title": "Paraguay - Frankrike",
-      "description": "Arrangement på Lekter´n, Oslo",
-      "date": "2026-07-04",
-      "time": "22:00",
-      "endTime": null,
-      "location": "Lekter´n, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/paraguay-frankrike-tickets-B5Q4N0?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/paraguay-frankrike-tickets-B5Q4N0?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18Q08exItUjJYzYcB9",
-      "title": "Folkefesten:  BORD 8-delsfinale Brasil vs NORGE",
-      "description": "Arrangement på Kadettangen, Sandvika",
-      "date": "2026-07-05",
-      "time": "06:00",
-      "endTime": null,
-      "location": "Kadettangen, Sandvika",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-8-delsfinale-brasil-vs-norge-tickets-39CL27?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-8-delsfinale-brasil-vs-norge-tickets-39CL27?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-LvZ18Q0ASnmCawoNevvTx",
       "title": "Norge - Brasil",
       "description": "Arrangement på Lekter´n, Oslo",
@@ -157,7 +22,7 @@
     {
       "id": "tm-Z698xZb_Z1kb_060S",
       "title": "Masterwork recital - Chopin/Grieg/Mörk Karlsen recital",
-      "description": "Arrangement på Kampen Kirke, Oslo, Oslo",
+      "description": "Piano virtuoso Svein Amund Skara will perform Frédéric Chopin's complete Ballades (1--4) and Scherzos (1--4). Playing all four ballades and all four scherzos in a single evening is a monumental physical and mental achievement. It is extremely rare for an audience to experience these eight works performed together. The Ballades: Chopin's innovative form of piano music. These are deep, emotional, wordless narratives inspired by medieval ballades that could encompass an entire life story. They demand maturity, tone control, and immense virtuosity---such as in the shattering conclusion of the fourth ballade. The ballades are a masterful collection of compositions that span the entire emotional spectrum, from ecstasy to deep despair. The challenge for pianists is to do full justice to these pinnacles of piano literature. The Scherzos: Chopin's scherzos are explosive, demonic, and filled with violent contrasts. Technically, they offer breakneck passages and lightning-fast chord leaps. The concert opens with music from one of Edvard Grieg's international successes, Lyric Pieces. Volume 7 will be performed at this concert. The second act of the concert opens with Piano Sonata in B minor, a very interesting composition by probably the most recorded contemporary composer in Norway, Kjell Mörk Karlsen. PROGRAMME 05.07.2026 EDVARD GRIEG: Lyrical Pieces book 7, opus 62 FRÉDÉRIC CHOPIN: Scherzo no. 1 in b minor, opus 20 Scherzo no. 2 in b flat minor, opus 31 Scherzo no. 3 c sharp minor, opus 39 Scherzo no. 4 in E major, opus 54 PAUSE KJELL MÖRK KARLSEN: PianoSonata in h FRÉDÉRIC CHOPIN: Ballada no. 1 in g minor, opus 23 Ballada no. 2 in F major, opus 38 Ballada no. 3 in A flat major, opus 47 Ballada no. 4 f minor, opus 52 \"enormous technical resources\" (Aftenposten, Oslo, Norway) \"Skara maintained fine control and brought out contrapunctal lines with clarity\" (Los Angeles Times) \"a truly elegant musician\" (Kölnische Rundschau, Cologne, Germany) Event time/concert start: 19:00 Doors open: 18:15 Duration: 130 min Serving: Coffee, tea and biscuits Age limit: No age limit Companion: Free without ticket Access: Bus no. 60 to Kampen stop. (6.13 and 6.43 from Jernbanetorget stop - at the front of Oslo Central Station) Subway no. 1, 2, 3, 4 to Ensjø station. Disabled: No Parking facilities: No Website: www.skara.ch",
       "date": "2026-07-05",
       "time": "19:00",
       "endTime": null,
@@ -253,7 +118,7 @@
     },
     {
       "id": "tm-LvZ18Q0fvRDXyc4rqyoCg",
-      "title": "Folkefesten:  BORD 8-delsfinale W86 VS W88 18:00",
+      "title": "Folkefesten:  BORD 8-delsfinale Argentina VS Egypt 18:00",
       "description": "Arrangement på Kadettangen, Sandvika",
       "date": "2026-07-07",
       "time": "12:00",
@@ -262,8 +127,8 @@
       "categories": [
         "konsert"
       ],
-      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-8-delsfinale-w86-vs-w88-18-00-tickets-G1HP2W?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-8-delsfinale-w86-vs-w88-18-00-tickets-G1HP2W?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-8-delsfinale-argentina-vs-egypt-18-00-tickets-G1HP2W?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-8-delsfinale-argentina-vs-egypt-18-00-tickets-G1HP2W?ref=ticketmaster&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
       "imageEmoji": "⚽",
       "sponsored": false,
@@ -310,7 +175,7 @@
     },
     {
       "id": "tm-LvZ18Q0feq6dfm_9akeYW",
-      "title": "Folkefesten:  BORD 8-delsfinale W85 VS W87 22:00",
+      "title": "Folkefesten:  BORD 8-delsfinale Sveits VS Colombia 22:00",
       "description": "Arrangement på Kadettangen, Sandvika",
       "date": "2026-07-07",
       "time": "21:00",
@@ -319,8 +184,8 @@
       "categories": [
         "konsert"
       ],
-      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-8-delsfinale-w85-vs-w87-22-00-tickets-MYH25D?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-8-delsfinale-w85-vs-w87-22-00-tickets-MYH25D?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-8-delsfinale-sveits-vs-colombia-22-00-tickets-MYH25D?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-8-delsfinale-sveits-vs-colombia-22-00-tickets-MYH25D?ref=ticketmaster&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
       "imageEmoji": "⚽",
       "sponsored": false,
@@ -914,12 +779,151 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kos4kvF",
+      "title": "HERBERNFEST 100 - ÅRS JUBILEUM",
+      "description": "Arrangement på Lille Herbern, Oslo",
+      "date": "2026-08-27",
+      "time": "18:00",
+      "endTime": null,
+      "location": "Lille Herbern, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/herbernfest-100-ars-jubileum-tickets/471546048?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/herbernfest-100-ars-jubileum-tickets/471546048?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/73e/07debe3c-d9db-4467-90f9-32c8a4ba873e_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16ev08S0f",
+      "title": "Vassendgutane",
+      "description": "Arrangement på Rockefeller, Oslo",
+      "date": "2026-08-28",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Rockefeller, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/vassendgutane-tickets/2064433914?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/vassendgutane-tickets/2064433914?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/4ce/ee6933c9-06eb-4c01-a3b6-6b77560694ce_TABLET_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1ko_Ptjw",
+      "title": "Orgelsommer i Oslo domkirke",
+      "description": "Arrangement på Oslo domkirke, Oslo",
+      "date": "2026-08-29",
+      "time": "12:00",
+      "endTime": null,
+      "location": "Oslo domkirke, Oslo",
+      "categories": [
+        "konsert",
+        "familie"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/orgelsommer-i-oslo-domkirke-tickets/459969732?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/orgelsommer-i-oslo-domkirke-tickets/459969732?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/60e/458be508-3aaf-41e4-99bb-71af6f04660e_TABLET_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1k8EQ7v7",
+      "title": "No. 4 - Fri alder",
+      "description": "Arrangement på Rockefeller, Oslo",
+      "date": "2026-08-29",
+      "time": "17:00",
+      "endTime": null,
+      "location": "Rockefeller, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/no-4-fri-alder-tickets/427684044?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/no-4-fri-alder-tickets/427684044?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/0d0/b1bde65e-ca20-4944-a289-ea00d868c0d0_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vq6ZgJp",
+      "title": "Ron Sexsmith",
+      "description": "Arrangement på John Dee, Oslo",
+      "date": "2026-08-30",
+      "time": "19:00",
+      "endTime": null,
+      "location": "John Dee, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/ron-sexsmith-tickets/1747035996?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/ron-sexsmith-tickets/1747035996?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/b89/8095e400-21d8-4285-aa23-0e6733154b89_TABLET_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kGMaxJe",
+      "title": "Norwegian Military Tattoo",
+      "description": "Arrangement på Oslo Spektrum, Oslo",
+      "date": "2026-09-04",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Oslo Spektrum, Oslo",
+      "categories": [
+        "familie",
+        "barn"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/norwegian-military-tattoo-tickets/337262982?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/norwegian-military-tattoo-tickets/337262982?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/b2e/27598d9c-4bad-449d-af05-72e56b6a4b2e_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16v_Oa04Y",
+      "title": "Dance with a Stranger",
+      "description": "Arrangement på Rockefeller, Oslo",
+      "date": "2026-09-04",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Rockefeller, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/dance-with-a-stranger-tickets/1660264570?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/dance-with-a-stranger-tickets/1660264570?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/3f7/84ee82e2-19d1-4e91-90f7-4de7ddbe13f7_TABLET_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 47,
-    "fetchedAt": "2026-07-04T07:44:47.871Z",
+    "fetchedAt": "2026-07-05T07:55:35.556Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,

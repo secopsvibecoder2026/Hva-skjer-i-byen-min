@@ -1,25 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-LvZ18QLlDEfyg48vptrqA",
-      "title": "Dragsug presenterer: Humorhavari 2 i TØNSBERG",
-      "description": "Arrangement på Tønsberg Filmhus, Tønsberg",
-      "date": "2026-07-04",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Tønsberg Filmhus, Tønsberg",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://www.universe.com/events/dragsug-presenterer-humorhavari-2-i-tonsberg-tickets-LY6V8W?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/dragsug-presenterer-humorhavari-2-i-tonsberg-tickets-LY6V8W?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "imageEmoji": "🎭",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z16vOa4gGE",
       "title": "Festivalpass med NATTEN Slottsfjell 2026",
       "description": "Arrangement på Tønsberg",
@@ -348,10 +329,10 @@
   ],
   "meta": {
     "city": "tonsberg",
-    "count": 18,
-    "fetchedAt": "2026-07-04T07:45:03.303Z",
+    "count": 17,
+    "fetchedAt": "2026-07-05T07:55:56.429Z",
     "sources": {
-      "ticketmaster": 21,
+      "ticketmaster": 20,
       "eventbrite": 0,
       "scrape": 0
     }
