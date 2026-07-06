@@ -4,7 +4,7 @@
       "id": "scrape-gen-gi-bort-en-opplevelse--",
       "title": "Gi bort en opplevelse!",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-07-06",
+      "date": "2026-07-07",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -23,7 +23,7 @@
       "id": "scrape-gen-last-ned-v-r-app-",
       "title": "Last ned vår app",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-07-06",
+      "date": "2026-07-07",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -2206,7 +2206,7 @@
   "meta": {
     "city": "lillestrom",
     "count": 115,
-    "fetchedAt": "2026-07-05T07:55:40.626Z",
+    "fetchedAt": "2026-07-06T08:58:38.630Z",
     "sources": {
       "ticketmaster": 0,
       "eventbrite": 0,

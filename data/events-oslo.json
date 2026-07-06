@@ -1,84 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-LvZ18Q0ASnmCawoNevvTx",
-      "title": "Norge - Brasil",
-      "description": "Arrangement på Lekter´n, Oslo",
-      "date": "2026-07-05",
-      "time": "17:00",
-      "endTime": null,
-      "location": "Lekter´n, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/norge-brasil-tickets-5PB27X?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/norge-brasil-tickets-5PB27X?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z1kb_060S",
-      "title": "Masterwork recital - Chopin/Grieg/Mörk Karlsen recital",
-      "description": "Piano virtuoso Svein Amund Skara will perform Frédéric Chopin's complete Ballades (1--4) and Scherzos (1--4). Playing all four ballades and all four scherzos in a single evening is a monumental physical and mental achievement. It is extremely rare for an audience to experience these eight works performed together. The Ballades: Chopin's innovative form of piano music. These are deep, emotional, wordless narratives inspired by medieval ballades that could encompass an entire life story. They demand maturity, tone control, and immense virtuosity---such as in the shattering conclusion of the fourth ballade. The ballades are a masterful collection of compositions that span the entire emotional spectrum, from ecstasy to deep despair. The challenge for pianists is to do full justice to these pinnacles of piano literature. The Scherzos: Chopin's scherzos are explosive, demonic, and filled with violent contrasts. Technically, they offer breakneck passages and lightning-fast chord leaps. The concert opens with music from one of Edvard Grieg's international successes, Lyric Pieces. Volume 7 will be performed at this concert. The second act of the concert opens with Piano Sonata in B minor, a very interesting composition by probably the most recorded contemporary composer in Norway, Kjell Mörk Karlsen. PROGRAMME 05.07.2026 EDVARD GRIEG: Lyrical Pieces book 7, opus 62 FRÉDÉRIC CHOPIN: Scherzo no. 1 in b minor, opus 20 Scherzo no. 2 in b flat minor, opus 31 Scherzo no. 3 c sharp minor, opus 39 Scherzo no. 4 in E major, opus 54 PAUSE KJELL MÖRK KARLSEN: PianoSonata in h FRÉDÉRIC CHOPIN: Ballada no. 1 in g minor, opus 23 Ballada no. 2 in F major, opus 38 Ballada no. 3 in A flat major, opus 47 Ballada no. 4 f minor, opus 52 \"enormous technical resources\" (Aftenposten, Oslo, Norway) \"Skara maintained fine control and brought out contrapunctal lines with clarity\" (Los Angeles Times) \"a truly elegant musician\" (Kölnische Rundschau, Cologne, Germany) Event time/concert start: 19:00 Doors open: 18:15 Duration: 130 min Serving: Coffee, tea and biscuits Age limit: No age limit Companion: Free without ticket Access: Bus no. 60 to Kampen stop. (6.13 and 6.43 from Jernbanetorget stop - at the front of Oslo Central Station) Subway no. 1, 2, 3, 4 to Ensjø station. Disabled: No Parking facilities: No Website: www.skara.ch",
-      "date": "2026-07-05",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Kampen Kirke, Oslo, Oslo",
-      "categories": [
-        "konsert",
-        "familie"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/masterwork-recital-chopin-grieg-mork-karlsen-recital-tickets/619907933?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/masterwork-recital-chopin-grieg-mork-karlsen-recital-tickets/619907933?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/426/de51a23a-e20c-4ec2-91d3-3a13d3c87426_SOURCE",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z1kj-oE_P",
-      "title": "FIFA World Cup: Brazil - Norway",
-      "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's.",
-      "date": "2026-07-05",
-      "time": "20:00",
-      "endTime": null,
-      "location": "Sentrum Scene, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/fifa-world-cup-brazil-norway-tickets/721467665?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/fifa-world-cup-brazil-norway-tickets/721467665?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/14a/c3e39af9-6b09-414d-a51b-876cc9fc814a_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18Q08ka19LU1rEQxxC",
-      "title": "Folkefesten: BORD 8-delsfinale Portugal VS Spania (21:00)",
-      "description": "Arrangement på Kadettangen, Sandvika",
-      "date": "2026-07-06",
-      "time": "06:00",
-      "endTime": null,
-      "location": "Kadettangen, Sandvika",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-8-delsfinale-portugal-vs-spania-21-00-tickets-43082P?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-8-delsfinale-portugal-vs-spania-21-00-tickets-43082P?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-LvZ18Q0AIQ4yfWbebgvFw",
       "title": "Portugal - Spania",
       "description": "Arrangement på Lekter´n, Oslo",
@@ -91,8 +13,8 @@
       ],
       "ticketUrl": "https://www.universe.com/events/portugal-spania-tickets-1BQ4SK?ref=ticketmaster",
       "affiliateUrl": "https://www.universe.com/events/portugal-spania-tickets-1BQ4SK?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎪",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "⚽",
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
@@ -110,8 +32,8 @@
       ],
       "ticketUrl": "https://www.universe.com/events/usa-belgia-tickets-SVZHBJ?ref=ticketmaster",
       "affiliateUrl": "https://www.universe.com/events/usa-belgia-tickets-SVZHBJ?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎪",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "⚽",
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
@@ -137,7 +59,7 @@
     },
     {
       "id": "tm-LvZ18Q0Am-pDK_Ljl2rK2",
-      "title": "Argentina/Kapp Verde - Australia/Egypt",
+      "title": "Argentina - Egypt",
       "description": "Arrangement på Lekter´n, Oslo",
       "date": "2026-07-07",
       "time": "17:00",
@@ -146,17 +68,17 @@
       "categories": [
         "konsert"
       ],
-      "ticketUrl": "https://www.universe.com/events/argentina-kapp-verde-australia-egypt-tickets-YSDJWP?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/argentina-kapp-verde-australia-egypt-tickets-YSDJWP?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎪",
+      "ticketUrl": "https://www.universe.com/events/argentina-egypt-tickets-YSDJWP?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/argentina-egypt-tickets-YSDJWP?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "⚽",
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
     },
     {
       "id": "tm-LvZ18Q0AR_pR4b-PUPA7s",
-      "title": "Sveits - Colombia/Ghana",
+      "title": "Sveits - Colombia",
       "description": "Arrangement på Lekter´n, Oslo",
       "date": "2026-07-07",
       "time": "21:00",
@@ -165,8 +87,8 @@
       "categories": [
         "konsert"
       ],
-      "ticketUrl": "https://www.universe.com/events/sveits-colombia-ghana-tickets-4BQLP3?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/sveits-colombia-ghana-tickets-4BQLP3?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "ticketUrl": "https://www.universe.com/events/sveits-colombia-tickets-4BQLP3?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/sveits-colombia-tickets-4BQLP3?ref=ticketmaster&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -194,7 +116,7 @@
     },
     {
       "id": "tm-LvZ18Q0LhQ4WXQBfPEiBk",
-      "title": "Folkefesten:  BORD kvartfinale W89 vs W90 22:00",
+      "title": "Folkefesten:  BORD kvartfinale Frankrike vs Marokko 22:00",
       "description": "Arrangement på Kadettangen, Sandvika",
       "date": "2026-07-09",
       "time": "18:00",
@@ -203,10 +125,29 @@
       "categories": [
         "konsert"
       ],
-      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-kvartfinale-w89-vs-w90-22-00-tickets-M80PBT?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-kvartfinale-w89-vs-w90-22-00-tickets-M80PBT?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎪",
+      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-kvartfinale-frankrike-vs-marokko-22-00-tickets-M80PBT?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-kvartfinale-frankrike-vs-marokko-22-00-tickets-M80PBT?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "⚽",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18Q0thPS6mK991B7CI",
+      "title": "Frankrike - Marokko",
+      "description": "Arrangement på Lekter´n, Oslo",
+      "date": "2026-07-09",
+      "time": "21:00",
+      "endTime": null,
+      "location": "Lekter´n, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/frankrike-marokko-tickets-DGLC57?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/frankrike-marokko-tickets-DGLC57?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "⚽",
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
@@ -224,8 +165,27 @@
       ],
       "ticketUrl": "https://www.universe.com/events/folkefesten-bord-kvartfinale-w93-vs-w94-21-00-tickets-6MQBGR?ref=ticketmaster",
       "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-kvartfinale-w93-vs-w94-21-00-tickets-6MQBGR?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎪",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "⚽",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18Q0trqovIaWt7sMwZ",
+      "title": "Portugal/Spania - USA/Belgia",
+      "description": "Arrangement på Lekter´n, Oslo",
+      "date": "2026-07-10",
+      "time": "20:00",
+      "endTime": null,
+      "location": "Lekter´n, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/portugal-spania-usa-belgia-tickets-XY7FK3?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/portugal-spania-usa-belgia-tickets-XY7FK3?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "⚽",
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
@@ -251,6 +211,25 @@
       "source": "ticketmaster"
     },
     {
+      "id": "tm-LvZ18Q0t3FCvdl5W6aYeF",
+      "title": "Norge - England/Mexico",
+      "description": "Arrangement på Lekter´n, Oslo",
+      "date": "2026-07-11",
+      "time": "18:00",
+      "endTime": null,
+      "location": "Lekter´n, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/norge-england-mexico-tickets-V2XFB1?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/norge-england-mexico-tickets-V2XFB1?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
       "id": "tm-Z698xZb_Z16eZJfOka",
       "title": "Robyn - The Sexistential Tour",
       "description": "Doors: 18:00 / 6PM Max 6 tickets per order For more information about the concert, artists, entry times, etc. unityarena.no Transport Use public transportation to Unity Arena. See unityarena.no or ruter.no for public transport option. Wheel Chair/ Companion Tickets for Wheel chairs and companions General information The organizer reserves the right to deny entry to individuals who refuse a personal search (This may include a body search and inspection of any luggage) Additional info unityarena.no For more information about items that are not allowed inside the arena. Persons who are removed have no right to a refund of ticket expenses. There is no minimum age for the concert, but children under 15 must be accompanied by an adult (as per the Police Act in Bærum Municipality).",
@@ -259,8 +238,7 @@
       "endTime": null,
       "location": "Unity Arena, Fornebu",
       "categories": [
-        "konsert",
-        "uteliv"
+        "konsert"
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/robyn-the-sexistential-tour-tickets/2026520189?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/robyn-the-sexistential-tour-tickets/2026520189?language=en-us&ref=hvaSkjerIByenMin",
@@ -272,7 +250,7 @@
     },
     {
       "id": "tm-LvZ18Q0LqFom_jDxgtxYx",
-      "title": "Folkefesten:  BORD kvartfinale W91 vs W92 23:00 (Norge om vi slår Brasil)",
+      "title": "Folkefesten:  BORD kvartfinale NORGE vs W92 23:00",
       "description": "Arrangement på Kadettangen, Sandvika",
       "date": "2026-07-11",
       "time": "18:00",
@@ -281,8 +259,27 @@
       "categories": [
         "konsert"
       ],
-      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-kvartfinale-w91-vs-w92-23-00-norge-om-vi-slar-brasil-tickets-9QSNBY?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-kvartfinale-w91-vs-w92-23-00-norge-om-vi-slar-brasil-tickets-9QSNBY?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-kvartfinale-norge-vs-w92-23-00-tickets-9QSNBY?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-kvartfinale-norge-vs-w92-23-00-tickets-9QSNBY?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "⚽",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18Q0trH3Y0hAajYxzJ",
+      "title": "Argentina/Egypt - Sveits/Colombia",
+      "description": "Arrangement på Lekter´n, Oslo",
+      "date": "2026-07-12",
+      "time": "02:00",
+      "endTime": null,
+      "location": "Lekter´n, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/argentina-egypt-sveits-colombia-tickets-SHGFL1?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/argentina-egypt-sveits-colombia-tickets-SHGFL1?ref=ticketmaster&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
       "imageEmoji": "⚽",
       "sponsored": false,
@@ -918,12 +915,51 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vZSevbk",
+      "title": "Norwegian Military Tattoo - Tattoo Exclusive",
+      "description": "Arrangement på Oslo Spektrum, Oslo",
+      "date": "2026-09-04",
+      "time": "19:01",
+      "endTime": null,
+      "location": "Oslo Spektrum, Oslo",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/norwegian-military-tattoo-tattoo-exclusive-tickets/1033081606?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/norwegian-military-tattoo-tattoo-exclusive-tickets/1033081606?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/b2e/27598d9c-4bad-449d-af05-72e56b6a4b2e_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎭",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kvk_e8-",
+      "title": "DJ Reform94",
+      "description": "Arrangement på John Dee, Oslo",
+      "date": "2026-09-04",
+      "time": "20:00",
+      "endTime": null,
+      "location": "John Dee, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/dj-reform94-tickets/46642421?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/dj-reform94-tickets/46642421?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/793/10ee8d19-fa14-4684-915e-7c24d6936793_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
-    "count": 47,
-    "fetchedAt": "2026-07-05T07:55:35.556Z",
+    "count": 49,
+    "fetchedAt": "2026-07-06T08:58:33.985Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,

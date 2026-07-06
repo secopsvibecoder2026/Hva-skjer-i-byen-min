@@ -1,29 +1,9 @@
 {
-  "events": [
-    {
-      "id": "tm-LvZ18QLlH5f_IqZv1-1bs",
-      "title": "Dragsug presenterer: Humorhavari 2 i SANDEFJORD + ÅTTENDELSFINALE",
-      "description": "Arrangement på Sandefjord",
-      "date": "2026-07-05",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Sandefjord",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://www.universe.com/events/dragsug-presenterer-humorhavari-2-i-sandefjord-attendelsfinale-tickets-0QZY2X?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/dragsug-presenterer-humorhavari-2-i-sandefjord-attendelsfinale-tickets-0QZY2X?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "imageEmoji": "🎭",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    }
-  ],
+  "events": [],
   "meta": {
     "city": "sandefjord",
-    "count": 1,
-    "fetchedAt": "2026-07-05T07:55:59.692Z",
+    "count": 0,
+    "fetchedAt": "2026-07-06T08:58:50.315Z",
     "sources": {
       "ticketmaster": 1,
       "eventbrite": 0,
