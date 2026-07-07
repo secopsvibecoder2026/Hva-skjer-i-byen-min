@@ -1,44 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-LvZ18Q0AIQ4yfWbebgvFw",
-      "title": "Portugal - Spania",
-      "description": "Arrangement på Lekter´n, Oslo",
-      "date": "2026-07-06",
-      "time": "20:00",
-      "endTime": null,
-      "location": "Lekter´n, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/portugal-spania-tickets-1BQ4SK?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/portugal-spania-tickets-1BQ4SK?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18Q0AlLX1RE5UzMrfN",
-      "title": "USA - Belgia",
-      "description": "Arrangement på Lekter´n, Oslo",
-      "date": "2026-07-07",
-      "time": "01:00",
-      "endTime": null,
-      "location": "Lekter´n, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/usa-belgia-tickets-SVZHBJ?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/usa-belgia-tickets-SVZHBJ?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-LvZ18Q0fvRDXyc4rqyoCg",
       "title": "Folkefesten:  BORD 8-delsfinale Argentina VS Egypt 18:00",
       "description": "Arrangement på Kadettangen, Sandvika",
@@ -211,30 +173,11 @@
       "source": "ticketmaster"
     },
     {
-      "id": "tm-LvZ18Q0t3FCvdl5W6aYeF",
-      "title": "Norge - England/Mexico",
-      "description": "Arrangement på Lekter´n, Oslo",
-      "date": "2026-07-11",
-      "time": "18:00",
-      "endTime": null,
-      "location": "Lekter´n, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/norge-england-mexico-tickets-V2XFB1?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/norge-england-mexico-tickets-V2XFB1?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z16eZJfOka",
       "title": "Robyn - The Sexistential Tour",
       "description": "Doors: 18:00 / 6PM Max 6 tickets per order For more information about the concert, artists, entry times, etc. unityarena.no Transport Use public transportation to Unity Arena. See unityarena.no or ruter.no for public transport option. Wheel Chair/ Companion Tickets for Wheel chairs and companions General information The organizer reserves the right to deny entry to individuals who refuse a personal search (This may include a body search and inspection of any luggage) Additional info unityarena.no For more information about items that are not allowed inside the arena. Persons who are removed have no right to a refund of ticket expenses. There is no minimum age for the concert, but children under 15 must be accompanied by an adult (as per the Police Act in Bærum Municipality).",
       "date": "2026-07-11",
-      "time": "18:00",
+      "time": "17:30",
       "endTime": null,
       "location": "Unity Arena, Fornebu",
       "categories": [
@@ -249,8 +192,27 @@
       "source": "ticketmaster"
     },
     {
+      "id": "tm-LvZ18Q0t3FCvdl5W6aYeF",
+      "title": "Norge - England",
+      "description": "Arrangement på Lekter´n, Oslo",
+      "date": "2026-07-11",
+      "time": "18:00",
+      "endTime": null,
+      "location": "Lekter´n, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/norge-england-tickets-V2XFB1?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/norge-england-tickets-V2XFB1?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "⚽",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
       "id": "tm-LvZ18Q0LqFom_jDxgtxYx",
-      "title": "Folkefesten:  BORD kvartfinale NORGE vs W92 23:00",
+      "title": "Folkefesten:  BORD kvartfinale NORGE vs England 23:00",
       "description": "Arrangement på Kadettangen, Sandvika",
       "date": "2026-07-11",
       "time": "18:00",
@@ -259,27 +221,8 @@
       "categories": [
         "konsert"
       ],
-      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-kvartfinale-norge-vs-w92-23-00-tickets-9QSNBY?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-kvartfinale-norge-vs-w92-23-00-tickets-9QSNBY?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18Q0trH3Y0hAajYxzJ",
-      "title": "Argentina/Egypt - Sveits/Colombia",
-      "description": "Arrangement på Lekter´n, Oslo",
-      "date": "2026-07-12",
-      "time": "02:00",
-      "endTime": null,
-      "location": "Lekter´n, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/argentina-egypt-sveits-colombia-tickets-SHGFL1?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/argentina-egypt-sveits-colombia-tickets-SHGFL1?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-kvartfinale-norge-vs-england-23-00-tickets-9QSNBY?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-kvartfinale-norge-vs-england-23-00-tickets-9QSNBY?ref=ticketmaster&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
       "imageEmoji": "⚽",
       "sponsored": false,
@@ -954,12 +897,52 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16eZkowkA",
+      "title": "Orgelsommer i Oslo domkirke",
+      "description": "Arrangement på Oslo domkirke, Oslo",
+      "date": "2026-09-05",
+      "time": "12:00",
+      "endTime": null,
+      "location": "Oslo domkirke, Oslo",
+      "categories": [
+        "konsert",
+        "familie"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/orgelsommer-i-oslo-domkirke-tickets/2006472185?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/orgelsommer-i-oslo-domkirke-tickets/2006472185?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/60e/458be508-3aaf-41e4-99bb-71af6f04660e_TABLET_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kaPaY38",
+      "title": "Norwegian Military Tattoo",
+      "description": "Arrangement på Oslo Spektrum, Oslo",
+      "date": "2026-09-05",
+      "time": "13:00",
+      "endTime": null,
+      "location": "Oslo Spektrum, Oslo",
+      "categories": [
+        "familie",
+        "barn"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/norwegian-military-tattoo-tickets/265270490?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/norwegian-military-tattoo-tickets/265270490?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/b2e/27598d9c-4bad-449d-af05-72e56b6a4b2e_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
-    "count": 49,
-    "fetchedAt": "2026-07-06T08:58:33.985Z",
+    "count": 48,
+    "fetchedAt": "2026-07-07T08:22:07.380Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,

@@ -3,14 +3,13 @@
     {
       "id": "tm-Z698xZb_Z16vOa4gGE",
       "title": "Festivalpass med NATTEN Slottsfjell 2026",
-      "description": "Arrangement på Tønsberg",
+      "description": "Slottsfjell har flyttet ned fra fjellet til vakre Kaldnes, kun fire minutters gange fra legendariske Tønsberg Brygge. På området opplever du fremtidens festival midt i sentrum av Norges beste sommerby, Tønsberg. Omkranset av skjærgård byr vi på en bred og spennende musikkprofil på store utendørsscener, nattklubb og vår egen strand. Når du vil trekke deg tilbake har vi flere loungeområder og en gigantisk mathall hvor du kan nyte mat fra hele verden med vennene dine. Når solen går ned, og lyden fra hovedscenen har stilnet, presenterer vi Norges største nattklubb - NATTEN! Festivalpasset inkluderer NATTEN og har 20 års aldersgrense - gyldig ID kreves! Portene åpner kl. 13:00 hver dag. NATTEN åpner kl. 21:00 Ledsager gratis mot fremvisning av gyldig ledsagerbevis. For mer informasjon om artistslipp, program og praktiske opplysninger se Slottsfjells hjemmeside og facebookside",
       "date": "2026-07-09",
       "time": "00:00",
       "endTime": null,
       "location": "Tønsberg",
       "categories": [
-        "konsert",
-        "uteliv"
+        "konsert"
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/festivalpass-med-natten-slottsfjell-2026-tickets/1809575327?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/festivalpass-med-natten-slottsfjell-2026-tickets/1809575327?language=en-us&ref=hvaSkjerIByenMin",
@@ -330,7 +329,7 @@
   "meta": {
     "city": "tonsberg",
     "count": 17,
-    "fetchedAt": "2026-07-06T08:58:47.337Z",
+    "fetchedAt": "2026-07-07T08:22:21.988Z",
     "sources": {
       "ticketmaster": 20,
       "eventbrite": 0,
