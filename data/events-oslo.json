@@ -1,82 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-LvZ18Q0fvRDXyc4rqyoCg",
-      "title": "Folkefesten:  BORD 8-delsfinale Argentina VS Egypt 18:00",
-      "description": "Arrangement på Kadettangen, Sandvika",
-      "date": "2026-07-07",
-      "time": "12:00",
-      "endTime": null,
-      "location": "Kadettangen, Sandvika",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-8-delsfinale-argentina-vs-egypt-18-00-tickets-G1HP2W?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-8-delsfinale-argentina-vs-egypt-18-00-tickets-G1HP2W?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18Q0Am-pDK_Ljl2rK2",
-      "title": "Argentina - Egypt",
-      "description": "Arrangement på Lekter´n, Oslo",
-      "date": "2026-07-07",
-      "time": "17:00",
-      "endTime": null,
-      "location": "Lekter´n, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/argentina-egypt-tickets-YSDJWP?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/argentina-egypt-tickets-YSDJWP?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18Q0AR_pR4b-PUPA7s",
-      "title": "Sveits - Colombia",
-      "description": "Arrangement på Lekter´n, Oslo",
-      "date": "2026-07-07",
-      "time": "21:00",
-      "endTime": null,
-      "location": "Lekter´n, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/sveits-colombia-tickets-4BQLP3?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/sveits-colombia-tickets-4BQLP3?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18Q0feq6dfm_9akeYW",
-      "title": "Folkefesten:  BORD 8-delsfinale Sveits VS Colombia 22:00",
-      "description": "Arrangement på Kadettangen, Sandvika",
-      "date": "2026-07-07",
-      "time": "21:00",
-      "endTime": null,
-      "location": "Kadettangen, Sandvika",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-8-delsfinale-sveits-vs-colombia-22-00-tickets-MYH25D?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-8-delsfinale-sveits-vs-colombia-22-00-tickets-MYH25D?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-LvZ18Q0LhQ4WXQBfPEiBk",
       "title": "Folkefesten:  BORD kvartfinale Frankrike vs Marokko 22:00",
       "description": "Arrangement på Kadettangen, Sandvika",
@@ -135,7 +59,7 @@
     },
     {
       "id": "tm-LvZ18Q0trqovIaWt7sMwZ",
-      "title": "Portugal/Spania - USA/Belgia",
+      "title": "Spania - Belgia",
       "description": "Arrangement på Lekter´n, Oslo",
       "date": "2026-07-10",
       "time": "20:00",
@@ -144,8 +68,8 @@
       "categories": [
         "konsert"
       ],
-      "ticketUrl": "https://www.universe.com/events/portugal-spania-usa-belgia-tickets-XY7FK3?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/portugal-spania-usa-belgia-tickets-XY7FK3?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "ticketUrl": "https://www.universe.com/events/spania-belgia-tickets-XY7FK3?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/spania-belgia-tickets-XY7FK3?ref=ticketmaster&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
       "imageEmoji": "⚽",
       "sponsored": false,
@@ -175,13 +99,14 @@
     {
       "id": "tm-Z698xZb_Z16eZJfOka",
       "title": "Robyn - The Sexistential Tour",
-      "description": "Doors: 18:00 / 6PM Max 6 tickets per order For more information about the concert, artists, entry times, etc. unityarena.no Transport Use public transportation to Unity Arena. See unityarena.no or ruter.no for public transport option. Wheel Chair/ Companion Tickets for Wheel chairs and companions General information The organizer reserves the right to deny entry to individuals who refuse a personal search (This may include a body search and inspection of any luggage) Additional info unityarena.no For more information about items that are not allowed inside the arena. Persons who are removed have no right to a refund of ticket expenses. There is no minimum age for the concert, but children under 15 must be accompanied by an adult (as per the Police Act in Bærum Municipality).",
+      "description": "17:30 Doors 18:00 Romy 18:45 Robyn 20:30 Show end Max 6 tickets per order For more information about the concert, artists, entry times, etc. unityarena.no Transport Use public transportation to Unity Arena. See unityarena.no or ruter.no for public transport option. Wheel Chair/ Companion Tickets for Wheel chairs and companions General information The organizer reserves the right to deny entry to individuals who refuse a personal search (This may include a body search and inspection of any luggage) Additional info unityarena.no For more information about items that are not allowed inside the arena. Persons who are removed have no right to a refund of ticket expenses. There is no minimum age for the concert, but children under 15 must be accompanied by an adult (as per the Police Act in Bærum Municipality).",
       "date": "2026-07-11",
       "time": "17:30",
       "endTime": null,
       "location": "Unity Arena, Fornebu",
       "categories": [
-        "konsert"
+        "konsert",
+        "uteliv"
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/robyn-the-sexistential-tour-tickets/2026520189?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/robyn-the-sexistential-tour-tickets/2026520189?language=en-us&ref=hvaSkjerIByenMin",
@@ -242,6 +167,25 @@
       ],
       "ticketUrl": "https://www.universe.com/events/folkefesten-bord-semifinale-w97-vs-w98-21-00-tickets-C9ZP3L?ref=ticketmaster",
       "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-semifinale-w97-vs-w98-21-00-tickets-C9ZP3L?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18Q0Vl2UYVfo0HAh0O",
+      "title": "Semifinale! Frankrike/Marokko - Spania/Belgia",
+      "description": "Arrangement på Lekter´n, Oslo",
+      "date": "2026-07-14",
+      "time": "20:00",
+      "endTime": null,
+      "location": "Lekter´n, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/semifinale-frankrike-marokko-spania-belgia-tickets-H6W3JC?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/semifinale-frankrike-marokko-spania-belgia-tickets-H6W3JC?ref=ticketmaster&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -320,6 +264,25 @@
       "ticketUrl": "https://www.universe.com/events/folkefesten-bord-finale-ws1-vs-ws2-21-00-tickets-VFDZH1?ref=ticketmaster",
       "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-finale-ws1-vs-ws2-21-00-tickets-VFDZH1?ref=ticketmaster&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "⚽",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vFP-o4p",
+      "title": "FIFA World Cup",
+      "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's.",
+      "date": "2026-07-19",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Rockefeller, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/fifa-world-cup-tickets/1225851556?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/fifa-world-cup-tickets/1225851556?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/14a/c3e39af9-6b09-414d-a51b-876cc9fc814a_RETINA_LANDSCAPE_16_9.jpg",
       "imageEmoji": "⚽",
       "sponsored": false,
       "featured": false,
@@ -721,6 +684,26 @@
       "source": "ticketmaster"
     },
     {
+      "id": "tm-Z698xZb_Z1kk47eZK",
+      "title": "Raga Rockers",
+      "description": "Doors Open kl 19:00. The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's. Se www.rockefeller.no for fullstendig program Praktisk info om konsertene finner du her Nærmeste trafikknutepunkt er Storgata og/eller Jernbanetorget. Se ruter.no for mer info.",
+      "date": "2026-08-25",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Rockefeller, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/raga-rockers-tickets/195102013?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/raga-rockers-tickets/195102013?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/3aa/d9a49300-3bbf-43fc-8dd1-4674c17953aa_SOURCE",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
       "id": "tm-Z698xZb_Z1kos4kvF",
       "title": "HERBERNFEST 100 - ÅRS JUBILEUM",
       "description": "Arrangement på Lille Herbern, Oslo",
@@ -937,12 +920,32 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16v4O8K8Z",
+      "title": "Norwegian Military Tattoo - Tattoo Exclusive",
+      "description": "Arrangement på Oslo Spektrum, Oslo",
+      "date": "2026-09-05",
+      "time": "18:01",
+      "endTime": null,
+      "location": "Oslo Spektrum, Oslo",
+      "categories": [
+        "familie",
+        "barn"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/norwegian-military-tattoo-tattoo-exclusive-tickets/1560413400?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/norwegian-military-tattoo-tattoo-exclusive-tickets/1560413400?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/b2e/27598d9c-4bad-449d-af05-72e56b6a4b2e_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 48,
-    "fetchedAt": "2026-07-07T08:22:07.380Z",
+    "fetchedAt": "2026-07-08T07:27:29.470Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,
