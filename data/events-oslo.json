@@ -1,46 +1,8 @@
 {
   "events": [
     {
-      "id": "tm-LvZ18Q0LhQ4WXQBfPEiBk",
-      "title": "Folkefesten:  BORD kvartfinale Frankrike vs Marokko 22:00",
-      "description": "Arrangement på Kadettangen, Sandvika",
-      "date": "2026-07-09",
-      "time": "18:00",
-      "endTime": null,
-      "location": "Kadettangen, Sandvika",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-kvartfinale-frankrike-vs-marokko-22-00-tickets-M80PBT?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-kvartfinale-frankrike-vs-marokko-22-00-tickets-M80PBT?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18Q0thPS6mK991B7CI",
-      "title": "Frankrike - Marokko",
-      "description": "Arrangement på Lekter´n, Oslo",
-      "date": "2026-07-09",
-      "time": "21:00",
-      "endTime": null,
-      "location": "Lekter´n, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/frankrike-marokko-tickets-DGLC57?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/frankrike-marokko-tickets-DGLC57?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-LvZ18Q0Ljl3y_hkroqq1i",
-      "title": "Folkefesten:  BORD kvartfinale W93 vs W94 21:00",
+      "title": "Folkefesten:  BORD kvartfinale Spania vs Belgia 21:00",
       "description": "Arrangement på Kadettangen, Sandvika",
       "date": "2026-07-10",
       "time": "18:00",
@@ -49,8 +11,8 @@
       "categories": [
         "konsert"
       ],
-      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-kvartfinale-w93-vs-w94-21-00-tickets-6MQBGR?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-kvartfinale-w93-vs-w94-21-00-tickets-6MQBGR?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-kvartfinale-spania-vs-belgia-21-00-tickets-6MQBGR?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-kvartfinale-spania-vs-belgia-21-00-tickets-6MQBGR?ref=ticketmaster&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
       "imageEmoji": "⚽",
       "sponsored": false,
@@ -90,7 +52,7 @@
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/orgelsommer-i-oslo-domkirke-tickets/806551530?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/orgelsommer-i-oslo-domkirke-tickets/806551530?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/904/60d0a218-df40-4fba-8d1f-4f0a0bc81904_RETINA_PORTRAIT_16_9.jpg",
+      "imageUrl": "https://s1.ticketm.net/dam/e/050/5ae2cb4c-13df-49da-8093-3348d0715050_SOURCE",
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -105,8 +67,7 @@
       "endTime": null,
       "location": "Unity Arena, Fornebu",
       "categories": [
-        "konsert",
-        "uteliv"
+        "konsert"
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/robyn-the-sexistential-tour-tickets/2026520189?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/robyn-the-sexistential-tour-tickets/2026520189?language=en-us&ref=hvaSkjerIByenMin",
@@ -167,8 +128,8 @@
       ],
       "ticketUrl": "https://www.universe.com/events/folkefesten-bord-semifinale-w97-vs-w98-21-00-tickets-C9ZP3L?ref=ticketmaster",
       "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-semifinale-w97-vs-w98-21-00-tickets-C9ZP3L?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎪",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "⚽",
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
@@ -186,15 +147,15 @@
       ],
       "ticketUrl": "https://www.universe.com/events/semifinale-frankrike-marokko-spania-belgia-tickets-H6W3JC?ref=ticketmaster",
       "affiliateUrl": "https://www.universe.com/events/semifinale-frankrike-marokko-spania-belgia-tickets-H6W3JC?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎪",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "⚽",
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
     },
     {
       "id": "tm-LvZ18Q0LrCom_jDxgtxgQ",
-      "title": "Folkefesten:  BORD semifinale W99 vs W100 21:00",
+      "title": "Folkefesten: BORD Semifinale W99 vs W100 21:00 (Norge om vi slår England)",
       "description": "Arrangement på Kadettangen, Sandvika",
       "date": "2026-07-15",
       "time": "18:00",
@@ -203,8 +164,8 @@
       "categories": [
         "konsert"
       ],
-      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-semifinale-w99-vs-w100-21-00-tickets-R1QFC7?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-semifinale-w99-vs-w100-21-00-tickets-R1QFC7?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-semifinale-w99-vs-w100-21-00-norge-om-vi-slar-england-tickets-R1QFC7?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-semifinale-w99-vs-w100-21-00-norge-om-vi-slar-england-tickets-R1QFC7?ref=ticketmaster&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
       "imageEmoji": "⚽",
       "sponsored": false,
@@ -322,7 +283,7 @@
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/organ-recital-with-alessandro-chiantoni-tickets/1180898494?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/organ-recital-with-alessandro-chiantoni-tickets/1180898494?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/1f3/eeb0ad27-985d-42b8-bca5-d4c1d2ad41f3_RETINA_PORTRAIT_16_9.jpg",
+      "imageUrl": "https://s1.ticketm.net/dam/e/78f/22da601b-4145-42b8-8986-baa8baa2e78f_RETINA_PORTRAIT_16_9.jpg",
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -361,7 +322,7 @@
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/organ-recital-with-ourania-gassiou-tickets/1223360721?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/organ-recital-with-ourania-gassiou-tickets/1223360721?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/60e/458be508-3aaf-41e4-99bb-71af6f04660e_TABLET_LANDSCAPE_16_9.jpg",
+      "imageUrl": "https://s1.ticketm.net/dam/e/4cc/4333bdf1-e8e8-4643-b4ef-931a71cb54cc_RETINA_LANDSCAPE_16_9.jpg",
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -389,8 +350,8 @@
     },
     {
       "id": "tm-Z698xZb_Z16vQZuxQ8",
-      "title": "Orgelsommer i Oslo domkirke",
-      "description": "Arrangement på Oslo domkirke, Oslo",
+      "title": "Organ Recital with Johannes Zeinler",
+      "description": "Johannes Zeinler (Vienna, Austria), organ Works by Muffat, Grigny, Martin, Mozart, Schönberg and Bach. Dear friends of organ music, Welcome to Oslo Cathedral and this year's summer concert series! Over the course of 15 Saturdays from July to October, we invite you to festive and diverse concerts featuring organists from both Norway and abroad. Each concert has its own distinct character, reflecting the musical background and tradition of the guest performer. During the summer months, when everyday life tends to slow down and time feels more spacious, we wish to present a rich and varied musical program on our cathedral organ, built in 1998 by the Norwegian organ builder Ryde & Berg. We are committed to making organ music accessible to as many people as possible. Please feel free to take the program with you, share it with friends and family, and invite someone along to a concert. Admission is always free for children and students. We look forward to seeing you at Oslo Cathedral and wish you a joyful and inspiring summer! Marcus André Berg and Tjark Pinne Organists of Oslo Cathedral. Accessibility: Oslo Cathedral has dedicated wheelchair spaces in the south transept. Companions enter free of charge upon presenting a companion certificate. Oslo Cathedral has a ramp and an elevator for step-free access. Please arrive at the main entrance, and our staff will guide you to the wheelchair entrance. A wheelchair-accessible restroom is available by the main entrance. For questions; please call Oslo Cathedral, phone: +47 23629010",
       "date": "2026-08-08",
       "time": "12:00",
       "endTime": null,
@@ -399,9 +360,9 @@
         "konsert",
         "familie"
       ],
-      "ticketUrl": "https://www.ticketmaster.no/event/orgelsommer-i-oslo-domkirke-tickets/1680362690?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/orgelsommer-i-oslo-domkirke-tickets/1680362690?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/60e/458be508-3aaf-41e4-99bb-71af6f04660e_TABLET_LANDSCAPE_16_9.jpg",
+      "ticketUrl": "https://www.ticketmaster.no/event/organ-recital-with-johannes-zeinler-tickets/1680362690?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/organ-recital-with-johannes-zeinler-tickets/1680362690?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/b1f/49bea55b-5aa7-40a3-b16b-88b52fa22b1f_RETINA_PORTRAIT_16_9.jpg",
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -487,8 +448,8 @@
     },
     {
       "id": "tm-Z698xZb_Z1koV7Fka",
-      "title": "Orgelsommer i Oslo domkirke",
-      "description": "Arrangement på Oslo domkirke, Oslo",
+      "title": "Organ recital with Jon Martin Høie",
+      "description": "Jon Martin Høie (Drammen), organ. Works by Bach, Eftestøl, Vierne and Guilmant. Dear friends of organ music, Welcome to Oslo Cathedral and this year's summer concert series! Over the course of 15 Saturdays from July to October, we invite you to festive and diverse concerts featuring organists from both Norway and abroad. Each concert has its own distinct character, reflecting the musical background and tradition of the guest performer. During the summer months, when everyday life tends to slow down and time feels more spacious, we wish to present a rich and varied musical program on our cathedral organ, built in 1998 by the Norwegian organ builder Ryde & Berg. We are committed to making organ music accessible to as many people as possible. Please feel free to take the program with you, share it with friends and family, and invite someone along to a concert. Admission is always free for children and students. We look forward to seeing you at Oslo Cathedral and wish you a joyful and inspiring summer! Marcus André Berg and Tjark Pinne Organists of Oslo Cathedral. Accessibility: Oslo Cathedral has dedicated wheelchair spaces in the south transept. Companions enter free of charge upon presenting a companion certificate. Oslo Cathedral has a ramp and an elevator for step-free access. Please arrive at the main entrance, and our staff will guide you to the wheelchair entrance. A wheelchair-accessible restroom is available by the main entrance. For questions; please call Oslo Cathedral, phone: +47 23629010",
       "date": "2026-08-15",
       "time": "12:00",
       "endTime": null,
@@ -497,9 +458,9 @@
         "konsert",
         "familie"
       ],
-      "ticketUrl": "https://www.ticketmaster.no/event/orgelsommer-i-oslo-domkirke-tickets/474108189?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/orgelsommer-i-oslo-domkirke-tickets/474108189?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/60e/458be508-3aaf-41e4-99bb-71af6f04660e_TABLET_LANDSCAPE_16_9.jpg",
+      "ticketUrl": "https://www.ticketmaster.no/event/organ-recital-with-jon-martin-hoie-tickets/474108189?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/organ-recital-with-jon-martin-hoie-tickets/474108189?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/563/c85bbff6-c5f6-47f8-b859-2798bde64563_RETINA_LANDSCAPE_16_9.jpg",
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -605,8 +566,8 @@
     },
     {
       "id": "tm-Z698xZb_Z1krpob-6",
-      "title": "Orgelsommer i Oslo domkirke",
-      "description": "Arrangement på Oslo domkirke, Oslo",
+      "title": "Oran recital with Carl Adam Landström",
+      "description": "Carl Adam Landström (Malmö, Sweden), organ. Works by Bach, Storm, Forsberg, Nilsson, Andersson, Dominique and improvisation. Dear friends of organ music, Welcome to Oslo Cathedral and this year's summer concert series! Over the course of 15 Saturdays from July to October, we invite you to festive and diverse concerts featuring organists from both Norway and abroad. Each concert has its own distinct character, reflecting the musical background and tradition of the guest performer. During the summer months, when everyday life tends to slow down and time feels more spacious, we wish to present a rich and varied musical program on our cathedral organ, built in 1998 by the Norwegian organ builder Ryde & Berg. We are committed to making organ music accessible to as many people as possible. Please feel free to take the program with you, share it with friends and family, and invite someone along to a concert. Admission is always free for children and students. We look forward to seeing you at Oslo Cathedral and wish you a joyful and inspiring summer! Marcus André Berg and Tjark Pinne Organists of Oslo Cathedral. Accessibility: Oslo Cathedral has dedicated wheelchair spaces in the south transept. Companions enter free of charge upon presenting a companion certificate. Oslo Cathedral has a ramp and an elevator for step-free access. Please arrive at the main entrance, and our staff will guide you to the wheelchair entrance. A wheelchair-accessible restroom is available by the main entrance. For questions; please call Oslo Cathedral, phone: +47 23629010",
       "date": "2026-08-22",
       "time": "12:00",
       "endTime": null,
@@ -615,9 +576,9 @@
         "konsert",
         "familie"
       ],
-      "ticketUrl": "https://www.ticketmaster.no/event/orgelsommer-i-oslo-domkirke-tickets/796458847?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/orgelsommer-i-oslo-domkirke-tickets/796458847?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/60e/458be508-3aaf-41e4-99bb-71af6f04660e_TABLET_LANDSCAPE_16_9.jpg",
+      "ticketUrl": "https://www.ticketmaster.no/event/oran-recital-with-carl-adam-landstrom-tickets/796458847?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/oran-recital-with-carl-adam-landstrom-tickets/796458847?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/9db/eb020c1d-3b6a-4b65-8e94-a7258fb319db_RETINA_PORTRAIT_16_9.jpg",
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -666,7 +627,7 @@
     {
       "id": "tm-Z698xZb_Z16vagbUba",
       "title": "The Neighbourhood: THE WOURLD TOUR",
-      "description": "Arrangement på Unity Arena, Fornebu",
+      "description": "Doors: 18:00 / 6PM Max 6 tickets per order For more information about the concert, artists, entry times, etc. unityarena.no Transport Use public transportation to Unity Arena. See unityarena.no or ruter.no for public transport option. Buyer beware: all meet and greet packages for sale are fraudulent. The artist loves meeting his fans but does not put these items for sale anywhere. Wheel Chair/ Companion Tickets for Wheel chairs and companions General information The organizer reserves the right to deny entry to individuals who refuse a personal search (This may include a body search and inspection of any luggage) Additional info unityarena.no For more information about items that are not allowed inside the arena. Persons who are removed have no right to a refund of ticket expenses. There is no minimum age for the concert, but children under 15 must be accompanied by an adult (as per the Police Act in Bærum Municipality).",
       "date": "2026-08-25",
       "time": "18:00",
       "endTime": null,
@@ -706,7 +667,7 @@
     {
       "id": "tm-Z698xZb_Z1kos4kvF",
       "title": "HERBERNFEST 100 - ÅRS JUBILEUM",
-      "description": "Arrangement på Lille Herbern, Oslo",
+      "description": "Liten festival med CC Cowboys, Amund Maarud, Bare Folk, Signe Gjessing med flere. Varighet : 240 min Servering : Mat: Egen festivalmeny levert av Lille Herbern Øl / Vin/ Mineralvann Aldersgrense : 6 Ledsager : Som ordinær pris Adkomst : Buss 30 Bygdøy og ferge fra Rådhuskaia - Vi vil tilby gratis ferje til og fra festivalen! Rullestol : Nei Parkeringsmuligheter : Nei Arrangørens nettside",
       "date": "2026-08-27",
       "time": "18:00",
       "endTime": null,
@@ -744,8 +705,8 @@
     },
     {
       "id": "tm-Z698xZb_Z1ko_Ptjw",
-      "title": "Orgelsommer i Oslo domkirke",
-      "description": "Arrangement på Oslo domkirke, Oslo",
+      "title": "Organ recital with Marcus André Berg",
+      "description": "Marcus André Berg, organ. Works by Sandvold, Bach, Bossi and improvisation. Dear friends of organ music, Welcome to Oslo Cathedral and this year's summer concert series! Over the course of 15 Saturdays from July to October, we invite you to festive and diverse concerts featuring organists from both Norway and abroad. Each concert has its own distinct character, reflecting the musical background and tradition of the guest performer. During the summer months, when everyday life tends to slow down and time feels more spacious, we wish to present a rich and varied musical program on our cathedral organ, built in 1998 by the Norwegian organ builder Ryde & Berg. We are committed to making organ music accessible to as many people as possible. Please feel free to take the program with you, share it with friends and family, and invite someone along to a concert. Admission is always free for children and students. We look forward to seeing you at Oslo Cathedral and wish you a joyful and inspiring summer! Marcus André Berg and Tjark Pinne Organists of Oslo Cathedral. Accessibility: Oslo Cathedral has dedicated wheelchair spaces in the south transept. Companions enter free of charge upon presenting a companion certificate. Oslo Cathedral has a ramp and an elevator for step-free access. Please arrive at the main entrance, and our staff will guide you to the wheelchair entrance. A wheelchair-accessible restroom is available by the main entrance. For questions; please call Oslo Cathedral, phone: +47 23629010",
       "date": "2026-08-29",
       "time": "12:00",
       "endTime": null,
@@ -754,9 +715,9 @@
         "konsert",
         "familie"
       ],
-      "ticketUrl": "https://www.ticketmaster.no/event/orgelsommer-i-oslo-domkirke-tickets/459969732?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/orgelsommer-i-oslo-domkirke-tickets/459969732?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/60e/458be508-3aaf-41e4-99bb-71af6f04660e_TABLET_LANDSCAPE_16_9.jpg",
+      "ticketUrl": "https://www.ticketmaster.no/event/organ-recital-with-marcus-andre-berg-tickets/459969732?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/organ-recital-with-marcus-andre-berg-tickets/459969732?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/a11/9dd7f26c-b2b6-4dc0-88fc-3f4d16c64a11_RETINA_LANDSCAPE_16_9.jpg",
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -883,8 +844,8 @@
     },
     {
       "id": "tm-Z698xZb_Z16eZkowkA",
-      "title": "Orgelsommer i Oslo domkirke",
-      "description": "Arrangement på Oslo domkirke, Oslo",
+      "title": "Organ recital with Stefan Engels",
+      "description": "Stefan Engels (Dallas, Texas), organ. Works by Schumann, Bach, Baker and Karg-Elert. Dear friends of organ music, Welcome to Oslo Cathedral and this year's summer concert series! Over the course of 15 Saturdays from July to October, we invite you to festive and diverse concerts featuring organists from both Norway and abroad. Each concert has its own distinct character, reflecting the musical background and tradition of the guest performer. During the summer months, when everyday life tends to slow down and time feels more spacious, we wish to present a rich and varied musical program on our cathedral organ, built in 1998 by the Norwegian organ builder Ryde & Berg. We are committed to making organ music accessible to as many people as possible. Please feel free to take the program with you, share it with friends and family, and invite someone along to a concert. Admission is always free for children and students. We look forward to seeing you at Oslo Cathedral and wish you a joyful and inspiring summer! Marcus André Berg and Tjark Pinne Organists of Oslo Cathedral. Accessibility: Oslo Cathedral has dedicated wheelchair spaces in the south transept. Companions enter free of charge upon presenting a companion certificate. Oslo Cathedral has a ramp and an elevator for step-free access. Please arrive at the main entrance, and our staff will guide you to the wheelchair entrance. A wheelchair-accessible restroom is available by the main entrance. For questions; please call Oslo Cathedral, phone: +47 23629010",
       "date": "2026-09-05",
       "time": "12:00",
       "endTime": null,
@@ -893,9 +854,9 @@
         "konsert",
         "familie"
       ],
-      "ticketUrl": "https://www.ticketmaster.no/event/orgelsommer-i-oslo-domkirke-tickets/2006472185?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/orgelsommer-i-oslo-domkirke-tickets/2006472185?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/60e/458be508-3aaf-41e4-99bb-71af6f04660e_TABLET_LANDSCAPE_16_9.jpg",
+      "ticketUrl": "https://www.ticketmaster.no/event/organ-recital-with-stefan-engels-tickets/2006472185?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/organ-recital-with-stefan-engels-tickets/2006472185?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/800/c34a1c02-c461-4ea3-9e7e-35e62f9ab800_TABLET_LANDSCAPE_16_9.jpg",
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -940,12 +901,51 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16eeFFIQ8",
+      "title": "Norwegian Military Tattoo",
+      "description": "Arrangement på Oslo Spektrum, Oslo",
+      "date": "2026-09-06",
+      "time": "13:00",
+      "endTime": null,
+      "location": "Oslo Spektrum, Oslo",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/norwegian-military-tattoo-tickets/2088228690?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/norwegian-military-tattoo-tickets/2088228690?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/b2e/27598d9c-4bad-449d-af05-72e56b6a4b2e_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎭",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kGU-Vbk",
+      "title": "Masterwork recital - Beethoven/Grieg/Liszt recital",
+      "description": "Arrangement på Kampen Kirke, Oslo, Oslo",
+      "date": "2026-09-06",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Kampen Kirke, Oslo, Oslo",
+      "categories": [
+        "konsert",
+        "familie"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/masterwork-recital-beethoven-grieg-liszt-recital-tickets/336874606?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/masterwork-recital-beethoven-grieg-liszt-recital-tickets/336874606?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/426/de51a23a-e20c-4ec2-91d3-3a13d3c87426_SOURCE",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 48,
-    "fetchedAt": "2026-07-08T07:27:29.470Z",
+    "fetchedAt": "2026-07-10T08:20:46.996Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,
