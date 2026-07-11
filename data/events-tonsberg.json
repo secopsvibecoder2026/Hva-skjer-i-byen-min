@@ -1,25 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z1kA3_8rA",
-      "title": "Fredag Natten Oppgradering - Slottsfjell 2026",
-      "description": "Slottsfjell is a rock- and pop festival located at Slottsfjellet in Tønsberg where stages and public areas is constructed amongst the ruins of the medieval fortress Tunsberghus on Slottsfjellet and the surrounding area. There are also concerts in other venues in the city. This festival pass is ONLY for those over 18 years - valid ID required! HC Companion is free if valid escort certificate can be presented at the entrance. The gates open at. 13:00 every day. For more information about artist announcments, program and practical information, see Slottsfjell's homepage og facebookpage. Also, check the mood of previous festivals on their YouTube channel.",
-      "date": "2026-07-10",
-      "time": "00:00",
-      "endTime": null,
-      "location": "Tønsberg",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/fredag-natten-oppgradering-slottsfjell-2026-tickets/152650785?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/fredag-natten-oppgradering-slottsfjell-2026-tickets/152650785?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/40e/f526b176-2175-4a99-9fdb-21cc977fb40e_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z16v0dqsZM",
       "title": "Camp ticket Camp Utgard ALL DAYS Midgardsblot Metalfestival 2026",
       "description": "Arrangement på Midgard Vikingsenter, Horten",
@@ -305,14 +286,52 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vfea6Jd",
+      "title": "Festivalpass med NATTEN Slottsfjell 2027",
+      "description": "Slottsfjell har flyttet ned fra fjellet til vakre Kaldnes, kun fire minutters gange fra legendariske Tønsberg Brygge. På området opplever du fremtidens festival midt i sentrum av Norges beste sommerby, Tønsberg. Omkranset av skjærgård byr vi på en bred og spennende musikkprofil på store utendørsscener, nattklubb og vår egen strand. Når du vil trekke deg tilbake har vi flere loungeområder og en gigantisk mathall hvor du kan nyte mat fra hele verden med vennene dine. Når solen går ned, og lyden fra hovedscenen har stilnet, presenterer vi Norges største nattklubb - NATTEN! Festivalpasset inkluderer NATTEN og har 20 års aldersgrense - gyldig ID kreves! Portene åpner kl. 13:00 hver dag. NATTEN åpner kl. 21:00 Ledsager gratis mot fremvisning av gyldig ledsagerbevis. For mer informasjon om artistslipp, program og praktiske opplysninger se Slottsfjells hjemmeside og facebookside",
+      "date": "2027-07-02",
+      "time": "00:00",
+      "endTime": null,
+      "location": "Tønsberg",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/festivalpass-med-natten-slottsfjell-2027-tickets/1502247983?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/festivalpass-med-natten-slottsfjell-2027-tickets/1502247983?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/40e/f526b176-2175-4a99-9fdb-21cc977fb40e_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kG83a_x",
+      "title": "https://www.ticketmaster.no/event/310489662",
+      "description": "Slottsfjell is a rock- and pop festival located at Slottsfjellet in Tønsberg where stages and public areas is constructed amongst the ruins of the medieval fortress Tunsberghus on Slottsfjellet and the surrounding area. There are also concerts in other venues in the city. This festival pass is ONLY for those over 18 years - valid ID required! HC Companion is free if valid escort certificate can be presented at the entrance. The gates open at. 13:00 every day. For more information about artist announcments, program and practical information, see Slottsfjell's homepage og facebookpage. Also, check the mood of previous festivals on their YouTube channel.",
+      "date": "2027-07-02",
+      "time": "00:00",
+      "endTime": null,
+      "location": "Tønsberg",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/https-wwwticketmasterno-event-310489662-tickets/310489662?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/https-wwwticketmasterno-event-310489662-tickets/310489662?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/40e/f526b176-2175-4a99-9fdb-21cc977fb40e_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "tonsberg",
-    "count": 16,
-    "fetchedAt": "2026-07-10T08:21:02.523Z",
+    "count": 17,
+    "fetchedAt": "2026-07-11T07:10:18.659Z",
     "sources": {
-      "ticketmaster": 19,
+      "ticketmaster": 20,
       "eventbrite": 0,
       "scrape": 0
     }

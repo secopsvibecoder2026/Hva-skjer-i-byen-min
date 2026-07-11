@@ -1,44 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-LvZ18Q0Ljl3y_hkroqq1i",
-      "title": "Folkefesten:  BORD kvartfinale Spania vs Belgia 21:00",
-      "description": "Arrangement på Kadettangen, Sandvika",
-      "date": "2026-07-10",
-      "time": "18:00",
-      "endTime": null,
-      "location": "Kadettangen, Sandvika",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-kvartfinale-spania-vs-belgia-21-00-tickets-6MQBGR?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-kvartfinale-spania-vs-belgia-21-00-tickets-6MQBGR?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18Q0trqovIaWt7sMwZ",
-      "title": "Spania - Belgia",
-      "description": "Arrangement på Lekter´n, Oslo",
-      "date": "2026-07-10",
-      "time": "20:00",
-      "endTime": null,
-      "location": "Lekter´n, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/spania-belgia-tickets-XY7FK3?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/spania-belgia-tickets-XY7FK3?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z1kOk4ofY",
       "title": "Orgelsommer i Oslo domkirke",
       "description": "Arrangement på Oslo domkirke, Oslo",
@@ -117,7 +79,7 @@
     },
     {
       "id": "tm-LvZ18Q0LqH4WXQBfPEcGK",
-      "title": "Folkefesten:  BORD semifinale W97 vs W98 21:00",
+      "title": "Folkefesten:  BORD semifinale Frankrike vs Spania 21:00",
       "description": "Arrangement på Kadettangen, Sandvika",
       "date": "2026-07-14",
       "time": "18:00",
@@ -126,8 +88,8 @@
       "categories": [
         "konsert"
       ],
-      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-semifinale-w97-vs-w98-21-00-tickets-C9ZP3L?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-semifinale-w97-vs-w98-21-00-tickets-C9ZP3L?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-semifinale-frankrike-vs-spania-21-00-tickets-C9ZP3L?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-semifinale-frankrike-vs-spania-21-00-tickets-C9ZP3L?ref=ticketmaster&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
       "imageEmoji": "⚽",
       "sponsored": false,
@@ -136,7 +98,7 @@
     },
     {
       "id": "tm-LvZ18Q0Vl2UYVfo0HAh0O",
-      "title": "Semifinale! Frankrike/Marokko - Spania/Belgia",
+      "title": "Semifinale! Frankrike - Spania/Belgia",
       "description": "Arrangement på Lekter´n, Oslo",
       "date": "2026-07-14",
       "time": "20:00",
@@ -145,10 +107,29 @@
       "categories": [
         "konsert"
       ],
-      "ticketUrl": "https://www.universe.com/events/semifinale-frankrike-marokko-spania-belgia-tickets-H6W3JC?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/semifinale-frankrike-marokko-spania-belgia-tickets-H6W3JC?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "ticketUrl": "https://www.universe.com/events/semifinale-frankrike-spania-belgia-tickets-H6W3JC?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/semifinale-frankrike-spania-belgia-tickets-H6W3JC?ref=ticketmaster&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
       "imageEmoji": "⚽",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18QP7dVidpCj6KGyWn",
+      "title": "Norge/England - Argentina/Sveits",
+      "description": "Arrangement på Lekter´n, Oslo",
+      "date": "2026-07-15",
+      "time": "16:00",
+      "endTime": null,
+      "location": "Lekter´n, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/norge-england-argentina-sveits-tickets-NGDH5V?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/norge-england-argentina-sveits-tickets-NGDH5V?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎪",
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
@@ -940,12 +921,31 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kF6j9PK",
+      "title": "Devin Townsend",
+      "description": "Arrangement på Sentrum Scene, Oslo",
+      "date": "2026-09-07",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Sentrum Scene, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/devin-townsend-tickets/207717953?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/devin-townsend-tickets/207717953?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/d01/e9781de6-5df1-49f9-8402-5f534c77dd01_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 48,
-    "fetchedAt": "2026-07-10T08:20:46.996Z",
+    "fetchedAt": "2026-07-11T07:10:04.093Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,

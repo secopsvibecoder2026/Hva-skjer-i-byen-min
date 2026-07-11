@@ -4,7 +4,7 @@
       "id": "scrape-gen-hva-skjer--",
       "title": "Hva skjer?",
       "description": "Arrangement i ahbygdetun.no (kalender)",
-      "date": "2026-07-11",
+      "date": "2026-07-12",
       "time": "12:00",
       "endTime": null,
       "location": "ahbygdetun.no (kalender)",
@@ -18,130 +18,16 @@
       "sponsored": false,
       "featured": false,
       "source": "scrape"
-    },
-    {
-      "id": "scrape-gen-aktiviteter-og-opplevelser-",
-      "title": "Aktiviteter og opplevelser",
-      "description": "Finn aktiviteter i Haldenkanalen – fra padling og båtturer til kultur, fiske og…",
-      "date": "2026-07-11",
-      "time": "12:00",
-      "endTime": null,
-      "location": "visitoestfold.com/haldenkanalen",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://www.visitoestfold.com/haldenkanalen/aktiviteter-og-attraksjoner/aktiviteter-og-opplevelser/",
-      "affiliateUrl": "https://www.visitoestfold.com/haldenkanalen/aktiviteter-og-attraksjoner/aktiviteter-og-opplevelser/?ref=hvaSkjerIByenMin",
-      "imageUrl": "https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_jpg,h_600,q_65,w_600/v1/clients/ostfold/Padling_Haldenkanalen_Fotokredit_Jonas_Ingstad_Haldenkanalen_Regionalpark_9__4af3b900-4593-4685-9f2b-02320a7eea22.jpg",
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
-      "id": "scrape-gen-reisen-p-kanalen-",
-      "title": "Reisen på kanalen",
-      "description": "Planlegg båttur i Haldenkanalen og opplev slusene",
-      "date": "2026-07-11",
-      "time": "12:00",
-      "endTime": null,
-      "location": "visitoestfold.com/haldenkanalen",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://www.visitoestfold.com/haldenkanalen/ideer-og-inspirasjon/signaturopplevelser/reisen-p-kanalen/",
-      "affiliateUrl": "https://www.visitoestfold.com/haldenkanalen/ideer-og-inspirasjon/signaturopplevelser/reisen-p-kanalen/?ref=hvaSkjerIByenMin",
-      "imageUrl": "https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_jpg,h_600,q_65,w_600/v1/clients/ostfold/DS_Turisten_Fotokredit_Jonas_Ingstad_Haldenkanalen_Regionalpark_9__7781661e-d250-4312-9b0c-e47773b7c9b4.jpg",
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
-      "id": "scrape-gen-i-v-re-forfedres-fotspor-",
-      "title": "I våre forfedres fotspor",
-      "description": "Utforsk historie og kulturminner langs Haldenkanalen",
-      "date": "2026-07-11",
-      "time": "12:00",
-      "endTime": null,
-      "location": "visitoestfold.com/haldenkanalen",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://www.visitoestfold.com/haldenkanalen/ideer-og-inspirasjon/signaturopplevelser/i-vre-forfedres-fotspor/",
-      "affiliateUrl": "https://www.visitoestfold.com/haldenkanalen/ideer-og-inspirasjon/signaturopplevelser/i-vre-forfedres-fotspor/?ref=hvaSkjerIByenMin",
-      "imageUrl": "https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_jpg,g_xy_center,h_600,q_65,w_600,x_1447,y_627/v1/clients/ostfold/fotograf_jonas_ingstad_07118_5db063b4-ea1c-48e7-8c30-e253a550d04c.jpg",
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
-      "id": "scrape-gen-naturopplevelser-",
-      "title": "Naturopplevelser",
-      "description": "Finn de beste tipsene for naturopplevelser i Haldenkanalen og turer langs vannveien",
-      "date": "2026-07-11",
-      "time": "12:00",
-      "endTime": null,
-      "location": "visitoestfold.com/haldenkanalen",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://www.visitoestfold.com/haldenkanalen/ideer-og-inspirasjon/naturopplevelser/",
-      "affiliateUrl": "https://www.visitoestfold.com/haldenkanalen/ideer-og-inspirasjon/naturopplevelser/?ref=hvaSkjerIByenMin",
-      "imageUrl": "https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_jpg,h_600,q_65,w_600/v1/clients/ostfold/Alene_sammen_med_andre_Haldenkanalen_Fotokredit_Jonas_Ingstad_Haldenkanalen_Regionalpark_2__808c4d26-6b86-4531-a227-f2c419732d41.jpg",
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
-      "id": "scrape-gen-egen-fritidsb-t-i-kanalen-",
-      "title": "Egen fritidsbåt i kanalen",
-      "description": "Din guide til å oppleve Haldenkanalen med egen fritidsbåt",
-      "date": "2026-07-11",
-      "time": "12:00",
-      "endTime": null,
-      "location": "visitoestfold.com/haldenkanalen",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://www.visitoestfold.com/haldenkanalen/praktisk-informasjon/fritidsbat/",
-      "affiliateUrl": "https://www.visitoestfold.com/haldenkanalen/praktisk-informasjon/fritidsbat/?ref=hvaSkjerIByenMin",
-      "imageUrl": "https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_jpg,h_600,q_65,w_600/v1/clients/ostfold/fotograf_jonas_ingstad_00528_79f09390-7e85-4f31-8029-de36cd91e809.jpg",
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
-      "id": "scrape-gen-b-tturer-",
-      "title": "Båtturer",
-      "description": "Arrangement i visitoestfold.com/haldenkanalen",
-      "date": "2026-07-11",
-      "time": "12:00",
-      "endTime": null,
-      "location": "visitoestfold.com/haldenkanalen",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://www.visitoestfold.com/haldenkanalen/aktiviteter-og-attraksjoner/aktiviteter-og-opplevelser/batturer/",
-      "affiliateUrl": "https://www.visitoestfold.com/haldenkanalen/aktiviteter-og-attraksjoner/aktiviteter-og-opplevelser/batturer/?ref=hvaSkjerIByenMin",
-      "imageUrl": "https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_jpg,h_600,q_65,w_600/v1/clients/ostfold/DS_Engebret_SOOT_Fotokredit_Tony_Rymann_1__e9996d79-0a43-4c30-9281-7e68fa5ad596.jpg",
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
     }
   ],
   "meta": {
     "city": "aurskog-holand",
-    "count": 7,
-    "fetchedAt": "2026-07-10T08:20:54.755Z",
+    "count": 1,
+    "fetchedAt": "2026-07-11T07:10:10.328Z",
     "sources": {
       "ticketmaster": 0,
       "eventbrite": 0,
-      "scrape": 7
+      "scrape": 1
     }
   }
 }

@@ -1,25 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-LvZ18QLlX3Z_uj8ZUovsx",
-      "title": "Dragsug presenterer: Humorhavari 2 i ARENDAL",
-      "description": "Arrangement på Bakgården, Arendal",
-      "date": "2026-07-10",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Bakgården, Arendal",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://www.universe.com/events/dragsug-presenterer-humorhavari-2-i-arendal-tickets-WRSN03?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/dragsug-presenterer-humorhavari-2-i-arendal-tickets-WRSN03?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎭",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-LvZ18QLlX3Z_uj8ZUovsN",
       "title": "Dragsug presenterer: Humorhavari 2 i ARENDAL",
       "description": "Arrangement på Bakgården, Arendal",
@@ -60,10 +41,10 @@
   ],
   "meta": {
     "city": "arendal",
-    "count": 3,
-    "fetchedAt": "2026-07-10T08:21:07.140Z",
+    "count": 2,
+    "fetchedAt": "2026-07-11T07:10:22.713Z",
     "sources": {
-      "ticketmaster": 3,
+      "ticketmaster": 2,
       "eventbrite": 0,
       "scrape": 0
     }
