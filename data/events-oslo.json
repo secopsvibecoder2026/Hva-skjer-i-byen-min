@@ -1,83 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z1kOk4ofY",
-      "title": "Orgelsommer i Oslo domkirke",
-      "description": "Arrangement på Oslo domkirke, Oslo",
-      "date": "2026-07-11",
-      "time": "12:00",
-      "endTime": null,
-      "location": "Oslo domkirke, Oslo",
-      "categories": [
-        "konsert",
-        "familie"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/orgelsommer-i-oslo-domkirke-tickets/806551530?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/orgelsommer-i-oslo-domkirke-tickets/806551530?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/050/5ae2cb4c-13df-49da-8093-3348d0715050_SOURCE",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16eZJfOka",
-      "title": "Robyn - The Sexistential Tour",
-      "description": "17:30 Doors 18:00 Romy 18:45 Robyn 20:30 Show end Max 6 tickets per order For more information about the concert, artists, entry times, etc. unityarena.no Transport Use public transportation to Unity Arena. See unityarena.no or ruter.no for public transport option. Wheel Chair/ Companion Tickets for Wheel chairs and companions General information The organizer reserves the right to deny entry to individuals who refuse a personal search (This may include a body search and inspection of any luggage) Additional info unityarena.no For more information about items that are not allowed inside the arena. Persons who are removed have no right to a refund of ticket expenses. There is no minimum age for the concert, but children under 15 must be accompanied by an adult (as per the Police Act in Bærum Municipality).",
-      "date": "2026-07-11",
-      "time": "17:30",
-      "endTime": null,
-      "location": "Unity Arena, Fornebu",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/robyn-the-sexistential-tour-tickets/2026520189?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/robyn-the-sexistential-tour-tickets/2026520189?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/dd2/95d10bdf-e9d9-4f0d-83c5-a5a7489f7dd2_SOURCE",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18Q0t3FCvdl5W6aYeF",
-      "title": "Norge - England",
-      "description": "Arrangement på Lekter´n, Oslo",
-      "date": "2026-07-11",
-      "time": "18:00",
-      "endTime": null,
-      "location": "Lekter´n, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/norge-england-tickets-V2XFB1?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/norge-england-tickets-V2XFB1?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18Q0LqFom_jDxgtxYx",
-      "title": "Folkefesten:  BORD kvartfinale NORGE vs England 23:00",
-      "description": "Arrangement på Kadettangen, Sandvika",
-      "date": "2026-07-11",
-      "time": "18:00",
-      "endTime": null,
-      "location": "Kadettangen, Sandvika",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-kvartfinale-norge-vs-england-23-00-tickets-9QSNBY?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-kvartfinale-norge-vs-england-23-00-tickets-9QSNBY?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-LvZ18Q0LqH4WXQBfPEcGK",
       "title": "Folkefesten:  BORD semifinale Frankrike vs Spania 21:00",
       "description": "Arrangement på Kadettangen, Sandvika",
@@ -117,7 +40,7 @@
     },
     {
       "id": "tm-LvZ18QP7dVidpCj6KGyWn",
-      "title": "Norge/England - Argentina/Sveits",
+      "title": "Norge - Argentina/Sveits",
       "description": "Arrangement på Lekter´n, Oslo",
       "date": "2026-07-15",
       "time": "16:00",
@@ -126,17 +49,17 @@
       "categories": [
         "konsert"
       ],
-      "ticketUrl": "https://www.universe.com/events/norge-england-argentina-sveits-tickets-NGDH5V?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/norge-england-argentina-sveits-tickets-NGDH5V?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎪",
+      "ticketUrl": "https://www.universe.com/events/norge-argentina-sveits-tickets-NGDH5V?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/norge-argentina-sveits-tickets-NGDH5V?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "⚽",
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
     },
     {
       "id": "tm-LvZ18Q0LrCom_jDxgtxgQ",
-      "title": "Folkefesten: BORD Semifinale W99 vs W100 21:00 (Norge om vi slår England)",
+      "title": "Folkefesten: BORD Semifinale England vs Argentina",
       "description": "Arrangement på Kadettangen, Sandvika",
       "date": "2026-07-15",
       "time": "18:00",
@@ -145,8 +68,8 @@
       "categories": [
         "konsert"
       ],
-      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-semifinale-w99-vs-w100-21-00-norge-om-vi-slar-england-tickets-R1QFC7?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-semifinale-w99-vs-w100-21-00-norge-om-vi-slar-england-tickets-R1QFC7?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-semifinale-england-vs-argentina-tickets-R1QFC7?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-semifinale-england-vs-argentina-tickets-R1QFC7?ref=ticketmaster&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
       "imageEmoji": "⚽",
       "sponsored": false,
@@ -233,19 +156,18 @@
     {
       "id": "tm-Z698xZb_Z16ee7p37d",
       "title": "Masterwork recital - Chopin/Grieg/Mörk Karlsen recital",
-      "description": "Arrangement på Kampen Kirke, Oslo, Oslo",
+      "description": "The piano virtuoso Svein Amund Skara. Skara will perform Frédéric Chopin's complete Ballades (1--4) and complete Scherzos (1--4). Playing all four ballades and all four scherzos in a single evening is a monumental physical and mental achievement. It is extremely rare for an audience to experience these eight works performed together. The Ballades: Chopin's innovative form of piano music. These are deep, emotional, wordless narratives inspired by medieval ballades that could encompass an entire life story. They demand maturity, tone control, and immense virtuosity---such as in the shattering conclusion of the fourth ballade. The ballades are a masterful collection of compositions that span the entire emotional spectrum, from ecstasy to deep despair. The challenge for pianists is to do full justice to these pinnacles of piano literature. The Scherzos: Chopin's scherzos are explosive, demonic, and filled with violent contrasts. Technically, they offer breakneck passages and lightning-fast chord leaps. The concert opens with music from one of Edvard Grieg's international successes, Lyric Pieces. Volume 8 will be performed at this concert. The second act of the concert opens with Piano Sonata in B, a very interesting composition by probably the most recorded contemporary composer in Norway, Kjell Mörk Karlsen. PROGRAMME 19.07.2026 EDVARD GRIEG: Lyrical Pieces book 8, opus 65 FRÉDÉRIC CHOPIN: Scherzo no. 1 in b minor, opus 20 Scherzo no. 2 in b flat minor, opus 31 Scherzo no. 3 c sharp minor, opus 39 Scherzo no. 4 in E major, opus 54 PAUSE KJELL MØRK KARLSEN: PianoSonata in h FRÉDÉRIC CHOPIN: Ballada no. 1 in g minor, opus 23 Ballada no. 2 in F major, opus 38 Ballada no. 3 in A flat major, opus 47 Ballada no. 4 f minor, opus 52 \"enormous technical resources\" (Aftenposten, Oslo, Norway) \"Skara maintained fine control and brought out contrapunctal lines with clarity\" (Los Angeles Times) \"a truly elegant musician\" (Kölnische Rundschau, Cologne, Germany) Event time/concert start: 19:00 Doors open: 18:15 Duration: 130 min Serving: Coffee, tea and biscuits Age limit: No age limit Companion: Free without ticket Access: Bus no. 60 to Kampen stop. (6.13 and 6.43 from Jernbanetorget stop - at the front of Oslo Central Station) Subway no. 1, 2, 3, 4 to Ensjø station. Disabled: No Parking facilities: No Website: www.skara.ch",
       "date": "2026-07-19",
       "time": "19:00",
       "endTime": null,
       "location": "Kampen Kirke, Oslo, Oslo",
       "categories": [
-        "konsert",
         "familie"
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/masterwork-recital-chopin-grieg-mork-karlsen-recital-tickets/2084592103?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/masterwork-recital-chopin-grieg-mork-karlsen-recital-tickets/2084592103?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/a/426/de51a23a-e20c-4ec2-91d3-3a13d3c87426_SOURCE",
-      "imageEmoji": "🎵",
+      "imageEmoji": "🎭",
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
@@ -940,12 +862,90 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vbtOKQ9",
+      "title": "Papaya / Radioresepsjonen 20 år",
+      "description": "Arrangement på Sentrum Scene, Oslo",
+      "date": "2026-09-09",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Sentrum Scene, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/papaya-radioresepsjonen-20-ar-tickets/1629813697?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/papaya-radioresepsjonen-20-ar-tickets/1629813697?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/20b/0da2486a-aabd-4dd7-a52f-2be7a39a720b_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18QoDatfQEBYvNX_7F",
+      "title": "Bransjepass / Delegate pass - by:Larm 2026",
+      "description": "Arrangement på by:Larm, Oslo",
+      "date": "2026-09-10",
+      "time": "10:00",
+      "endTime": null,
+      "location": "by:Larm, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/bransjepass-delegate-pass-by-larm-2026-tickets-W5J342?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/bransjepass-delegate-pass-by-larm-2026-tickets-W5J342?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/9f4/f889692d-4f8f-46de-bc4b-8d99a63f59f4_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kaAbpuv",
+      "title": "Papaya / Radioresepsjonen 20 år",
+      "description": "Arrangement på Sentrum Scene, Oslo",
+      "date": "2026-09-10",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Sentrum Scene, Oslo",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/papaya-radioresepsjonen-20-ar-tickets/245616341?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/papaya-radioresepsjonen-20-ar-tickets/245616341?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/2d9/fec7b5a1-c080-4ebf-bc0f-b7ee8f3802d9_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎭",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vFbaI_t",
+      "title": "2AM-DM",
+      "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's.",
+      "date": "2026-09-10",
+      "time": "19:00",
+      "endTime": null,
+      "location": "John Dee, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/2am-dm-tickets/1218268669?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/2am-dm-tickets/1218268669?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/150/e2a0e2d5-dc5f-460d-a566-cc0811b48150_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 48,
-    "fetchedAt": "2026-07-11T07:10:04.093Z",
+    "fetchedAt": "2026-07-12T07:27:36.162Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,
