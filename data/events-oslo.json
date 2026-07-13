@@ -21,7 +21,7 @@
     },
     {
       "id": "tm-LvZ18Q0Vl2UYVfo0HAh0O",
-      "title": "Semifinale! Frankrike - Spania/Belgia",
+      "title": "Frankrike - Spania",
       "description": "Arrangement på Lekter´n, Oslo",
       "date": "2026-07-14",
       "time": "20:00",
@@ -30,8 +30,8 @@
       "categories": [
         "konsert"
       ],
-      "ticketUrl": "https://www.universe.com/events/semifinale-frankrike-spania-belgia-tickets-H6W3JC?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/semifinale-frankrike-spania-belgia-tickets-H6W3JC?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "ticketUrl": "https://www.universe.com/events/frankrike-spania-tickets-H6W3JC?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/frankrike-spania-tickets-H6W3JC?ref=ticketmaster&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
       "imageEmoji": "⚽",
       "sponsored": false,
@@ -40,7 +40,7 @@
     },
     {
       "id": "tm-LvZ18QP7dVidpCj6KGyWn",
-      "title": "Norge - Argentina/Sveits",
+      "title": "England - Argentina",
       "description": "Arrangement på Lekter´n, Oslo",
       "date": "2026-07-15",
       "time": "16:00",
@@ -49,8 +49,8 @@
       "categories": [
         "konsert"
       ],
-      "ticketUrl": "https://www.universe.com/events/norge-argentina-sveits-tickets-NGDH5V?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/norge-argentina-sveits-tickets-NGDH5V?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "ticketUrl": "https://www.universe.com/events/england-argentina-tickets-NGDH5V?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/england-argentina-tickets-NGDH5V?ref=ticketmaster&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
       "imageEmoji": "⚽",
       "sponsored": false,
@@ -945,7 +945,7 @@
   "meta": {
     "city": "oslo",
     "count": 48,
-    "fetchedAt": "2026-07-12T07:27:36.162Z",
+    "fetchedAt": "2026-07-13T08:15:14.776Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,

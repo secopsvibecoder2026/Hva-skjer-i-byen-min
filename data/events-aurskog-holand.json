@@ -4,7 +4,7 @@
       "id": "scrape-gen-hva-skjer--",
       "title": "Hva skjer?",
       "description": "Arrangement i ahbygdetun.no (kalender)",
-      "date": "2026-07-13",
+      "date": "2026-07-14",
       "time": "12:00",
       "endTime": null,
       "location": "ahbygdetun.no (kalender)",
@@ -23,7 +23,7 @@
   "meta": {
     "city": "aurskog-holand",
     "count": 1,
-    "fetchedAt": "2026-07-12T07:27:42.477Z",
+    "fetchedAt": "2026-07-13T08:15:28.780Z",
     "sources": {
       "ticketmaster": 0,
       "eventbrite": 0,
