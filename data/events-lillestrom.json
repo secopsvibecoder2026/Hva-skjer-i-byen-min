@@ -4,7 +4,7 @@
       "id": "scrape-gen-gi-bort-en-opplevelse--",
       "title": "Gi bort en opplevelse!",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-07-14",
+      "date": "2026-07-15",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -23,7 +23,7 @@
       "id": "scrape-gen-last-ned-v-r-app-",
       "title": "Last ned vår app",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-07-14",
+      "date": "2026-07-15",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -1649,7 +1649,7 @@
     {
       "id": "scrape-gen-b-rd-tufte-johansen-pr-ver-v-re-positiv-2026-11-27",
       "title": "Bård Tufte Johansen – Prøver å være positiv",
-      "description": "Fredag 27. november\nkl. 19.00",
+      "description": "Få billetter igjen",
       "date": "2026-11-27",
       "time": "12:00",
       "endTime": null,
@@ -2244,7 +2244,7 @@
   "meta": {
     "city": "lillestrom",
     "count": 117,
-    "fetchedAt": "2026-07-13T08:15:24.162Z",
+    "fetchedAt": "2026-07-14T07:09:35.315Z",
     "sources": {
       "ticketmaster": 0,
       "eventbrite": 0,
