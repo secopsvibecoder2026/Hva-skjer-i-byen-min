@@ -1,44 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-LvZ18Q0LqH4WXQBfPEcGK",
-      "title": "Folkefesten:  BORD semifinale Frankrike vs Spania 21:00",
-      "description": "Arrangement på Kadettangen, Sandvika",
-      "date": "2026-07-14",
-      "time": "18:00",
-      "endTime": null,
-      "location": "Kadettangen, Sandvika",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-semifinale-frankrike-vs-spania-21-00-tickets-C9ZP3L?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-semifinale-frankrike-vs-spania-21-00-tickets-C9ZP3L?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18Q0Vl2UYVfo0HAh0O",
-      "title": "Frankrike - Spania",
-      "description": "Arrangement på Lekter´n, Oslo",
-      "date": "2026-07-14",
-      "time": "20:00",
-      "endTime": null,
-      "location": "Lekter´n, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/frankrike-spania-tickets-H6W3JC?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/frankrike-spania-tickets-H6W3JC?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-LvZ18QP7dVidpCj6KGyWn",
       "title": "England - Argentina",
       "description": "Arrangement på Lekter´n, Oslo",
@@ -290,7 +252,7 @@
     {
       "id": "tm-Z698xZb_Z16v3FJAxf",
       "title": "Rat's ass with Tamsyn Kelly & Pernille Haaland",
-      "description": "Arrangement på Oslo",
+      "description": "Brass Tacks Comedy in association with PARKAS at Independent Talent Tamsyn Kelly brings her critically acclaimed solo show Rat's Ass to SALT --- a sharp, personal and hilarious hour about class, compromise and money. After making more money than ever before last year, Tamsyn asks the uncomfortable question: what do you actually have to do to succeed? The answer might not be especially admirable. With razor-sharp observations and fearless honesty, she dives into the messy realities of social climbing, guilt and doing things you never thought you would --- all delivered with exceptional timing and undeniable stage presence. Tamsyn Kelly has appeared on HBO, ITV2, Comedy Central, BBC One, BBC Three and BBC Radio 4, and won the Edinburgh Comedy Awards Best in Class in 2022. Rolling Stone named Rat's Ass one of its \"must-see comedy shows\" of 2025. Joining her as a special guest is Norwegian-UK comedian Pernille Haaland. An award-winning stand-up comedian, actor and writer, Pernille is known from LATTER LIVE (NRK), Netflix's LOL, and BBC One's Not Going Out. She won Best Stand-Up Comedian at Reykjavík Fringe Festival 2024 and Best Joke at The Times Edinburgh Fringe Awards the same year. With sold-out tour dates across Europe and millions of views online, she has quickly become one of the most exciting Scandinavian comedians on the international circuit. An evening of uncompromising stand-up, uncomfortable truths and very, very good jokes.",
       "date": "2026-07-31",
       "time": "20:30",
       "endTime": null,
@@ -300,7 +262,7 @@
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/rats-ass-with-tamsyn-kelly--pernille-haaland-tickets/1488985894?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/rats-ass-with-tamsyn-kelly--pernille-haaland-tickets/1488985894?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/318/a046e86b-c8db-4095-8bd0-8f08c55e6318_RETINA_PORTRAIT_16_9.jpg",
+      "imageUrl": "https://s1.ticketm.net/dam/e/318/a046e86b-c8db-4095-8bd0-8f08c55e6318_RETINA_LANDSCAPE_16_9.jpg",
       "imageEmoji": "🎭",
       "sponsored": false,
       "featured": false,
@@ -479,6 +441,25 @@
       "ticketUrl": "https://www.ticketmaster.no/event/fagernes-yacht-klubb-tickets/299439833?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/fagernes-yacht-klubb-tickets/299439833?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/a/401/5aba1951-acb1-4dda-b5b0-5ce2ee45a401_SOURCE",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kFNFofx",
+      "title": "Øyanatt: V. Christie + Svebbe",
+      "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's.",
+      "date": "2026-08-15",
+      "time": "22:00",
+      "endTime": null,
+      "location": "John Dee, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/yanatt-v-christie--svebbe-tickets/223211522?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/yanatt-v-christie--svebbe-tickets/223211522?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/6c2/272672e0-e417-470f-a7f8-5539acb876c2_SOURCE",
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -939,12 +920,31 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16eeFFIQ8",
+      "title": "Norwegian Military Tattoo",
+      "description": "Arrangement på Oslo Spektrum, Oslo",
+      "date": "2026-09-06",
+      "time": "13:00",
+      "endTime": null,
+      "location": "Oslo Spektrum, Oslo",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/norwegian-military-tattoo-tickets/2088228690?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/norwegian-military-tattoo-tickets/2088228690?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/b2e/27598d9c-4bad-449d-af05-72e56b6a4b2e_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎭",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 48,
-    "fetchedAt": "2026-07-14T07:09:29.041Z",
+    "fetchedAt": "2026-07-15T07:12:58.316Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,
