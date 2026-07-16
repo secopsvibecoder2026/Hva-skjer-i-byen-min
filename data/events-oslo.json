@@ -1,44 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-LvZ18QP7dVidpCj6KGyWn",
-      "title": "England - Argentina",
-      "description": "Arrangement på Lekter´n, Oslo",
-      "date": "2026-07-15",
-      "time": "16:00",
-      "endTime": null,
-      "location": "Lekter´n, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/england-argentina-tickets-NGDH5V?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/england-argentina-tickets-NGDH5V?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18Q0LrCom_jDxgtxgQ",
-      "title": "Folkefesten: BORD Semifinale England vs Argentina",
-      "description": "Arrangement på Kadettangen, Sandvika",
-      "date": "2026-07-15",
-      "time": "18:00",
-      "endTime": null,
-      "location": "Kadettangen, Sandvika",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-semifinale-england-vs-argentina-tickets-R1QFC7?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-semifinale-england-vs-argentina-tickets-R1QFC7?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-LvZ18QP3zX570IiEca-0c",
       "title": "Gratis utekino - Mamma Mia!",
       "description": "Arrangement på Lekter´n, Oslo",
@@ -136,7 +98,7 @@
     },
     {
       "id": "tm-LvZ18Q0LLCbZfyVm23Dtc",
-      "title": "Folkefesten: BORD til VM-Finalen (kl 21:00)",
+      "title": "Folkefesten: BORD til VM-Finalen Spania vs TBD (kl 21:00)",
       "description": "Arrangement på Kadettangen, Sandvika",
       "date": "2026-07-19",
       "time": "18:00",
@@ -145,28 +107,9 @@
       "categories": [
         "konsert"
       ],
-      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-til-vm-finalen-kl-21-00-tickets-VFDZH1?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-til-vm-finalen-kl-21-00-tickets-VFDZH1?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "ticketUrl": "https://www.universe.com/events/folkefesten-bord-til-vm-finalen-spania-vs-tbd-kl-21-00-tickets-VFDZH1?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/folkefesten-bord-til-vm-finalen-spania-vs-tbd-kl-21-00-tickets-VFDZH1?ref=ticketmaster&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16vFP-o4p",
-      "title": "FIFA World Cup",
-      "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's.",
-      "date": "2026-07-19",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Rockefeller, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/fifa-world-cup-tickets/1225851556?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/fifa-world-cup-tickets/1225851556?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/14a/c3e39af9-6b09-414d-a51b-876cc9fc814a_RETINA_LANDSCAPE_16_9.jpg",
       "imageEmoji": "⚽",
       "sponsored": false,
       "featured": false,
@@ -939,12 +882,72 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kGU-Vbk",
+      "title": "Masterwork recital - Beethoven/Grieg/Liszt recital",
+      "description": "Arrangement på Kampen Kirke, Oslo, Oslo",
+      "date": "2026-09-06",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Kampen Kirke, Oslo, Oslo",
+      "categories": [
+        "konsert",
+        "familie"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/masterwork-recital-beethoven-grieg-liszt-recital-tickets/336874606?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/masterwork-recital-beethoven-grieg-liszt-recital-tickets/336874606?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/426/de51a23a-e20c-4ec2-91d3-3a13d3c87426_SOURCE",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kF6j9PK",
+      "title": "Devin Townsend",
+      "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's.",
+      "date": "2026-09-07",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Sentrum Scene, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/devin-townsend-tickets/207717953?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/devin-townsend-tickets/207717953?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/d01/e9781de6-5df1-49f9-8402-5f534c77dd01_SOURCE",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vbtOKQ9",
+      "title": "Papaya / Radioresepsjonen 20 år",
+      "description": "Arrangement på Sentrum Scene, Oslo",
+      "date": "2026-09-09",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Sentrum Scene, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/papaya-radioresepsjonen-20-ar-tickets/1629813697?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/papaya-radioresepsjonen-20-ar-tickets/1629813697?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/20b/0da2486a-aabd-4dd7-a52f-2be7a39a720b_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 48,
-    "fetchedAt": "2026-07-15T07:12:58.316Z",
+    "fetchedAt": "2026-07-16T07:21:26.565Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,
