@@ -1,25 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-LvZ18QP3BbVcb8ogKWG3J",
-      "title": "Gratis utekino - Dirty Dancing",
-      "description": "Arrangement på Lekter´n, Oslo",
-      "date": "2026-07-17",
-      "time": "20:00",
-      "endTime": null,
-      "location": "Lekter´n, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/gratis-utekino-dirty-dancing-tickets-Y8N75K?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/gratis-utekino-dirty-dancing-tickets-Y8N75K?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z16v4_j8b7",
       "title": "Organ recital with Franz Hauk",
       "description": "Arrangement på Oslo domkirke, Oslo",
@@ -942,12 +923,32 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vFbaI_t",
+      "title": "2AM-DM",
+      "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's.",
+      "date": "2026-09-10",
+      "time": "19:00",
+      "endTime": null,
+      "location": "John Dee, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/2am-dm-tickets/1218268669?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/2am-dm-tickets/1218268669?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/150/e2a0e2d5-dc5f-460d-a566-cc0811b48150_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 48,
-    "fetchedAt": "2026-07-17T07:14:37.700Z",
+    "fetchedAt": "2026-07-18T06:58:55.169Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,
