@@ -1,45 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z16v4_j8b7",
-      "title": "Organ recital with Franz Hauk",
-      "description": "Arrangement på Oslo domkirke, Oslo",
-      "date": "2026-07-18",
-      "time": "12:00",
-      "endTime": null,
-      "location": "Oslo domkirke, Oslo",
-      "categories": [
-        "konsert",
-        "familie"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/organ-recital-with-franz-hauk-tickets/1559710604?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/organ-recital-with-franz-hauk-tickets/1559710604?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/d12/194a19df-65b4-455b-a896-47519ab40d12_TABLET_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18QP3r5EXTp8q26CzF",
-      "title": "Frankrike - England",
-      "description": "Arrangement på Lekter´n, Oslo",
-      "date": "2026-07-18",
-      "time": "22:00",
-      "endTime": null,
-      "location": "Lekter´n, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.universe.com/events/frankrike-england-tickets-RTY76C?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/frankrike-england-tickets-RTY76C?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "⚽",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-LvZ18Q0LLCbZfyVm23Dtc",
       "title": "Folkefesten: BORD til VM-Finalen Spania vs Argentina (kl 21:00)",
       "description": "Arrangement på Kadettangen, Sandvika",
@@ -887,6 +848,25 @@
       "source": "ticketmaster"
     },
     {
+      "id": "tm-Z698xZb_Z16v_FbkZg",
+      "title": "The Pussycat Dolls: PCD FOREVER TOUR",
+      "description": "Arrangement på Oslo Spektrum, Oslo",
+      "date": "2026-09-10",
+      "time": "00:00",
+      "endTime": null,
+      "location": "Oslo Spektrum, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/the-pussycat-dolls-pcd-forever-tour-tickets/1648606035?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/the-pussycat-dolls-pcd-forever-tour-tickets/1648606035?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/e1e/81bad860-56ff-4595-bcc4-90766354be1e_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
       "id": "tm-LvZ18QoDatfQEBYvNX_7F",
       "title": "Bransjepass / Delegate pass - by:Larm 2026",
       "description": "Arrangement på by:Larm, Oslo",
@@ -943,12 +923,32 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1k1Z_fv3",
+      "title": "Papaya / Radioresepsjonen 20 år",
+      "description": "Arrangement på Sentrum Scene, Oslo",
+      "date": "2026-09-11",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Sentrum Scene, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/papaya-radioresepsjonen-20-ar-tickets/280654052?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/papaya-radioresepsjonen-20-ar-tickets/280654052?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/c91/9c09e6bc-af53-435f-b7df-55d22f6dbc91_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 48,
-    "fetchedAt": "2026-07-18T06:58:55.169Z",
+    "fetchedAt": "2026-07-19T07:25:07.340Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,
