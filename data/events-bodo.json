@@ -18,31 +18,12 @@
       "sponsored": false,
       "featured": false,
       "source": "local"
-    },
-    {
-      "id": "bodo-3",
-      "title": "Saltstraumen Naturdag",
-      "description": "Opplev verdens sterkeste tidevannsstrøm! Guidet tur til Saltstraumen med informasjon om naturfenomenet og muligheter for havfiske.",
-      "date": "2026-07-19",
-      "time": "10:00",
-      "endTime": "15:00",
-      "location": "Saltstraumen, Bodø",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://www.bodø.kommune.no",
-      "affiliateUrl": "https://www.visitbodo.com/saltstraumen?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🌊",
-      "sponsored": false,
-      "featured": false,
-      "source": "local"
     }
   ],
   "meta": {
     "city": "bodo",
-    "count": 2,
-    "fetchedAt": "2026-06-07T08:23:00.348Z",
+    "count": 1,
+    "fetchedAt": "2026-07-20T07:57:16.879Z",
     "sources": {
       "ticketmaster": 0,
       "eventbrite": 0,
