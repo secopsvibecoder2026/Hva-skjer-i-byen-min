@@ -4,7 +4,7 @@
       "id": "scrape-gen-gi-bort-en-opplevelse--",
       "title": "Gi bort en opplevelse!",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-07-25",
+      "date": "2026-07-26",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -23,7 +23,7 @@
       "id": "scrape-gen-last-ned-v-r-app-",
       "title": "Last ned vår app",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-07-25",
+      "date": "2026-07-26",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -716,7 +716,7 @@
     {
       "id": "scrape-gen--ystein-sunde-med-hurra-meg-rundt-i-80-2026-10-07",
       "title": "Øystein Sunde med HURRA-meg-RUNDT i 80",
-      "description": "Onsdag 7. oktober\nkl. 19.00",
+      "description": "Få billetter igjen",
       "date": "2026-10-07",
       "time": "12:00",
       "endTime": null,
@@ -2244,7 +2244,7 @@
   "meta": {
     "city": "lillestrom",
     "count": 117,
-    "fetchedAt": "2026-07-24T07:29:21.918Z",
+    "fetchedAt": "2026-07-25T07:13:19.404Z",
     "sources": {
       "ticketmaster": 0,
       "eventbrite": 0,
