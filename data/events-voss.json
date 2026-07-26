@@ -19,32 +19,12 @@
       "sponsored": false,
       "featured": false,
       "source": "local"
-    },
-    {
-      "id": "voss-4",
-      "title": "Kajakktur på Vangsvatnet",
-      "description": "Guidet kajakktur på det vakre Vangsvatnet med Vossefjellet og Bavallsfjellet som kulisse. Perfekt familieaktivitet hele sommeren.",
-      "date": "2026-07-25",
-      "time": "11:00",
-      "endTime": "14:00",
-      "location": "Vangsvatnet, Voss",
-      "categories": [
-        "familie",
-        "barn"
-      ],
-      "ticketUrl": "https://www.visitvoss.no",
-      "affiliateUrl": "https://www.visitvoss.no/aktiviteter/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🚣",
-      "sponsored": false,
-      "featured": false,
-      "source": "local"
     }
   ],
   "meta": {
     "city": "voss",
-    "count": 2,
-    "fetchedAt": "2026-06-23T08:28:10.668Z",
+    "count": 1,
+    "fetchedAt": "2026-07-26T07:34:00.156Z",
     "sources": {
       "ticketmaster": 0,
       "eventbrite": 0,

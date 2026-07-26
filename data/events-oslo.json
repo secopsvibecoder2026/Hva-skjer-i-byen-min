@@ -1,26 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z16vkZxb3f",
-      "title": "Organ recital with Alessandro Chiantoni",
-      "description": "Arrangement på Oslo domkirke, Oslo",
-      "date": "2026-07-25",
-      "time": "12:00",
-      "endTime": null,
-      "location": "Oslo domkirke, Oslo",
-      "categories": [
-        "konsert",
-        "familie"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/organ-recital-with-alessandro-chiantoni-tickets/1180898494?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/organ-recital-with-alessandro-chiantoni-tickets/1180898494?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/78f/22da601b-4145-42b8-8986-baa8baa2e78f_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z16eZxFKfv",
       "title": "Baaba Maal",
       "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's.",
@@ -945,12 +925,31 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16v_Vq748",
+      "title": "Papaya / Radioresepsjonen 20 år",
+      "description": "Arrangement på Sentrum Scene, Oslo",
+      "date": "2026-09-12",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Sentrum Scene, Oslo",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/papaya-radioresepsjonen-20-ar-tickets/1674744550?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/papaya-radioresepsjonen-20-ar-tickets/1674744550?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/095/43560ea3-f7a0-4df5-847a-7742e8ae4095_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎭",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 48,
-    "fetchedAt": "2026-07-25T07:13:14.815Z",
+    "fetchedAt": "2026-07-26T07:33:32.066Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,
