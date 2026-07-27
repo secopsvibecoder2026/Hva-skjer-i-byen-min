@@ -4,7 +4,7 @@
       "id": "scrape-gen-gi-bort-en-opplevelse--",
       "title": "Gi bort en opplevelse!",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-07-27",
+      "date": "2026-07-28",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -23,7 +23,7 @@
       "id": "scrape-gen-last-ned-v-r-app-",
       "title": "Last ned vår app",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-07-27",
+      "date": "2026-07-28",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -716,7 +716,7 @@
     {
       "id": "scrape-gen--ystein-sunde-med-hurra-meg-rundt-i-80-2026-10-07",
       "title": "Øystein Sunde med HURRA-meg-RUNDT i 80",
-      "description": "Få billetter igjen",
+      "description": "Onsdag 7. oktober\nkl. 19.00",
       "date": "2026-10-07",
       "time": "12:00",
       "endTime": null,
@@ -1230,7 +1230,7 @@
     {
       "id": "scrape-gen-espen-lind-2026-11-03",
       "title": "Espen Lind",
-      "description": "Få billetter igjen",
+      "description": "Tirsdag 3. november\nkl. 20.00",
       "date": "2026-11-03",
       "time": "12:00",
       "endTime": null,
@@ -2244,7 +2244,7 @@
   "meta": {
     "city": "lillestrom",
     "count": 117,
-    "fetchedAt": "2026-07-26T07:33:38.502Z",
+    "fetchedAt": "2026-07-27T08:29:14.469Z",
     "sources": {
       "ticketmaster": 0,
       "eventbrite": 0,
