@@ -20,25 +20,6 @@
       "source": "ticketmaster"
     },
     {
-      "id": "tm-Z698xZb_Z16v3FJAxf",
-      "title": "Rat's ass with Tamsyn Kelly & Pernille Haaland",
-      "description": "Brass Tacks Comedy in association with PARKAS at Independent Talent Tamsyn Kelly brings her critically acclaimed solo show Rat's Ass to SALT --- a sharp, personal and hilarious hour about class, compromise and money. After making more money than ever before last year, Tamsyn asks the uncomfortable question: what do you actually have to do to succeed? The answer might not be especially admirable. With razor-sharp observations and fearless honesty, she dives into the messy realities of social climbing, guilt and doing things you never thought you would --- all delivered with exceptional timing and undeniable stage presence. Tamsyn Kelly has appeared on HBO, ITV2, Comedy Central, BBC One, BBC Three and BBC Radio 4, and won the Edinburgh Comedy Awards Best in Class in 2022. Rolling Stone named Rat's Ass one of its \"must-see comedy shows\" of 2025. Joining her as a special guest is Norwegian-UK comedian Pernille Haaland. An award-winning stand-up comedian, actor and writer, Pernille is known from LATTER LIVE (NRK), Netflix's LOL, and BBC One's Not Going Out. She won Best Stand-Up Comedian at Reykjavík Fringe Festival 2024 and Best Joke at The Times Edinburgh Fringe Awards the same year. With sold-out tour dates across Europe and millions of views online, she has quickly become one of the most exciting Scandinavian comedians on the international circuit. An evening of uncompromising stand-up, uncomfortable truths and very, very good jokes.",
-      "date": "2026-07-31",
-      "time": "20:30",
-      "endTime": null,
-      "location": "Oslo",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/rats-ass-with-tamsyn-kelly--pernille-haaland-tickets/1488985894?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/rats-ass-with-tamsyn-kelly--pernille-haaland-tickets/1488985894?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/318/a046e86b-c8db-4095-8bd0-8f08c55e6318_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎭",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z16vFNuOj-",
       "title": "Organ recital with Ourania Gassiou",
       "description": "Arrangement på Oslo domkirke, Oslo",
@@ -944,12 +925,32 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1k-Kv6Zw",
+      "title": "Gunslingers",
+      "description": "Arrangement på Rockefeller, Oslo",
+      "date": "2026-09-12",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Rockefeller, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/gunslingers-tickets/853047032?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/gunslingers-tickets/853047032?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/fc8/dda8f031-66d5-4130-8b98-45e5fc95afc8_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 48,
-    "fetchedAt": "2026-07-27T08:29:08.943Z",
+    "fetchedAt": "2026-07-28T07:35:53.639Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,
