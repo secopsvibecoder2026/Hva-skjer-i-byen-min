@@ -4,7 +4,7 @@
       "id": "scrape-gen-gi-bort-en-opplevelse--",
       "title": "Gi bort en opplevelse!",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-07-29",
+      "date": "2026-07-30",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -23,7 +23,7 @@
       "id": "scrape-gen-last-ned-v-r-app-",
       "title": "Last ned vår app",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-07-29",
+      "date": "2026-07-30",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -773,7 +773,7 @@
     {
       "id": "scrape-gen-halvor-johansson-det-er-lov-pr-ve-seg-2026-10-09",
       "title": "Halvor Johansson – Det er lov å prøve seg",
-      "description": "Fredag 9. oktober\nkl. 19.00",
+      "description": "Få billetter igjen",
       "date": "2026-10-09",
       "time": "12:00",
       "endTime": null,
@@ -1059,7 +1059,7 @@
     {
       "id": "scrape-gen-30-r-med-kor-i-lia-2026-10-24",
       "title": "30 år med Kor i Lia",
-      "description": "Lørdag 24. oktober\nkl. 17.00",
+      "description": "Lørdag 24. oktober\nkl. 18.00",
       "date": "2026-10-24",
       "time": "12:00",
       "endTime": null,
@@ -2244,7 +2244,7 @@
   "meta": {
     "city": "lillestrom",
     "count": 117,
-    "fetchedAt": "2026-07-28T07:35:57.979Z",
+    "fetchedAt": "2026-07-29T07:41:18.195Z",
     "sources": {
       "ticketmaster": 0,
       "eventbrite": 0,
