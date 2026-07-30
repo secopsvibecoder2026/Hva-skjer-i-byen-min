@@ -1,103 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z16vjk-680",
-      "title": "Beyond the Gates Experience: Black metal landmarks with Tore Bratseth",
-      "description": "Arrangement på Bergen",
-      "date": "2026-07-29",
-      "time": "11:00",
-      "endTime": null,
-      "location": "Bergen",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/beyond-the-gates-experience-black-metal-landmarks-with-tore-bratseth-tickets/1706847424?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/beyond-the-gates-experience-black-metal-landmarks-with-tore-bratseth-tickets/1706847424?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/aef/0a51cec7-c1ad-4ecc-81cf-882cf2dd5aef_TABLET_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16vkv707z",
-      "title": "Beyond the Gates Experience: A guided tour to Fantoft Stave Church",
-      "description": "Arrangement på Bergen",
-      "date": "2026-07-29",
-      "time": "15:00",
-      "endTime": null,
-      "location": "Bergen",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/beyond-the-gates-experience-a-guided-tour-to-fantoft-stave-church-tickets/1181124138?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/beyond-the-gates-experience-a-guided-tour-to-fantoft-stave-church-tickets/1181124138?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/aef/0a51cec7-c1ad-4ecc-81cf-882cf2dd5aef_TABLET_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z1kfMoooZ",
-      "title": "Beyond the Gates 2026 - Wednesday Day Ticket",
-      "description": "Arrangement på Bergen",
-      "date": "2026-07-29",
-      "time": "16:30",
-      "endTime": null,
-      "location": "Bergen",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/beyond-the-gates-2026-wednesday-day-ticket-tickets/537451440?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/beyond-the-gates-2026-wednesday-day-ticket-tickets/537451440?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/aef/0a51cec7-c1ad-4ecc-81cf-882cf2dd5aef_TABLET_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16eZ98wCo",
-      "title": "Beyond the Gates 4 Day Festival Pass 2026 Silver",
-      "description": "Arrangement på Grieghallen & USF Verftet, Bergen",
-      "date": "2026-07-29",
-      "time": "17:30",
-      "endTime": null,
-      "location": "Grieghallen & USF Verftet, Bergen",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/beyond-the-gates-4-day-festival-pass-2026-silver-tickets/2017432391?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/beyond-the-gates-4-day-festival-pass-2026-silver-tickets/2017432391?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/aef/0a51cec7-c1ad-4ecc-81cf-882cf2dd5aef_TABLET_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16v7K8pGy",
-      "title": "Beyond the Gates 4 Day Festival Pass 2026 Gold",
-      "description": "Arrangement på Grieghallen & USF Verftet, Bergen",
-      "date": "2026-07-29",
-      "time": "17:30",
-      "endTime": null,
-      "location": "Grieghallen & USF Verftet, Bergen",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/beyond-the-gates-4-day-festival-pass-2026-gold-tickets/1113416339?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/beyond-the-gates-4-day-festival-pass-2026-gold-tickets/1113416339?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/aef/0a51cec7-c1ad-4ecc-81cf-882cf2dd5aef_TABLET_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z1k8E7NO6",
       "title": "Beyond the Gates Experience: Black metal landmarks with Tore Bratseth",
       "description": "Arrangement på Bergen",
@@ -491,10 +394,10 @@
   ],
   "meta": {
     "city": "bergen",
-    "count": 25,
-    "fetchedAt": "2026-07-29T07:41:12.654Z",
+    "count": 20,
+    "fetchedAt": "2026-07-30T07:32:31.187Z",
     "sources": {
-      "ticketmaster": 27,
+      "ticketmaster": 22,
       "eventbrite": 0,
       "scrape": 0
     }
