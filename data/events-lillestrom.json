@@ -4,7 +4,7 @@
       "id": "scrape-gen-gi-bort-en-opplevelse--",
       "title": "Gi bort en opplevelse!",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-07-31",
+      "date": "2026-08-01",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -23,7 +23,7 @@
       "id": "scrape-gen-last-ned-v-r-app-",
       "title": "Last ned vår app",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-07-31",
+      "date": "2026-08-01",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -214,7 +214,7 @@
     {
       "id": "scrape-gen-kulturkaf-gategutt-en-hyllest-til-lilleb-2026-09-10",
       "title": "Kulturkafé – Gategutt: En hyllest til Lillebjørn Nilsen",
-      "description": "Torsdag 10. september\nkl. 12.00",
+      "description": "Få billetter igjen",
       "date": "2026-09-10",
       "time": "12:00",
       "endTime": null,
@@ -2244,7 +2244,7 @@
   "meta": {
     "city": "lillestrom",
     "count": 117,
-    "fetchedAt": "2026-07-30T07:32:40.571Z",
+    "fetchedAt": "2026-07-31T07:48:50.489Z",
     "sources": {
       "ticketmaster": 0,
       "eventbrite": 0,
