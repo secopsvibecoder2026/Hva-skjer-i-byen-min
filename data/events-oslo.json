@@ -1,25 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z16eZxFKfv",
-      "title": "Baaba Maal",
-      "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's.",
-      "date": "2026-07-31",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Sentrum Scene, Oslo",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/baaba-maal-tickets/2022213501?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/baaba-maal-tickets/2022213501?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/e3f/13d39b65-7ded-41ba-9da0-7a3eab0c7e3f_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "imageEmoji": "🎭",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z16vFNuOj-",
       "title": "Organ recital with Ourania Gassiou",
       "description": "Arrangement på Oslo domkirke, Oslo",
@@ -888,6 +869,25 @@
       "source": "ticketmaster"
     },
     {
+      "id": "tm-Z698xZb_Z16vb_o6fg",
+      "title": "Bailey Zimmerman: Different Night Same Rodeo Tour 2026",
+      "description": "Arrangement på Oslo Spektrum, Oslo",
+      "date": "2026-09-12",
+      "time": "00:00",
+      "endTime": null,
+      "location": "Oslo Spektrum, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/bailey-zimmerman-different-night-same-rodeo-tour-2026-tickets/1619447535?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/bailey-zimmerman-different-night-same-rodeo-tour-2026-tickets/1619447535?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/fd0/8e20e642-292c-4fb6-b145-a8679ceb6fd0_SOURCE",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
       "id": "tm-Z698xZb_Z1kabooro",
       "title": "Organ recital with Kåre Nordstoga",
       "description": "Kåre Nordstoga, organ. Works by Buxtehude, Bach Demessieux, Sandvold and Tournemire. Dear friends of organ music, Welcome to Oslo Cathedral and this year's summer concert series! Over the course of 15 Saturdays from July to October, we invite you to festive and diverse concerts featuring organists from both Norway and abroad. Each concert has its own distinct character, reflecting the musical background and tradition of the guest performer. During the summer months, when everyday life tends to slow down and time feels more spacious, we wish to present a rich and varied musical program on our cathedral organ, built in 1998 by the Norwegian organ builder Ryde & Berg. We are committed to making organ music accessible to as many people as possible. Please feel free to take the program with you, share it with friends and family, and invite someone along to a concert. Admission is always free for children and students. We look forward to seeing you at Oslo Cathedral and wish you a joyful and inspiring summer! Marcus André Berg and Tjark Pinne Organists of Oslo Cathedral. Accessibility: Oslo Cathedral has dedicated wheelchair spaces in the south transept. Companions enter free of charge upon presenting a companion certificate. Oslo Cathedral has a ramp and an elevator for step-free access. Please arrive at the main entrance, and our staff will guide you to the wheelchair entrance. A wheelchair-accessible restroom is available by the main entrance. For questions; please call Oslo Cathedral, phone: +47 23629010",
@@ -950,7 +950,7 @@
   "meta": {
     "city": "oslo",
     "count": 48,
-    "fetchedAt": "2026-07-31T07:48:45.777Z",
+    "fetchedAt": "2026-08-01T07:25:33.572Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,
