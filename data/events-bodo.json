@@ -1,29 +1,9 @@
 {
-  "events": [
-    {
-      "id": "bodo-2",
-      "title": "Nordland Musikkfestuke",
-      "description": "En uke med klassisk musikk, opera og kammermusikk på høyt internasjonalt nivå. Festivalen trekker musikere fra hele verden til Bodø.",
-      "date": "2026-08-01",
-      "time": "19:00",
-      "endTime": "22:00",
-      "location": "Bodø Domkirke, Bodø",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.nordlandmusikkfestuke.no",
-      "affiliateUrl": "https://www.nordlandmusikkfestuke.no/billetter?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎻",
-      "sponsored": false,
-      "featured": false,
-      "source": "local"
-    }
-  ],
+  "events": [],
   "meta": {
     "city": "bodo",
-    "count": 1,
-    "fetchedAt": "2026-07-20T07:57:16.879Z",
+    "count": 0,
+    "fetchedAt": "2026-08-02T07:30:37.504Z",
     "sources": {
       "ticketmaster": 0,
       "eventbrite": 0,

@@ -1,46 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z16vFNuOj-",
-      "title": "Organ recital with Ourania Gassiou",
-      "description": "Arrangement på Oslo domkirke, Oslo",
-      "date": "2026-08-01",
-      "time": "12:00",
-      "endTime": null,
-      "location": "Oslo domkirke, Oslo",
-      "categories": [
-        "konsert",
-        "familie"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/organ-recital-with-ourania-gassiou-tickets/1223360721?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/organ-recital-with-ourania-gassiou-tickets/1223360721?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/4cc/4333bdf1-e8e8-4643-b4ef-931a71cb54cc_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z1k4VO_83",
-      "title": "Rose Tattoo",
-      "description": "Arrangement på Rockefeller, Oslo",
-      "date": "2026-08-01",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Rockefeller, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/rose-tattoo-tickets/574819412?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/rose-tattoo-tickets/574819412?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/ea5/7ba479cd-f65c-48ab-ad81-02008ba15ea5_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z16vQZuxQ8",
       "title": "Organ Recital with Johannes Zeinler",
       "description": "Johannes Zeinler (Vienna, Austria), organ Works by Muffat, Grigny, Martin, Mozart, Schönberg and Bach. Dear friends of organ music, Welcome to Oslo Cathedral and this year's summer concert series! Over the course of 15 Saturdays from July to October, we invite you to festive and diverse concerts featuring organists from both Norway and abroad. Each concert has its own distinct character, reflecting the musical background and tradition of the guest performer. During the summer months, when everyday life tends to slow down and time feels more spacious, we wish to present a rich and varied musical program on our cathedral organ, built in 1998 by the Norwegian organ builder Ryde & Berg. We are committed to making organ music accessible to as many people as possible. Please feel free to take the program with you, share it with friends and family, and invite someone along to a concert. Admission is always free for children and students. We look forward to seeing you at Oslo Cathedral and wish you a joyful and inspiring summer! Marcus André Berg and Tjark Pinne Organists of Oslo Cathedral. Accessibility: Oslo Cathedral has dedicated wheelchair spaces in the south transept. Companions enter free of charge upon presenting a companion certificate. Oslo Cathedral has a ramp and an elevator for step-free access. Please arrive at the main entrance, and our staff will guide you to the wheelchair entrance. A wheelchair-accessible restroom is available by the main entrance. For questions; please call Oslo Cathedral, phone: +47 23629010",
@@ -945,12 +905,50 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1k14r_vz",
+      "title": "Megan Moroney",
+      "description": "Arrangement på Sentrum Scene, Oslo",
+      "date": "2026-09-13",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Sentrum Scene, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/megan-moroney-tickets/295799078?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/megan-moroney-tickets/295799078?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/d3e/6b2b1a95-fe1e-4ee0-9113-32966527cd3e_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1k8f4E0w",
+      "title": "Megan Moroney | VIP",
+      "description": "Arrangement på Sentrum Scene, Oslo",
+      "date": "2026-09-13",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Sentrum Scene, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/megan-moroney-%7C-vip-tickets/414567932?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/megan-moroney-%7C-vip-tickets/414567932?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/89f/c86139af-c4c1-4c86-9475-d8eecdecf89f_SOURCE",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 48,
-    "fetchedAt": "2026-08-01T07:25:33.572Z",
+    "fetchedAt": "2026-08-02T07:30:24.968Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,

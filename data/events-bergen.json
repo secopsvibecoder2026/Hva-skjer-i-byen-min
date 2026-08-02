@@ -1,83 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z16vJb_7ja",
-      "title": "Beyond the Gates 2026 - Weekend pass (Friday + Saturday)",
-      "description": "Arrangement på Grieghallen, Griegsalen, Bergen",
-      "date": "2026-08-01",
-      "time": "00:00",
-      "endTime": null,
-      "location": "Grieghallen, Griegsalen, Bergen",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/beyond-the-gates-2026-weekend-pass-friday--saturday--tickets/1998644709?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/beyond-the-gates-2026-weekend-pass-friday--saturday--tickets/1998644709?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/aef/0a51cec7-c1ad-4ecc-81cf-882cf2dd5aef_TABLET_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16vPPPpAv",
-      "title": "Beyond the Gates Experience: Black metal landmarks with Tore Bratseth",
-      "description": "Arrangement på Bergen",
-      "date": "2026-08-01",
-      "time": "11:00",
-      "endTime": null,
-      "location": "Bergen",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/beyond-the-gates-experience-black-metal-landmarks-with-tore-bratseth-tickets/1965956141?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/beyond-the-gates-experience-black-metal-landmarks-with-tore-bratseth-tickets/1965956141?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/aef/0a51cec7-c1ad-4ecc-81cf-882cf2dd5aef_TABLET_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16v7g-SoP",
-      "title": "Beyond the Gates Experience: A guided tour of Grieghallen with Pytten",
-      "description": "Arrangement på Bergen",
-      "date": "2026-08-01",
-      "time": "13:00",
-      "endTime": null,
-      "location": "Bergen",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/beyond-the-gates-experience-a-guided-tour-of-grieghallen-with-pytten-tickets/1135873465?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/beyond-the-gates-experience-a-guided-tour-of-grieghallen-with-pytten-tickets/1135873465?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/aef/0a51cec7-c1ad-4ecc-81cf-882cf2dd5aef_TABLET_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z1k8AvZOM",
-      "title": "Beyond the Gates 2026 - Saturday Day Ticket",
-      "description": "Arrangement på Grieghallen, Griegsalen, Bergen",
-      "date": "2026-08-01",
-      "time": "16:30",
-      "endTime": null,
-      "location": "Grieghallen, Griegsalen, Bergen",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/beyond-the-gates-2026-saturday-day-ticket-tickets/405040837?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/beyond-the-gates-2026-saturday-day-ticket-tickets/405040837?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/aef/0a51cec7-c1ad-4ecc-81cf-882cf2dd5aef_TABLET_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z16vqYaSaO",
       "title": "Anatolaks",
       "description": "Anatolaks is a music band based in Oslo, mainly covering songs in the genres of Turkish-Anatolian and Psychedelic Rock (a fusion of Turkish folk music and rock). The band was founded in 2024 by Arda Unlusoy (drums, back vocal), Burak Kara (vocal, electric guitar), Yavuzer Cetin (electric guitar) and Numan Hekimoglu (bass guitar). Emre Onder Guner (baglama/saz) and Ahmet Emin Memis (darbuka and ney) joined later and completed the band's final lineup. Each member is an experienced musician who has previously performed at various well-known events in Turkiye. These six individuals, each with different backgrounds, came together in Oslo and now share a common goal: to carry the distinctive sound of Anatolia beyond borders!",
@@ -160,10 +83,10 @@
   ],
   "meta": {
     "city": "bergen",
-    "count": 8,
-    "fetchedAt": "2026-08-01T07:25:33.076Z",
+    "count": 4,
+    "fetchedAt": "2026-08-02T07:30:23.731Z",
     "sources": {
-      "ticketmaster": 9,
+      "ticketmaster": 4,
       "eventbrite": 0,
       "scrape": 0
     }
