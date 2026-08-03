@@ -161,7 +161,8 @@
       "endTime": null,
       "location": "Midgard Vikingsenter, Horten",
       "categories": [
-        "konsert"
+        "konsert",
+        "uteliv"
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/midgardsblot-weekend-pass-2026-tickets/929710484?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/midgardsblot-weekend-pass-2026-tickets/929710484?language=en-us&ref=hvaSkjerIByenMin",
@@ -327,7 +328,7 @@
   "meta": {
     "city": "tonsberg",
     "count": 17,
-    "fetchedAt": "2026-08-02T07:30:39.578Z",
+    "fetchedAt": "2026-08-03T08:27:39.236Z",
     "sources": {
       "ticketmaster": 20,
       "eventbrite": 0,

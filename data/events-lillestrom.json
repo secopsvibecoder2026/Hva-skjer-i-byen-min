@@ -4,7 +4,7 @@
       "id": "scrape-gen-gi-bort-en-opplevelse--",
       "title": "Gi bort en opplevelse!",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-08-03",
+      "date": "2026-08-04",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -23,7 +23,7 @@
       "id": "scrape-gen-last-ned-v-r-app-",
       "title": "Last ned vår app",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-08-03",
+      "date": "2026-08-04",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -281,25 +281,6 @@
       ],
       "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17917-oppskrift-pa-ekstase-med-anne-lindmo-og-nina-brochmann/",
       "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17917-oppskrift-pa-ekstase-med-anne-lindmo-og-nina-brochmann/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
-      "id": "scrape-gen-forever-country-2026-09-11",
-      "title": "Forever Country",
-      "description": "Fredag 11. september\nkl. 19.00",
-      "date": "2026-09-11",
-      "time": "12:00",
-      "endTime": null,
-      "location": "lillestrom-kultursenter.no",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17878-forever-country/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17878-forever-country/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -581,7 +562,7 @@
     {
       "id": "scrape-gen-men-har-du-pr-vd-yoga--2026-09-25",
       "title": "Men har du prøvd yoga?",
-      "description": "Få billetter igjen",
+      "description": "Utsolgt",
       "date": "2026-09-25",
       "time": "12:00",
       "endTime": null,
@@ -2243,12 +2224,12 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 117,
-    "fetchedAt": "2026-08-02T07:30:30.048Z",
+    "count": 116,
+    "fetchedAt": "2026-08-03T08:27:30.596Z",
     "sources": {
       "ticketmaster": 0,
       "eventbrite": 0,
-      "scrape": 117
+      "scrape": 116
     }
   }
 }
