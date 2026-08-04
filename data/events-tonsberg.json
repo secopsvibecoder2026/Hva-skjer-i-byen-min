@@ -32,7 +32,7 @@
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/tent-ticket-camp-utgard-midgardsblot-metalfestival-2026-tickets/1141182064?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/tent-ticket-camp-utgard-midgardsblot-metalfestival-2026-tickets/1141182064?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/461/5b441f73-9549-4214-9f1f-0475aae20461_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageUrl": "https://s1.ticketm.net/dam/a/461/5b441f73-9549-4214-9f1f-0475aae20461_RETINA_LANDSCAPE_16_9.jpg",
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -328,7 +328,7 @@
   "meta": {
     "city": "tonsberg",
     "count": 17,
-    "fetchedAt": "2026-08-03T08:27:39.236Z",
+    "fetchedAt": "2026-08-04T07:37:41.104Z",
     "sources": {
       "ticketmaster": 20,
       "eventbrite": 0,

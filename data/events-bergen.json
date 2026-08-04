@@ -79,14 +79,34 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vqbP-f9",
+      "title": "Beyond the Gates 4 Day Festival Pass 2026 Gold",
+      "description": "Beyond the Gates 4 Day Festival Pass 2026 Arrangementstidspunkt/konsertstart : 17:30 Dørene åpner : 16:30 Aldersgrense : 18 Ledsager : Full pris Bevegelseshemmede : Ja Parkeringsmuligheter : Ja For more information see www.beyondthegates.no and Facebook.",
+      "date": "2027-07-28",
+      "time": "17:30",
+      "endTime": null,
+      "location": "Grieghallen & USF Verftet, Bergen",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/beyond-the-gates-4-day-festival-pass-2026-gold-tickets/1758961517?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/beyond-the-gates-4-day-festival-pass-2026-gold-tickets/1758961517?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/aef/0a51cec7-c1ad-4ecc-81cf-882cf2dd5aef_TABLET_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "bergen",
-    "count": 4,
-    "fetchedAt": "2026-08-03T08:27:25.112Z",
+    "count": 5,
+    "fetchedAt": "2026-08-04T07:37:20.861Z",
     "sources": {
-      "ticketmaster": 4,
+      "ticketmaster": 5,
       "eventbrite": 0,
       "scrape": 0
     }
