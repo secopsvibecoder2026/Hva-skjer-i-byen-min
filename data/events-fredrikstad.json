@@ -52,7 +52,7 @@
       ],
       "ticketUrl": "https://www.universe.com/events/bakpa-presenterer-herrelose-savoy-terrasse-tickets-B90S6X?ref=ticketmaster",
       "affiliateUrl": "https://www.universe.com/events/bakpa-presenterer-herrelose-savoy-terrasse-tickets-B90S6X?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_RETINA_LANDSCAPE_16_9.jpg",
+      "imageUrl": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -102,7 +102,7 @@
   "meta": {
     "city": "fredrikstad",
     "count": 5,
-    "fetchedAt": "2026-08-04T07:37:35.372Z",
+    "fetchedAt": "2026-08-05T07:36:34.510Z",
     "sources": {
       "ticketmaster": 5,
       "eventbrite": 0,

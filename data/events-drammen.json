@@ -28,7 +28,8 @@
       "endTime": null,
       "location": "Kometen, Drammen",
       "categories": [
-        "konsert"
+        "konsert",
+        "uteliv"
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/drammen-metalfest-tickets/2097132197?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/drammen-metalfest-tickets/2097132197?language=en-us&ref=hvaSkjerIByenMin",
@@ -42,7 +43,7 @@
   "meta": {
     "city": "drammen",
     "count": 2,
-    "fetchedAt": "2026-08-04T07:37:34.220Z",
+    "fetchedAt": "2026-08-05T07:36:33.594Z",
     "sources": {
       "ticketmaster": 2,
       "eventbrite": 0,

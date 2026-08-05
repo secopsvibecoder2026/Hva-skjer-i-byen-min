@@ -89,8 +89,7 @@
       "endTime": null,
       "location": "Grieghallen & USF Verftet, Bergen",
       "categories": [
-        "konsert",
-        "uteliv"
+        "konsert"
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/beyond-the-gates-4-day-festival-pass-2026-gold-tickets/1758961517?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/beyond-the-gates-4-day-festival-pass-2026-gold-tickets/1758961517?language=en-us&ref=hvaSkjerIByenMin",
@@ -104,7 +103,7 @@
   "meta": {
     "city": "bergen",
     "count": 5,
-    "fetchedAt": "2026-08-04T07:37:20.861Z",
+    "fetchedAt": "2026-08-05T07:36:25.296Z",
     "sources": {
       "ticketmaster": 5,
       "eventbrite": 0,
