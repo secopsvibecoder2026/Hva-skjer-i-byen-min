@@ -139,25 +139,6 @@
       "source": "ticketmaster"
     },
     {
-      "id": "tm-Z698xZb_Z1kFNFofx",
-      "title": "Øyanatt: V. Christie + Svebbe",
-      "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's.",
-      "date": "2026-08-15",
-      "time": "22:00",
-      "endTime": null,
-      "location": "John Dee, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/yanatt-v-christie--svebbe-tickets/223211522?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/yanatt-v-christie--svebbe-tickets/223211522?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/6c2/272672e0-e417-470f-a7f8-5539acb876c2_SOURCE",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z1kazvOO0",
       "title": "Pet Shop Boys",
       "description": "Ticket Information: - Maximum 6 tickets per person. - Bottles, cans, and laser pointers are prohibited inside the concert area. Tickets will be available as mobile tickets (QR codes) via the Ticketmaster app and your user account well in advance of the concert (about 30 days). Learn more about delayed delivery of admission passes here. Tickets for Wheel chairs and companions Use public transportation to Unity Arena. Visit unityarena.no or ruter.no for travel options. For more details about the concert, artists, and entry times, visit unityarena.no or livenation.no. Schedule: - Box Office opens: TBA - Doors open: 18:00 - Concert starts: TBA General Information: The organizer reserves the right to deny entry to individuals who refuse personal inspection (this may include a body search and baggage check). See unityarena.no for details about prohibited items. Ejected individuals are not entitled to a ticket refund. There is no minimum age for the concert, but children under 15 must be accompanied by an adult (as per the Police Act in Bærum Municipality).",
@@ -943,12 +924,32 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kq_uoaO",
+      "title": "Ella Mai: Do You Still Love Me? Tour",
+      "description": "Arrangement på Sentrum Scene, Oslo",
+      "date": "2026-09-14",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Sentrum Scene, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/ella-mai-do-you-still-love-me-tour-tickets/759351260?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/ella-mai-do-you-still-love-me-tour-tickets/759351260?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/ee5/6781efa3-b464-4aad-bc05-532503715ee5_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 48,
-    "fetchedAt": "2026-08-05T07:36:25.823Z",
+    "fetchedAt": "2026-08-06T07:36:51.005Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,
