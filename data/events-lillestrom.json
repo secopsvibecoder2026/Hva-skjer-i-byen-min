@@ -24,7 +24,7 @@
       "id": "scrape-gen-gi-bort-en-opplevelse--",
       "title": "Gi bort en opplevelse!",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-08-08",
+      "date": "2026-08-09",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -43,7 +43,7 @@
       "id": "scrape-gen-last-ned-v-r-app-",
       "title": "Last ned vår app",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-08-08",
+      "date": "2026-08-09",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -231,8 +231,8 @@
       "source": "scrape"
     },
     {
-      "id": "scrape-gen-oppskrift-p-ekstase-med-anne-lindmo-og-n-2026-09-10",
-      "title": "Oppskrift på ekstase med Anne Lindmo og Nina Brochmann",
+      "id": "scrape-gen--lyst-p-livet-med-anne-lindmo-og-nina-br-2026-09-10",
+      "title": "«Lyst på livet» med Anne Lindmo og Nina Brochmann",
       "description": "Torsdag 10. september\nkl. 19.00",
       "date": "2026-09-10",
       "time": "12:00",
@@ -241,8 +241,8 @@
       "categories": [
         "familie"
       ],
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17917-oppskrift-pa-ekstase-med-anne-lindmo-og-nina-brochmann/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17917-oppskrift-pa-ekstase-med-anne-lindmo-og-nina-brochmann/?ref=hvaSkjerIByenMin",
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17917-lyst-pa-livet-med-anne-lindmo-og-nina-brochmann/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17917-lyst-pa-livet-med-anne-lindmo-og-nina-brochmann/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -486,7 +486,7 @@
     {
       "id": "scrape-gen-eva-joly-tillit-og-samhold-i-en-urolig-t-2026-09-22",
       "title": "Eva Joly – Tillit og samhold i en urolig tid",
-      "description": "Tirsdag 22. september\nkl. 19.00",
+      "description": "Få billetter igjen",
       "date": "2026-09-22",
       "time": "12:00",
       "endTime": null,
@@ -792,7 +792,7 @@
     {
       "id": "scrape-gen-dolly-style-2026-10-10",
       "title": "Dolly Style",
-      "description": "Lørdag 10. oktober\nkl. 18.00",
+      "description": "Få billetter igjen",
       "date": "2026-10-10",
       "time": "12:00",
       "endTime": null,
@@ -2222,6 +2222,25 @@
       "source": "scrape"
     },
     {
+      "id": "scrape-gen-rundt-et-flygel-schumann-schubert-og-bra-2027-04-21",
+      "title": "Rundt et flygel – Schumann, Schubert og Brahms",
+      "description": "Onsdag 21. april 2027\nkl. 19.00",
+      "date": "2027-04-21",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17669-rundt-et-flygel-schumann-schubert-og-brahms/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17669-rundt-et-flygel-schumann-schubert-og-brahms/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
       "id": "scrape-gen-kulturkaf-arne-benoni-2027-04-22",
       "title": "Kulturkafé – Arne Benoni",
       "description": "Torsdag 22. april 2027\nkl. 12.00",
@@ -2243,12 +2262,12 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 117,
-    "fetchedAt": "2026-08-07T06:07:43.132Z",
+    "count": 118,
+    "fetchedAt": "2026-08-08T05:40:52.264Z",
     "sources": {
       "ticketmaster": 0,
       "eventbrite": 0,
-      "scrape": 117
+      "scrape": 118
     }
   }
 }

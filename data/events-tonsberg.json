@@ -191,6 +191,25 @@
       "source": "ticketmaster"
     },
     {
+      "id": "tm-Z698xZb_Z1k4VFfav",
+      "title": "Amplifying History - A conversation with Christopher Juul",
+      "description": "The Viking village is a joint effort between the reenactors and the festival. Together we give \"the civilians\" a whole new experience, in this mix of history and music. We, the festival, take care of infrastructure, safety, regulations and routines -- you will be your beautiful selves. Either you are just present, with your tent and your historical clothes, or you also add your handcraft/skills to your presence. Either way, both our jobs is to make this experience a good one -- for all. With this great opportunity comes great responsibility. If the camp coordinators find that you to violate this missions safety or positivity, you will lose your right to stay in the camp. HC companion: No ticket needed. For more information see www.midgardsblot.no og Facebook",
+      "date": "2026-08-14",
+      "time": "12:00",
+      "endTime": null,
+      "location": "Børsen, Horten",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/amplifying-history-a-conversation-with-christopher-juul-tickets/574214241?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/amplifying-history-a-conversation-with-christopher-juul-tickets/574214241?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/461/5b441f73-9549-4214-9f1f-0475aae20461_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎭",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
       "id": "tm-Z698xZb_Z16vvz_Pbs",
       "title": "Midgardsblot - Friday Pass",
       "description": "Midgardsblot 2026 -- Where Metal Meets Myth August 14, 2026 -- at the historic Borre Park and Midgard Vikingsenter, Horten. Set among Viking burial mounds by the Oslofjord, Midgardsblot is more than a festival -- it's a journey into the heart of Norse heritage. A Festival Beyond Music Over four unforgettable days, Midgardsblot unites extreme metal, folk, and experimental sounds with ancient traditions and Viking culture. The result is an atmosphere like no other -- a celebration that bridges the past and present. Immerse Yourself in Viking History Opening blót ritual to honor the old gods and set the tone. Viking village & market with crafts, food, and living history. Live battle reenactments and demonstrations by Viking warriors. Guided tours of Borre's burial mounds and exhibitions at the Vikingsenter. Midgard Talks -- daily lectures and panels on archaeology, history, and Norse tradition. Beachside festival camp for the full Midgardsblot experience. Family-Friendly & Inclusive No age limit -- families are welcome. Children under 12 free with a paying adult. Ages 16+ may attend independently. Accessible grounds and facilities. HC Companion: Free with valid documentation No age limit Arrangørens nettside Artistens nettside For more information see www.midgardsblot.no og Facebook",
@@ -326,10 +345,10 @@
   ],
   "meta": {
     "city": "tonsberg",
-    "count": 17,
-    "fetchedAt": "2026-08-07T06:07:53.783Z",
+    "count": 18,
+    "fetchedAt": "2026-08-08T05:41:02.871Z",
     "sources": {
-      "ticketmaster": 20,
+      "ticketmaster": 21,
       "eventbrite": 0,
       "scrape": 0
     }
