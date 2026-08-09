@@ -1,26 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z16vQZuxQ8",
-      "title": "Organ Recital with Johannes Zeinler",
-      "description": "Johannes Zeinler (Vienna, Austria), organ Works by Muffat, Grigny, Martin, Mozart, Schönberg and Bach. Dear friends of organ music, Welcome to Oslo Cathedral and this year's summer concert series! Over the course of 15 Saturdays from July to October, we invite you to festive and diverse concerts featuring organists from both Norway and abroad. Each concert has its own distinct character, reflecting the musical background and tradition of the guest performer. During the summer months, when everyday life tends to slow down and time feels more spacious, we wish to present a rich and varied musical program on our cathedral organ, built in 1998 by the Norwegian organ builder Ryde & Berg. We are committed to making organ music accessible to as many people as possible. Please feel free to take the program with you, share it with friends and family, and invite someone along to a concert. Admission is always free for children and students. We look forward to seeing you at Oslo Cathedral and wish you a joyful and inspiring summer! Marcus André Berg and Tjark Pinne Organists of Oslo Cathedral. Accessibility: Oslo Cathedral has dedicated wheelchair spaces in the south transept. Companions enter free of charge upon presenting a companion certificate. Oslo Cathedral has a ramp and an elevator for step-free access. Please arrive at the main entrance, and our staff will guide you to the wheelchair entrance. A wheelchair-accessible restroom is available by the main entrance. For questions; please call Oslo Cathedral, phone: +47 23629010",
-      "date": "2026-08-08",
-      "time": "12:00",
-      "endTime": null,
-      "location": "Oslo domkirke, Oslo",
-      "categories": [
-        "konsert",
-        "familie"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/organ-recital-with-johannes-zeinler-tickets/1680362690?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/organ-recital-with-johannes-zeinler-tickets/1680362690?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/b1f/49bea55b-5aa7-40a3-b16b-88b52fa22b1f_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z1k4ebwG3",
       "title": "Masterwork recital - Grieg/Rachmaninoff recital",
       "description": "Arrangement på Kampen Kirke, Oslo, Oslo",
@@ -944,12 +924,32 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kxKkAaS",
+      "title": "Chuck Ragan",
+      "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's.",
+      "date": "2026-09-14",
+      "time": "19:00",
+      "endTime": null,
+      "location": "John Dee, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/chuck-ragan-tickets/893185273?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/chuck-ragan-tickets/893185273?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/f4f/d355dba5-1e18-4664-87c2-7f7dd2a47f4f_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 48,
-    "fetchedAt": "2026-08-08T05:40:46.595Z",
+    "fetchedAt": "2026-08-09T05:45:06.194Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,
