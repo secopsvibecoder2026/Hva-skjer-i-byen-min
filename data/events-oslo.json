@@ -1,25 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z1k4ebwG3",
-      "title": "Masterwork recital - Grieg/Rachmaninoff recital",
-      "description": "Arrangement på Kampen Kirke, Oslo, Oslo",
-      "date": "2026-08-09",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Kampen Kirke, Oslo, Oslo",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/masterwork-recital-grieg-rachmaninoff-recital-tickets/542632312?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/masterwork-recital-grieg-rachmaninoff-recital-tickets/542632312?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/426/de51a23a-e20c-4ec2-91d3-3a13d3c87426_SOURCE",
-      "imageEmoji": "🎭",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z1k7a_VPa",
       "title": "Øyanatt: Dancing The Conga",
       "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's.",
@@ -944,12 +925,31 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16v8tudrd",
+      "title": "Alessandro Cortini",
+      "description": "Arrangement på Rockefeller, Oslo",
+      "date": "2026-09-16",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Rockefeller, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/alessandro-cortini-tickets/1429343783?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/alessandro-cortini-tickets/1429343783?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/496/5e27b1a5-64f3-48ae-bfdd-47756f19e496_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 48,
-    "fetchedAt": "2026-08-09T05:45:06.194Z",
+    "fetchedAt": "2026-08-10T06:09:08.319Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,
