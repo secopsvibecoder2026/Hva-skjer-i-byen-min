@@ -2,7 +2,7 @@
   "events": [
     {
       "id": "tm-Z698xZb_Z1k7a_VPa",
-      "title": "Øyanatt: Dancing The Conga",
+      "title": "Øyanatt: Dancing The Conga + special guest: EDEL",
       "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's.",
       "date": "2026-08-13",
       "time": "22:30",
@@ -12,8 +12,8 @@
         "konsert",
         "uteliv"
       ],
-      "ticketUrl": "https://www.ticketmaster.no/event/yanatt-dancing-the-conga-tickets/109674949?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/yanatt-dancing-the-conga-tickets/109674949?language=en-us&ref=hvaSkjerIByenMin",
+      "ticketUrl": "https://www.ticketmaster.no/event/yanatt-dancing-the-conga--special-guest-edel-tickets/109674949?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/yanatt-dancing-the-conga--special-guest-edel-tickets/109674949?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/a/401/5aba1951-acb1-4dda-b5b0-5ce2ee45a401_SOURCE",
       "imageEmoji": "🎵",
       "sponsored": false,
@@ -949,7 +949,7 @@
   "meta": {
     "city": "oslo",
     "count": 48,
-    "fetchedAt": "2026-08-10T06:09:08.319Z",
+    "fetchedAt": "2026-08-11T05:52:32.662Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,

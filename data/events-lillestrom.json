@@ -4,7 +4,7 @@
       "id": "scrape-gen-gi-bort-en-opplevelse--",
       "title": "Gi bort en opplevelse!",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-08-11",
+      "date": "2026-08-12",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -23,7 +23,7 @@
       "id": "scrape-gen-last-ned-v-r-app-",
       "title": "Last ned vår app",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-08-11",
+      "date": "2026-08-12",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -772,7 +772,7 @@
     {
       "id": "scrape-gen-dolly-style-2026-10-10",
       "title": "Dolly Style",
-      "description": "Få billetter igjen",
+      "description": "Lørdag 10. oktober\nkl. 18.00",
       "date": "2026-10-10",
       "time": "12:00",
       "endTime": null,
@@ -1258,6 +1258,25 @@
       ],
       "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17372-odd-nordstoga-for-du-gar/",
       "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17372-odd-nordstoga-for-du-gar/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-sandshowet-askepott-et-eventyr-i-lys-og--2026-11-07",
+      "title": "Sandshowet «Askepott» – Et eventyr i lys og sand",
+      "description": "Lørdag 7. november\nkl. 14.00",
+      "date": "2026-11-07",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17707-sandshowet-askepott-et-eventyr-i-lys-og-sand/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17707-sandshowet-askepott-et-eventyr-i-lys-og-sand/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -1972,6 +1991,25 @@
       "source": "scrape"
     },
     {
+      "id": "scrape-gen-ta-telling-med-elling-per-christian-elle-2027-01-22",
+      "title": "Ta telling med Elling – Per Christian Ellefsen og Tom Stalsberg",
+      "description": "Fredag 22. januar 2027\nkl. 19.00",
+      "date": "2027-01-22",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/18125-ta-telling-med-elling-per-christian-ellefsen-og-tom-stalsberg/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/18125-ta-telling-med-elling-per-christian-ellefsen-og-tom-stalsberg/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
       "id": "scrape-gen--queen-the-golden-years-1975-1976-med-ge-2027-01-22",
       "title": "«Queen – The golden years 1975-1976» med Åge Sten Nilsen",
       "description": "Fredag 22. januar 2027\nkl. 19.00",
@@ -2242,12 +2280,12 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 117,
-    "fetchedAt": "2026-08-10T06:09:11.792Z",
+    "count": 119,
+    "fetchedAt": "2026-08-11T05:52:37.462Z",
     "sources": {
       "ticketmaster": 0,
       "eventbrite": 0,
-      "scrape": 117
+      "scrape": 119
     }
   }
 }
