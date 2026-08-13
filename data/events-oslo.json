@@ -187,12 +187,12 @@
       "endTime": null,
       "location": "Hangaren, Fornebu",
       "categories": [
-        "familie"
+        "konsert"
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/klobb-ka2-tickets/1712991450?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/klobb-ka2-tickets/1712991450?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/e/220/a06b080c-1130-4779-92f0-cad4864ad220_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎭",
+      "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
@@ -949,7 +949,7 @@
   "meta": {
     "city": "oslo",
     "count": 48,
-    "fetchedAt": "2026-08-12T06:12:10.148Z",
+    "fetchedAt": "2026-08-13T06:14:38.407Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,

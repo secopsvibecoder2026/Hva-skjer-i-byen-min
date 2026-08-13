@@ -1,44 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z16vkvvzjP",
-      "title": "Midgardsblot - Wednesday Pass",
-      "description": "Midgardsblot 2026 -- Where Metal Meets Myth August 12, 2026 -- at the historic Borre Park and Midgard Vikingsenter, Horten. Please note that access to Blot ceremony only for 4-day pass holder. Set among Viking burial mounds by the Oslofjord, Midgardsblot is more than a festival -- it's a journey into the heart of Norse heritage. A Festival Beyond Music Over four unforgettable days, Midgardsblot unites extreme metal, folk, and experimental sounds with ancient traditions and Viking culture. The result is an atmosphere like no other -- a celebration that bridges the past and present. Immerse Yourself in Viking History Opening blót ritual to honor the old gods and set the tone. Viking village & market with crafts, food, and living history. Live battle reenactments and demonstrations by Viking warriors. Guided tours of Borre's burial mounds and exhibitions at the Vikingsenter. Midgard Talks -- daily lectures and panels on archaeology, history, and Norse tradition. Beachside festival camp for the full Midgardsblot experience. Family-Friendly & Inclusive No age limit -- families are welcome. Children under 12 free with a paying adult. Ages 16+ may attend independently. Accessible grounds and facilities. HC Companion: Free with valid documentation No age limit Arrangørens nettside Artistens nettside For more information see www.midgardsblot.no og Facebook",
-      "date": "2026-08-12",
-      "time": "09:00",
-      "endTime": null,
-      "location": "Midgard Vikingsenter, Horten",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/midgardsblot-wednesday-pass-tickets/1181078725?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/midgardsblot-wednesday-pass-tickets/1181078725?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/461/5b441f73-9549-4214-9f1f-0475aae20461_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16v-AZ3bk",
-      "title": "Saga Oseberg",
-      "description": "Join us for a unique rowing trip with Saga Oseberg during Midgardsblot 2026. Saga Oseberg is a full-scale reconstruction of the Oseberg ship, offering guests the chance to experience Viking history up close from the sea. The trip lasts approximately 2 hours. Age limit: No age restriction HC Companion: No ticket needed. Accessible for wheelchair: No Parking available: Yes For more information see www.midgardsblot.no og Facebook",
-      "date": "2026-08-12",
-      "time": "11:00",
-      "endTime": null,
-      "location": "Midgard Vikingsenter, Horten",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/saga-oseberg-tickets/1845012606?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/saga-oseberg-tickets/1845012606?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/461/5b441f73-9549-4214-9f1f-0475aae20461_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z16v8p0Iv8",
       "title": "Vestfold Viking Tour",
       "description": "Explore the rich Viking history of Vestfold during Midgardsblot with author, historian, and Vestfold native Thor. Join us for a guided journey through some of Norway's most important Viking Age sites and experience the landscapes, burial mounds, and trading centers that shaped the Viking world. This tour is designed as a historical extension of the Midgardsblot experience --- giving festival guests the opportunity to explore the real history behind the music, culture, and atmosphere of Vestfold. Arrangementstidspunkt/konsertstart : 11:00 Dørene åpner : 30 min før Varighet : 240 min Aldersgrense : Ingen aldersgrense Ledsager : Som ordinær pris Rullestol : Nei Parkeringsmuligheter : Nei No age limit HC companion: same price as standard admission. Arrangørens nettside Artistens nettside For more information see www.midgardsblot.no og Facebook",
@@ -288,10 +250,10 @@
   ],
   "meta": {
     "city": "tonsberg",
-    "count": 15,
-    "fetchedAt": "2026-08-12T06:12:32.509Z",
+    "count": 13,
+    "fetchedAt": "2026-08-13T06:14:51.719Z",
     "sources": {
-      "ticketmaster": 18,
+      "ticketmaster": 16,
       "eventbrite": 0,
       "scrape": 0
     }
