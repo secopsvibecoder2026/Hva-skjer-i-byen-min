@@ -1,45 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z16vxkq8FJ",
-      "title": "Jaga Jazzist og Kristiansand Symfoniorkester",
-      "description": "Arrangement på Sentrum Scene, Oslo",
-      "date": "2026-08-14",
-      "time": "18:30",
-      "endTime": null,
-      "location": "Sentrum Scene, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/jaga-jazzist-og-kristiansand-symfoniorkester-tickets/1886750226?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/jaga-jazzist-og-kristiansand-symfoniorkester-tickets/1886750226?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/b64/ffdb21f2-abcc-4b12-83b7-dd9e94343b64_TABLET_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z1kvkvIZV",
-      "title": "Øyanatt: Fred Soila",
-      "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's.",
-      "date": "2026-08-14",
-      "time": "22:00",
-      "endTime": null,
-      "location": "John Dee, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/yanatt-fred-soila-tickets/46068034?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/yanatt-fred-soila-tickets/46068034?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/401/5aba1951-acb1-4dda-b5b0-5ce2ee45a401_SOURCE",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z1koV7Fka",
       "title": "Organ recital with Jon Martin Høie",
       "description": "Jon Martin Høie (Drammen), organ. Works by Bach, Eftestøl, Vierne and Guilmant. Dear friends of organ music, Welcome to Oslo Cathedral and this year's summer concert series! Over the course of 15 Saturdays from July to October, we invite you to festive and diverse concerts featuring organists from both Norway and abroad. Each concert has its own distinct character, reflecting the musical background and tradition of the guest performer. During the summer months, when everyday life tends to slow down and time feels more spacious, we wish to present a rich and varied musical program on our cathedral organ, built in 1998 by the Norwegian organ builder Ryde & Berg. We are committed to making organ music accessible to as many people as possible. Please feel free to take the program with you, share it with friends and family, and invite someone along to a concert. Admission is always free for children and students. We look forward to seeing you at Oslo Cathedral and wish you a joyful and inspiring summer! Marcus André Berg and Tjark Pinne Organists of Oslo Cathedral. Accessibility: Oslo Cathedral has dedicated wheelchair spaces in the south transept. Companions enter free of charge upon presenting a companion certificate. Oslo Cathedral has a ramp and an elevator for step-free access. Please arrive at the main entrance, and our staff will guide you to the wheelchair entrance. A wheelchair-accessible restroom is available by the main entrance. For questions; please call Oslo Cathedral, phone: +47 23629010",
@@ -944,12 +905,52 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kGoofqO",
+      "title": "RSP & Thomax m/Trivselsmaskinen",
+      "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's.",
+      "date": "2026-09-18",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Rockefeller, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/rsp--thomax-m-trivselsmaskinen-tickets/311454760?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/rsp--thomax-m-trivselsmaskinen-tickets/311454760?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/be4/64581a82-e41c-46c0-b329-1768ffefdbe4_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kOS8xa7",
+      "title": "Fluffy Lovin 3.0",
+      "description": "Arrangement på Rockefeller, Oslo",
+      "date": "2026-09-18",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Rockefeller, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/fluffy-lovin-30-tickets/833422244?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/fluffy-lovin-30-tickets/833422244?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/805/dad16874-4f22-4f00-852b-810ab2a31805_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 48,
-    "fetchedAt": "2026-08-14T06:11:57.646Z",
+    "fetchedAt": "2026-08-15T05:22:05.759Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,

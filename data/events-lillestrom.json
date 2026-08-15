@@ -4,7 +4,7 @@
       "id": "scrape-gen-gi-bort-en-opplevelse--",
       "title": "Gi bort en opplevelse!",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-08-15",
+      "date": "2026-08-16",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -23,7 +23,7 @@
       "id": "scrape-gen-last-ned-v-r-app-",
       "title": "Last ned vår app",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-08-15",
+      "date": "2026-08-16",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -715,7 +715,7 @@
     {
       "id": "scrape-gen-halvor-johansson-det-er-lov-pr-ve-seg-2026-10-09",
       "title": "Halvor Johansson – Det er lov å prøve seg",
-      "description": "Få billetter igjen",
+      "description": "Utsolgt",
       "date": "2026-10-09",
       "time": "12:00",
       "endTime": null,
@@ -772,7 +772,7 @@
     {
       "id": "scrape-gen-dolly-style-2026-10-10",
       "title": "Dolly Style",
-      "description": "Lørdag 10. oktober\nkl. 18.00",
+      "description": "Få billetter igjen",
       "date": "2026-10-10",
       "time": "12:00",
       "endTime": null,
@@ -2281,7 +2281,7 @@
   "meta": {
     "city": "lillestrom",
     "count": 119,
-    "fetchedAt": "2026-08-14T06:12:03.626Z",
+    "fetchedAt": "2026-08-15T05:22:17.073Z",
     "sources": {
       "ticketmaster": 0,
       "eventbrite": 0,
