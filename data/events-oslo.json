@@ -1,46 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z1koV7Fka",
-      "title": "Organ recital with Jon Martin Høie",
-      "description": "Jon Martin Høie (Drammen), organ. Works by Bach, Eftestøl, Vierne and Guilmant. Dear friends of organ music, Welcome to Oslo Cathedral and this year's summer concert series! Over the course of 15 Saturdays from July to October, we invite you to festive and diverse concerts featuring organists from both Norway and abroad. Each concert has its own distinct character, reflecting the musical background and tradition of the guest performer. During the summer months, when everyday life tends to slow down and time feels more spacious, we wish to present a rich and varied musical program on our cathedral organ, built in 1998 by the Norwegian organ builder Ryde & Berg. We are committed to making organ music accessible to as many people as possible. Please feel free to take the program with you, share it with friends and family, and invite someone along to a concert. Admission is always free for children and students. We look forward to seeing you at Oslo Cathedral and wish you a joyful and inspiring summer! Marcus André Berg and Tjark Pinne Organists of Oslo Cathedral. Accessibility: Oslo Cathedral has dedicated wheelchair spaces in the south transept. Companions enter free of charge upon presenting a companion certificate. Oslo Cathedral has a ramp and an elevator for step-free access. Please arrive at the main entrance, and our staff will guide you to the wheelchair entrance. A wheelchair-accessible restroom is available by the main entrance. For questions; please call Oslo Cathedral, phone: +47 23629010",
-      "date": "2026-08-15",
-      "time": "12:00",
-      "endTime": null,
-      "location": "Oslo domkirke, Oslo",
-      "categories": [
-        "konsert",
-        "familie"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/organ-recital-with-jon-martin-hoie-tickets/474108189?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/organ-recital-with-jon-martin-hoie-tickets/474108189?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/563/c85bbff6-c5f6-47f8-b859-2798bde64563_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z1k1_8yOS",
-      "title": "Fagernes Yacht Klubb",
-      "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's.",
-      "date": "2026-08-15",
-      "time": "22:00",
-      "endTime": null,
-      "location": "Sentrum Scene, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/fagernes-yacht-klubb-tickets/299439833?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/fagernes-yacht-klubb-tickets/299439833?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/401/5aba1951-acb1-4dda-b5b0-5ce2ee45a401_SOURCE",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z1kazvOO0",
       "title": "Pet Shop Boys",
       "description": "Ticket Information: - Maximum 6 tickets per person. - Bottles, cans, and laser pointers are prohibited inside the concert area. Tickets will be available as mobile tickets (QR codes) via the Ticketmaster app and your user account well in advance of the concert (about 30 days). Learn more about delayed delivery of admission passes here. Tickets for Wheel chairs and companions Use public transportation to Unity Arena. Visit unityarena.no or ruter.no for travel options. For more details about the concert, artists, and entry times, visit unityarena.no or livenation.no. Schedule: - Box Office opens: TBA - Doors open: 18:00 - Concert starts: TBA General Information: The organizer reserves the right to deny entry to individuals who refuse personal inspection (this may include a body search and baggage check). See unityarena.no for details about prohibited items. Ejected individuals are not entitled to a ticket refund. There is no minimum age for the concert, but children under 15 must be accompanied by an adult (as per the Police Act in Bærum Municipality).",
@@ -945,12 +905,50 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18QEE65-71fCUAZDor",
+      "title": "Deepthroat Diaré, Sloss & Våghals // Parksalongen",
+      "description": "Arrangement på Oslo",
+      "date": "2026-09-18",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/deepthroat-diare-sloss-vaghals-parksalongen-tickets-GB6FQ0?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/deepthroat-diare-sloss-vaghals-parksalongen-tickets-GB6FQ0?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://images.universe.com/fd6ae2be-8e87-4d17-93b8-5e7c683540e6/-/format/jpeg/-/scale_crop/1024x576/center/-/progressive/yes/-/inline/yes/",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1k3kaPoU",
+      "title": "Infected Mushroom",
+      "description": "Arrangement på Sentrum Scene, Oslo",
+      "date": "2026-09-18",
+      "time": "21:00",
+      "endTime": null,
+      "location": "Sentrum Scene, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/infected-mushroom-tickets/486265476?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/infected-mushroom-tickets/486265476?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/28b/47077537-dca3-46f0-a04b-ba624176528b_TABLET_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 48,
-    "fetchedAt": "2026-08-15T05:22:05.759Z",
+    "fetchedAt": "2026-08-16T05:25:43.487Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,
