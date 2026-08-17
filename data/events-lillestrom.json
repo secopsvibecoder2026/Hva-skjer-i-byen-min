@@ -1,10 +1,29 @@
 {
   "events": [
     {
+      "id": "scrape-gen-kulturstiftelsen-visyn-presenterer-forte-2026-08-18",
+      "title": "Kulturstiftelsen Visyn presenterer – Fortellingen om Lillestrøm kommune",
+      "description": "18. aug. – 19. aug.\n2 forestillinger",
+      "date": "2026-08-18",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/18108-kulturstiftelsen-visyn-presenterer-fortellingen-om-lillestrom-kommune/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/18108-kulturstiftelsen-visyn-presenterer-fortellingen-om-lillestrom-kommune/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
       "id": "scrape-gen-gi-bort-en-opplevelse--",
       "title": "Gi bort en opplevelse!",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-08-17",
+      "date": "2026-08-18",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -23,7 +42,7 @@
       "id": "scrape-gen-last-ned-v-r-app-",
       "title": "Last ned vår app",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-08-17",
+      "date": "2026-08-18",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -32,25 +51,6 @@
       ],
       "ticketUrl": "https://www.lillestrom-kultursenter.no/app/",
       "affiliateUrl": "https://www.lillestrom-kultursenter.no/app/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
-      "id": "scrape-gen-kulturstiftelsen-visyn-presenterer-forte-2026-08-18",
-      "title": "Kulturstiftelsen Visyn presenterer – Fortellingen om Lillestrøm kommune",
-      "description": "18. aug. – 19. aug.\n2 forestillinger",
-      "date": "2026-08-18",
-      "time": "12:00",
-      "endTime": null,
-      "location": "lillestrom-kultursenter.no",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/18108-kulturstiftelsen-visyn-presenterer-fortellingen-om-lillestrom-kommune/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/18108-kulturstiftelsen-visyn-presenterer-fortellingen-om-lillestrom-kommune/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -2281,7 +2281,7 @@
   "meta": {
     "city": "lillestrom",
     "count": 119,
-    "fetchedAt": "2026-08-16T05:25:49.832Z",
+    "fetchedAt": "2026-08-17T05:32:56.303Z",
     "sources": {
       "ticketmaster": 0,
       "eventbrite": 0,
