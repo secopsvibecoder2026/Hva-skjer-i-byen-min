@@ -753,7 +753,7 @@
     {
       "id": "tm-Z698xZb_Z1k14r_vz",
       "title": "Megan Moroney",
-      "description": "Arrangement på Sentrum Scene, Oslo",
+      "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's. Read the organizer's terms of purchase here. See www.rockefeller.no for the complete program.. Practical information about the concerts can be found here. The nearest transport hub is Storgata and/or Jernbanetorget. See ruter.no for more info.",
       "date": "2026-09-13",
       "time": "19:00",
       "endTime": null,
@@ -948,7 +948,7 @@
   "meta": {
     "city": "oslo",
     "count": 48,
-    "fetchedAt": "2026-08-17T05:32:49.272Z",
+    "fetchedAt": "2026-08-18T05:26:18.222Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,
