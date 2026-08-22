@@ -3,7 +3,7 @@
     {
       "id": "tm-Z698xZb_Z16v_VZM_a",
       "title": "Oktoberfest Hamar 2026 | FREDAG",
-      "description": "Arrangement på Vikingskipet, Hamar",
+      "description": "Fredag: Dørene åpner 1700 DJ Trang Fødsel 1830 Los Mexicanacas 2030 DJ Loveshack 2230",
       "date": "2026-10-09",
       "time": "17:00",
       "endTime": null,
@@ -22,18 +22,18 @@
     {
       "id": "tm-Z698xZb_Z16v_g4Ar7",
       "title": "Oktoberfest 2026 | HELGEPASS",
-      "description": "Arrangement på Vikingskipet, Hamar",
+      "description": "Norges største Oktoberfest er tilbake! Aldersgrense : 20 Ledsager : Full pris Bevegelseshemmede : Ja Parkeringsmuligheter : Nei",
       "date": "2026-10-10",
       "time": "00:00",
       "endTime": null,
       "location": "Vikingskipet, Hamar",
       "categories": [
-        "konsert"
+        "familie"
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/oktoberfest-2026-%7C-helgepass-tickets/1675545784?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/oktoberfest-2026-%7C-helgepass-tickets/1675545784?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/e/994/c6fffa95-49d7-4268-8240-60765472d994_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎪",
+      "imageEmoji": "🎭",
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
@@ -41,7 +41,7 @@
     {
       "id": "tm-Z698xZb_Z16vqwjFa4",
       "title": "Oktoberfest Hamar 2026 | LØRDAG",
-      "description": "Arrangement på Vikingskipet, Hamar",
+      "description": "Lørdag: Dørene åpner 1600 DJ Loveshack 1800 DJ Loveshack 1930-2030 Petter Katastrofe/Staysman (Tidspunkt kommer senere)",
       "date": "2026-10-10",
       "time": "16:00",
       "endTime": null,
@@ -61,7 +61,7 @@
   "meta": {
     "city": "hamar",
     "count": 3,
-    "fetchedAt": "2026-08-21T05:30:11.547Z",
+    "fetchedAt": "2026-08-22T05:24:51.074Z",
     "sources": {
       "ticketmaster": 3,
       "eventbrite": 0,

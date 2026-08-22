@@ -1,10 +1,10 @@
 {
   "events": [
     {
-      "id": "scrape-gen-da-verden-kom-til-lillestr-m-2026-08-21",
+      "id": "scrape-gen-da-verden-kom-til-lillestr-m-2026-08-22",
       "title": "Da verden kom til Lillestrøm",
-      "description": "21. aug. – 30. aug.\n7 forestillinger",
-      "date": "2026-08-21",
+      "description": "22. aug. – 30. aug.\n6 forestillinger",
+      "date": "2026-08-22",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -42,7 +42,7 @@
       "id": "scrape-gen-gi-bort-en-opplevelse--",
       "title": "Gi bort en opplevelse!",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -61,7 +61,7 @@
       "id": "scrape-gen-last-ned-v-r-app-",
       "title": "Last ned vår app",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -118,7 +118,7 @@
     {
       "id": "scrape-gen-f-r-jeg-v-kner-2026-09-05",
       "title": "Før jeg våkner",
-      "description": "Lørdag 5. september\nkl. 17.00",
+      "description": "Utsolgt",
       "date": "2026-09-05",
       "time": "12:00",
       "endTime": null,
@@ -581,7 +581,7 @@
     {
       "id": "scrape-gen-dragbingo-med-ivana-impeachum-2026-09-26",
       "title": "Dragbingo med Ivana Impeachum",
-      "description": "Lørdag 26. september\nkl. 19.00",
+      "description": "Få billetter igjen",
       "date": "2026-09-26",
       "time": "12:00",
       "endTime": null,
@@ -677,7 +677,7 @@
     {
       "id": "scrape-gen--ystein-sunde-med-hurra-meg-rundt-i-80-2026-10-07",
       "title": "Øystein Sunde med HURRA-meg-RUNDT i 80",
-      "description": "Onsdag 7. oktober\nkl. 19.00",
+      "description": "Få billetter igjen",
       "date": "2026-10-07",
       "time": "12:00",
       "endTime": null,
@@ -1781,7 +1781,7 @@
     {
       "id": "scrape-gen-v-r-jul-2026-2026-12-04",
       "title": "Vår jul 2026",
-      "description": "Fredag 4. desember\nkl. 17.30",
+      "description": "Fre. 4. des.\n2 forestillinger",
       "date": "2026-12-04",
       "time": "12:00",
       "endTime": null,
@@ -2022,6 +2022,25 @@
       ],
       "ticketUrl": "https://www.lillestrom-kultursenter.no/program/15649-swinging-christmas/",
       "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/15649-swinging-christmas/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-sn-s-steren-2026-12-20",
+      "title": "Snøsøsteren",
+      "description": "Søn. 20. des.\n2 forestillinger",
+      "date": "2026-12-20",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/18122-snososteren/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/18122-snososteren/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -2394,12 +2413,12 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 125,
-    "fetchedAt": "2026-08-21T05:30:01.016Z",
+    "count": 126,
+    "fetchedAt": "2026-08-22T05:24:41.013Z",
     "sources": {
       "ticketmaster": 0,
       "eventbrite": 0,
-      "scrape": 125
+      "scrape": 127
     }
   }
 }
