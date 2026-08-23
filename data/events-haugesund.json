@@ -1,29 +1,9 @@
 {
-  "events": [
-    {
-      "id": "haugesund-2",
-      "title": "Norsk Filmfestival 2026",
-      "description": "Årets norske spillefilmer, dokumentarer og kortfilmer konkurrerer om Amanda-statuetten. Visninger, debatter og møter med norske filmfolk.",
-      "date": "2026-08-22",
-      "time": "10:00",
-      "endTime": "23:00",
-      "location": "Haugesund Kino og sentrum, Haugesund",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://www.filmfestivalen.no",
-      "affiliateUrl": "https://www.filmfestivalen.no/billetter?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎬",
-      "sponsored": false,
-      "featured": false,
-      "source": "local"
-    }
-  ],
+  "events": [],
   "meta": {
     "city": "haugesund",
-    "count": 1,
-    "fetchedAt": "2026-08-07T06:07:56.311Z",
+    "count": 0,
+    "fetchedAt": "2026-08-23T05:27:08.712Z",
     "sources": {
       "ticketmaster": 0,
       "eventbrite": 0,
