@@ -13,7 +13,7 @@
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/nidarave-2026-tickets/684928814?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/nidarave-2026-tickets/684928814?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/611/5ba7d1f9-04f7-425d-baca-025a8190b611_RETINA_LANDSCAPE_16_9.jpg",
+      "imageUrl": "https://s1.ticketm.net/dam/e/1ca/7dcf9a9b-835f-4979-a37c-cc86a048f1ca_TABLET_LANDSCAPE_16_9.jpg",
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -43,7 +43,7 @@
   "meta": {
     "city": "trondheim",
     "count": 2,
-    "fetchedAt": "2026-08-23T05:26:50.807Z",
+    "fetchedAt": "2026-08-24T05:35:55.150Z",
     "sources": {
       "ticketmaster": 2,
       "eventbrite": 0,

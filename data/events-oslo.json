@@ -1,26 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z1kGN19rf",
-      "title": "Masterwork recital - Grieg/Rachmaninoff recital",
-      "description": "Arrangement på Kampen Kirke, Oslo, Oslo",
-      "date": "2026-08-23",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Kampen Kirke, Oslo, Oslo",
-      "categories": [
-        "konsert",
-        "familie"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/masterwork-recital-grieg-rachmaninoff-recital-tickets/323297794?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/masterwork-recital-grieg-rachmaninoff-recital-tickets/323297794?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/426/de51a23a-e20c-4ec2-91d3-3a13d3c87426_SOURCE",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z16vagbUba",
       "title": "The Neighbourhood: THE WOURLD TOUR",
       "description": "Doors: 18:00 / 6PM Max 6 tickets per order For more information about the concert, artists, entry times, etc. unityarena.no Transport Use public transportation to Unity Arena. See unityarena.no or ruter.no for public transport option. Buyer beware: all meet and greet packages for sale are fraudulent. The artist loves meeting his fans but does not put these items for sale anywhere. Wheel Chair/ Companion Tickets for Wheel chairs and companions General information The organizer reserves the right to deny entry to individuals who refuse a personal search (This may include a body search and inspection of any luggage) Additional info unityarena.no For more information about items that are not allowed inside the arena. Persons who are removed have no right to a refund of ticket expenses. There is no minimum age for the concert, but children under 15 must be accompanied by an adult (as per the Police Act in Bærum Municipality).",
@@ -965,12 +945,31 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16eZ3uVJ_",
+      "title": "Bo Kaspers Orkester",
+      "description": "Arrangement på Sentrum Scene, Oslo",
+      "date": "2026-09-29",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Sentrum Scene, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/bo-kaspers-orkester-tickets/2012374999?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/bo-kaspers-orkester-tickets/2012374999?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/15f/0e854812-978c-4fb6-8afd-7c4867b8815f_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 49,
-    "fetchedAt": "2026-08-23T05:26:48.871Z",
+    "fetchedAt": "2026-08-24T05:35:53.251Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,
