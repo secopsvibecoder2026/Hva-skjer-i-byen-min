@@ -4,7 +4,7 @@
       "id": "scrape-gen-gi-bort-en-opplevelse--",
       "title": "Gi bort en opplevelse!",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -23,7 +23,7 @@
       "id": "scrape-gen-last-ned-v-r-app-",
       "title": "Last ned vår app",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -173,25 +173,6 @@
       "source": "scrape"
     },
     {
-      "id": "scrape-gen--lyst-p-livet-med-anne-lindmo-og-nina-br-2026-09-10",
-      "title": "«Lyst på livet» med Anne Lindmo og Nina Brochmann",
-      "description": "Torsdag 10. september\nkl. 19.00",
-      "date": "2026-09-10",
-      "time": "12:00",
-      "endTime": null,
-      "location": "lillestrom-kultursenter.no",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17917-lyst-pa-livet-med-anne-lindmo-og-nina-brochmann/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17917-lyst-pa-livet-med-anne-lindmo-og-nina-brochmann/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
       "id": "scrape-gen-adam-douglas-2026-09-10",
       "title": "Adam Douglas",
       "description": "Torsdag 10. september\nkl. 19.00",
@@ -204,6 +185,25 @@
       ],
       "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17581-adam-douglas/",
       "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17581-adam-douglas/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen--lyst-p-livet-med-anne-lindmo-og-nina-br-2026-09-10",
+      "title": "«Lyst på livet» med Anne Lindmo og Nina Brochmann",
+      "description": "Torsdag 10. september\nkl. 19.00",
+      "date": "2026-09-10",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17917-lyst-pa-livet-med-anne-lindmo-og-nina-brochmann/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17917-lyst-pa-livet-med-anne-lindmo-og-nina-brochmann/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -715,7 +715,7 @@
     {
       "id": "scrape-gen-halvor-johansson-det-er-lov-pr-ve-seg-2026-10-09",
       "title": "Halvor Johansson – Det er lov å prøve seg",
-      "description": "Utsolgt",
+      "description": "Få billetter igjen",
       "date": "2026-10-09",
       "time": "12:00",
       "endTime": null,
@@ -772,7 +772,7 @@
     {
       "id": "scrape-gen-dolly-style-2026-10-10",
       "title": "Dolly Style",
-      "description": "Få billetter igjen",
+      "description": "Utsolgt",
       "date": "2026-10-10",
       "time": "12:00",
       "endTime": null,
@@ -1239,6 +1239,25 @@
       ],
       "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17218-swan-lake-symphony-of-lights/",
       "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17218-swan-lake-symphony-of-lights/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-j-run-b-gebergs-ql-quartet-med-trond-bje-2026-11-04",
+      "title": "Jørun Bøgebergs QL Quartet med Trond Bjerknæs",
+      "description": "Onsdag 4. november\nkl. 19.30",
+      "date": "2026-11-04",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17959-jorun-bogebergs-ql-quartet-med-trond-bjerknaes/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17959-jorun-bogebergs-ql-quartet-med-trond-bjerknaes/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -2394,12 +2413,12 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 125,
-    "fetchedAt": "2026-08-24T05:35:58.756Z",
+    "count": 126,
+    "fetchedAt": "2026-08-25T05:29:15.626Z",
     "sources": {
       "ticketmaster": 0,
       "eventbrite": 0,
-      "scrape": 126
+      "scrape": 127
     }
   }
 }
