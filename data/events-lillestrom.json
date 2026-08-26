@@ -1,10 +1,29 @@
 {
   "events": [
     {
+      "id": "scrape-gen-da-verden-kom-til-lillestr-m-2026-08-27",
+      "title": "Da verden kom til Lillestrøm",
+      "description": "27. aug. – 30. aug.\n4 forestillinger",
+      "date": "2026-08-27",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16907-da-verden-kom-til-lillestrom/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16907-da-verden-kom-til-lillestrom/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
       "id": "scrape-gen-gi-bort-en-opplevelse--",
       "title": "Gi bort en opplevelse!",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-08-26",
+      "date": "2026-08-27",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -23,7 +42,7 @@
       "id": "scrape-gen-last-ned-v-r-app-",
       "title": "Last ned vår app",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-08-26",
+      "date": "2026-08-27",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -32,25 +51,6 @@
       ],
       "ticketUrl": "https://www.lillestrom-kultursenter.no/app/",
       "affiliateUrl": "https://www.lillestrom-kultursenter.no/app/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
-      "id": "scrape-gen-da-verden-kom-til-lillestr-m-2026-08-27",
-      "title": "Da verden kom til Lillestrøm",
-      "description": "27. aug. – 30. aug.\n4 forestillinger",
-      "date": "2026-08-27",
-      "time": "12:00",
-      "endTime": null,
-      "location": "lillestrom-kultursenter.no",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16907-da-verden-kom-til-lillestrom/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16907-da-verden-kom-til-lillestrom/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -194,7 +194,7 @@
     {
       "id": "scrape-gen--lyst-p-livet-med-anne-lindmo-og-nina-br-2026-09-10",
       "title": "«Lyst på livet» med Anne Lindmo og Nina Brochmann",
-      "description": "Torsdag 10. september\nkl. 19.00",
+      "description": "Få billetter igjen",
       "date": "2026-09-10",
       "time": "12:00",
       "endTime": null,
@@ -772,7 +772,7 @@
     {
       "id": "scrape-gen-dolly-style-2026-10-10",
       "title": "Dolly Style",
-      "description": "Utsolgt",
+      "description": "Få billetter igjen",
       "date": "2026-10-10",
       "time": "12:00",
       "endTime": null,
@@ -2335,6 +2335,25 @@
       "source": "scrape"
     },
     {
+      "id": "scrape-gen-iselin-guttormsen-kommer-2027-04-02",
+      "title": "Iselin Guttormsen – Kommer",
+      "description": "Fredag 2. april 2027\nkl. 18.30",
+      "date": "2027-04-02",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17825-iselin-guttormsen-kommer/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17825-iselin-guttormsen-kommer/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
       "id": "scrape-gen-the-johnny-cash-june-carter-show-2027-04-02",
       "title": "The Johnny Cash & June Carter Show",
       "description": "Fredag 2. april 2027\nkl. 20.00",
@@ -2413,12 +2432,12 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 126,
-    "fetchedAt": "2026-08-25T05:29:15.626Z",
+    "count": 127,
+    "fetchedAt": "2026-08-26T05:32:16.363Z",
     "sources": {
       "ticketmaster": 0,
       "eventbrite": 0,
-      "scrape": 127
+      "scrape": 128
     }
   }
 }

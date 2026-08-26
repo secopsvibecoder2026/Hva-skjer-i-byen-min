@@ -13,7 +13,7 @@
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/drammen-metalfest-tickets/1359044128?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/drammen-metalfest-tickets/1359044128?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/eca/e5cb1fa7-f151-4a52-9422-a6eb3c428eca_TABLET_LANDSCAPE_16_9.jpg",
+      "imageUrl": "https://s1.ticketm.net/dam/e/986/db88d6ed-1d2f-45db-8bb4-494e69430986_RETINA_PORTRAIT_16_9.jpg",
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -33,7 +33,7 @@
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/drammen-metalfest-tickets/2097132197?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/drammen-metalfest-tickets/2097132197?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/755/3ca7a3ac-d564-43b0-bc62-af2081d5f755_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageUrl": "https://s1.ticketm.net/dam/a/9aa/29dfb60d-2e3c-4972-9d9c-1a11e64799aa_TABLET_LANDSCAPE_16_9.jpg",
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -43,7 +43,7 @@
   "meta": {
     "city": "drammen",
     "count": 2,
-    "fetchedAt": "2026-08-25T05:29:19.029Z",
+    "fetchedAt": "2026-08-26T05:32:19.623Z",
     "sources": {
       "ticketmaster": 2,
       "eventbrite": 0,

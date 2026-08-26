@@ -112,7 +112,7 @@
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/beyond-the-gates-xv-4-day-festival-pass-gold-tickets/1758961517?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/beyond-the-gates-xv-4-day-festival-pass-gold-tickets/1758961517?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/aef/0a51cec7-c1ad-4ecc-81cf-882cf2dd5aef_TABLET_LANDSCAPE_16_9.jpg",
+      "imageUrl": "https://s1.ticketm.net/dam/a/882/64e07d9b-e5e9-45a5-a054-b5e8c64bc882_TABLET_LANDSCAPE_16_9.jpg",
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -122,7 +122,7 @@
   "meta": {
     "city": "bergen",
     "count": 6,
-    "fetchedAt": "2026-08-25T05:29:10.328Z",
+    "fetchedAt": "2026-08-26T05:32:09.996Z",
     "sources": {
       "ticketmaster": 6,
       "eventbrite": 0,
