@@ -23,7 +23,7 @@
       "id": "scrape-gen-gi-bort-en-opplevelse--",
       "title": "Gi bort en opplevelse!",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -42,7 +42,7 @@
       "id": "scrape-gen-last-ned-v-r-app-",
       "title": "Last ned vår app",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -349,7 +349,7 @@
     {
       "id": "scrape-gen-koht-h-p-og-glede-2026-09-18",
       "title": "Koht, håp og glede",
-      "description": "Fredag 18. september\nkl. 19.00",
+      "description": "Få billetter igjen",
       "date": "2026-09-18",
       "time": "12:00",
       "endTime": null,
@@ -1533,7 +1533,7 @@
     {
       "id": "scrape-gen-viljeskallen-petter-northug-i-samtale-me-2026-11-18",
       "title": "Viljeskallen – Petter Northug i samtale med Thor Gotaas",
-      "description": "Onsdag 18. november\nkl. 19.00",
+      "description": "Få billetter igjen",
       "date": "2026-11-18",
       "time": "12:00",
       "endTime": null,
@@ -2433,7 +2433,7 @@
   "meta": {
     "city": "lillestrom",
     "count": 127,
-    "fetchedAt": "2026-08-26T05:32:16.363Z",
+    "fetchedAt": "2026-08-27T16:05:28.935Z",
     "sources": {
       "ticketmaster": 0,
       "eventbrite": 0,

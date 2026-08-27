@@ -1,25 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z1kos4kvF",
-      "title": "HERBERNFEST 100 - ÅRS JUBILEUM",
-      "description": "Liten festival med CC Cowboys, Amund Maarud, Bare Folk, Signe Gjessing med flere. Varighet : 240 min Servering : Mat: Egen festivalmeny levert av Lille Herbern Øl / Vin/ Mineralvann Aldersgrense : 6 Ledsager : Som ordinær pris Adkomst : Buss 30 Bygdøy og ferge fra Rådhuskaia - Vi vil tilby gratis ferje til og fra festivalen! Rullestol : Nei Parkeringsmuligheter : Nei Arrangørens nettside",
-      "date": "2026-08-27",
-      "time": "18:00",
-      "endTime": null,
-      "location": "Lille Herbern, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/herbernfest-100-ars-jubileum-tickets/471546048?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/herbernfest-100-ars-jubileum-tickets/471546048?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/73e/07debe3c-d9db-4467-90f9-32c8a4ba873e_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z16ev08S0f",
       "title": "Vassendgutane",
       "description": "Arrangement på Rockefeller, Oslo",
@@ -960,12 +941,31 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vjybOjF",
+      "title": "Bo Kaspers Orkester",
+      "description": "Arrangement på Sentrum Scene, Oslo",
+      "date": "2026-10-02",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Sentrum Scene, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/bo-kaspers-orkester-tickets/1739620708?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/bo-kaspers-orkester-tickets/1739620708?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/c7f/a17c5863-cfb3-4af8-84c6-c4ee503f1c7f_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 49,
-    "fetchedAt": "2026-08-26T05:32:10.691Z",
+    "fetchedAt": "2026-08-27T16:05:23.749Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,

@@ -47,12 +47,12 @@
       "endTime": null,
       "location": "Vikingskipet, Hamar",
       "categories": [
-        "konsert"
+        "familie"
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/oktoberfest-hamar-2026-%7C-lrdag-tickets/1772708255?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/oktoberfest-hamar-2026-%7C-lrdag-tickets/1772708255?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/e/e52/069c1eb6-8805-47d6-adf4-33d01932ae52_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎪",
+      "imageEmoji": "🎭",
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
@@ -61,7 +61,7 @@
   "meta": {
     "city": "hamar",
     "count": 3,
-    "fetchedAt": "2026-08-26T05:32:30.009Z",
+    "fetchedAt": "2026-08-27T16:05:38.043Z",
     "sources": {
       "ticketmaster": 3,
       "eventbrite": 0,
