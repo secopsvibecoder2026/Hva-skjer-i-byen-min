@@ -1,26 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z16ev08S0f",
-      "title": "Vassendgutane",
-      "description": "Arrangement på Rockefeller, Oslo",
-      "date": "2026-08-28",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Rockefeller, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/vassendgutane-tickets/2064433914?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/vassendgutane-tickets/2064433914?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/4ce/ee6933c9-06eb-4c01-a3b6-6b77560694ce_TABLET_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z1k16O9FE",
       "title": "Vassendgutane Etterfest m/ Ole & Gorm",
       "description": "The event has an 20-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's.",
@@ -129,12 +109,13 @@
       "endTime": null,
       "location": "Oslo Spektrum, Oslo",
       "categories": [
-        "familie"
+        "familie",
+        "barn"
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/norwegian-military-tattoo-tickets/337262982?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/norwegian-military-tattoo-tickets/337262982?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/b2e/27598d9c-4bad-449d-af05-72e56b6a4b2e_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎭",
+      "imageUrl": "https://s1.ticketm.net/dam/a/2cc/7d2679e0-d17b-4cf2-a325-7ed093b562cc_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎪",
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
@@ -168,12 +149,13 @@
       "endTime": null,
       "location": "Oslo Spektrum, Oslo",
       "categories": [
-        "familie"
+        "familie",
+        "barn"
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/norwegian-military-tattoo-tattoo-exclusive-tickets/1033081606?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/norwegian-military-tattoo-tattoo-exclusive-tickets/1033081606?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/b2e/27598d9c-4bad-449d-af05-72e56b6a4b2e_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎭",
+      "imageUrl": "https://s1.ticketm.net/dam/a/2cc/7d2679e0-d17b-4cf2-a325-7ed093b562cc_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎪",
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
@@ -231,7 +213,7 @@
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/norwegian-military-tattoo-tickets/265270490?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/norwegian-military-tattoo-tickets/265270490?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/b2e/27598d9c-4bad-449d-af05-72e56b6a4b2e_RETINA_PORTRAIT_16_9.jpg",
+      "imageUrl": "https://s1.ticketm.net/dam/a/2cc/7d2679e0-d17b-4cf2-a325-7ed093b562cc_RETINA_PORTRAIT_16_9.jpg",
       "imageEmoji": "🎭",
       "sponsored": false,
       "featured": false,
@@ -246,13 +228,12 @@
       "endTime": null,
       "location": "Oslo Spektrum, Oslo",
       "categories": [
-        "familie",
-        "barn"
+        "familie"
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/norwegian-military-tattoo-tattoo-exclusive-tickets/1560413400?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/norwegian-military-tattoo-tattoo-exclusive-tickets/1560413400?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/b2e/27598d9c-4bad-449d-af05-72e56b6a4b2e_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎪",
+      "imageUrl": "https://s1.ticketm.net/dam/a/2cc/7d2679e0-d17b-4cf2-a325-7ed093b562cc_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎭",
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
@@ -266,12 +247,13 @@
       "endTime": null,
       "location": "Oslo Spektrum, Oslo",
       "categories": [
-        "familie"
+        "familie",
+        "barn"
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/norwegian-military-tattoo-tickets/2088228690?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/norwegian-military-tattoo-tickets/2088228690?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/b2e/27598d9c-4bad-449d-af05-72e56b6a4b2e_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎭",
+      "imageUrl": "https://s1.ticketm.net/dam/a/2cc/7d2679e0-d17b-4cf2-a325-7ed093b562cc_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎪",
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
@@ -960,12 +942,31 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kaVx_Gf",
+      "title": "Home Free: Highways & High Seas Tour",
+      "description": "Arrangement på Oslo Spektrum, Oslo",
+      "date": "2026-10-02",
+      "time": "19:30",
+      "endTime": null,
+      "location": "Oslo Spektrum, Oslo",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/home-free-highways--high-seas-tour-tickets/274899314?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/home-free-highways--high-seas-tour-tickets/274899314?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/e49/147ee232-34bd-4ea9-8eb3-1275be197e49_TABLET_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎭",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 49,
-    "fetchedAt": "2026-08-27T16:05:23.749Z",
+    "fetchedAt": "2026-08-28T17:09:12.878Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,

@@ -1,10 +1,10 @@
 {
   "events": [
     {
-      "id": "scrape-gen-da-verden-kom-til-lillestr-m-2026-08-27",
+      "id": "scrape-gen-da-verden-kom-til-lillestr-m-2026-08-28",
       "title": "Da verden kom til Lillestrøm",
-      "description": "27. aug. – 30. aug.\n4 forestillinger",
-      "date": "2026-08-27",
+      "description": "28. aug. – 30. aug.\n3 forestillinger",
+      "date": "2026-08-28",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -13,44 +13,6 @@
       ],
       "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16907-da-verden-kom-til-lillestrom/",
       "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16907-da-verden-kom-til-lillestrom/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
-      "id": "scrape-gen-gi-bort-en-opplevelse--",
-      "title": "Gi bort en opplevelse!",
-      "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-08-28",
-      "time": "12:00",
-      "endTime": null,
-      "location": "lillestrom-kultursenter.no",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/gavekort/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/gavekort/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
-      "id": "scrape-gen-last-ned-v-r-app-",
-      "title": "Last ned vår app",
-      "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-08-28",
-      "time": "12:00",
-      "endTime": null,
-      "location": "lillestrom-kultursenter.no",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/app/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/app/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -71,6 +33,44 @@
       ],
       "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17541-barnas-teaterlordag-cirkus-antero/",
       "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17541-barnas-teaterlordag-cirkus-antero/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-gi-bort-en-opplevelse--",
+      "title": "Gi bort en opplevelse!",
+      "description": "Arrangement i lillestrom-kultursenter.no",
+      "date": "2026-08-29",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/gavekort/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/gavekort/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-last-ned-v-r-app-",
+      "title": "Last ned vår app",
+      "description": "Arrangement i lillestrom-kultursenter.no",
+      "date": "2026-08-29",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/app/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/app/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -772,7 +772,7 @@
     {
       "id": "scrape-gen-dolly-style-2026-10-10",
       "title": "Dolly Style",
-      "description": "Få billetter igjen",
+      "description": "Utsolgt",
       "date": "2026-10-10",
       "time": "12:00",
       "endTime": null,
@@ -1533,7 +1533,7 @@
     {
       "id": "scrape-gen-viljeskallen-petter-northug-i-samtale-me-2026-11-18",
       "title": "Viljeskallen – Petter Northug i samtale med Thor Gotaas",
-      "description": "Få billetter igjen",
+      "description": "Onsdag 18. november\nkl. 19.00",
       "date": "2026-11-18",
       "time": "12:00",
       "endTime": null,
@@ -1620,6 +1620,25 @@
       ],
       "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17546-barnas-teaterlordag-nar-alle-sover/",
       "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17546-barnas-teaterlordag-nar-alle-sover/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-jule-lkveld-med-espen-lothe-fra-kinn-bry-2026-11-21",
+      "title": "Juleølkveld med Espen Lothe fra Kinn Bryggeri",
+      "description": "Lørdag 21. november\nkl. 14.00",
+      "date": "2026-11-21",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17873-juleolkveld-med-espen-lothe-fra-kinn-bryggeri/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17873-juleolkveld-med-espen-lothe-fra-kinn-bryggeri/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -2432,12 +2451,12 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 127,
-    "fetchedAt": "2026-08-27T16:05:28.935Z",
+    "count": 128,
+    "fetchedAt": "2026-08-28T17:09:19.332Z",
     "sources": {
       "ticketmaster": 0,
       "eventbrite": 0,
-      "scrape": 128
+      "scrape": 129
     }
   }
 }
