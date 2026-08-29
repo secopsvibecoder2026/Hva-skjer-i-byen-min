@@ -1,46 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z1k16O9FE",
-      "title": "Vassendgutane Etterfest m/ Ole & Gorm",
-      "description": "The event has an 20-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's.",
-      "date": "2026-08-28",
-      "time": "21:30",
-      "endTime": null,
-      "location": "John Dee, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/vassendgutane-etterfest-m-ole--gorm-tickets/287817227?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/vassendgutane-etterfest-m-ole--gorm-tickets/287817227?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/4ce/ee6933c9-06eb-4c01-a3b6-6b77560694ce_TABLET_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z1ko_Ptjw",
-      "title": "Organ recital with Marcus André Berg",
-      "description": "Marcus André Berg, organ. Works by Sandvold, Bach, Bossi and improvisation. Dear friends of organ music, Welcome to Oslo Cathedral and this year's summer concert series! Over the course of 15 Saturdays from July to October, we invite you to festive and diverse concerts featuring organists from both Norway and abroad. Each concert has its own distinct character, reflecting the musical background and tradition of the guest performer. During the summer months, when everyday life tends to slow down and time feels more spacious, we wish to present a rich and varied musical program on our cathedral organ, built in 1998 by the Norwegian organ builder Ryde & Berg. We are committed to making organ music accessible to as many people as possible. Please feel free to take the program with you, share it with friends and family, and invite someone along to a concert. Admission is always free for children and students. We look forward to seeing you at Oslo Cathedral and wish you a joyful and inspiring summer! Marcus André Berg and Tjark Pinne Organists of Oslo Cathedral. Accessibility: Oslo Cathedral has dedicated wheelchair spaces in the south transept. Companions enter free of charge upon presenting a companion certificate. Oslo Cathedral has a ramp and an elevator for step-free access. Please arrive at the main entrance, and our staff will guide you to the wheelchair entrance. A wheelchair-accessible restroom is available by the main entrance. For questions; please call Oslo Cathedral, phone: +47 23629010",
-      "date": "2026-08-29",
-      "time": "12:00",
-      "endTime": null,
-      "location": "Oslo domkirke, Oslo",
-      "categories": [
-        "konsert",
-        "familie"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/organ-recital-with-marcus-andre-berg-tickets/459969732?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/organ-recital-with-marcus-andre-berg-tickets/459969732?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/a11/9dd7f26c-b2b6-4dc0-88fc-3f4d16c64a11_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z1k8EQ7v7",
       "title": "No. 4 - Fri alder",
       "description": "Arrangement på Rockefeller, Oslo",
@@ -961,12 +921,51 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kqkjFf3",
+      "title": "Organ recital with Anne Laver",
+      "description": "Anne Laver (Syracuse, USA), organ. Works by Buxtehude, Bjørneboe, Draper, Bach, Chee and Rogg. Dear friends of organ music, Welcome to Oslo Cathedral and this year's summer concert series! Over the course of 15 Saturdays from July to October, we invite you to festive and diverse concerts featuring organists from both Norway and abroad. Each concert has its own distinct character, reflecting the musical background and tradition of the guest performer. During the summer months, when everyday life tends to slow down and time feels more spacious, we wish to present a rich and varied musical program on our cathedral organ, built in 1998 by the Norwegian organ builder Ryde & Berg. We are committed to making organ music accessible to as many people as possible. Please feel free to take the program with you, share it with friends and family, and invite someone along to a concert. Admission is always free for children and students. We look forward to seeing you at Oslo Cathedral and wish you a joyful and inspiring summer! Marcus André Berg and Tjark Pinne Organists of Oslo Cathedral. Accessibility: Oslo Cathedral has dedicated wheelchair spaces in the south transept. Companions enter free of charge upon presenting a companion certificate. Oslo Cathedral has a ramp and an elevator for step-free access. Please arrive at the main entrance, and our staff will guide you to the wheelchair entrance. A wheelchair-accessible restroom is available by the main entrance. For questions; please call Oslo Cathedral, phone: +47 23629010",
+      "date": "2026-10-03",
+      "time": "12:00",
+      "endTime": null,
+      "location": "Oslo domkirke, Oslo",
+      "categories": [
+        "konsert",
+        "familie"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/organ-recital-with-anne-laver-tickets/746708512?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/organ-recital-with-anne-laver-tickets/746708512?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/9ce/0c126c9c-bcee-423b-95d4-1158271689ce_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vCoatua",
+      "title": "Knut Bry 80 years!",
+      "description": "We're celebrating Knut's 80 young and wonderful years on the very day, 3rd of October 2026, from 18:00--24:00. Join us for an evening filled with great food and music (from several of Knut's musical friends), wonderful people, and a memorable celebration of our one and only Knut! Trond Moi will be serving Knut's favourite meal --- his world-famous fish soup! You will get a drink upon arrival, other beverages can be purchased at the bars throughout the rest of the evening. You received a \"Save the Date\" this spring, and the response has been overwhelming! Now it's time to book your ticket! Date: 3rd October 2026 Time: 18:00--24:00 Venue: Carls Arena, Carl Berners plass, Trondheimsveien. 113 Dress code: Whatever you feel like wearing to celebrate Knut. Tickets: Ticketmaster (max. two per invitation) The ticket price is NOK 550 per person, which covers the costs of the event. Your place is only secured once the ticket has been purchased. There are limited tickets available, so it's first come, first served! Seating is unreserved, but if you need a reserved seat or are bringing guests under the age of 18, please get in touch. WELCOME TO A BRYSK EVENING! Questions or special requirements? tina@tinagent.no and/or kirsten.thorseth.poppe@gmail.com",
+      "date": "2026-10-03",
+      "time": "18:00",
+      "endTime": null,
+      "location": "Carls - Arena, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/knut-bry-80-years-tickets/1391269349?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/knut-bry-80-years-tickets/1391269349?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/5d1/7f200761-e5bd-42b0-8e3f-cefa896355d1_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 49,
-    "fetchedAt": "2026-08-28T17:09:12.878Z",
+    "fetchedAt": "2026-08-29T11:28:28.492Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,

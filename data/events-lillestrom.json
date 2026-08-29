@@ -1,25 +1,6 @@
 {
   "events": [
     {
-      "id": "scrape-gen-da-verden-kom-til-lillestr-m-2026-08-28",
-      "title": "Da verden kom til Lillestrøm",
-      "description": "28. aug. – 30. aug.\n3 forestillinger",
-      "date": "2026-08-28",
-      "time": "12:00",
-      "endTime": null,
-      "location": "lillestrom-kultursenter.no",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16907-da-verden-kom-til-lillestrom/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16907-da-verden-kom-til-lillestrom/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
       "id": "scrape-gen-barnas-teaterl-rdag-cirkus-antero-2026-08-29",
       "title": "Barnas teaterlørdag – Cirkus Antero",
       "description": "Lørdag 29. august\nkl. 13.00",
@@ -40,10 +21,29 @@
       "source": "scrape"
     },
     {
+      "id": "scrape-gen-da-verden-kom-til-lillestr-m-2026-08-29",
+      "title": "Da verden kom til Lillestrøm",
+      "description": "29. aug. – 30. aug.\n2 forestillinger",
+      "date": "2026-08-29",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16907-da-verden-kom-til-lillestrom/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16907-da-verden-kom-til-lillestrom/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
       "id": "scrape-gen-gi-bort-en-opplevelse--",
       "title": "Gi bort en opplevelse!",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -62,7 +62,7 @@
       "id": "scrape-gen-last-ned-v-r-app-",
       "title": "Last ned vår app",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -2452,7 +2452,7 @@
   "meta": {
     "city": "lillestrom",
     "count": 128,
-    "fetchedAt": "2026-08-28T17:09:19.332Z",
+    "fetchedAt": "2026-08-29T11:28:33.739Z",
     "sources": {
       "ticketmaster": 0,
       "eventbrite": 0,
