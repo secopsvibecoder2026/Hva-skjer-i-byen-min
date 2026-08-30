@@ -1,46 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z1k8EQ7v7",
-      "title": "No. 4 - Fri alder",
-      "description": "Arrangement på Rockefeller, Oslo",
-      "date": "2026-08-29",
-      "time": "17:00",
-      "endTime": null,
-      "location": "Rockefeller, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/no-4-fri-alder-tickets/427684044?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/no-4-fri-alder-tickets/427684044?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/0d0/b1bde65e-ca20-4944-a289-ea00d868c0d0_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z1k7batuo",
-      "title": "Martha Leivestad - «Faen då, Martha!»",
-      "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's.",
-      "date": "2026-08-29",
-      "time": "20:00",
-      "endTime": null,
-      "location": "Sentrum Scene, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/martha-leivestad-faen-da-martha-tickets/118269351?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/martha-leivestad-faen-da-martha-tickets/118269351?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/25e/ae7f6f03-7bb1-4b02-bb6e-5dc441ff825e_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z16vq6ZgJp",
       "title": "Ron Sexsmith",
       "description": "Arrangement på John Dee, Oslo",
@@ -960,12 +920,51 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vOEGM3o",
+      "title": "Tøyen Holding",
+      "description": "Arrangement på Rockefeller, Oslo",
+      "date": "2026-10-03",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Rockefeller, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/toyen-holding-tickets/1827337491?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/toyen-holding-tickets/1827337491?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/b51/e2c8cc4a-4e02-4096-988c-e58768470b51_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18Q_YXj6SEE8ZlwUpl",
+      "title": "Skov // DJ Sviskejus",
+      "description": "Arrangement på Oslo",
+      "date": "2026-10-03",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.universe.com/events/skov-dj-sviskejus-tickets-9P5X0L?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/skov-dj-sviskejus-tickets-9P5X0L?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/797/5e693c26-2881-4776-8f0c-3aa94bfa3797_106511_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 49,
-    "fetchedAt": "2026-08-29T11:28:28.492Z",
+    "fetchedAt": "2026-08-30T10:15:33.804Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,

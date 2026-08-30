@@ -1,30 +1,10 @@
 {
   "events": [
     {
-      "id": "scrape-gen-barnas-teaterl-rdag-cirkus-antero-2026-08-29",
-      "title": "Barnas teaterlørdag – Cirkus Antero",
-      "description": "Lørdag 29. august\nkl. 13.00",
-      "date": "2026-08-29",
-      "time": "12:00",
-      "endTime": null,
-      "location": "lillestrom-kultursenter.no",
-      "categories": [
-        "uteliv",
-        "barn"
-      ],
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17541-barnas-teaterlordag-cirkus-antero/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17541-barnas-teaterlordag-cirkus-antero/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
-      "id": "scrape-gen-da-verden-kom-til-lillestr-m-2026-08-29",
+      "id": "scrape-gen-da-verden-kom-til-lillestr-m-2026-08-30",
       "title": "Da verden kom til Lillestrøm",
-      "description": "29. aug. – 30. aug.\n2 forestillinger",
-      "date": "2026-08-29",
+      "description": "Søndag 30. august\nkl. 19.30",
+      "date": "2026-08-30",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -43,7 +23,7 @@
       "id": "scrape-gen-gi-bort-en-opplevelse--",
       "title": "Gi bort en opplevelse!",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-08-30",
+      "date": "2026-08-31",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -62,7 +42,7 @@
       "id": "scrape-gen-last-ned-v-r-app-",
       "title": "Last ned vår app",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-08-30",
+      "date": "2026-08-31",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -2451,12 +2431,12 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 128,
-    "fetchedAt": "2026-08-29T11:28:33.739Z",
+    "count": 127,
+    "fetchedAt": "2026-08-30T10:15:38.866Z",
     "sources": {
       "ticketmaster": 0,
       "eventbrite": 0,
-      "scrape": 129
+      "scrape": 128
     }
   }
 }
