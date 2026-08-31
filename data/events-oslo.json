@@ -1,26 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z16vq6ZgJp",
-      "title": "Ron Sexsmith",
-      "description": "Arrangement på John Dee, Oslo",
-      "date": "2026-08-30",
-      "time": "19:00",
-      "endTime": null,
-      "location": "John Dee, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/ron-sexsmith-tickets/1747035996?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/ron-sexsmith-tickets/1747035996?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/b89/8095e400-21d8-4285-aa23-0e6733154b89_TABLET_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z1kGMaxJe",
       "title": "Norwegian Military Tattoo",
       "description": "Arrangement på Oslo Spektrum, Oslo",
@@ -670,7 +650,7 @@
     {
       "id": "tm-Z698xZb_Z16vaxFSO0",
       "title": "Cover Me - a tribute to Bruce Springsteen",
-      "description": "Arrangement på Rockefeller, Oslo",
+      "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's. Read the organizer's terms of purchase here. See www.rockefeller.no for the complete program.. Practical information about the concerts can be found here. The nearest transport hub is Storgata and/or Jernbanetorget. See ruter.no for more info.",
       "date": "2026-09-19",
       "time": "19:00",
       "endTime": null,
@@ -681,7 +661,7 @@
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/cover-me-a-tribute-to-bruce-springsteen-tickets/1262233824?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/cover-me-a-tribute-to-bruce-springsteen-tickets/1262233824?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/d60/57584958-7c53-483f-a042-69cecbda3d60_TABLET_LANDSCAPE_16_9.jpg",
+      "imageUrl": "https://s1.ticketm.net/dam/e/d60/57584958-7c53-483f-a042-69cecbda3d60_SOURCE",
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -959,12 +939,31 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kJ_OUoP",
+      "title": "OLIVER TWIST - Koffers produksjoner",
+      "description": "OLIVER TWIST -- EN MUSIKAL SOM TREFFER HJERTET Den populære familiemusikalen OLIVER TWIST! har begeistret publikum verden over -- nå er det CHATEAU NEUF sin tur! KUN 8 FORESTILLINGER! Basert på Charles Dickens' udødelige fortelling byr musikalen på sterke følelser, gripende historier og uforglemmelige musikalske numre. Denne versjonen er en hyllest til de glemte barna -- de som lider i stillhet, uten noen som ser dem eller beskytter dem. OLIVER TWIST minner oss om hvor sårbar barndommen er, og hvor lett vi voksne kan overse tegn på ensomhet, mobbing og fortvilelse. Gjennom Oliver møter vi barnet i oss selv -- og i andre -- de som ble tvunget til å vokse opp altfor fort i 1800-tallets London. Produsent: Koffers Produksjoner Regi og koreografi: Patrick Svingholm Terndrup Prosjektleder: Gry Spone Musikalsk ansvarlig: Trine Bariås Originalversjon: AMR Produce (Spania) Manus og tekst: Pedro Villora Norsk oversettelse: Astrid Berg Hauge Oversatt fra spansk av: Victôria Fuster Arrangementstidspunkt/konsertstart : 18:00 Dørene åpner : 17:30 Varighet : 120 min Servering : Kiosk Aldersgrense : Ingen aldersgrense Ledsager : Full pris Adkomst : kollektivtransport til Majorstuen så tre min gange Bevegelseshemmede : Ja Parkeringsmuligheter : Nei Arrangørens nettside",
+      "date": "2026-10-05",
+      "time": "18:00",
+      "endTime": null,
+      "location": "Chateau Neuf,Storsalen, Oslo",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/oliver-twist-koffers-produksjoner-tickets/999836465?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/oliver-twist-koffers-produksjoner-tickets/999836465?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/ad0/1af3140b-2ab5-40eb-bb0d-deb35ec33ad0_SOURCE",
+      "imageEmoji": "🎭",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 49,
-    "fetchedAt": "2026-08-30T10:15:33.804Z",
+    "fetchedAt": "2026-08-31T11:20:53.273Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,

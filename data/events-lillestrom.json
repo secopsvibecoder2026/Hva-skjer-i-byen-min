@@ -1,29 +1,10 @@
 {
   "events": [
     {
-      "id": "scrape-gen-da-verden-kom-til-lillestr-m-2026-08-30",
-      "title": "Da verden kom til Lillestrøm",
-      "description": "Søndag 30. august\nkl. 19.30",
-      "date": "2026-08-30",
-      "time": "12:00",
-      "endTime": null,
-      "location": "lillestrom-kultursenter.no",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16907-da-verden-kom-til-lillestrom/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16907-da-verden-kom-til-lillestrom/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
       "id": "scrape-gen-gi-bort-en-opplevelse--",
       "title": "Gi bort en opplevelse!",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-08-31",
+      "date": "2026-09-01",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -42,7 +23,7 @@
       "id": "scrape-gen-last-ned-v-r-app-",
       "title": "Last ned vår app",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-08-31",
+      "date": "2026-09-01",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -308,8 +289,8 @@
       "source": "scrape"
     },
     {
-      "id": "scrape-gen-lillestr-m-smaksfestival-presenterer-vin-2026-09-17",
-      "title": "Lillestrøm Smaksfestival presenterer: Vinlandet Frankrike",
+      "id": "scrape-gen-lillestr-m-smaksfestival-presenterer-fer-2026-09-17",
+      "title": "Lillestrøm Smaksfestival presenterer: Fernando Mora MW.",
       "description": "Torsdag 17. september\nkl. 19.00",
       "date": "2026-09-17",
       "time": "12:00",
@@ -318,8 +299,8 @@
       "categories": [
         "konsert"
       ],
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17713-lillestrom-smaksfestival-presenterer-vinlandet-frankrike/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17713-lillestrom-smaksfestival-presenterer-vinlandet-frankrike/?ref=hvaSkjerIByenMin",
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17713-lillestrom-smaksfestival-presenterer-fernando-mora-mw/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17713-lillestrom-smaksfestival-presenterer-fernando-mora-mw/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -1397,8 +1378,8 @@
       "source": "scrape"
     },
     {
-      "id": "scrape-gen-kulturkaf-wwb-trio-2026-11-12",
-      "title": "Kulturkafé – WWB trio",
+      "id": "scrape-gen-kulturkaf-beranek-trio-2026-11-12",
+      "title": "Kulturkafé – Beranek trio",
       "description": "Torsdag 12. november\nkl. 12.00",
       "date": "2026-11-12",
       "time": "12:00",
@@ -1407,8 +1388,8 @@
       "categories": [
         "familie"
       ],
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16639-kulturkafe-wwb-trio/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16639-kulturkafe-wwb-trio/?ref=hvaSkjerIByenMin",
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16639-kulturkafe-beranek-trio/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16639-kulturkafe-beranek-trio/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -1513,7 +1494,7 @@
     {
       "id": "scrape-gen-viljeskallen-petter-northug-i-samtale-me-2026-11-18",
       "title": "Viljeskallen – Petter Northug i samtale med Thor Gotaas",
-      "description": "Onsdag 18. november\nkl. 19.00",
+      "description": "Få billetter igjen",
       "date": "2026-11-18",
       "time": "12:00",
       "endTime": null,
@@ -2431,12 +2412,12 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 127,
-    "fetchedAt": "2026-08-30T10:15:38.866Z",
+    "count": 126,
+    "fetchedAt": "2026-08-31T11:21:00.324Z",
     "sources": {
       "ticketmaster": 0,
       "eventbrite": 0,
-      "scrape": 128
+      "scrape": 127
     }
   }
 }

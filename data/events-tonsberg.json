@@ -78,6 +78,25 @@
       "source": "ticketmaster"
     },
     {
+      "id": "tm-Z698xZb_Z16vxo8gbe",
+      "title": "3 Year Festival pass Midgardsblot Metalfestival 2027 - 2028 - 2029",
+      "description": "Get your 3-year Blot Pass for 7.666,- NOK. We've released a very limited number of 100 special three-year Blot passes for 2027, 2028, and 2029, valid as a full Festival pass for all 3 years. Don't miss out! Compagnion : Free without ticket. Accessibility for people with reduced mobility: Yes Parking available: Yes For more information see www.midgardsblot.no and Facebook",
+      "date": "2027-08-18",
+      "time": "00:00",
+      "endTime": null,
+      "location": "Midgardsblot, Horten",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/3-year-festival-pass-midgardsblot-metalfestival-2027-2028-2029-tickets/1891435602?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/3-year-festival-pass-midgardsblot-metalfestival-2027-2028-2029-tickets/1891435602?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/461/5b441f73-9549-4214-9f1f-0475aae20461_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
       "id": "tm-Z698xZb_Z1k4FFvGo",
       "title": "Midgardsblot Festival Pass 2027",
       "description": "Midgardsblot 2027 -- Where Metal Meets Myth August 18--21, 2027 Borre Park and Midgard Vikingsenter, Horten, Norway Midgardsblot returns to the historic grounds of Borre, where Viking burial mounds, the Oslofjord, heavy music and ancient traditions meet. Set in one of Norway's most important Viking landscapes, Midgardsblot is more than a music festival. It is four days of metal, folk, rituals, history, fire, community and living heritage --- a gathering unlike any other. Join us at Borre for extreme metal, Nordic folk, experimental sounds, Viking culture, battle reenactments, storytelling, lectures, workshops, markets, rituals and the full Camp Utgard experience by the fjord. Experience Midgardsblot: Opening Blót ritual Extreme metal, folk and experimental music Viking village and market Living history, crafts and reenactment Viking battles and demonstrations Talks, storytelling and cultural program Festival camp by the Oslofjord Food, bars, merch and festival community Early Bird tickets are available now in a limited quantity. Get your ticket early and be part of the next chapter of the Blot. Event time / concert start: 14:00 Doors open: 14:00 Age limit: No age limit Companion: Free without ticket Accessibility: Yes Parking: Yes Compagnion : Free without ticket Accessibility for people with reduced mobility: Yes Parking available: Yes For more information see www.midgardsblot.no and Facebook",
@@ -99,10 +118,10 @@
   ],
   "meta": {
     "city": "tonsberg",
-    "count": 5,
-    "fetchedAt": "2026-08-30T10:15:47.291Z",
+    "count": 6,
+    "fetchedAt": "2026-08-31T11:21:12.371Z",
     "sources": {
-      "ticketmaster": 5,
+      "ticketmaster": 6,
       "eventbrite": 0,
       "scrape": 0
     }
