@@ -4,7 +4,7 @@
       "id": "scrape-gen-gi-bort-en-opplevelse--",
       "title": "Gi bort en opplevelse!",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -23,7 +23,7 @@
       "id": "scrape-gen-last-ned-v-r-app-",
       "title": "Last ned vår app",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -1954,7 +1954,7 @@
     {
       "id": "scrape-gen-for-v-r-jord-en-julekonsert-2026-12-17",
       "title": "For vår jord – en julekonsert",
-      "description": "Torsdag 17. desember\nkl. 19.00",
+      "description": "Få billetter igjen",
       "date": "2026-12-17",
       "time": "12:00",
       "endTime": null,
@@ -2413,7 +2413,7 @@
   "meta": {
     "city": "lillestrom",
     "count": 126,
-    "fetchedAt": "2026-08-31T11:21:00.324Z",
+    "fetchedAt": "2026-09-01T09:44:46.897Z",
     "sources": {
       "ticketmaster": 0,
       "eventbrite": 0,
