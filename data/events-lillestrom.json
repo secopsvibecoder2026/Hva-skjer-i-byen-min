@@ -4,7 +4,7 @@
       "id": "scrape-gen-gi-bort-en-opplevelse--",
       "title": "Gi bort en opplevelse!",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-09-02",
+      "date": "2026-09-03",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -23,7 +23,7 @@
       "id": "scrape-gen-last-ned-v-r-app-",
       "title": "Last ned vår app",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-09-02",
+      "date": "2026-09-03",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -2066,10 +2066,10 @@
       "source": "scrape"
     },
     {
-      "id": "scrape-gen-rundt-et-flygel-tine-thing-helseth-med-g-2027-01-20",
+      "id": "scrape-gen-rundt-et-flygel-tine-thing-helseth-med-g-2027-01-13",
       "title": "Rundt et flygel – Tine Thing Helseth med Gunnar Flagstad",
-      "description": "Onsdag 20. januar 2027\nkl. 19.00",
-      "date": "2027-01-20",
+      "description": "Onsdag 13. januar 2027\nkl. 19.00",
+      "date": "2027-01-13",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -2413,7 +2413,7 @@
   "meta": {
     "city": "lillestrom",
     "count": 126,
-    "fetchedAt": "2026-09-01T09:44:46.897Z",
+    "fetchedAt": "2026-09-02T09:17:35.520Z",
     "sources": {
       "ticketmaster": 0,
       "eventbrite": 0,
