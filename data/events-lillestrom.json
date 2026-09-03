@@ -1,10 +1,29 @@
 {
   "events": [
     {
+      "id": "scrape-gen-ina-wroldsen-2026-09-04",
+      "title": "Ina Wroldsen",
+      "description": "Fredag 4. september\nkl. 19.00",
+      "date": "2026-09-04",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16927-ina-wroldsen/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16927-ina-wroldsen/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
       "id": "scrape-gen-gi-bort-en-opplevelse--",
       "title": "Gi bort en opplevelse!",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-09-03",
+      "date": "2026-09-04",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -23,7 +42,7 @@
       "id": "scrape-gen-last-ned-v-r-app-",
       "title": "Last ned vår app",
       "description": "Arrangement i lillestrom-kultursenter.no",
-      "date": "2026-09-03",
+      "date": "2026-09-04",
       "time": "12:00",
       "endTime": null,
       "location": "lillestrom-kultursenter.no",
@@ -32,25 +51,6 @@
       ],
       "ticketUrl": "https://www.lillestrom-kultursenter.no/app/",
       "affiliateUrl": "https://www.lillestrom-kultursenter.no/app/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
-      "id": "scrape-gen-ina-wroldsen-2026-09-04",
-      "title": "Ina Wroldsen",
-      "description": "Fredag 4. september\nkl. 19.00",
-      "date": "2026-09-04",
-      "time": "12:00",
-      "endTime": null,
-      "location": "lillestrom-kultursenter.no",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16927-ina-wroldsen/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16927-ina-wroldsen/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -2199,6 +2199,25 @@
       "source": "scrape"
     },
     {
+      "id": "scrape-gen--finn-tre-feil-med-pernille-s-rensen-liv-2027-02-13",
+      "title": "«FINN TRE FEIL» med Pernille Sørensen, Live Nelvik og Kristine Riis",
+      "description": "Lørdag 13. februar 2027\nkl. 19.00",
+      "date": "2027-02-13",
+      "time": "12:00",
+      "endTime": null,
+      "location": "lillestrom-kultursenter.no",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17584-finn-tre-feil-med-pernille-sorensen-live-nelvik-og-kristine-riis/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17584-finn-tre-feil-med-pernille-sorensen-live-nelvik-og-kristine-riis/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
       "id": "scrape-gen-are-sende-osen-vikingtiden-fra-aaaah-til-2027-02-16",
       "title": "Are Sende Osen – Vikingtiden fra aaaah til ååååh",
       "description": "Tirsdag 16. februar 2027\nkl. 19.00",
@@ -2412,12 +2431,12 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 126,
-    "fetchedAt": "2026-09-02T09:17:35.520Z",
+    "count": 127,
+    "fetchedAt": "2026-09-03T09:27:26.327Z",
     "sources": {
       "ticketmaster": 0,
       "eventbrite": 0,
-      "scrape": 127
+      "scrape": 128
     }
   }
 }

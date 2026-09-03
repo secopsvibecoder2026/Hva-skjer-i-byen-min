@@ -5,7 +5,7 @@
       "title": "Drammen Metalfest // Festivalpass // Kometen",
       "description": "The 3rd edition of DMF is just around the corner! On September 18th and 19th, it all kicks off again in the basement of Kometen. Expect art, beer, love, hate, pizza, and of course a whole lot of heavy METAL!! Grab your limited Early Bird tickets now before they're gone!",
       "date": "2026-09-18",
-      "time": "18:00",
+      "time": "00:00",
       "endTime": null,
       "location": "Kometen, Drammen",
       "categories": [
@@ -24,7 +24,7 @@
   "meta": {
     "city": "drammen",
     "count": 1,
-    "fetchedAt": "2026-09-02T09:17:40.867Z",
+    "fetchedAt": "2026-09-03T09:27:29.572Z",
     "sources": {
       "ticketmaster": 1,
       "eventbrite": 0,
