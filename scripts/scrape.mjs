@@ -29,7 +29,7 @@ const CITIES = [
   "lillestrom", "aurskog-holand", "kristiansand", "tromso",
   "drammen", "fredrikstad", "alesund", "bodo", "hamar",
   "tonsberg", "moss", "haugesund", "sandefjord", "arendal",
-  "molde", "voss", "kongsberg",
+  "molde", "voss", "kongsberg", "larvik",
 ];
 
 await mkdir("data", { recursive: true });

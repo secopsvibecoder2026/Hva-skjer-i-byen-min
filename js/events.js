@@ -181,4 +181,5 @@ const CATEGORIES = [
   { id: "gratis",   label: "Gratis",           icon: "🆓" },
   { id: "konsert",  label: "Konsert / Uteliv", icon: "🎵" },
   { id: "barn",     label: "Barn",             icon: "🧒" },
+  { id: "uteliv",   label: "Uteliv",           icon: "🍸" },
 ];

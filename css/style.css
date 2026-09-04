@@ -33,6 +33,7 @@
   --color-gratis:       #7c3aed;
   --color-konsert:      #db2777;
   --color-barn:         #ea580c;
+  --color-uteliv:       #0891b2;
 
   /* Dato-gruppe-headere */
   --color-group-idag:   #dc2626;
@@ -815,6 +816,7 @@ a:hover { color: var(--color-primary-dk); }
 .badge--gratis  { background: var(--color-gratis); }
 .badge--konsert { background: var(--color-konsert); }
 .badge--barn    { background: var(--color-barn); }
+.badge--uteliv  { background: var(--color-uteliv); }
 
 /* Kortets handlingsfelt */
 .event-card__actions {

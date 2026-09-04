@@ -25,6 +25,33 @@ let selectedCities = [];            // forsiden: array av valgte by-IDer
 let loadGen        = 0;             // race condition guard
 
 /* ============================================================
+   SIKKERHET – ESCAPING AV EKSTERNE DATA
+   ============================================================
+   Arrangementsdata kommer fra Ticketmaster, Eventbrite og scraping
+   av tredjeparts nettsider. Alt slikt innhold MÅ escapes før det
+   settes inn med innerHTML, ellers kan en tittel som
+   <img src=x onerror=...> kjøre vilkårlig JavaScript på siden.
+   ============================================================ */
+
+const HTML_ESCAPES = { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" };
+
+/** Escaper tekst for trygg innsetting i HTML (og i attributtverdier) */
+function escapeHtml(value) {
+  return String(value ?? "").replace(/[&<>"']/g, (ch) => HTML_ESCAPES[ch]);
+}
+
+/**
+ * Returnerer URL-en kun hvis den er trygg å lenke til / laste.
+ * Blokkerer javascript:, data: og andre aktive skjemaer.
+ * @returns {string|null}
+ */
+function safeUrl(url) {
+  if (!url) return null;
+  const trimmed = String(url).trim();
+  return /^(https?:\/\/|\/|\.{1,2}\/)/i.test(trimmed) ? trimmed : null;
+}
+
+/* ============================================================
    DATO-HJELPERE
    ============================================================ */
 
@@ -34,24 +61,32 @@ function toDateStr(date) {
 }
 
 /**
- * Returner datostrenger for kommende helg (lørdag + søndag),
- * ekskludert idag og imorgen (de har egne grupper).
+ * Returner datostrenger for førstkommende helg (lørdag + søndag),
+ * ekskludert i dag og i morgen (de har egne grupper).
+ *
+ * Merk: kun DEN kommende helgen returneres. En løkke som bare samler
+ * "de to første helgedagene innen 8 dager" ville på en fredag hoppe over
+ * lørdag (= i morgen) og i stedet ta med neste ukes lørdag.
  */
 function getWeekendDateStrings() {
   const today = new Date();
+  today.setHours(0, 0, 0, 0);
+
+  const tomorrow = new Date(today);
+  tomorrow.setDate(today.getDate() + 1);
+
+  // Førstkommende lørdag (0 dager unna hvis i dag er lørdag)
+  const saturday = new Date(today);
+  saturday.setDate(today.getDate() + ((6 - today.getDay() + 7) % 7));
+  const sunday = new Date(saturday);
+  sunday.setDate(saturday.getDate() + 1);
+
   const todayStr    = toDateStr(today);
-  const tomorrow    = new Date(today); tomorrow.setDate(today.getDate() + 1);
   const tomorrowStr = toDateStr(tomorrow);
-  const result = [];
-  for (let i = 1; i <= 8; i++) {
-    const d = new Date(today); d.setDate(today.getDate() + i);
-    const ds = toDateStr(d);
-    if ((d.getDay() === 6 || d.getDay() === 0) && ds !== todayStr && ds !== tomorrowStr) {
-      result.push(ds);
-    }
-    if (result.length === 2) break;
-  }
-  return result;
+
+  return [saturday, sunday]
+    .map(toDateStr)
+    .filter((ds) => ds !== todayStr && ds !== tomorrowStr);
 }
 const WEEKEND_DATES = getWeekendDateStrings();
 
@@ -60,7 +95,10 @@ const WEEKEND_DATES = getWeekendDateStrings();
  * @returns {"idag"|"imorgen"|"helgen"|"uke"|"neste"|"senere"}
  */
 function getDateGroup(dateStr) {
-  const today    = new Date();
+  // Normaliser til midnatt – ellers blir diffDays under 1 for lite senere
+  // på dagen, og f.eks. et arrangement om 2 dager havner i "Senere".
+  const today = new Date();
+  today.setHours(0, 0, 0, 0);
   const tomorrow = new Date(today);
   tomorrow.setDate(today.getDate() + 1);
 
@@ -236,7 +274,7 @@ function eventMatches(event) {
     const inTitle    = event.title.toLowerCase().includes(q);
     const inDesc     = (event.description || "").toLowerCase().includes(q);
     const inLocation = (event.location || "").toLowerCase().includes(q);
-    const inCategory = event.categories.some((cat) => {
+    const inCategory = (event.categories || []).some((cat) => {
       const label = (CATEGORIES.find((c) => c.id === cat)?.label || cat).toLowerCase();
       return label.includes(q) || cat.includes(q);
     });
@@ -244,7 +282,7 @@ function eventMatches(event) {
   }
 
   if (activeFilters.size > 0) {
-    const hasAll = [...activeFilters].every((f) => event.categories.includes(f));
+    const hasAll = [...activeFilters].every((f) => (event.categories || []).includes(f));
     if (!hasAll) return false;
   }
 
@@ -266,30 +304,34 @@ function renderFeatured(events) {
 
   if (!featured) { container.innerHTML = ""; return; }
 
-  const href    = featured.affiliateUrl || featured.ticketUrl || "#";
-  const bgStyle = featured.imageUrl
-    ? `style="background-image: url('${featured.imageUrl}')"`
-    : `style="background: linear-gradient(135deg, #1e3a8a, #7c3aed)"`;
+  const href    = safeUrl(featured.affiliateUrl) || safeUrl(featured.ticketUrl);
+  const imgUrl  = safeUrl(featured.imageUrl);
 
   container.innerHTML = `
-    <a href="${href}" class="featured-card" target="${href !== "#" ? "_blank" : "_self"}" rel="noopener sponsored" aria-label="Fremhevet: ${featured.title}">
-      <div class="featured-card__bg" ${bgStyle}></div>
+    <a href="${escapeHtml(href || "#")}" class="featured-card" target="${href ? "_blank" : "_self"}" rel="noopener sponsored" aria-label="Fremhevet: ${escapeHtml(featured.title)}">
+      <div class="featured-card__bg"></div>
       <div class="featured-card__overlay"></div>
       <div class="featured-card__content">
         <div class="featured-card__badge">⭐ Fremhevet arrangement</div>
-        <h2 class="featured-card__title">${featured.title}</h2>
+        <h2 class="featured-card__title">${escapeHtml(featured.title)}</h2>
         <div class="featured-card__meta">
-          <span>📅 ${formatDate(featured.date, featured.time)}</span>
-          <span>📍 ${featured.location}</span>
+          <span>📅 ${escapeHtml(formatDate(featured.date, featured.time))}</span>
+          <span>📍 ${escapeHtml(featured.location)}</span>
         </div>
         <div class="featured-card__actions">
-          ${featured.affiliateUrl || featured.ticketUrl
+          ${href
             ? `<span class="btn btn--primary">🎫 Kj\u00f8p billetter</span>`
             : `<span class="btn btn--outline-white">🆓 Gratis inngang</span>`}
           <span class="btn btn--outline-white">Les mer →</span>
         </div>
       </div>
     </a>`;
+
+  // Bakgrunnsbilde settes via DOM-API – aldri via string-interpolasjon i
+  // en style-attributt (en URL med apostrof kunne ellers bryte ut av url()).
+  const bgEl = container.querySelector(".featured-card__bg");
+  if (imgUrl) bgEl.style.backgroundImage = `url("${imgUrl.replace(/["'()\\]/g, "")}")`;
+  else        bgEl.style.background      = "linear-gradient(135deg, #1e3a8a, #7c3aed)";
 }
 
 /* ============================================================
@@ -297,48 +339,74 @@ function renderFeatured(events) {
    ============================================================ */
 
 function buildEventCard(event) {
-  const badges = event.categories
-    .map((cat) => `<span class="badge badge--${cat}">${getCategoryLabel(cat)}</span>`)
+  const badges = (event.categories || [])
+    .map((cat) => `<span class="badge badge--${escapeHtml(cat)}">${escapeHtml(getCategoryLabel(cat))}</span>`)
     .join("");
 
-  const imageSection = event.imageUrl
-    ? `<div class="event-card__image">
-         <img src="${event.imageUrl}" alt="${event.title}" loading="lazy"
-           onerror="this.parentElement.innerHTML='<div class=\'event-card__emoji-fallback\'>${event.imageEmoji}</div>'" />
-         ${event.sponsored ? `<div class="sponsored-label">✨ Sponset</div>` : ""}
-       </div>`
-    : `<div class="event-card__image">
-         <div class="event-card__emoji-fallback">${event.imageEmoji}</div>
-         ${event.sponsored ? `<div class="sponsored-label">✨ Sponset</div>` : ""}
-       </div>`;
+  const imgUrl    = safeUrl(event.imageUrl);
+  const emoji     = escapeHtml(event.imageEmoji || "🎪");
+  const sponsored = event.sponsored ? `<div class="sponsored-label">✨ Sponset</div>` : "";
+
+  // Ved bildefeil byttes <img> ut med emoji-fallback av en delegert
+  // error-lytter (se setupImageFallback) – ingen inline onerror.
+  const imageSection = `
+    <div class="event-card__image">
+      ${imgUrl
+        ? `<img src="${escapeHtml(imgUrl)}" alt="${escapeHtml(event.title)}" loading="lazy" data-fallback-emoji="${emoji}" />`
+        : `<div class="event-card__emoji-fallback">${emoji}</div>`}
+      ${sponsored}
+    </div>`;
+
+  const affiliate = safeUrl(event.affiliateUrl);
+  const ticket    = safeUrl(event.ticketUrl);
 
   let ticketBtn;
-  if (event.affiliateUrl) {
-    ticketBtn = `<a href="${event.affiliateUrl}" class="btn btn--primary" target="_blank" rel="noopener sponsored">🎫 Kj\u00f8p billetter</a>`;
-  } else if (event.ticketUrl) {
-    ticketBtn = `<a href="${event.ticketUrl}" class="btn btn--primary" target="_blank" rel="noopener">🎫 Kj\u00f8p billetter</a>`;
+  if (affiliate) {
+    ticketBtn = `<a href="${escapeHtml(affiliate)}" class="btn btn--primary" target="_blank" rel="noopener sponsored">🎫 Kj\u00f8p billetter</a>`;
+  } else if (ticket) {
+    ticketBtn = `<a href="${escapeHtml(ticket)}" class="btn btn--primary" target="_blank" rel="noopener">🎫 Kj\u00f8p billetter</a>`;
   } else {
     ticketBtn = `<span class="btn btn--free">🆓 Gratis inngang</span>`;
   }
 
+  const cityBadge = selectedCities.length > 1 && event._city
+    ? `<span class="event-card__city-badge">${escapeHtml(event._city.charAt(0).toUpperCase() + event._city.slice(1))}</span>`
+    : "";
+
   return `
-    <article class="event-card ${event.sponsored ? "event-card--sponsored" : ""}" data-id="${event.id}">
+    <article class="event-card ${event.sponsored ? "event-card--sponsored" : ""}" data-id="${escapeHtml(event.id)}">
       ${imageSection}
       <div class="event-card__body">
-        <h3 class="event-card__title">${event.title}</h3>
+        <h3 class="event-card__title">${escapeHtml(event.title)}</h3>
         <div class="event-card__meta">
-          ${selectedCities.length > 1 && event._city ? `<span class="event-card__city-badge">${event._city.charAt(0).toUpperCase() + event._city.slice(1)}</span>` : ""}
-          <span class="meta-item">📅 ${formatDate(event.date, event.time)}</span>
-          <span class="meta-item">📍 ${event.location}</span>
+          ${cityBadge}
+          <span class="meta-item">📅 ${escapeHtml(formatDate(event.date, event.time))}</span>
+          <span class="meta-item">📍 ${escapeHtml(event.location)}</span>
         </div>
-        <p class="event-card__desc">${event.description}</p>
+        <p class="event-card__desc">${escapeHtml(event.description)}</p>
         <div class="event-card__categories">${badges}</div>
         <div class="event-card__actions">
           ${ticketBtn}
-          <button class="btn btn--calendar" data-cal-id="${event.id}" aria-label="Legg til i kalender">📅 Kalender</button>
+          <button class="btn btn--calendar" data-cal-id="${escapeHtml(event.id)}" aria-label="Legg til i kalender">📅 Kalender</button>
         </div>
       </div>
     </article>`;
+}
+
+/**
+ * Delegert fallback for bilder som ikke lastes.
+ * error-events bobler ikke, derfor capture-fasen.
+ * Bytter kun ut <img> – sponsor-merket beholdes.
+ */
+function setupImageFallback() {
+  document.addEventListener("error", (e) => {
+    const img = e.target;
+    if (!(img instanceof HTMLImageElement) || !img.dataset.fallbackEmoji) return;
+    const fallback = document.createElement("div");
+    fallback.className   = "event-card__emoji-fallback";
+    fallback.textContent = img.dataset.fallbackEmoji;
+    img.replaceWith(fallback);
+  }, true);
 }
 
 /* ============================================================
@@ -636,6 +704,31 @@ function distanceKm(lat1, lon1, lat2, lon2) {
   return R * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
 }
 
+/**
+ * Sorterer by-pillene etter avstand fra et punkt og fremhever de 3 nærmeste.
+ * @returns {HTMLElement[]} pillene sortert nærmest først
+ */
+function highlightNearbyCities(lat, lon) {
+  const pills = [...document.querySelectorAll(".city-pill[data-lat]:not([disabled])")];
+  if (pills.length === 0) return [];
+
+  const sorted = pills
+    .map((pill) => ({
+      pill,
+      dist: distanceKm(lat, lon, parseFloat(pill.dataset.lat), parseFloat(pill.dataset.lon)),
+    }))
+    .sort((a, b) => a.dist - b.dist)
+    .map(({ pill }) => pill);
+
+  pills.forEach((p) => p.classList.remove("city-pill--nearby"));
+  sorted.slice(0, 3).forEach((pill) => pill.classList.add("city-pill--nearby"));
+
+  const row = document.querySelector(".city-picker-row");
+  if (row) sorted.forEach((pill) => row.appendChild(pill));
+
+  return sorted;
+}
+
 function setupGeolocation() {
   const btn = document.getElementById("locate-btn");
   if (!btn || !navigator.geolocation) { if (btn) btn.hidden = true; return; }
@@ -650,32 +743,19 @@ function setupGeolocation() {
     navigator.geolocation.getCurrentPosition(
       (pos) => {
         const { latitude, longitude } = pos.coords;
-        const pills = [...document.querySelectorAll(".city-pill[data-lat]:not([disabled])")];
-        if (pills.length === 0) { btn.disabled = false; btn.textContent = "📍 Finn meg"; return; }
+        const resetLabel = () => {
+          btn.disabled = false;
+          const label = btn.querySelector("span:last-child");
+          if (label) label.textContent = "Finn meg – vis byer nær deg";
+        };
 
-        // Beregn avstand til alle byer og sorter
-        const sorted = pills
-          .map((pill) => ({
-            pill,
-            dist: distanceKm(latitude, longitude, parseFloat(pill.dataset.lat), parseFloat(pill.dataset.lon)),
-          }))
-          .sort((a, b) => a.dist - b.dist);
+        const sorted = highlightNearbyCities(latitude, longitude);
+        resetLabel();
+        if (sorted.length === 0) return;
 
-        // Fremhev top 3 nærmeste
-        pills.forEach((p) => p.classList.remove("city-pill--nearby"));
-        sorted.slice(0, 3).forEach(({ pill }) => pill.classList.add("city-pill--nearby"));
-
-        // Sorter by-kortene i DOM slik at nærmeste vises øverst
-        const row = document.querySelector(".city-picker-row");
-        sorted.forEach(({ pill }) => row.appendChild(pill));
-
-        btn.disabled = false;
-        const btnLabel = btn.querySelector("span:last-child");
-        if (btnLabel) btnLabel.textContent = "Finn meg – vis byer nær deg";
-
-        // Naviger til nærmeste by etter kort pause så brukeren ser fremhevingen
-        // Send koordinater med i URL slik at by-siden kan fremheve nærliggende byer
-        const nearest = sorted[0].pill;
+        // Naviger til nærmeste by etter kort pause så brukeren ser fremhevingen.
+        // Koordinatene sendes med i URL slik at by-siden kan fremheve nabobyer.
+        const nearest = sorted[0];
         if (nearest.dataset.city !== window.PRESELECTED_CITY) {
           setTimeout(() => {
             const base = window.PRESELECTED_CITY ? "../" : "./";
@@ -779,23 +859,14 @@ document.addEventListener("DOMContentLoaded", () => {
   setupCityPicker();
   setupGeolocation();
   setupStickyBar();
+  setupImageFallback();
 
   // Hvis brukeren kom hit via "Finn meg", fremhev nærliggende byer basert på URL-params
   const urlParams = new URLSearchParams(window.location.search);
   const urlLat = parseFloat(urlParams.get("lat"));
   const urlLon = parseFloat(urlParams.get("lon"));
   if (!isNaN(urlLat) && !isNaN(urlLon)) {
-    const pills = [...document.querySelectorAll(".city-pill[data-lat]")];
-    const sorted = pills
-      .map((pill) => ({
-        pill,
-        dist: distanceKm(urlLat, urlLon, parseFloat(pill.dataset.lat), parseFloat(pill.dataset.lon)),
-      }))
-      .sort((a, b) => a.dist - b.dist);
-    pills.forEach((p) => p.classList.remove("city-pill--nearby"));
-    sorted.slice(0, 3).forEach(({ pill }) => pill.classList.add("city-pill--nearby"));
-    const row = document.querySelector(".city-picker-row");
-    if (row) sorted.forEach(({ pill }) => row.appendChild(pill));
+    highlightNearbyCities(urlLat, urlLon);
   }
 
   // Last by-tall i bakgrunnen

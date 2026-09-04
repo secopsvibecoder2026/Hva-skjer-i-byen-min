@@ -41,6 +41,7 @@ const CITIES = [
   { id: "molde",          name: "Molde",           emoji: "🌹", region: "Møre og Romsdal" },
   { id: "voss",           name: "Voss",            emoji: "🏔️", region: "Vestland" },
   { id: "kongsberg",      name: "Kongsberg",       emoji: "⛏️", region: "Numedal" },
+  { id: "larvik",         name: "Larvik",          emoji: "⚓",  region: "Vestfold" },
 ];
 
 const BASE_URL = "https://ibyenmin.no";
@@ -133,7 +134,7 @@ const cityUrls = CITIES.map(
 ).join("");
 
 const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>${BASE_URL}/</loc>
     <lastmod>${today}</lastmod>
