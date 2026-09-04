@@ -14,7 +14,7 @@
       "ticketUrl": "https://www.ticketmaster.no/event/oktoberfest-hamar-2026-%7C-fredag-tickets/1674037649?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/oktoberfest-hamar-2026-%7C-fredag-tickets/1674037649?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/e/8a1/009a2fad-1f03-40be-be1c-95337aaf88a1_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "imageEmoji": "🎪",
+      "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
@@ -28,12 +28,12 @@
       "endTime": null,
       "location": "Vikingskipet, Hamar",
       "categories": [
-        "familie"
+        "konsert"
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/oktoberfest-2026-%7C-helgepass-tickets/1675545784?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/oktoberfest-2026-%7C-helgepass-tickets/1675545784?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/e/994/c6fffa95-49d7-4268-8240-60765472d994_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎭",
+      "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
@@ -47,12 +47,12 @@
       "endTime": null,
       "location": "Vikingskipet, Hamar",
       "categories": [
-        "familie"
+        "konsert"
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/oktoberfest-hamar-2026-%7C-lrdag-tickets/1772708255?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/oktoberfest-hamar-2026-%7C-lrdag-tickets/1772708255?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/e/e52/069c1eb6-8805-47d6-adf4-33d01932ae52_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎭",
+      "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
@@ -61,7 +61,7 @@
   "meta": {
     "city": "hamar",
     "count": 3,
-    "fetchedAt": "2026-09-03T09:27:34.090Z",
+    "fetchedAt": "2026-09-04T09:26:39.497Z",
     "sources": {
       "ticketmaster": 3,
       "eventbrite": 0,

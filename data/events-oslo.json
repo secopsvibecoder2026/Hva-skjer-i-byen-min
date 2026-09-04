@@ -219,25 +219,6 @@
       "source": "ticketmaster"
     },
     {
-      "id": "tm-Z698xZb_Z16v_FbkZg",
-      "title": "The Pussycat Dolls: PCD FOREVER TOUR",
-      "description": "Arrangement på Oslo Spektrum, Oslo",
-      "date": "2026-09-10",
-      "time": "00:00",
-      "endTime": null,
-      "location": "Oslo Spektrum, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/the-pussycat-dolls-pcd-forever-tour-tickets/1648606035?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/the-pussycat-dolls-pcd-forever-tour-tickets/1648606035?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/e1e/81bad860-56ff-4595-bcc4-90766354be1e_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-LvZ18QoDatfQEBYvNX_7F",
       "title": "Bransjepass / Delegate pass - by:Larm 2026",
       "description": "Arrangement på by:Larm, Oslo",
@@ -251,6 +232,25 @@
       "ticketUrl": "https://www.universe.com/events/bransjepass-delegate-pass-by-larm-2026-tickets-W5J342?ref=ticketmaster",
       "affiliateUrl": "https://www.universe.com/events/bransjepass-delegate-pass-by-larm-2026-tickets-W5J342?ref=ticketmaster&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/a/9f4/f889692d-4f8f-46de-bc4b-8d99a63f59f4_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16v_FbkZg",
+      "title": "The Pussycat Dolls: PCD FOREVER TOUR",
+      "description": "Arrangement på Oslo Spektrum, Oslo",
+      "date": "2026-09-10",
+      "time": "18:30",
+      "endTime": null,
+      "location": "Oslo Spektrum, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/the-pussycat-dolls-pcd-forever-tour-tickets/1648606035?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/the-pussycat-dolls-pcd-forever-tour-tickets/1648606035?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/e1e/81bad860-56ff-4595-bcc4-90766354be1e_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -953,7 +953,7 @@
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/oliver-twist-koffers-produksjoner-tickets/999836465?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/oliver-twist-koffers-produksjoner-tickets/999836465?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/ad0/1af3140b-2ab5-40eb-bb0d-deb35ec33ad0_SOURCE",
+      "imageUrl": "https://s1.ticketm.net/dam/e/ad0/1af3140b-2ab5-40eb-bb0d-deb35ec33ad0_RETINA_PORTRAIT_16_9.jpg",
       "imageEmoji": "🎭",
       "sponsored": false,
       "featured": false,
@@ -963,7 +963,7 @@
   "meta": {
     "city": "oslo",
     "count": 49,
-    "fetchedAt": "2026-09-03T09:27:20.776Z",
+    "fetchedAt": "2026-09-04T09:26:24.080Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,

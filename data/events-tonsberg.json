@@ -47,13 +47,12 @@
       "endTime": null,
       "location": "Midgardsblot, Horten",
       "categories": [
-        "konsert",
-        "uteliv"
+        "konsert"
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/camp-utgard-camp-ticket-tickets/234752519?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/camp-utgard-camp-ticket-tickets/234752519?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/461/5b441f73-9549-4214-9f1f-0475aae20461_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
+      "imageUrl": "https://s1.ticketm.net/dam/a/461/5b441f73-9549-4214-9f1f-0475aae20461_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageEmoji": "🎪",
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
@@ -67,12 +66,13 @@
       "endTime": null,
       "location": "Midgardsblot, Horten",
       "categories": [
-        "konsert"
+        "konsert",
+        "uteliv"
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/camp-utgard-tent-ticket-tickets/539923162?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/camp-utgard-tent-ticket-tickets/539923162?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/461/5b441f73-9549-4214-9f1f-0475aae20461_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎪",
+      "imageUrl": "https://s1.ticketm.net/dam/a/461/5b441f73-9549-4214-9f1f-0475aae20461_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
@@ -109,7 +109,7 @@
       ],
       "ticketUrl": "https://www.ticketmaster.no/event/midgardsblot-festival-pass-2027-tickets/548201311?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/midgardsblot-festival-pass-2027-tickets/548201311?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/461/5b441f73-9549-4214-9f1f-0475aae20461_RETINA_LANDSCAPE_16_9.jpg",
+      "imageUrl": "https://s1.ticketm.net/dam/a/461/5b441f73-9549-4214-9f1f-0475aae20461_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -119,7 +119,7 @@
   "meta": {
     "city": "tonsberg",
     "count": 6,
-    "fetchedAt": "2026-09-03T09:27:35.052Z",
+    "fetchedAt": "2026-09-04T09:26:40.979Z",
     "sources": {
       "ticketmaster": 6,
       "eventbrite": 0,
