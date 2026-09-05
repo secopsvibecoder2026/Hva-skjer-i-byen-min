@@ -51,7 +51,7 @@ const year = new Date().getFullYear();
 const pillsHtml = withEvents
   .map(
     (c) =>
-      `          <button class="city-pill" data-city="${c.id}" data-lat="${c.lat}" data-lon="${c.lon}" style="background-image:url('/img/cities/${c.id}.jpg')"><span class="city-pill__icon">${c.emoji}</span><span class="city-pill__name">${c.name}</span></button>`
+      `          <button class="city-pill" data-city="${c.id}" data-lat="${c.lat}" data-lon="${c.lon}" style="background-image:url('/img/cities/${c.id}.jpg')"><span class="city-pill__name">${c.name}</span></button>`
   )
   .join("\n");
 
@@ -65,7 +65,7 @@ if (startIdx === -1 || endIdx === -1) {
   throw new Error("Fant ikke BY-PILLER-markørene i index.html – kan ikke generere by-piller");
 }
 
-const template =
+let template =
   rawTemplate.slice(0, startIdx) +
   `${PILL_START} – generert av scripts/generate-city-pages.mjs, ikke rediger for hånd -->
         <div class="city-picker-row" role="group" aria-label="Velg by">
@@ -73,6 +73,18 @@ ${pillsHtml}
         </div>
         ` +
   rawTemplate.slice(endIdx);
+
+// Startside-teksten skal ikke navngi byer vi ikke har data for
+const countStart = template.indexOf("<!-- BY-ANTALL:START -->");
+const countEnd   = template.indexOf("<!-- BY-ANTALL:SLUTT -->");
+if (countStart !== -1 && countEnd !== -1) {
+  const totalEvents = withEvents.reduce((sum, c) => sum + c.count, 0);
+  template =
+    template.slice(0, countStart) +
+    `<!-- BY-ANTALL:START -->Akkurat nå har vi ${totalEvents} arrangementer i ` +
+    `${withEvents.length} norske byer – konserter, familieaktiviteter, teater og uteliv.` +
+    template.slice(countEnd);
+}
 
 // Forsiden får de samme pillene
 writeFileSync(join(ROOT, "index.html"), template);

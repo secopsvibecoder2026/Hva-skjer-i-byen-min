@@ -117,12 +117,12 @@ function getDateGroup(dateStr) {
 }
 
 const DATE_GROUPS = [
-  { id: "idag",    label: "I dag",       icon: "🔴", cssClass: "date-group--idag" },
-  { id: "imorgen", label: "I morgen",    icon: "🟣", cssClass: "date-group--imorgen" },
-  { id: "helgen",  label: "I helgen",    icon: "🎉", cssClass: "date-group--helgen" },
-  { id: "uke",     label: "Denne uken",  icon: "🔵", cssClass: "date-group--uke" },
-  { id: "neste",   label: "Neste uke",   icon: "🟢", cssClass: "date-group--neste" },
-  { id: "senere",  label: "Senere",      icon: "⚫", cssClass: "date-group--senere" },
+  { id: "idag",    label: "I dag",       cssClass: "date-group--idag" },
+  { id: "imorgen", label: "I morgen",    cssClass: "date-group--imorgen" },
+  { id: "helgen",  label: "I helgen",    cssClass: "date-group--helgen" },
+  { id: "uke",     label: "Denne uken",  cssClass: "date-group--uke" },
+  { id: "neste",   label: "Neste uke",   cssClass: "date-group--neste" },
+  { id: "senere",  label: "Senere",      cssClass: "date-group--senere" },
 ];
 
 /**
@@ -150,8 +150,7 @@ function formatPrice(event) {
 
 /** Returner norsk kategori-label */
 function getCategoryLabel(catId) {
-  const cat = CATEGORIES.find((c) => c.id === catId);
-  return cat ? `${cat.icon} ${cat.label}` : catId;
+  return CATEGORIES.find((c) => c.id === catId)?.label || catId;
 }
 
 /* ============================================================
@@ -343,16 +342,16 @@ function renderFeatured(events) {
       <div class="featured-card__bg"></div>
       <div class="featured-card__overlay"></div>
       <div class="featured-card__content">
-        <div class="featured-card__badge">⭐ Fremhevet arrangement</div>
+        <div class="featured-card__badge">${icon("star")}Fremhevet arrangement</div>
         <h2 class="featured-card__title">${escapeHtml(featured.title)}</h2>
         <div class="featured-card__meta">
-          <span>📅 ${escapeHtml(formatDate(featured.date, featured.time))}</span>
-          <span>📍 ${escapeHtml(featured.location)}</span>
+          <span>${icon("calendar")}${escapeHtml(formatDate(featured.date, featured.time))}</span>
+          <span>${icon("pin")}${escapeHtml(featured.location)}</span>
         </div>
         <div class="featured-card__actions">
           ${href
-            ? `<span class="btn btn--primary">🎫 Billetter${featuredPrice ? ` <span class="btn__price">${escapeHtml(featuredPrice)}</span>` : ""}</span>`
-            : `<span class="btn btn--outline-white">🆓 Gratis inngang</span>`}
+            ? `<span class="btn btn--primary">${icon("ticket")}Billetter${featuredPrice ? ` <span class="btn__price">${escapeHtml(featuredPrice)}</span>` : ""}</span>`
+            : `<span class="btn btn--outline-white">${icon("gratis")}Gratis inngang</span>`}
           <span class="btn btn--outline-white">Les mer →</span>
         </div>
       </div>
@@ -371,20 +370,24 @@ function renderFeatured(events) {
 
 function buildEventCard(event) {
   const badges = (event.categories || [])
-    .map((cat) => `<span class="badge badge--${escapeHtml(cat)}">${escapeHtml(getCategoryLabel(cat))}</span>`)
+    .map((cat) => `<span class="badge badge--${escapeHtml(cat)}">${categoryIcon(cat)}${escapeHtml(getCategoryLabel(cat))}</span>`)
     .join("");
 
   const imgUrl    = safeUrl(event.imageUrl);
-  const emoji     = escapeHtml(event.imageEmoji || "🎪");
-  const sponsored = event.sponsored ? `<div class="sponsored-label">✨ Sponset</div>` : "";
+  const sponsored = event.sponsored ? `<div class="sponsored-label">${icon("sparkle")}Sponset</div>` : "";
+  // Uten bilde: kategoriikonet i stor, dempet utgave. Emoji her ga
+  // 133 av 230 kort et clip-art-preg.
+  const fallbackIcon = (event.categories || []).length
+    ? categoryIcon(event.categories[0])
+    : icon("calendar");
 
   // Ved bildefeil byttes <img> ut med emoji-fallback av en delegert
   // error-lytter (se setupImageFallback) – ingen inline onerror.
   const imageSection = `
     <div class="event-card__image">
       ${imgUrl
-        ? `<img src="${escapeHtml(imgUrl)}" alt="${escapeHtml(event.title)}" loading="lazy" data-fallback-emoji="${emoji}" />`
-        : `<div class="event-card__emoji-fallback">${emoji}</div>`}
+        ? `<img src="${escapeHtml(imgUrl)}" alt="${escapeHtml(event.title)}" loading="lazy" data-fallback-cat="${escapeHtml((event.categories || [])[0] || "")}" />`
+        : `<div class="event-card__fallback">${fallbackIcon}</div>`}
       ${sponsored}
     </div>`;
 
@@ -394,8 +397,8 @@ function buildEventCard(event) {
   // Pris er det folk lurer mest på – vis den på knappen når vi vet den
   const price      = formatPrice(event);
   const priceLabel = price
-    ? `🎫 Billetter <span class="btn__price">${escapeHtml(price)}</span>`
-    : `🎫 Kj\u00f8p billetter`;
+    ? `${icon("ticket")}Billetter <span class="btn__price">${escapeHtml(price)}</span>`
+    : `${icon("ticket")}Kj\u00f8p billetter`;
 
   let ticketBtn;
   if (affiliate) {
@@ -403,7 +406,7 @@ function buildEventCard(event) {
   } else if (ticket) {
     ticketBtn = `<a href="${escapeHtml(ticket)}" class="btn btn--primary" target="_blank" rel="noopener">${priceLabel}</a>`;
   } else {
-    ticketBtn = `<span class="btn btn--free">🆓 Gratis inngang</span>`;
+    ticketBtn = `<span class="btn btn--free">${icon("gratis")}Gratis inngang</span>`;
   }
 
   const cityBadge = selectedCities.length > 1 && event._city
@@ -417,14 +420,14 @@ function buildEventCard(event) {
         <h3 class="event-card__title">${escapeHtml(event.title)}</h3>
         <div class="event-card__meta">
           ${cityBadge}
-          <span class="meta-item">📅 ${escapeHtml(formatDate(event.date, event.time))}</span>
-          <span class="meta-item">📍 ${escapeHtml(event.location)}</span>
+          <span class="meta-item">${icon("calendar")}${escapeHtml(formatDate(event.date, event.time))}</span>
+          <span class="meta-item">${icon("pin")}${escapeHtml(event.location)}</span>
         </div>
         ${event.description ? `<p class="event-card__desc">${escapeHtml(event.description)}</p>` : ""}
         <div class="event-card__categories">${badges}</div>
         <div class="event-card__actions">
           ${ticketBtn}
-          <button class="btn btn--calendar" data-cal-id="${escapeHtml(event.id)}" aria-label="Legg til i kalender">📅 Kalender</button>
+          <button class="btn btn--calendar" data-cal-id="${escapeHtml(event.id)}" aria-label="Legg til i kalender">${icon("calendar")}Kalender</button>
         </div>
       </div>
     </article>`;
@@ -438,10 +441,12 @@ function buildEventCard(event) {
 function setupImageFallback() {
   document.addEventListener("error", (e) => {
     const img = e.target;
-    if (!(img instanceof HTMLImageElement) || !img.dataset.fallbackEmoji) return;
+    if (!(img instanceof HTMLImageElement) || img.dataset.fallbackCat === undefined) return;
     const fallback = document.createElement("div");
-    fallback.className   = "event-card__emoji-fallback";
-    fallback.textContent = img.dataset.fallbackEmoji;
+    fallback.className = "event-card__fallback";
+    fallback.innerHTML = img.dataset.fallbackCat
+      ? categoryIcon(img.dataset.fallbackCat)
+      : icon("calendar");
     img.replaceWith(fallback);
   }, true);
 }
@@ -487,7 +492,7 @@ function renderEmptyState(cityHasNoData) {
 
   if (!cityHasNoData) {
     box.innerHTML = `
-      <div class="no-results__emoji">😕</div>
+      <div class="no-results__icon">${icon("search")}</div>
       <h3>Ingen treff</h3>
       <p>Prøv et annet søkeord eller fjern noen filtre.</p>`;
     return;
@@ -500,13 +505,13 @@ function renderEmptyState(cityHasNoData) {
   const base   = window.PRESELECTED_CITY ? "../" : "./";
 
   box.innerHTML = `
-    <div class="no-results__emoji">🌱</div>
+    <div class="no-results__icon">${icon("calendar")}</div>
     <h3>Ingen arrangementer i ${escapeHtml(cityName)} ennå</h3>
     <p>Vi henter inn nye arrangementer hver natt. Sjekk gjerne igjen om noen dager.</p>
     ${nearby.length ? `
       <p class="no-results__suggest">Det skjer ting i nærheten:</p>
       <div class="no-results__cities">
-        ${nearby.map((c) => `<a class="no-results__city" href="${base}${encodeURIComponent(c.id)}/">${escapeHtml(c.name)}</a>`).join("")}
+        ${nearby.map((c) => `<a class="no-results__city" href="${base}${encodeURIComponent(c.id)}/">${escapeHtml(c.name)}${icon("arrowRight")}</a>`).join("")}
       </div>` : ""}`;
 }
 
@@ -561,7 +566,7 @@ function renderByGroups(events) {
     html += `
       <section class="date-group ${group.cssClass}" aria-label="${group.label}">
         <div class="date-group__header">
-          <span class="date-group__label">${group.icon} ${group.label}</span>
+          <span class="date-group__label">${group.label}</span>
           <span class="date-group__count">${groupEvents.length} arrangement${groupEvents.length !== 1 ? "er" : ""}</span>
         </div>
         <div class="date-group__grid" role="list">
@@ -638,7 +643,7 @@ function buildFilters(events = []) {
       const active = activeFilters.has(cat.id);
       return `
     <button class="filter-btn${active ? " filter-btn--active" : ""}" data-filter="${escapeHtml(cat.id)}" aria-pressed="${active}">
-      ${cat.icon} ${escapeHtml(cat.label)}
+      ${categoryIcon(cat.id)}${escapeHtml(cat.label)}
     </button>`;
     })
     .join("");

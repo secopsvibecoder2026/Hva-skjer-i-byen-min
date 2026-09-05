@@ -176,15 +176,15 @@ const EVENTS = [
 ];
 
 /**
- * Kategorier med id, norsk label og ikon.
- * Brukes for å generere filterknapper dynamisk.
+ * Kategorier med id og norsk label.
+ * Ikonene ligger i js/icons.js (categoryIcon) – ikke som emoji her.
  */
 const CATEGORIES = [
-  { id: "familie",  label: "Familievennlig",  icon: "👨‍👩‍👧‍👦" },
-  { id: "gratis",   label: "Gratis",           icon: "🆓" },
-  { id: "konsert",  label: "Konsert / Uteliv", icon: "🎵" },
-  { id: "barn",     label: "Barn",             icon: "🧒" },
-  { id: "uteliv",   label: "Uteliv",           icon: "🍸" },
-  { id: "teater",   label: "Teater / Scene",   icon: "🎭" },
-  { id: "sport",    label: "Sport",            icon: "⚽" },
+  { id: "familie",  label: "Familievennlig" },
+  { id: "gratis",   label: "Gratis" },
+  { id: "konsert",  label: "Konsert / Uteliv" },
+  { id: "barn",     label: "Barn" },
+  { id: "uteliv",   label: "Uteliv" },
+  { id: "teater",   label: "Teater / Scene" },
+  { id: "sport",    label: "Sport" },
 ];
