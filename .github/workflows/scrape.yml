@@ -57,9 +57,13 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/ sitemap.xml robots.txt
-          git add bergen/ oslo/ trondheim/ stavanger/ eidsvoll/ lillestrom/ aurskog-holand/ \
-                  kristiansand/ tromso/ drammen/ fredrikstad/ alesund/ bodo/ hamar/ \
-                  tonsberg/ moss/ haugesund/ sandefjord/ arendal/ molde/ voss/ kongsberg/
+          # index.html inneholder by-pillene, som genereres fra event-tallene.
+          # Uten denne fryser by-velgeren på forsiden i den tilstanden den
+          # hadde da den sist ble committet manuelt.
+          git add index.html
+          # By-mappene hentes fra by-registeret, ikke en håndskrevet liste –
+          # en glemt by her betyr at siden hennes aldri oppdateres.
+          git add $(node -e 'import("./scripts/cities.mjs").then(m => console.log(m.CITY_IDS.map(id => id + "/").join(" ")))')
           # Commit kun om det er faktiske endringer
           if git diff --staged --quiet; then
             echo "Ingen endringer – hopper over commit."
