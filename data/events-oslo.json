@@ -1,89 +1,9 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z1kGMaxJe",
-      "title": "Norwegian Military Tattoo",
-      "description": "Arrangement på Oslo Spektrum, Oslo",
-      "date": "2026-09-04",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Oslo Spektrum, Oslo",
-      "categories": [
-        "familie",
-        "barn"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/norwegian-military-tattoo-tickets/337262982?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/norwegian-military-tattoo-tickets/337262982?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/2cc/7d2679e0-d17b-4cf2-a325-7ed093b562cc_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16v_Oa04Y",
-      "title": "Dance with a Stranger",
-      "description": "Arrangement på Rockefeller, Oslo",
-      "date": "2026-09-04",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Rockefeller, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/dance-with-a-stranger-tickets/1660264570?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/dance-with-a-stranger-tickets/1660264570?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/3f7/84ee82e2-19d1-4e91-90f7-4de7ddbe13f7_TABLET_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16vZSevbk",
-      "title": "Norwegian Military Tattoo - Tattoo Exclusive",
-      "description": "Arrangement på Oslo Spektrum, Oslo",
-      "date": "2026-09-04",
-      "time": "19:01",
-      "endTime": null,
-      "location": "Oslo Spektrum, Oslo",
-      "categories": [
-        "familie",
-        "barn"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/norwegian-military-tattoo-tattoo-exclusive-tickets/1033081606?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/norwegian-military-tattoo-tattoo-exclusive-tickets/1033081606?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/2cc/7d2679e0-d17b-4cf2-a325-7ed093b562cc_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z1kvk_e8-",
-      "title": "DJ Reform94",
-      "description": "Arrangement på John Dee, Oslo",
-      "date": "2026-09-04",
-      "time": "20:00",
-      "endTime": null,
-      "location": "John Dee, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/dj-reform94-tickets/46642421?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/dj-reform94-tickets/46642421?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/793/10ee8d19-fa14-4684-915e-7c24d6936793_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z16eZkowkA",
-      "title": "Organ recital with Stefan Engels",
-      "description": "Stefan Engels (Dallas, Texas), organ. Works by Schumann, Bach, Baker and Karg-Elert. Dear friends of organ music, Welcome to Oslo Cathedral and this year's summer concert series! Over the course of 15 Saturdays from July to October, we invite you to festive and diverse concerts featuring organists from both Norway and abroad. Each concert has its own distinct character, reflecting the musical background and tradition of the guest performer. During the summer months, when everyday life tends to slow down and time feels more spacious, we wish to present a rich and varied musical program on our cathedral organ, built in 1998 by the Norwegian organ builder Ryde & Berg. We are committed to making organ music accessible to as many people as possible. Please feel free to take the program with you, share it with friends and family, and invite someone along to a concert. Admission is always free for children and students. We look forward to seeing you at Oslo Cathedral and wish you a joyful and inspiring summer! Marcus André Berg and Tjark Pinne Organists of Oslo Cathedral. Accessibility: Oslo Cathedral has dedicated wheelchair spaces in the south transept. Companions enter free of charge upon presenting a companion certificate. Oslo Cathedral has a ramp and an elevator for step-free access. Please arrive at the main entrance, and our staff will guide you to the wheelchair entrance. A wheelchair-accessible restroom is available by the main entrance. For questions; please call Oslo Cathedral, phone: +47 23629010",
+      "title": "Cancelled: Organ recital with Stefan Engels",
+      "description": "This organ recital is cancelled due to preparations for H. M. King Harald V's funeral. Stefan Engels (Dallas, Texas), organ. Works by Schumann, Bach, Baker and Karg-Elert. Dear friends of organ music, Welcome to Oslo Cathedral and this year's summer concert series! Over the course of 15 Saturdays from July to October, we invite you to festive and diverse concerts featuring organists from both Norway and abroad. Each concert has its own distinct character, reflecting the musical background and tradition of the guest performer. During the summer months, when everyday life tends to slow down and time feels more spacious, we wish to present a rich and varied musical program on our cathedral organ, built in 1998 by the Norwegian organ builder Ryde & Berg. We are committed to making organ music accessible to as many people as possible. Please feel free to take the program with you, share it with friends and family, and invite someone along to a concert. Admission is always free for children and students. We look forward to seeing you at Oslo Cathedral and wish you a joyful and inspiring summer! Marcus André Berg and Tjark Pinne Organists of Oslo Cathedral. Accessibility: Oslo Cathedral has dedicated wheelchair spaces in the south transept. Companions enter free of charge upon presenting a companion certificate. Oslo Cathedral has a ramp and an elevator for step-free access. Please arrive at the main entrance, and our staff will guide you to the wheelchair entrance. A wheelchair-accessible restroom is available by the main entrance. For questions; please call Oslo Cathedral, phone: +47 23629010",
       "date": "2026-09-05",
       "time": "12:00",
       "endTime": null,
@@ -92,8 +12,8 @@
         "konsert",
         "familie"
       ],
-      "ticketUrl": "https://www.ticketmaster.no/event/organ-recital-with-stefan-engels-tickets/2006472185?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/organ-recital-with-stefan-engels-tickets/2006472185?language=en-us&ref=hvaSkjerIByenMin",
+      "ticketUrl": "https://www.ticketmaster.no/event/cancelled-organ-recital-with-stefan-engels-tickets/2006472185?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/cancelled-organ-recital-with-stefan-engels-tickets/2006472185?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/e/800/c34a1c02-c461-4ea3-9e7e-35e62f9ab800_TABLET_LANDSCAPE_16_9.jpg",
       "imageEmoji": "🎵",
       "sponsored": false,
@@ -631,7 +551,7 @@
     {
       "id": "tm-Z698xZb_Z16vOz1KQ6",
       "title": "Bernhoft",
-      "description": "Arrangement på Sentrum Scene, Oslo",
+      "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's. Read the organizer's terms of purchase here. See www.rockefeller.no for the complete program.. Practical information about the concerts can be found here. The nearest transport hub is Storgata and/or Jernbanetorget. See ruter.no for more info.",
       "date": "2026-09-19",
       "time": "19:00",
       "endTime": null,
@@ -958,12 +878,90 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vFN8SJ9",
+      "title": "Future Palace",
+      "description": "Arrangement på John Dee, Oslo",
+      "date": "2026-10-05",
+      "time": "19:00",
+      "endTime": null,
+      "location": "John Dee, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/future-palace-tickets/1223433997?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/future-palace-tickets/1223433997?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/f90/cd9a3b3c-e4e2-4cb1-93a6-1c16a5e8af90_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vaN4x4A",
+      "title": "OLIVER TWIST - Koffers produksjoner",
+      "description": "OLIVER TWIST -- EN MUSIKAL SOM TREFFER HJERTET Den populære familiemusikalen OLIVER TWIST! har begeistret publikum verden over -- nå er det CHATEAU NEUF sin tur! KUN 8 FORESTILLINGER! Basert på Charles Dickens' udødelige fortelling byr musikalen på sterke følelser, gripende historier og uforglemmelige musikalske numre. Denne versjonen er en hyllest til de glemte barna -- de som lider i stillhet, uten noen som ser dem eller beskytter dem. OLIVER TWIST minner oss om hvor sårbar barndommen er, og hvor lett vi voksne kan overse tegn på ensomhet, mobbing og fortvilelse. Gjennom Oliver møter vi barnet i oss selv -- og i andre -- de som ble tvunget til å vokse opp altfor fort i 1800-tallets London. Produsent: Koffers Produksjoner Regi og koreografi: Patrick Svingholm Terndrup Prosjektleder: Gry Spone Musikalsk ansvarlig: Trine Bariås Originalversjon: AMR Produce (Spania) Manus og tekst: Pedro Villora Norsk oversettelse: Astrid Berg Hauge Oversatt fra spansk av: Victôria Fuster Arrangementstidspunkt/konsertstart : 18:00 Dørene åpner : 17:30 Varighet : 120 min Servering : Kiosk Aldersgrense : Ingen aldersgrense Ledsager : Full pris Adkomst : kollektivtransport til Majorstuen så tre min gange Bevegelseshemmede : Ja Parkeringsmuligheter : Nei Arrangørens nettside",
+      "date": "2026-10-06",
+      "time": "18:00",
+      "endTime": null,
+      "location": "Chateau Neuf,Storsalen, Oslo",
+      "categories": [
+        "familie"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/oliver-twist-koffers-produksjoner-tickets/1263562545?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/oliver-twist-koffers-produksjoner-tickets/1263562545?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/715/032dcbd7-2eca-49db-b1b0-9212e62ff715_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎭",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vFk4zvw",
+      "title": "Konradsen - 10 years!",
+      "description": "10TH ANNIVERSARY CONCERT: KONRADSEN!! The duo Konradsen is celebrating 10 years and invites you to a very special anniversary concert at Kulturkirken Jakob -- the exact venue where they held their very first release concert! On this evening, they are stripping things back and sharing the stage with good friends made along the way. Since 2019, Jenny Marie Sabel and Eirik Vildgren have carved out a unique place in the Norwegian indie scene with their distinctive, intricate, and critically acclaimed sound. This concert also marks the release of their third album, Hunt, Gather -- a personal and introspective record about the life spent chasing goals for years, and the longing for something more. The release was celebrated with a truly unique, sold-out concert experience at MUNCH in Oslo on April 10th. Now, they are coming to Kulturkirken Jakob! Konradsen's music shifts between the romantic, playful, and deeply emotional, blending subtle glimpses of reality---like audio clips from old family videos and chats with friends---with synths, piano, and a nuanced musical landscape. The result is a complex soundscape that feels both weightless and intimate all at once. The album Hunt, Gather was produced by Hans Olav Settem and Marit Othilie Thorvik (Beharie, Ea Othilde, Jouska) in collaboration with the duo themselves. A major part of the music was also co-written with Erlend Vesteraas and Ivar Myrset Asheim, both of whom are key contributors to the project. Come celebrate 10 years of Konradsen and experience a concert that moves seamlessly between the deeply intimate and the grand!",
+      "date": "2026-10-06",
+      "time": "20:00",
+      "endTime": null,
+      "location": "Kulturkirken Jakob, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/konradsen-10-years-tickets/1206578072?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/konradsen-10-years-tickets/1206578072?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/256/af31cae1-4396-44d4-b102-4261df688256_SOURCE",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kaf_VAa",
+      "title": "Slå på ring - LIVE - Ny dato 08.10.2026",
+      "description": "Arrangement på Sentrum Scene, Oslo",
+      "date": "2026-10-08",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Sentrum Scene, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "ticketUrl": "https://www.ticketmaster.no/event/sla-pa-ring-live-ny-dato-08102026-tickets/254674149?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/sla-pa-ring-live-ny-dato-08102026-tickets/254674149?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/63b/06c2126c-cfa2-4b7f-a49f-bd92ff3d163b_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 49,
-    "fetchedAt": "2026-09-04T09:26:24.080Z",
+    "fetchedAt": "2026-09-05T08:48:39.745Z",
     "sources": {
       "ticketmaster": 50,
       "eventbrite": 0,
