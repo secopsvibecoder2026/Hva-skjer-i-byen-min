@@ -125,12 +125,27 @@ const DATE_GROUPS = [
   { id: "senere",  label: "Senere",      icon: "⚫", cssClass: "date-group--senere" },
 ];
 
-/** Formaterer dato til norsk tekst */
+/**
+ * Formaterer dato til norsk tekst.
+ * timeStr kan være null – da utelates klokkeslettet helt, i stedet for
+ * å oppgi et tidspunkt vi ikke vet.
+ */
 function formatDate(dateStr, timeStr) {
-  const date = new Date(`${dateStr}T${timeStr}`);
+  const date = new Date(`${dateStr}T${timeStr || "00:00"}`);
+  if (isNaN(date)) return dateStr;
   const days   = ["S\u00f8ndag","Mandag","Tirsdag","Onsdag","Torsdag","Fredag","L\u00f8rdag"];
   const months = ["jan","feb","mar","apr","mai","jun","jul","aug","sep","okt","nov","des"];
-  return `${days[date.getDay()]} ${date.getDate()}. ${months[date.getMonth()]} kl. ${timeStr}`;
+  const base   = `${days[date.getDay()]} ${date.getDate()}. ${months[date.getMonth()]}`;
+  return timeStr ? `${base} kl. ${timeStr}` : base;
+}
+
+/** "fra 450 kr" – tom streng når prisen er ukjent eller null */
+function formatPrice(event) {
+  if (typeof event.priceFrom !== "number" || event.priceFrom <= 0) return "";
+  // Rund ned: "fra" skal være en nedre grense, aldri høyere enn faktisk pris
+  const amount = Math.floor(event.priceFrom).toLocaleString("nb-NO");
+  const unit   = !event.currency || event.currency === "NOK" ? "kr" : event.currency;
+  return `fra ${amount} ${unit}`;
 }
 
 /** Returner norsk kategori-label */
@@ -155,14 +170,29 @@ function downloadICS(event) {
     return `${y}${m}${d}T${hh}${mm}00`;
   };
 
-  const dtStart = dt(event.date, event.time);
-  let dtEnd;
-  if (event.endTime) {
-    dtEnd = dt(event.date, event.endTime);
+  // Uten klokkeslett blir det et heldagsarrangement i kalenderen,
+  // i stedet for et oppdiktet tidspunkt.
+  const allDay = !event.time;
+  let dtStartLine, dtEndLine;
+
+  if (allDay) {
+    const start = event.date.replace(/-/g, "");
+    const next  = new Date(`${event.date}T00:00:00`);
+    next.setDate(next.getDate() + 1);
+    const end = next.toLocaleDateString("sv-SE").replace(/-/g, "");
+    dtStartLine = `DTSTART;VALUE=DATE:${start}`;
+    dtEndLine   = `DTEND;VALUE=DATE:${end}`;
   } else {
-    // Standardvarighet: 2 timer
-    const endHour = (parseInt(event.time.split(":")[0]) + 2) % 24;
-    dtEnd = dt(event.date, `${pad(endHour)}:${event.time.split(":")[1]}`);
+    let dtEnd;
+    if (event.endTime) {
+      dtEnd = dt(event.date, event.endTime);
+    } else {
+      // Standardvarighet: 2 timer
+      const endHour = (parseInt(event.time.split(":")[0]) + 2) % 24;
+      dtEnd = dt(event.date, `${pad(endHour)}:${event.time.split(":")[1]}`);
+    }
+    dtStartLine = `DTSTART:${dt(event.date, event.time)}`;
+    dtEndLine   = `DTEND:${dtEnd}`;
   }
 
   const esc = (s) => (s || "").replace(/[,;\\]/g, "\\$&").replace(/\n/g, "\\n");
@@ -174,8 +204,8 @@ function downloadICS(event) {
     "CALSCALE:GREGORIAN",
     "METHOD:PUBLISH",
     "BEGIN:VEVENT",
-    `DTSTART:${dtStart}`,
-    `DTEND:${dtEnd}`,
+    dtStartLine,
+    dtEndLine,
     `SUMMARY:${esc(event.title)}`,
     `DESCRIPTION:${esc(event.description)}`,
     `LOCATION:${esc(event.location)}`,
@@ -306,6 +336,7 @@ function renderFeatured(events) {
 
   const href    = safeUrl(featured.affiliateUrl) || safeUrl(featured.ticketUrl);
   const imgUrl  = safeUrl(featured.imageUrl);
+  const featuredPrice = formatPrice(featured);
 
   container.innerHTML = `
     <a href="${escapeHtml(href || "#")}" class="featured-card" target="${href ? "_blank" : "_self"}" rel="noopener sponsored" aria-label="Fremhevet: ${escapeHtml(featured.title)}">
@@ -320,7 +351,7 @@ function renderFeatured(events) {
         </div>
         <div class="featured-card__actions">
           ${href
-            ? `<span class="btn btn--primary">🎫 Kj\u00f8p billetter</span>`
+            ? `<span class="btn btn--primary">🎫 Billetter${featuredPrice ? ` <span class="btn__price">${escapeHtml(featuredPrice)}</span>` : ""}</span>`
             : `<span class="btn btn--outline-white">🆓 Gratis inngang</span>`}
           <span class="btn btn--outline-white">Les mer →</span>
         </div>
@@ -360,11 +391,17 @@ function buildEventCard(event) {
   const affiliate = safeUrl(event.affiliateUrl);
   const ticket    = safeUrl(event.ticketUrl);
 
+  // Pris er det folk lurer mest på – vis den på knappen når vi vet den
+  const price      = formatPrice(event);
+  const priceLabel = price
+    ? `🎫 Billetter <span class="btn__price">${escapeHtml(price)}</span>`
+    : `🎫 Kj\u00f8p billetter`;
+
   let ticketBtn;
   if (affiliate) {
-    ticketBtn = `<a href="${escapeHtml(affiliate)}" class="btn btn--primary" target="_blank" rel="noopener sponsored">🎫 Kj\u00f8p billetter</a>`;
+    ticketBtn = `<a href="${escapeHtml(affiliate)}" class="btn btn--primary" target="_blank" rel="noopener sponsored">${priceLabel}</a>`;
   } else if (ticket) {
-    ticketBtn = `<a href="${escapeHtml(ticket)}" class="btn btn--primary" target="_blank" rel="noopener">🎫 Kj\u00f8p billetter</a>`;
+    ticketBtn = `<a href="${escapeHtml(ticket)}" class="btn btn--primary" target="_blank" rel="noopener">${priceLabel}</a>`;
   } else {
     ticketBtn = `<span class="btn btn--free">🆓 Gratis inngang</span>`;
   }
@@ -383,7 +420,7 @@ function buildEventCard(event) {
           <span class="meta-item">📅 ${escapeHtml(formatDate(event.date, event.time))}</span>
           <span class="meta-item">📍 ${escapeHtml(event.location)}</span>
         </div>
-        <p class="event-card__desc">${escapeHtml(event.description)}</p>
+        ${event.description ? `<p class="event-card__desc">${escapeHtml(event.description)}</p>` : ""}
         <div class="event-card__categories">${badges}</div>
         <div class="event-card__actions">
           ${ticketBtn}
@@ -493,7 +530,7 @@ function renderByGroups(events) {
     .sort((a, b) => {
       if (a.sponsored && !b.sponsored) return -1;
       if (!a.sponsored && b.sponsored) return  1;
-      return new Date(a.date + "T" + a.time) - new Date(b.date + "T" + b.time);
+      return new Date(`${a.date}T${a.time || "00:00"}`) - new Date(`${b.date}T${b.time || "00:00"}`);
     });
 
   document.getElementById("event-count").textContent = filtered.length;
@@ -542,7 +579,10 @@ function renderByGroups(events) {
 
 function updateStats(events) {
   const total    = events.length;
-  const free     = events.filter((e) => e.categories.includes("gratis")).length;
+  // Gratis = merket gratis, eller laveste billettpris er 0
+  const free     = events.filter(
+    (e) => (e.categories || []).includes("gratis") || e.priceFrom === 0
+  ).length;
   const thisWeek = events.filter((e) => {
     const g = getDateGroup(e.date);
     return g === "idag" || g === "imorgen" || g === "helgen" || g === "uke";
@@ -566,6 +606,7 @@ function updateStats(events) {
    ============================================================ */
 
 function renderAll() {
+  buildFilters(allEvents);
   renderFeatured(allEvents);
   renderByGroups(allEvents);
 }
@@ -574,14 +615,33 @@ function renderAll() {
    FILTER-KNAPPER
    ============================================================ */
 
-function buildFilters() {
+/**
+ * Bygger filterknapper for kategoriene som faktisk finnes i dataene.
+ *
+ * Tidligere ble alle kategoriene vist alltid, så en by med seks
+ * arrangementer fikk sju knapper der de fleste ga null treff.
+ */
+function buildFilters(events = []) {
   const container = document.getElementById("filter-buttons");
-  container.innerHTML = CATEGORIES.map(
-    (cat) => `
-    <button class="filter-btn" data-filter="${cat.id}" aria-pressed="false">
-      ${cat.icon} ${cat.label}
-    </button>`
-  ).join("");
+  if (!container) return;
+
+  const present = new Set(events.flatMap((e) => e.categories || []));
+
+  // Filtre for kategorier som ikke lenger finnes ville låst visningen til null treff
+  for (const f of [...activeFilters]) {
+    if (!present.has(f)) activeFilters.delete(f);
+  }
+
+  const cats = CATEGORIES.filter((c) => present.has(c.id));
+  container.innerHTML = cats
+    .map((cat) => {
+      const active = activeFilters.has(cat.id);
+      return `
+    <button class="filter-btn${active ? " filter-btn--active" : ""}" data-filter="${escapeHtml(cat.id)}" aria-pressed="${active}">
+      ${cat.icon} ${escapeHtml(cat.label)}
+    </button>`;
+    })
+    .join("");
 
   container.querySelectorAll(".filter-btn").forEach((btn) => {
     btn.addEventListener("click", () => {
@@ -598,10 +658,13 @@ function buildFilters() {
       renderByGroups(allEvents);
     });
   });
+}
 
-  document.getElementById("reset-filters").addEventListener("click", () => {
+/** Nullstill-knappen henger på siden, ikke på de genererte knappene */
+function setupFilterReset() {
+  document.getElementById("reset-filters")?.addEventListener("click", () => {
     activeFilters.clear();
-    container.querySelectorAll(".filter-btn--active").forEach((b) => {
+    document.querySelectorAll(".filter-btn--active").forEach((b) => {
       b.classList.remove("filter-btn--active");
       b.setAttribute("aria-pressed", "false");
     });
@@ -936,7 +999,7 @@ async function loadCityCounts() {
    OPPSTART
    ============================================================ */
 document.addEventListener("DOMContentLoaded", () => {
-  buildFilters();
+  setupFilterReset();
   setupSearch();
   setupCityPicker();
   setupGeolocation();

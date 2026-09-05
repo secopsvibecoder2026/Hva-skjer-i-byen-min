@@ -11,6 +11,7 @@
  */
 
 import { parse } from "node-html-parser";
+import { CITIES } from "../cities.mjs";
 
 const CITY_SOURCES = {
   bergen: [
@@ -243,7 +244,12 @@ export async function scrapeLocalSites(city) {
     return [];
   }
 
-  const results = await Promise.allSettled(sources.map(scrapeSource));
+  // Vist stedsnavn. Uten dette havnet domenet ("lillestrom-kultursenter.no")
+  // i location-feltet og ble vist som sted på arrangementskortene.
+  const cityName = CITIES.find((c) => c.id === city.toLowerCase())?.name
+    || city.charAt(0).toUpperCase() + city.slice(1);
+
+  const results = await Promise.allSettled(sources.map((src) => scrapeSource(src, cityName)));
   const events  = [];
   for (const r of results) {
     if (r.status === "fulfilled") events.push(...r.value);
@@ -252,7 +258,7 @@ export async function scrapeLocalSites(city) {
   return events;
 }
 
-async function scrapeSource({ url, scraper, label }) {
+async function scrapeSource({ url, scraper, label }, cityName) {
   const res = await fetch(url, {
     headers: {
       "User-Agent":      "Mozilla/5.0 (compatible; HvaSkjerBot/1.0; +https://hva-skjer.no/bot)",
@@ -264,7 +270,7 @@ async function scrapeSource({ url, scraper, label }) {
   if (!res.ok) throw new Error(`${label} svarte med ${res.status}`);
 
   const root   = parse(await res.text());
-  const events = scraper(root, label);
+  const events = scraper(root, cityName);
   console.info(`${label}: fant ${events.length} arrangementer`);
   return events;
 }
@@ -290,14 +296,25 @@ function scrapeVisitTrondheim(root) {
   return scrapeGenericWithBase(root, "Trondheim", "https://www.visittrondheim.no", "vt");
 }
 
-function scrapeGeneric(root, label) {
-  return scrapeGenericWithBase(root, label, "", "gen");
+function scrapeGeneric(root, cityName) {
+  return scrapeGenericWithBase(root, cityName, "", "gen");
 }
 
 function scrapeGenericWithBase(root, city, baseUrl, prefix) {
   return scrapeItems(root, [
     "article", ".event", "[class*='event-']", "[class*='arrangement']", "li.item",
   ], city, baseUrl, prefix);
+}
+
+/**
+ * Titler som ser ut som arrangementer for selektorene, men er
+ * navigasjon eller markedsføring. Uten dette havner "Last ned vår app"
+ * og "Gi bort en opplevelse!" i programmet.
+ */
+const JUNK_TITLE = /^(last ned|gi bort|kjøp gavekort|meld deg på|se alle|les mer|abonner|nyhetsbrev|personvern|cookies|informasjonskapsler|kontakt oss|om oss|åpningstider|billetter|vilkår)\b/i;
+
+function isJunkTitle(title) {
+  return JUNK_TITLE.test(title.trim());
 }
 
 function scrapeItems(root, selectors, city, baseUrl, prefix) {
@@ -307,23 +324,33 @@ function scrapeItems(root, selectors, city, baseUrl, prefix) {
   for (const item of items) {
     const title = extractText(item, "h2, h3, h4, .event-title, [class*='title']");
     if (!title || title.length < 5) continue;
+    if (isJunkTitle(title)) continue;
 
     const dateStr    = extractText(item, "time, .date, [class*='date'], [datetime]");
+    const parsedDate = parseNorwegianDate(dateStr);
+
+    // Uten lesbar dato vet vi ikke når det skjer. Tidligere ble slike
+    // oppføringer datert til "i morgen", som gjorde tilfeldig markup om til
+    // troverdige arrangementer. Heller hoppe over enn å finne på en dato.
+    if (!parsedDate) continue;
+
     const location   = extractText(item, ".location, .venue, [class*='location']");
     const href       = extractHref(item, "a");
     const imgSrc     = extractImg(item);
-    const parsedDate = parseNorwegianDate(dateStr);
     const absHref    = href ? absoluteUrl(href, baseUrl) : null;
 
     events.push({
-      id:          `scrape-${prefix}-${slugify(title)}-${parsedDate?.date || ""}`,
+      id:          `scrape-${prefix}-${slugify(title)}-${parsedDate.date}`,
       title,
-      description: extractText(item, ".description, .summary, p") || `Arrangement i ${city}`,
-      date:        parsedDate?.date || tomorrowDateStr(),
-      time:        parsedDate?.time || "12:00",
+      description: extractText(item, ".description, .summary, p") || null,
+      date:        parsedDate.date,
+      // null = ukjent klokkeslett. Bedre enn å påstå kl. 12:00 for alt.
+      time:        parsedDate.time,
       endTime:     null,
       location:    location || city,
       categories:  guessCategories(title),
+      priceFrom:   null,
+      currency:    null,
       ticketUrl:   absHref,
       affiliateUrl: absHref ? `${absHref}?ref=hvaSkjerIByenMin` : null,
       imageUrl:    imgSrc || null,
@@ -371,8 +398,11 @@ function guessCategories(title = "") {
   if (/bar|nattklubb|club|uteliv|dj|afterparty/i.test(t))                          cats.add("uteliv");
   if (/familie|for barn|aktivitet/i.test(t))                                        cats.add("familie");
   if (/barn|junior|barneshow|barneteater/i.test(t))                                 cats.add("barn");
-  if (/gratis|fri inngang|free|åpen/i.test(t))                                      cats.add("gratis");
-  if (cats.size === 0) cats.add("familie");
+  if (/gratis|fri inngang|free/i.test(t))                                           cats.add("gratis");
+  if (/teater|revy|standup|stand-up|komik|forestilling|scene/i.test(t))             cats.add("teater");
+  if (/fotball|håndball|kamp|turnering|maraton|løp\b/i.test(t))                     cats.add("sport");
+  // Ingen fallback: uten treff får arrangementet ingen kategori. Å kalle alt
+  // "familie" gjorde kategorifilteret ubrukelig (65 % av alt havnet der).
   return [...cats];
 }
 
@@ -382,12 +412,12 @@ function parseNorwegianDate(dateStr = "") {
   const iso = dateStr.match(/(\d{4})-(\d{2})-(\d{2})/);
   if (iso) {
     const t = dateStr.match(/(\d{2}):(\d{2})/);
-    return { date: `${iso[1]}-${iso[2]}-${iso[3]}`, time: t ? `${t[1]}:${t[2]}` : "12:00" };
+    return { date: `${iso[1]}-${iso[2]}-${iso[3]}`, time: t ? `${t[1]}:${t[2]}` : null };
   }
 
   const no = dateStr.match(/(\d{1,2})\.(\d{1,2})\.(\d{4})/);
   if (no) {
-    return { date: `${no[3]}-${no[2].padStart(2,"0")}-${no[1].padStart(2,"0")}`, time: "12:00" };
+    return { date: `${no[3]}-${no[2].padStart(2,"0")}-${no[1].padStart(2,"0")}`, time: null };
   }
 
   const months = {
@@ -403,17 +433,11 @@ function parseNorwegianDate(dateStr = "") {
       const t = dateStr.match(/(\d{2}):(\d{2})/);
       return {
         date: `${year}-${String(month).padStart(2,"0")}-${txt[1].padStart(2,"0")}`,
-        time: t ? `${t[1]}:${t[2]}` : "12:00",
+        time: t ? `${t[1]}:${t[2]}` : null,
       };
     }
   }
   return null;
-}
-
-function tomorrowDateStr() {
-  const d = new Date();
-  d.setDate(d.getDate() + 1);
-  return d.toLocaleDateString("sv-SE");
 }
 
 function slugify(str = "") {

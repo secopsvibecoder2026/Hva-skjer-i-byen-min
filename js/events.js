@@ -11,10 +11,13 @@
  *   title      {string}
  *   description {string}
  *   date       {string}  ISO "YYYY-MM-DD"
- *   time       {string}  "HH:MM"
+ *   time       {string|null}  "HH:MM" – null når klokkeslett er ukjent
  *   endTime    {string}  "HH:MM"
  *   location   {string}
- *   categories {string[]} – "familie" | "gratis" | "konsert" | "barn"
+ *   categories {string[]} – "familie" | "gratis" | "konsert" | "barn" | "uteliv" | "teater" | "sport"
+ *                          (kan være tom – ingen kategori er bedre enn feil kategori)
+ *   priceFrom  {number|null}  laveste billettpris, null når ukjent
+ *   currency   {string|null}  "NOK"
  *   ticketUrl  {string|null}
  *   affiliateUrl {string|null}  ← bruk denne for inntjening
  *   imageUrl   {string|null}    ← ekte bilde-URL, picsum som placeholder
@@ -182,4 +185,6 @@ const CATEGORIES = [
   { id: "konsert",  label: "Konsert / Uteliv", icon: "🎵" },
   { id: "barn",     label: "Barn",             icon: "🧒" },
   { id: "uteliv",   label: "Uteliv",           icon: "🍸" },
+  { id: "teater",   label: "Teater / Scene",   icon: "🎭" },
+  { id: "sport",    label: "Sport",            icon: "⚽" },
 ];

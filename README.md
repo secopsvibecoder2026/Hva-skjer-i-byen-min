@@ -29,7 +29,7 @@ En lokal aktivitetsguide for norske byer – konserter, familieaktiviteter, grat
 - **Oversiktlig forside** med kommende arrangementer gruppert etter dato
   - I dag · I morgen · Denne uken · Neste uke · Senere
 - **Fremhevet arrangement** med stor bildebanner øverst
-- **Filtrering** på kategori: Familievennlig, Gratis, Konsert/Uteliv, Barn
+- **Filtrering** på kategori: Familievennlig, Gratis, Konsert/Uteliv, Barn, Uteliv, Teater/Scene, Sport
 - **Live-søk** etter tittel, sted og kategori
 - **Byer (22 stk):** Bergen, Oslo, Trondheim, Stavanger, Eidsvoll, Lillestrøm, Aurskog-Høland, Kristiansand, Tromsø, Drammen, Fredrikstad, Ålesund, Bodø, Hamar, Tønsberg, Moss, Haugesund, Sandefjord, Arendal, Molde, Voss, Kongsberg
 - **SEO-optimaliserte undersider** per by – `ibyenmin.no/bergen/`, `ibyenmin.no/oslo/` osv.
@@ -223,6 +223,8 @@ Alle datakilder normaliseres til dette formatet:
   "endTime": "23:00",
   "location": "Grieghallen, Bergen",
   "categories": ["konsert", "uteliv"],
+  "priceFrom": 450,
+  "currency": "NOK",
   "ticketUrl": "https://www.ticketmaster.no/...",
   "affiliateUrl": "https://www.ticketmaster.no/...?ref=hvaSkjerIByenMin",
   "imageUrl": "https://...",
@@ -233,6 +235,14 @@ Alle datakilder normaliseres til dette formatet:
 }
 ```
 
+**Felter som kan være `null`:**
+
+| Felt | Betyr |
+|------|-------|
+| `time` | Klokkeslett ukjent. Kortet viser da bare dato, og kalenderfila blir et heldagsarrangement. Bedre enn å påstå kl. 12:00. |
+| `description` | Kilden hadde ingen beskrivelse. Avsnittet utelates i stedet for å fylles med «Arrangement på \<sted\>», som bare gjentok stedslinja. |
+| `priceFrom` | Pris ikke oppgitt (typisk for scrapede kilder). Knappen sier «Kjøp billetter» uten beløp. `0` betyr gratis. |
+
 **Kategorier:**
 
 | ID | Label | Ikon |
@@ -241,6 +251,14 @@ Alle datakilder normaliseres til dette formatet:
 | `gratis` | Gratis | 🆓 |
 | `konsert` | Konsert / Uteliv | 🎵 |
 | `barn` | Barn | 🧒 |
+| `uteliv` | Uteliv | 🍸 |
+| `teater` | Teater / Scene | 🎭 |
+| `sport` | Sport | ⚽ |
+
+`categories` kan være tom. Ingen kategori er bedre enn feil kategori – tidligere
+falt alt uten treff tilbake på `familie`, som gjorde at 65 % av arrangementene
+havnet der og at filteret ikke filtrerte noe. Filterknappene bygges dessuten
+bare for kategoriene som finnes i dataene for den aktuelle byen.
 
 ---
 
@@ -283,6 +301,19 @@ node scripts/generate-city-pages.mjs
 ```
 
 ---
+
+### Hva scraperen forkaster
+
+De generiske selektorene treffer også navigasjon og markedsføring. To filtre
+holder søppel ute av programmet:
+
+- **Uten lesbar dato droppes oppføringen.** Tidligere ble den datert til «i
+  morgen», som gjorde tilfeldig markup om til troverdige arrangementer.
+- **Titler som starter med «Last ned», «Gi bort», «Meld deg på», «Se alle»,
+  «Kjøp gavekort» o.l.** forkastes.
+
+Klokkeslett gjettes ikke. Finner ikke scraperen et tidspunkt, blir `time`
+`null` og kortet viser bare datoen.
 
 ### Byer uten arrangementer
 

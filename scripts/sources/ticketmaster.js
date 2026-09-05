@@ -9,25 +9,28 @@
  * Dekker: konserter, sport, teater, familieshow, festival
  */
 
+// Segment/sjanger → våre kategorier.
+// Regel: heller ingen kategori enn feil kategori. Et arrangement uten
+// treff får ingen merker – det er ærligere enn å kalle alt "familie".
 const TM_SEGMENT_MAP = {
   "Music":           ["konsert"],
-  "Sports":          [],
-  "Arts & Theatre":  ["familie"],
+  "Sports":          ["sport"],
+  "Arts & Theatre":  ["teater"],
   "Film":            [],
   "Miscellaneous":   [],
   "Family":          ["familie", "barn"],
 };
 
 const TM_GENRE_MAP = {
-  "Classical":        ["konsert", "familie"],
+  "Classical":        ["konsert"],
   "Jazz":             ["konsert"],
   "Rock":             ["konsert", "uteliv"],
   "Pop":              ["konsert"],
   "Electronic":       ["konsert", "uteliv"],
   "Hip-Hop/Rap":      ["konsert", "uteliv"],
   "Country":          ["konsert"],
-  "Theatre":          ["familie"],
-  "Comedy":           ["familie"],
+  "Theatre":          ["teater"],
+  "Comedy":           ["teater"],
   "Children's Music": ["barn", "familie"],
   "Family":           ["familie", "barn"],
 };
@@ -157,8 +160,14 @@ function mapTicketmasterEvent(ev, includeCities = []) {
     const genre      = ev.classifications?.[0]?.genre?.name   || "";
     const categories = buildCategories(segment, genre);
 
+    // Pris: Discovery API oppgir priceRanges når billettene er lagt ut.
+    // min er laveste billettpris – det er den brukeren vil vite ("fra 450 kr").
     const priceRanges = ev.priceRanges || [];
-    if (priceRanges.some((p) => p.min === 0) && !categories.includes("gratis")) {
+    const mins        = priceRanges.map((p) => p.min).filter((n) => typeof n === "number");
+    const priceFrom   = mins.length > 0 ? Math.min(...mins) : null;
+    const currency    = priceRanges[0]?.currency || (priceFrom === null ? null : "NOK");
+
+    if (priceFrom === 0 && !categories.includes("gratis")) {
       categories.push("gratis");
     }
 
@@ -170,10 +179,12 @@ function mapTicketmasterEvent(ev, includeCities = []) {
     return {
       id:          `tm-${ev.id}`,
       title:       ev.name,
-      description: ev.info || ev.pleaseNote || `Arrangement på ${location}`,
+      // Ingen fyll-beskrivelse: "Arrangement på X" gjentar bare stedslinja
+      description: ev.info || ev.pleaseNote || null,
       date, time,
       endTime:     null,
       location, categories,
+      priceFrom, currency,
       ticketUrl:   baseUrl,
       affiliateUrl,
       imageUrl:    bestImage?.url || null,
@@ -192,7 +203,6 @@ function buildCategories(segment, genre) {
   const cats = new Set();
   for (const cat of TM_SEGMENT_MAP[segment] || []) cats.add(cat);
   for (const cat of TM_GENRE_MAP[genre]    || []) cats.add(cat);
-  if (cats.size === 0) cats.add("konsert");
   return [...cats];
 }
 
