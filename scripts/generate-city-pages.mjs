@@ -1,52 +1,82 @@
 /**
  * generate-city-pages.mjs
  *
- * Genererer SEO-optimaliserte statiske HTML-sider for hver by.
+ * Genererer SEO-optimaliserte statiske HTML-sider for hver by, by-pillene
+ * på forsiden, og sitemap.xml.
+ *
  * Kjøres etter scraping i GitHub Actions, og lokalt ved endringer.
  *
+ * Byer uten arrangementer behandles annerledes:
+ *   - ingen by-pille (ingen lenker til en side som er tom)
+ *   - ikke i sitemap
+ *   - siden genereres fortsatt, men med noindex, så gamle bokmerker og
+ *     eksterne lenker ikke gir 404
+ * Alt dette reverseres automatisk så snart byen får data igjen.
+ *
  * Output:
- *   /bergen/index.html
- *   /oslo/index.html
- *   ... (én per by)
+ *   /bergen/index.html … (én per by)
+ *   index.html (by-pillene mellom BY-PILLER-markørene)
  *   /sitemap.xml
+ *   /robots.txt
  */
 
 import { readFileSync, writeFileSync, mkdirSync } from "fs";
 import { join, dirname } from "path";
 import { fileURLToPath } from "url";
+import { CITIES } from "./cities.mjs";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, "..");
 
-const CITIES = [
-  { id: "bergen",         name: "Bergen",         emoji: "🏔️", region: "Vestland" },
-  { id: "oslo",           name: "Oslo",            emoji: "🏛️", region: "Oslo" },
-  { id: "trondheim",      name: "Trondheim",       emoji: "⚓",  region: "Trøndelag" },
-  { id: "stavanger",      name: "Stavanger",       emoji: "🛢️", region: "Rogaland" },
-  { id: "eidsvoll",       name: "Eidsvoll",        emoji: "🏘️", region: "Akershus" },
-  { id: "lillestrom",     name: "Lillestrøm",      emoji: "🏙️", region: "Akershus" },
-  { id: "aurskog-holand", name: "Aurskog-Høland",  emoji: "🌲", region: "Akershus" },
-  { id: "kristiansand",   name: "Kristiansand",    emoji: "🌊", region: "Agder" },
-  { id: "tromso",         name: "Tromsø",          emoji: "🦌", region: "Troms" },
-  { id: "drammen",        name: "Drammen",         emoji: "🌉", region: "Viken" },
-  { id: "fredrikstad",    name: "Fredrikstad",     emoji: "🏰", region: "Viken" },
-  { id: "alesund",        name: "Ålesund",         emoji: "🐟", region: "Møre og Romsdal" },
-  { id: "bodo",           name: "Bodø",            emoji: "✈️", region: "Nordland" },
-  { id: "hamar",          name: "Hamar",           emoji: "🏒", region: "Innlandet" },
-  { id: "tonsberg",       name: "Tønsberg",        emoji: "⛵", region: "Vestfold" },
-  { id: "moss",           name: "Moss",            emoji: "🌿", region: "Viken" },
-  { id: "haugesund",      name: "Haugesund",       emoji: "🎸", region: "Rogaland" },
-  { id: "sandefjord",     name: "Sandefjord",      emoji: "🐋", region: "Vestfold" },
-  { id: "arendal",        name: "Arendal",         emoji: "⛵", region: "Agder" },
-  { id: "molde",          name: "Molde",           emoji: "🌹", region: "Møre og Romsdal" },
-  { id: "voss",           name: "Voss",            emoji: "🏔️", region: "Vestland" },
-  { id: "kongsberg",      name: "Kongsberg",       emoji: "⛏️", region: "Numedal" },
-  { id: "larvik",         name: "Larvik",          emoji: "⚓",  region: "Vestfold" },
-];
+/** Antall kommende arrangementer for en by (0 hvis datafilen mangler) */
+function eventCount(cityId) {
+  try {
+    const data = JSON.parse(readFileSync(join(ROOT, "data", `events-${cityId}.json`), "utf-8"));
+    return Array.isArray(data.events) ? data.events.length : 0;
+  } catch {
+    return 0;
+  }
+}
+
+const cities     = CITIES.map((c) => ({ ...c, count: eventCount(c.id) }));
+const withEvents = cities.filter((c) => c.count > 0);
+const empty      = cities.filter((c) => c.count === 0);
 
 const BASE_URL = "https://ibyenmin.no";
-const template = readFileSync(join(ROOT, "index.html"), "utf-8");
 const year = new Date().getFullYear();
+
+/* ------------------------------------------------------------------ */
+/* By-piller – kun byer som faktisk har arrangementer                  */
+/* ------------------------------------------------------------------ */
+const pillsHtml = withEvents
+  .map(
+    (c) =>
+      `          <button class="city-pill" data-city="${c.id}" data-lat="${c.lat}" data-lon="${c.lon}" style="background-image:url('/img/cities/${c.id}.jpg')"><span class="city-pill__icon">${c.emoji}</span><span class="city-pill__name">${c.name}</span></button>`
+  )
+  .join("\n");
+
+const rawTemplate = readFileSync(join(ROOT, "index.html"), "utf-8");
+
+const PILL_START = "<!-- BY-PILLER:START";
+const PILL_END   = "<!-- BY-PILLER:SLUTT -->";
+const startIdx = rawTemplate.indexOf(PILL_START);
+const endIdx   = rawTemplate.indexOf(PILL_END);
+if (startIdx === -1 || endIdx === -1) {
+  throw new Error("Fant ikke BY-PILLER-markørene i index.html – kan ikke generere by-piller");
+}
+
+const template =
+  rawTemplate.slice(0, startIdx) +
+  `${PILL_START} – generert av scripts/generate-city-pages.mjs, ikke rediger for hånd -->
+        <div class="city-picker-row" role="group" aria-label="Velg by">
+${pillsHtml}
+        </div>
+        ` +
+  rawTemplate.slice(endIdx);
+
+// Forsiden får de samme pillene
+writeFileSync(join(ROOT, "index.html"), template);
+console.log(`✓ Oppdaterte by-piller på forsiden (${withEvents.length} byer med data)`);
 
 /* ------------------------------------------------------------------ */
 /* Generer HTML for en enkelt by                                       */
@@ -59,8 +89,9 @@ function generateCityHTML(city) {
       `<!-- SEO -->
     <title>Hva skjer i ${city.name}? Arrangementer og konserter ${year} | ibyenmin.no</title>
     <meta name="description" content="Finn konserter, familieaktiviteter og gratis arrangementer i ${city.name} ${year}. Oppdatert daglig – din komplette guide til hva som skjer i ${city.name}, ${city.region}." />
-    <meta name="keywords" content="${city.name} arrangementer, konserter ${city.name}, hva skjer i ${city.name}, familieaktiviteter ${city.name}, gratis events ${city.name}, ${city.region}" />
-    <link rel="canonical" href="${BASE_URL}/${city.id}/" />
+    <meta name="keywords" content="${city.name} arrangementer, konserter ${city.name}, hva skjer i ${city.name}, familieaktiviteter ${city.name}, gratis events ${city.name}, ${city.region}" />${
+      city.count === 0 ? '\n    <meta name="robots" content="noindex, follow" />' : ""
+    }
 
     <!-- Open Graph -->`
     )
@@ -82,6 +113,13 @@ function generateCityHTML(city) {
     .replace(/src="js\//g, 'src="../js/')
     // ── Fjern overskrivende DATA_BASE fra body (satt av index.html) ──
     .replace('<script>window.DATA_BASE = "./";</script>', "")
+    // ── Canonical: pek på by-siden, ikke forsiden ───────────────────
+    //    (index.html har nøyaktig én canonical – den byttes ut her,
+    //     slik at siden ikke ender med to konkurrerende canonicals)
+    .replace(
+      `<link rel="canonical" href="${BASE_URL}/" />`,
+      `<link rel="canonical" href="${BASE_URL}/${city.id}/" />`
+    )
     // ── JSON-LD + by-konfig ─────────────────────────────────────────
     .replace(
       "</head>",
@@ -101,7 +139,7 @@ function generateCityHTML(city) {
       }
     }
     </script>
-    <script>window.PRESELECTED_CITY="${city.id}";window.DATA_BASE="../";</script>
+    <script>window.PRESELECTED_CITY="${city.id}";window.DATA_BASE="../";window.CITY_META=${JSON.stringify({ name: city.name, lat: city.lat, lon: city.lon })};</script>
   </head>`
     );
 }
@@ -109,21 +147,22 @@ function generateCityHTML(city) {
 /* ------------------------------------------------------------------ */
 /* Skriv by-sider                                                      */
 /* ------------------------------------------------------------------ */
-let generated = 0;
-for (const city of CITIES) {
+for (const city of cities) {
   const dir = join(ROOT, city.id);
   mkdirSync(dir, { recursive: true });
   writeFileSync(join(dir, "index.html"), generateCityHTML(city));
-  generated++;
 }
-console.log(`✓ Genererte ${generated} by-sider`);
+console.log(`✓ Genererte ${cities.length} by-sider`);
+if (empty.length > 0) {
+  console.log(`  ⚠ ${empty.length} uten arrangementer (noindex, skjult fra by-velger og sitemap): ${empty.map((c) => c.id).join(", ")}`);
+}
 
 /* ------------------------------------------------------------------ */
 /* Generer sitemap.xml                                                 */
 /* ------------------------------------------------------------------ */
 const today = new Date().toISOString().split("T")[0];
 
-const cityUrls = CITIES.map(
+const cityUrls = withEvents.map(
   (city) => `
   <url>
     <loc>${BASE_URL}/${city.id}/</loc>
@@ -145,7 +184,7 @@ const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
 `;
 
 writeFileSync(join(ROOT, "sitemap.xml"), sitemap);
-console.log("✓ Genererte sitemap.xml");
+console.log(`✓ Genererte sitemap.xml (${withEvents.length + 1} URLer)`);
 
 /* ------------------------------------------------------------------ */
 /* Generer robots.txt                                                  */

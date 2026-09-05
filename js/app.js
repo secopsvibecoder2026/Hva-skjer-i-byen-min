@@ -27,7 +27,7 @@ let loadGen        = 0;             // race condition guard
 /* ============================================================
    SIKKERHET – ESCAPING AV EKSTERNE DATA
    ============================================================
-   Arrangementsdata kommer fra Ticketmaster, Eventbrite og scraping
+   Arrangementsdata kommer fra Ticketmaster og scraping
    av tredjeparts nettsider. Alt slikt innhold MÅ escapes før det
    settes inn med innerHTML, ellers kan en tittel som
    <img src=x onerror=...> kjøre vilkårlig JavaScript på siden.
@@ -413,6 +413,77 @@ function setupImageFallback() {
    RENDERING – DATO-GRUPPERT VISNING
    ============================================================ */
 
+/**
+ * Nærmeste byer som har arrangementer, basert på by-pillene.
+ * Pillene genereres kun for byer med data, så alle forslag har innhold.
+ */
+function nearestCitiesWithEvents(limit = 3) {
+  const meta = window.CITY_META;
+  const pills = [...document.querySelectorAll(".city-pill[data-city][data-lat]")]
+    .filter((p) => p.dataset.city !== window.PRESELECTED_CITY);
+
+  const cities = pills.map((p) => ({
+    id:   p.dataset.city,
+    name: p.querySelector(".city-pill__name")?.textContent?.trim() || p.dataset.city,
+    lat:  parseFloat(p.dataset.lat),
+    lon:  parseFloat(p.dataset.lon),
+  }));
+
+  if (!meta || typeof meta.lat !== "number") return cities.slice(0, limit);
+
+  return cities
+    .map((c) => ({ ...c, dist: distanceKm(meta.lat, meta.lon, c.lat, c.lon) }))
+    .sort((a, b) => a.dist - b.dist)
+    .slice(0, limit);
+}
+
+/**
+ * Fyller tom-tilstanden med riktig budskap.
+ *
+ * Har byen ingen data i det hele tatt, er det ikke brukerens søk som er
+ * problemet – da er det feil å be dem "fjerne noen filtre". Vi sier hva
+ * som faktisk er tilfelle og peker videre til byer som har noe.
+ */
+function renderEmptyState(cityHasNoData) {
+  const box = document.getElementById("no-results");
+  if (!box) return;
+
+  if (!cityHasNoData) {
+    box.innerHTML = `
+      <div class="no-results__emoji">😕</div>
+      <h3>Ingen treff</h3>
+      <p>Prøv et annet søkeord eller fjern noen filtre.</p>`;
+    return;
+  }
+
+  const cityName = window.CITY_META?.name
+    || document.getElementById("current-city-name")?.textContent
+    || "denne byen";
+  const nearby = nearestCitiesWithEvents(3);
+  const base   = window.PRESELECTED_CITY ? "../" : "./";
+
+  box.innerHTML = `
+    <div class="no-results__emoji">🌱</div>
+    <h3>Ingen arrangementer i ${escapeHtml(cityName)} ennå</h3>
+    <p>Vi henter inn nye arrangementer hver natt. Sjekk gjerne igjen om noen dager.</p>
+    ${nearby.length ? `
+      <p class="no-results__suggest">Det skjer ting i nærheten:</p>
+      <div class="no-results__cities">
+        ${nearby.map((c) => `<a class="no-results__city" href="${base}${encodeURIComponent(c.id)}/">${escapeHtml(c.name)}</a>`).join("")}
+      </div>` : ""}`;
+}
+
+/**
+ * Filtre og resultat-teller gir ingen mening når byen ikke har data –
+ * de skjules så siden ikke ser ødelagt ut.
+ */
+function setCityChromeVisible(visible) {
+  const filterSection = document.querySelector(".filter-section");
+  const resultsHeader = document.querySelector(".results-header");
+  if (filterSection) filterSection.hidden = !visible;
+  if (resultsHeader) resultsHeader.hidden = !visible;
+}
+
 function renderByGroups(events) {
   const container = document.getElementById("events-container");
   const noResults = document.getElementById("no-results");
@@ -427,8 +498,12 @@ function renderByGroups(events) {
 
   document.getElementById("event-count").textContent = filtered.length;
 
+  const cityHasNoData = events.length === 0;
+  setCityChromeVisible(!cityHasNoData);
+
   if (filtered.length === 0) {
     container.innerHTML = "";
+    renderEmptyState(cityHasNoData);
     noResults.hidden = false;
     return;
   }
@@ -480,6 +555,10 @@ function updateStats(events) {
   if (statTotal)    statTotal.textContent    = total;
   if (statFree)     statFree.textContent     = free;
   if (statThisWeek) statThisWeek.textContent = thisWeek;
+
+  // "0 / 0 / 0" får siden til å se ødelagt ut – skjul heller hele blokka
+  const statsBox = document.getElementById("hero-stats");
+  if (statsBox) statsBox.hidden = total === 0;
 }
 
 /* ============================================================
@@ -585,17 +664,20 @@ function updateStickyBar(cityName) {
  * Navigerer IKKE – brukes kun når PRESELECTED_CITY er satt i HTML.
  */
 async function activateCity(city) {
+  // Byer uten arrangementer har ingen by-pille, men siden skal fortsatt
+  // fungere for den som kommer inn via bokmerke eller søkemotor.
   const pill = document.querySelector(`.city-pill[data-city="${city}"]`);
-  if (!pill) return;
-
-  document.querySelectorAll(".city-pill").forEach((p) => p.classList.remove("city-pill--active"));
-  pill.classList.add("city-pill--active");
+  if (pill) {
+    document.querySelectorAll(".city-pill").forEach((p) => p.classList.remove("city-pill--active"));
+    pill.classList.add("city-pill--active");
+  }
 
   currentCity = city;
-  const cityName = (pill.dataset.label || pill.textContent)
-    .trim()
-    .replace(/^[^\s]+\s/, "")
-    .replace(/\s*\(\d+\)$/, "");
+
+  const pillName = pill
+    ? (pill.dataset.label || pill.textContent).trim().replace(/^[^\s]+\s/, "").replace(/\s*\(\d+\)$/, "")
+    : "";
+  const cityName = window.CITY_META?.name || pillName || city.charAt(0).toUpperCase() + city.slice(1);
 
   document.getElementById("current-city-label").textContent = cityName.toUpperCase();
   document.getElementById("current-city-name").textContent  = cityName;

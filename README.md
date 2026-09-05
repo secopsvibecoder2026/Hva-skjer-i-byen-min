@@ -48,7 +48,6 @@ En lokal aktivitetsguide for norske byer – konserter, familieaktiviteter, grat
 ```
 GitHub Actions (cron daglig kl. 06:00 Oslo-tid)
   ├── Ticketmaster Discovery API (NO)   ← krever TM_API_KEY
-  ├── Eventbrite Public API             ← krever EB_TOKEN
   └── Web-scraping (visitbergen.com, visitoslo.com …)
        │
        ├── data/events-bergen.json      ← oppdateres daglig
@@ -123,11 +122,11 @@ hva-skjer-i-byen-min/
 │   ├── events-oslo.json
 │   └── events-{by}.json  (22 stk)
 ├── scripts/
+│   ├── cities.mjs                  # By-register: navn, koordinater, region (én kilde)
 │   ├── scrape.mjs                  # Henter event-data (kjøres av GitHub Actions)
-│   ├── generate-city-pages.mjs     # Genererer by-sider og sitemap (kjøres etter scraping)
+│   ├── generate-city-pages.mjs     # Genererer by-sider, by-piller og sitemap
 │   └── sources/
 │       ├── ticketmaster.js         # Ticketmaster Discovery API v2
-│       ├── eventbrite.js           # Eventbrite Public API
 │       └── scrape.js               # Web-scraping av lokale nettsider
 ├── .github/
 │   └── workflows/
@@ -171,7 +170,7 @@ Frontenden viser lokal eksempeldata automatisk når `data/events-{by}.json` ikke
 
 ```bash
 cp .env.example .env.local
-# Fyll inn TM_API_KEY og EB_TOKEN i .env.local
+# Fyll inn TM_API_KEY i .env.local
 
 npm run scrape
 # eller direkte:
@@ -203,9 +202,8 @@ Gå til **Settings → Secrets and variables → Actions → New repository secr
 | Secret | Beskrivelse | Henter her |
 |--------|-------------|------------|
 | `TM_API_KEY` | Ticketmaster Consumer Key | [developer.ticketmaster.com](https://developer.ticketmaster.com) → My Apps |
-| `EB_TOKEN` | Eventbrite Private Token | [eventbrite.com](https://www.eventbrite.com/platform/api) → Account → Developer Links |
 
-Begge API-er er gratis. Siden fungerer også uten nøkler – da brukes kun web-scraping.
+API-et er gratis. Siden fungerer også uten nøkkel – da brukes kun web-scraping.
 
 **Manuell trigger av scraper:** Actions → «Scrape events» → Run workflow
 
@@ -251,8 +249,8 @@ Alle datakilder normaliseres til dette formatet:
 ### Daglig oppdatering
 
 GitHub Actions kjører `scripts/scrape.mjs` kl. 06:00 hver dag (UTC+1/+2).
-Scraperen henter data fra Ticketmaster, Eventbrite og norske nettsider,
-og overskriver `data/events-{by}.json` for alle fem byer.
+Scraperen henter data fra Ticketmaster og norske nettsider, og overskriver
+`data/events-{by}.json` for alle byer i `scripts/cities.mjs`.
 
 ### Utløpte events
 
@@ -285,6 +283,20 @@ node scripts/generate-city-pages.mjs
 ```
 
 ---
+
+### Byer uten arrangementer
+
+`generate-city-pages.mjs` teller arrangementer per by og behandler tomme byer
+annerledes, så siden ikke ser ødelagt ut og Google ikke indekserer tomme sider:
+
+- ingen by-pille i by-velgeren (vi lenker ikke til en tom side)
+- ikke med i `sitemap.xml`
+- siden genereres fortsatt, men med `noindex, follow` – gamle bokmerker og
+  eksterne lenker gir dermed ikke 404
+- besøkende får «Ingen arrangementer i X ennå» og forslag om nærmeste byer
+  som har innhold
+
+Alt reverseres automatisk neste kjøring så snart byen får data.
 
 ## Legg til ny by
 
@@ -375,8 +387,11 @@ Alle billettkjøp-lenker har `?ref=hvaSkjerIByenMin` og `rel="sponsored"`.
 Bytt ut med ditt eget affiliate-ID hos:
 
 - **Ticketmaster:** [ticketmaster.no/affiliate](https://www.ticketmaster.no/affiliate)
-- **Eventbrite:** Kontakt Eventbrite for partneravtale
 - **Narvesen/Billettservice:** [billettservice.no](https://www.billettservice.no)
+
+> **Merk:** `?ref=hvaSkjerIByenMin` er ikke et affiliate-ID – det er bare en
+> query-parameter Ticketmaster ignorerer, og gir null provisjon. For reell
+> inntjening må du inn i et faktisk partnerprogram og bruke deres sporingslenker.
 
 For sponsede oppføringer: sett `"sponsored": true` og `"featured": true` i `data/events-{by}.json`.
 
@@ -400,7 +415,7 @@ For sponsede oppføringer: sett `"sponsored": true` og `"featured": true` i `dat
 | Frontend | Vanilla HTML, CSS, JavaScript |
 | Hosting | GitHub Pages (gratis) |
 | Automatisering | GitHub Actions (gratis, 2000 min/mnd) |
-| Datakilde | Ticketmaster API, Eventbrite API, web-scraping |
+| Datakilde | Ticketmaster API, web-scraping |
 | Scraping | `node-html-parser` (ingen headless browser) |
 | Geo-deteksjon | Browser Geolocation API + Haversine-distanse |
 

@@ -884,6 +884,36 @@ a:hover { color: var(--color-primary-dk); }
 .no-results__emoji { font-size: 3rem; margin-bottom: 1rem; }
 .no-results h3 { font-size: 1.2rem; margin-bottom: 0.5rem; color: var(--color-text); }
 
+/* Forslag om nærliggende byer når byen ikke har arrangementer */
+.no-results__suggest {
+  margin-top: 1.75rem;
+  font-size: 0.9rem;
+}
+.no-results__cities {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  justify-content: center;
+  margin-top: 0.75rem;
+}
+.no-results__city {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  border: 1px solid var(--color-border);
+  border-radius: 999px;
+  background: var(--color-surface);
+  color: var(--color-text);
+  font-weight: 600;
+  font-size: 0.9rem;
+  text-decoration: none;
+  transition: border-color 0.15s ease, transform 0.15s ease;
+}
+.no-results__city:hover {
+  border-color: var(--color-primary);
+  color: var(--color-primary);
+  transform: translateY(-1px);
+}
+
 /* ============================================================
    14. LASTE-INDIKATOR
    ============================================================ */

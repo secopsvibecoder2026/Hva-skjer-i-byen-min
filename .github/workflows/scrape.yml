@@ -6,7 +6,6 @@
 #
 # Nødvendige GitHub Secrets (Settings → Secrets → Actions):
 #   TM_API_KEY  – Ticketmaster Consumer Key  (https://developer.ticketmaster.com)
-#   EB_TOKEN    – Eventbrite Private Token    (https://www.eventbrite.com/platform/api)
 #
 # Siden fungerer UTEN nøkler – da brukes kun scraping av offentlige nettsider.
 
@@ -49,7 +48,6 @@ jobs:
         run: node scripts/scrape.mjs
         env:
           TM_API_KEY: ${{ secrets.TM_API_KEY }}
-          EB_TOKEN:   ${{ secrets.EB_TOKEN }}
 
       - name: Generer by-sider (SEO)
         run: node scripts/generate-city-pages.mjs

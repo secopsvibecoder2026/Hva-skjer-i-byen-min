@@ -21,7 +21,7 @@
  *   imageEmoji {string}         ← emoji-fallback
  *   sponsored  {boolean}
  *   featured   {boolean}        ← vises i featured-sonen øverst
- *   source     {string}         ← "local" | "ticketmaster" | "eventbrite" | "scrape"
+ *   source     {string}         ← "local" | "ticketmaster" | "scrape"
  * }
  */
 

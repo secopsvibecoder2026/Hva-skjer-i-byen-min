@@ -7,7 +7,6 @@
  *
  * Miljøvariabler (settes som GitHub Secrets):
  *   TM_API_KEY  – Ticketmaster Consumer Key  (valgfri, men anbefalt)
- *   EB_TOKEN    – Eventbrite Private Token    (valgfri, men anbefalt)
  *
  * Output: data/events-{by}.json for hver by i CITIES-listen.
  * GitHub Pages serverer disse filene som statiske JSON-filer.
@@ -21,16 +20,10 @@
 
 import { readFile, writeFile, mkdir } from "node:fs/promises";
 import { fetchTicketmaster } from "./sources/ticketmaster.js";
-import { fetchEventbrite }   from "./sources/eventbrite.js";
 import { scrapeLocalSites }  from "./sources/scrape.js";
+import { CITY_IDS }          from "./cities.mjs";
 
-const CITIES = [
-  "bergen", "oslo", "trondheim", "stavanger", "eidsvoll",
-  "lillestrom", "aurskog-holand", "kristiansand", "tromso",
-  "drammen", "fredrikstad", "alesund", "bodo", "hamar",
-  "tonsberg", "moss", "haugesund", "sandefjord", "arendal",
-  "molde", "voss", "kongsberg", "larvik",
-];
+const CITIES = CITY_IDS;
 
 await mkdir("data", { recursive: true });
 
@@ -40,22 +33,19 @@ let totalEvents = 0;
 for (const city of CITIES) {
   console.log(`\n⟶  Henter data for ${city}…`);
 
-  const [tmResult, ebResult, scrapeResult] = await Promise.allSettled([
+  const [tmResult, scrapeResult] = await Promise.allSettled([
     fetchTicketmaster(city),
-    fetchEventbrite(city),
     scrapeLocalSites(city),
   ]);
 
   const tmEvents     = tmResult.status     === "fulfilled" ? tmResult.value     : [];
-  const ebEvents     = ebResult.status     === "fulfilled" ? ebResult.value     : [];
   const scrapeEvents = scrapeResult.status === "fulfilled" ? scrapeResult.value : [];
 
   if (tmResult.status     === "rejected") console.warn(`  ⚠ Ticketmaster: ${tmResult.reason?.message}`);
-  if (ebResult.status     === "rejected") console.warn(`  ⚠ Eventbrite:   ${ebResult.reason?.message}`);
-  if (scrapeResult.status === "rejected") console.warn(`  ⚠ Scraping:      ${scrapeResult.reason?.message}`);
+  if (scrapeResult.status === "rejected") console.warn(`  ⚠ Scraping:     ${scrapeResult.reason?.message}`);
 
-  const sourcesGotData = tmEvents.length + ebEvents.length + scrapeEvents.length > 0;
-  console.log(`  Ticketmaster: ${tmEvents.length} | Eventbrite: ${ebEvents.length} | Scraping: ${scrapeEvents.length}`);
+  const sourcesGotData = tmEvents.length + scrapeEvents.length > 0;
+  console.log(`  Ticketmaster: ${tmEvents.length} | Scraping: ${scrapeEvents.length}`);
 
   const outputPath = `data/events-${city}.json`;
 
@@ -83,7 +73,7 @@ for (const city of CITIES) {
   }
 
   // Slå sammen, dedupliser og sorter
-  const merged = deduplicate([...tmEvents, ...ebEvents, ...scrapeEvents]);
+  const merged = deduplicate([...tmEvents, ...scrapeEvents]);
   merged.sort((a, b) => {
     if (a.sponsored && !b.sponsored) return -1;
     if (!a.sponsored && b.sponsored) return  1;
@@ -104,7 +94,6 @@ for (const city of CITIES) {
         fetchedAt: new Date().toISOString(),
         sources: {
           ticketmaster: tmEvents.length,
-          eventbrite:   ebEvents.length,
           scrape:       scrapeEvents.length,
         },
       },
@@ -119,7 +108,7 @@ for (const city of CITIES) {
 console.log(`\n✅ Ferdig! ${totalEvents} events for ${CITIES.length} byer.\n`);
 
 function deduplicate(events) {
-  const priority = { ticketmaster: 0, eventbrite: 1, scrape: 2, local: 3 };
+  const priority = { ticketmaster: 0, scrape: 1, local: 2 };
   const seen     = new Map();
   for (const event of events) {
     const key = `${event.title.toLowerCase().trim()}|${event.date}`;
