@@ -12,6 +12,8 @@
         "konsert",
         "uteliv"
       ],
+      "priceFrom": null,
+      "currency": null,
       "ticketUrl": "https://www.ticketmaster.no/event/anatolaks-tickets/1770273260?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/anatolaks-tickets/1770273260?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/e/559/e692cfbf-24f4-4666-864b-76b8dd763559_TABLET_LANDSCAPE_LARGE_16_9.jpg",
@@ -32,6 +34,8 @@
         "konsert",
         "uteliv"
       ],
+      "priceFrom": null,
+      "currency": null,
       "ticketUrl": "https://www.ticketmaster.no/event/tundra-and-lightning-2026-friday-pass-tickets/2045697737?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/tundra-and-lightning-2026-friday-pass-tickets/2045697737?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/a/6fd/9e9e302b-0f50-4236-8cee-2420f80af6fd_RETINA_LANDSCAPE_16_9.jpg",
@@ -51,6 +55,8 @@
       "categories": [
         "konsert"
       ],
+      "priceFrom": null,
+      "currency": null,
       "ticketUrl": "https://www.ticketmaster.no/event/tundra-and-lightning-2026-tickets/1552272125?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/tundra-and-lightning-2026-tickets/1552272125?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/a/6fd/9e9e302b-0f50-4236-8cee-2420f80af6fd_RETINA_LANDSCAPE_16_9.jpg",
@@ -71,6 +77,8 @@
         "konsert",
         "uteliv"
       ],
+      "priceFrom": null,
+      "currency": null,
       "ticketUrl": "https://www.ticketmaster.no/event/tundra-and-lightning-2026-saturday-pass-tickets/889765272?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/tundra-and-lightning-2026-saturday-pass-tickets/889765272?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/a/6fd/9e9e302b-0f50-4236-8cee-2420f80af6fd_RETINA_LANDSCAPE_16_9.jpg",
@@ -90,6 +98,8 @@
       "categories": [
         "konsert"
       ],
+      "priceFrom": null,
+      "currency": null,
       "ticketUrl": "https://www.ticketmaster.no/event/macy-gray-the-trouble-with-the-truth-tour-tickets/745086346?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/macy-gray-the-trouble-with-the-truth-tour-tickets/745086346?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/a/90d/6d1db0ea-5f58-47ec-9016-ae90300e990d_RETINA_LANDSCAPE_16_9.jpg",
@@ -109,6 +119,8 @@
       "categories": [
         "konsert"
       ],
+      "priceFrom": null,
+      "currency": null,
       "ticketUrl": "https://www.ticketmaster.no/event/beyond-the-gates-xv-4-day-festival-pass-gold-tickets/1758961517?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/beyond-the-gates-xv-4-day-festival-pass-gold-tickets/1758961517?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/a/882/64e07d9b-e5e9-45a5-a054-b5e8c64bc882_TABLET_LANDSCAPE_16_9.jpg",
@@ -121,10 +133,9 @@
   "meta": {
     "city": "bergen",
     "count": 6,
-    "fetchedAt": "2026-09-05T08:48:38.648Z",
+    "fetchedAt": "2026-09-06T09:08:57.349Z",
     "sources": {
       "ticketmaster": 6,
-      "eventbrite": 0,
       "scrape": 0
     }
   }

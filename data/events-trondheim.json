@@ -11,6 +11,8 @@
       "categories": [
         "konsert"
       ],
+      "priceFrom": null,
+      "currency": null,
       "ticketUrl": "https://www.ticketmaster.no/event/nidarave-2026-tickets/684928814?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/nidarave-2026-tickets/684928814?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/e/1ca/7dcf9a9b-835f-4979-a37c-cc86a048f1ca_TABLET_LANDSCAPE_16_9.jpg",
@@ -22,7 +24,7 @@
     {
       "id": "tm-Z698xZb_Z16v1fGvFt",
       "title": "Westlife 25: The Anniversary World Tour",
-      "description": "Arrangement på Trondheim",
+      "description": null,
       "date": "2027-06-20",
       "time": "18:00",
       "endTime": null,
@@ -31,6 +33,8 @@
         "konsert",
         "uteliv"
       ],
+      "priceFrom": null,
+      "currency": null,
       "ticketUrl": "https://www.ticketmaster.no/event/westlife-25-the-anniversary-world-tour-tickets/1294301229?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/westlife-25-the-anniversary-world-tour-tickets/1294301229?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/a/78c/07626348-f909-4270-af8d-3c8ecbfd378c_SOURCE",
@@ -43,10 +47,9 @@
   "meta": {
     "city": "trondheim",
     "count": 2,
-    "fetchedAt": "2026-09-05T08:48:41.728Z",
+    "fetchedAt": "2026-09-06T09:08:58.442Z",
     "sources": {
       "ticketmaster": 2,
-      "eventbrite": 0,
       "scrape": 0
     }
   }

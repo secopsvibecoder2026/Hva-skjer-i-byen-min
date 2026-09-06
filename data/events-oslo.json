@@ -1,67 +1,9 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z16eZkowkA",
-      "title": "Cancelled: Organ recital with Stefan Engels",
-      "description": "This organ recital is cancelled due to preparations for H. M. King Harald V's funeral. Stefan Engels (Dallas, Texas), organ. Works by Schumann, Bach, Baker and Karg-Elert. Dear friends of organ music, Welcome to Oslo Cathedral and this year's summer concert series! Over the course of 15 Saturdays from July to October, we invite you to festive and diverse concerts featuring organists from both Norway and abroad. Each concert has its own distinct character, reflecting the musical background and tradition of the guest performer. During the summer months, when everyday life tends to slow down and time feels more spacious, we wish to present a rich and varied musical program on our cathedral organ, built in 1998 by the Norwegian organ builder Ryde & Berg. We are committed to making organ music accessible to as many people as possible. Please feel free to take the program with you, share it with friends and family, and invite someone along to a concert. Admission is always free for children and students. We look forward to seeing you at Oslo Cathedral and wish you a joyful and inspiring summer! Marcus André Berg and Tjark Pinne Organists of Oslo Cathedral. Accessibility: Oslo Cathedral has dedicated wheelchair spaces in the south transept. Companions enter free of charge upon presenting a companion certificate. Oslo Cathedral has a ramp and an elevator for step-free access. Please arrive at the main entrance, and our staff will guide you to the wheelchair entrance. A wheelchair-accessible restroom is available by the main entrance. For questions; please call Oslo Cathedral, phone: +47 23629010",
-      "date": "2026-09-05",
-      "time": "12:00",
-      "endTime": null,
-      "location": "Oslo domkirke, Oslo",
-      "categories": [
-        "konsert",
-        "familie"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/cancelled-organ-recital-with-stefan-engels-tickets/2006472185?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/cancelled-organ-recital-with-stefan-engels-tickets/2006472185?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/800/c34a1c02-c461-4ea3-9e7e-35e62f9ab800_TABLET_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z1kaPaY38",
-      "title": "Norwegian Military Tattoo",
-      "description": "Arrangement på Oslo Spektrum, Oslo",
-      "date": "2026-09-05",
-      "time": "13:00",
-      "endTime": null,
-      "location": "Oslo Spektrum, Oslo",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/norwegian-military-tattoo-tickets/265270490?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/norwegian-military-tattoo-tickets/265270490?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/2cc/7d2679e0-d17b-4cf2-a325-7ed093b562cc_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎭",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16v4O8K8Z",
-      "title": "Norwegian Military Tattoo - Tattoo Exclusive",
-      "description": "Arrangement på Oslo Spektrum, Oslo",
-      "date": "2026-09-05",
-      "time": "18:01",
-      "endTime": null,
-      "location": "Oslo Spektrum, Oslo",
-      "categories": [
-        "familie"
-      ],
-      "ticketUrl": "https://www.ticketmaster.no/event/norwegian-military-tattoo-tattoo-exclusive-tickets/1560413400?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/norwegian-military-tattoo-tattoo-exclusive-tickets/1560413400?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/2cc/7d2679e0-d17b-4cf2-a325-7ed093b562cc_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎭",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z16eeFFIQ8",
       "title": "Norwegian Military Tattoo",
-      "description": "Arrangement på Oslo Spektrum, Oslo",
+      "description": null,
       "date": "2026-09-06",
       "time": "13:00",
       "endTime": null,
@@ -70,6 +12,8 @@
         "familie",
         "barn"
       ],
+      "priceFrom": null,
+      "currency": null,
       "ticketUrl": "https://www.ticketmaster.no/event/norwegian-military-tattoo-tickets/2088228690?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/norwegian-military-tattoo-tickets/2088228690?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/a/2cc/7d2679e0-d17b-4cf2-a325-7ed093b562cc_RETINA_PORTRAIT_16_9.jpg",
@@ -81,15 +25,16 @@
     {
       "id": "tm-Z698xZb_Z1kGU-Vbk",
       "title": "Masterwork recital - Beethoven/Grieg/Liszt recital",
-      "description": "Arrangement på Kampen Kirke, Oslo, Oslo",
+      "description": null,
       "date": "2026-09-06",
       "time": "19:00",
       "endTime": null,
       "location": "Kampen Kirke, Oslo, Oslo",
       "categories": [
-        "konsert",
-        "familie"
+        "konsert"
       ],
+      "priceFrom": null,
+      "currency": null,
       "ticketUrl": "https://www.ticketmaster.no/event/masterwork-recital-beethoven-grieg-liszt-recital-tickets/336874606?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/masterwork-recital-beethoven-grieg-liszt-recital-tickets/336874606?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/a/426/de51a23a-e20c-4ec2-91d3-3a13d3c87426_SOURCE",
@@ -110,6 +55,8 @@
         "konsert",
         "uteliv"
       ],
+      "priceFrom": null,
+      "currency": null,
       "ticketUrl": "https://www.ticketmaster.no/event/devin-townsend-tickets/207717953?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/devin-townsend-tickets/207717953?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/e/d01/e9781de6-5df1-49f9-8402-5f534c77dd01_SOURCE",
@@ -121,7 +68,7 @@
     {
       "id": "tm-Z698xZb_Z16vbtOKQ9",
       "title": "Papaya / Radioresepsjonen 20 år",
-      "description": "Arrangement på Sentrum Scene, Oslo",
+      "description": null,
       "date": "2026-09-09",
       "time": "19:00",
       "endTime": null,
@@ -130,6 +77,8 @@
         "konsert",
         "uteliv"
       ],
+      "priceFrom": null,
+      "currency": null,
       "ticketUrl": "https://www.ticketmaster.no/event/papaya-radioresepsjonen-20-ar-tickets/1629813697?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/papaya-radioresepsjonen-20-ar-tickets/1629813697?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/e/20b/0da2486a-aabd-4dd7-a52f-2be7a39a720b_RETINA_PORTRAIT_16_9.jpg",
@@ -141,7 +90,7 @@
     {
       "id": "tm-LvZ18QoDatfQEBYvNX_7F",
       "title": "Bransjepass / Delegate pass - by:Larm 2026",
-      "description": "Arrangement på by:Larm, Oslo",
+      "description": null,
       "date": "2026-09-10",
       "time": "10:00",
       "endTime": null,
@@ -149,6 +98,8 @@
       "categories": [
         "konsert"
       ],
+      "priceFrom": null,
+      "currency": null,
       "ticketUrl": "https://www.universe.com/events/bransjepass-delegate-pass-by-larm-2026-tickets-W5J342?ref=ticketmaster",
       "affiliateUrl": "https://www.universe.com/events/bransjepass-delegate-pass-by-larm-2026-tickets-W5J342?ref=ticketmaster&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/a/9f4/f889692d-4f8f-46de-bc4b-8d99a63f59f4_RETINA_PORTRAIT_16_9.jpg",
@@ -160,7 +111,7 @@
     {
       "id": "tm-Z698xZb_Z16v_FbkZg",
       "title": "The Pussycat Dolls: PCD FOREVER TOUR",
-      "description": "Arrangement på Oslo Spektrum, Oslo",
+      "description": null,
       "date": "2026-09-10",
       "time": "18:30",
       "endTime": null,
@@ -168,6 +119,8 @@
       "categories": [
         "konsert"
       ],
+      "priceFrom": null,
+      "currency": null,
       "ticketUrl": "https://www.ticketmaster.no/event/the-pussycat-dolls-pcd-forever-tour-tickets/1648606035?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/the-pussycat-dolls-pcd-forever-tour-tickets/1648606035?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/a/e1e/81bad860-56ff-4595-bcc4-90766354be1e_TABLET_LANDSCAPE_LARGE_16_9.jpg",
@@ -179,14 +132,16 @@
     {
       "id": "tm-Z698xZb_Z1kaAbpuv",
       "title": "Papaya / Radioresepsjonen 20 år",
-      "description": "Arrangement på Sentrum Scene, Oslo",
+      "description": null,
       "date": "2026-09-10",
       "time": "19:00",
       "endTime": null,
       "location": "Sentrum Scene, Oslo",
       "categories": [
-        "familie"
+        "teater"
       ],
+      "priceFrom": null,
+      "currency": null,
       "ticketUrl": "https://www.ticketmaster.no/event/papaya-radioresepsjonen-20-ar-tickets/245616341?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/papaya-radioresepsjonen-20-ar-tickets/245616341?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/e/2d9/fec7b5a1-c080-4ebf-bc0f-b7ee8f3802d9_RETINA_PORTRAIT_16_9.jpg",
@@ -198,7 +153,7 @@
     {
       "id": "tm-Z698xZb_Z1k1Z_fv3",
       "title": "Papaya / Radioresepsjonen 20 år",
-      "description": "Arrangement på Sentrum Scene, Oslo",
+      "description": null,
       "date": "2026-09-11",
       "time": "19:00",
       "endTime": null,
@@ -207,6 +162,8 @@
         "konsert",
         "uteliv"
       ],
+      "priceFrom": null,
+      "currency": null,
       "ticketUrl": "https://www.ticketmaster.no/event/papaya-radioresepsjonen-20-ar-tickets/280654052?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/papaya-radioresepsjonen-20-ar-tickets/280654052?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/e/c91/9c09e6bc-af53-435f-b7df-55d22f6dbc91_RETINA_PORTRAIT_16_9.jpg",
@@ -227,6 +184,8 @@
         "konsert",
         "uteliv"
       ],
+      "priceFrom": null,
+      "currency": null,
       "ticketUrl": "https://www.ticketmaster.no/event/ingenting-tickets/737581637?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/ingenting-tickets/737581637?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/a/699/65d19c47-a235-4987-bb86-90048db4f699_TABLET_LANDSCAPE_16_9.jpg",
@@ -247,6 +206,8 @@
         "konsert",
         "uteliv"
       ],
+      "priceFrom": null,
+      "currency": null,
       "ticketUrl": "https://www.ticketmaster.no/event/linni-18--tickets/958625535?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/linni-18--tickets/958625535?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/e/e40/af93e67a-5a0d-4f85-9213-6f8538f32e40_RETINA_LANDSCAPE_16_9.jpg",
@@ -258,7 +219,7 @@
     {
       "id": "tm-Z698xZb_Z16vb_o6fg",
       "title": "Bailey Zimmerman: Different Night Same Rodeo Tour 2026",
-      "description": "Arrangement på Oslo Spektrum, Oslo",
+      "description": null,
       "date": "2026-09-12",
       "time": "00:00",
       "endTime": null,
@@ -266,6 +227,8 @@
       "categories": [
         "konsert"
       ],
+      "priceFrom": null,
+      "currency": null,
       "ticketUrl": "https://www.ticketmaster.no/event/bailey-zimmerman-different-night-same-rodeo-tour-2026-tickets/1619447535?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/bailey-zimmerman-different-night-same-rodeo-tour-2026-tickets/1619447535?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/a/fd0/8e20e642-292c-4fb6-b145-a8679ceb6fd0_SOURCE",
@@ -283,9 +246,10 @@
       "endTime": null,
       "location": "Oslo domkirke, Oslo",
       "categories": [
-        "konsert",
-        "familie"
+        "konsert"
       ],
+      "priceFrom": null,
+      "currency": null,
       "ticketUrl": "https://www.ticketmaster.no/event/organ-recital-with-kare-nordstoga-tickets/258451791?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/organ-recital-with-kare-nordstoga-tickets/258451791?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/e/1da/d50c4877-4d39-425f-a183-dde28a8761da_RETINA_LANDSCAPE_16_9.jpg",
@@ -297,14 +261,16 @@
     {
       "id": "tm-Z698xZb_Z16v_Vq748",
       "title": "Papaya / Radioresepsjonen 20 år",
-      "description": "Arrangement på Sentrum Scene, Oslo",
+      "description": null,
       "date": "2026-09-12",
       "time": "19:00",
       "endTime": null,
       "location": "Sentrum Scene, Oslo",
       "categories": [
-        "familie"
+        "teater"
       ],
+      "priceFrom": null,
+      "currency": null,
       "ticketUrl": "https://www.ticketmaster.no/event/papaya-radioresepsjonen-20-ar-tickets/1674744550?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/papaya-radioresepsjonen-20-ar-tickets/1674744550?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/e/095/43560ea3-f7a0-4df5-847a-7742e8ae4095_RETINA_PORTRAIT_16_9.jpg",
@@ -325,6 +291,8 @@
         "konsert",
         "uteliv"
       ],
+      "priceFrom": null,
+      "currency": null,
       "ticketUrl": "https://www.ticketmaster.no/event/gunslingers-tickets/853047032?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/gunslingers-tickets/853047032?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/e/fc8/dda8f031-66d5-4130-8b98-45e5fc95afc8_RETINA_PORTRAIT_16_9.jpg",
@@ -344,6 +312,8 @@
       "categories": [
         "konsert"
       ],
+      "priceFrom": null,
+      "currency": null,
       "ticketUrl": "https://www.ticketmaster.no/event/megan-moroney-tickets/295799078?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/megan-moroney-tickets/295799078?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/e/d3e/6b2b1a95-fe1e-4ee0-9113-32966527cd3e_RETINA_PORTRAIT_16_9.jpg",
@@ -363,6 +333,8 @@
       "categories": [
         "konsert"
       ],
+      "priceFrom": null,
+      "currency": null,
       "ticketUrl": "https://www.ticketmaster.no/event/megan-moroney-%7C-vip-tickets/414567932?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/megan-moroney-%7C-vip-tickets/414567932?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/e/89f/c86139af-c4c1-4c86-9475-d8eecdecf89f_SOURCE",
@@ -374,7 +346,7 @@
     {
       "id": "tm-Z698xZb_Z1kq_uoaO",
       "title": "Ella Mai: Do You Still Love Me? Tour",
-      "description": "Arrangement på Sentrum Scene, Oslo",
+      "description": null,
       "date": "2026-09-14",
       "time": "19:00",
       "endTime": null,
@@ -383,6 +355,8 @@
         "konsert",
         "uteliv"
       ],
+      "priceFrom": null,
+      "currency": null,
       "ticketUrl": "https://www.ticketmaster.no/event/ella-mai-do-you-still-love-me-tour-tickets/759351260?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/ella-mai-do-you-still-love-me-tour-tickets/759351260?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/e/ee5/6781efa3-b464-4aad-bc05-532503715ee5_RETINA_PORTRAIT_16_9.jpg",
@@ -403,6 +377,8 @@
         "konsert",
         "uteliv"
       ],
+      "priceFrom": null,
+      "currency": null,
       "ticketUrl": "https://www.ticketmaster.no/event/chuck-ragan-tickets/893185273?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/chuck-ragan-tickets/893185273?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/e/f4f/d355dba5-1e18-4664-87c2-7f7dd2a47f4f_RETINA_LANDSCAPE_16_9.jpg",
@@ -414,7 +390,7 @@
     {
       "id": "tm-Z698xZb_Z16v8tudrd",
       "title": "Alessandro Cortini",
-      "description": "Arrangement på Rockefeller, Oslo",
+      "description": null,
       "date": "2026-09-16",
       "time": "19:00",
       "endTime": null,
@@ -422,6 +398,8 @@
       "categories": [
         "konsert"
       ],
+      "priceFrom": null,
+      "currency": null,
       "ticketUrl": "https://www.ticketmaster.no/event/alessandro-cortini-tickets/1429343783?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/alessandro-cortini-tickets/1429343783?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/e/496/5e27b1a5-64f3-48ae-bfdd-47756f19e496_TABLET_LANDSCAPE_LARGE_16_9.jpg",
@@ -442,6 +420,8 @@
         "konsert",
         "uteliv"
       ],
+      "priceFrom": null,
+      "currency": null,
       "ticketUrl": "https://www.ticketmaster.no/event/ultima-2026-and-then-the-weather-cikada--iema-tickets/1278045672?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/ultima-2026-and-then-the-weather-cikada--iema-tickets/1278045672?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/e/263/bbc4a326-714a-4b0a-ac42-72d118570263_TABLET_LANDSCAPE_16_9.jpg",
@@ -462,6 +442,8 @@
         "konsert",
         "uteliv"
       ],
+      "priceFrom": null,
+      "currency": null,
       "ticketUrl": "https://www.ticketmaster.no/event/rsp--thomax-m-trivselsmaskinen-tickets/311454760?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/rsp--thomax-m-trivselsmaskinen-tickets/311454760?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/e/be4/64581a82-e41c-46c0-b329-1768ffefdbe4_TABLET_LANDSCAPE_LARGE_16_9.jpg",
@@ -473,7 +455,7 @@
     {
       "id": "tm-Z698xZb_Z1kOS8xa7",
       "title": "Fluffy Lovin 3.0",
-      "description": "Arrangement på Rockefeller, Oslo",
+      "description": null,
       "date": "2026-09-18",
       "time": "19:00",
       "endTime": null,
@@ -482,6 +464,8 @@
         "konsert",
         "uteliv"
       ],
+      "priceFrom": null,
+      "currency": null,
       "ticketUrl": "https://www.ticketmaster.no/event/fluffy-lovin-30-tickets/833422244?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/fluffy-lovin-30-tickets/833422244?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/e/805/dad16874-4f22-4f00-852b-810ab2a31805_RETINA_LANDSCAPE_16_9.jpg",
@@ -493,7 +477,7 @@
     {
       "id": "tm-LvZ18QEE65-71fCUAZDor",
       "title": "Deepthroat Diaré, Sloss & Våghals // Parksalongen",
-      "description": "Arrangement på Oslo",
+      "description": null,
       "date": "2026-09-18",
       "time": "19:00",
       "endTime": null,
@@ -501,6 +485,8 @@
       "categories": [
         "konsert"
       ],
+      "priceFrom": null,
+      "currency": null,
       "ticketUrl": "https://www.universe.com/events/deepthroat-diare-sloss-vaghals-parksalongen-tickets-GB6FQ0?ref=ticketmaster",
       "affiliateUrl": "https://www.universe.com/events/deepthroat-diare-sloss-vaghals-parksalongen-tickets-GB6FQ0?ref=ticketmaster&ref=hvaSkjerIByenMin",
       "imageUrl": "https://images.universe.com/fd6ae2be-8e87-4d17-93b8-5e7c683540e6/-/format/jpeg/-/scale_crop/1024x576/center/-/progressive/yes/-/inline/yes/",
@@ -512,7 +498,7 @@
     {
       "id": "tm-Z698xZb_Z1k3kaPoU",
       "title": "Infected Mushroom",
-      "description": "Arrangement på Sentrum Scene, Oslo",
+      "description": null,
       "date": "2026-09-18",
       "time": "21:00",
       "endTime": null,
@@ -520,6 +506,8 @@
       "categories": [
         "konsert"
       ],
+      "priceFrom": null,
+      "currency": null,
       "ticketUrl": "https://www.ticketmaster.no/event/infected-mushroom-tickets/486265476?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/infected-mushroom-tickets/486265476?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/e/28b/47077537-dca3-46f0-a04b-ba624176528b_TABLET_LANDSCAPE_16_9.jpg",
@@ -537,9 +525,10 @@
       "endTime": null,
       "location": "Oslo domkirke, Oslo",
       "categories": [
-        "konsert",
-        "familie"
+        "konsert"
       ],
+      "priceFrom": null,
+      "currency": null,
       "ticketUrl": "https://www.ticketmaster.no/event/organ-recital-with-wolfgang-zerer-tickets/1564842467?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/organ-recital-with-wolfgang-zerer-tickets/1564842467?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/e/c20/1211c2ee-2cbe-444c-9450-b17c5de30c20_TABLET_LANDSCAPE_16_9.jpg",
@@ -559,6 +548,8 @@
       "categories": [
         "konsert"
       ],
+      "priceFrom": null,
+      "currency": null,
       "ticketUrl": "https://www.ticketmaster.no/event/bernhoft-tickets/1838293687?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/bernhoft-tickets/1838293687?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/e/31c/e1a335ee-59e4-4448-8bb4-49349cf1c31c_SOURCE",
@@ -579,6 +570,8 @@
         "konsert",
         "uteliv"
       ],
+      "priceFrom": null,
+      "currency": null,
       "ticketUrl": "https://www.ticketmaster.no/event/cover-me-a-tribute-to-bruce-springsteen-tickets/1262233824?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/cover-me-a-tribute-to-bruce-springsteen-tickets/1262233824?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/e/d60/57584958-7c53-483f-a042-69cecbda3d60_SOURCE",
@@ -599,6 +592,8 @@
         "konsert",
         "uteliv"
       ],
+      "priceFrom": null,
+      "currency": null,
       "ticketUrl": "https://www.ticketmaster.no/event/aap-rocky-dont-be-dumb-world-tour-tickets/177547402?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/aap-rocky-dont-be-dumb-world-tour-tickets/177547402?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/a/3f7/d4773445-3bc0-4087-a14b-f89c67f3f3f7_RETINA_LANDSCAPE_16_9.jpg",
@@ -610,7 +605,7 @@
     {
       "id": "tm-Z698xZb_Z16va4Z-az",
       "title": "Lake Street Dive",
-      "description": "Arrangement på Sentrum Scene, Oslo",
+      "description": null,
       "date": "2026-09-25",
       "time": "19:00",
       "endTime": null,
@@ -619,6 +614,8 @@
         "konsert",
         "uteliv"
       ],
+      "priceFrom": null,
+      "currency": null,
       "ticketUrl": "https://www.ticketmaster.no/event/lake-street-dive-tickets/1255021278?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/lake-street-dive-tickets/1255021278?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/e/031/b06fa6bc-1e85-4b80-ba21-468d22410031_TABLET_LANDSCAPE_16_9.jpg",
@@ -630,7 +627,7 @@
     {
       "id": "tm-Z698xZb_Z1kFPA7_K",
       "title": "Metal Militia - Metallica Tribute",
-      "description": "Arrangement på John Dee, Oslo",
+      "description": null,
       "date": "2026-09-25",
       "time": "19:00",
       "endTime": null,
@@ -639,6 +636,8 @@
         "konsert",
         "uteliv"
       ],
+      "priceFrom": null,
+      "currency": null,
       "ticketUrl": "https://www.ticketmaster.no/event/metal-militia-metallica-tribute-tickets/225144653?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/metal-militia-metallica-tribute-tickets/225144653?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/e/d3a/fe6b2c18-0d5b-4eb4-97d0-e6a6178b6d3a_RETINA_PORTRAIT_16_9.jpg",
@@ -656,9 +655,10 @@
       "endTime": null,
       "location": "Oslo domkirke, Oslo",
       "categories": [
-        "konsert",
-        "familie"
+        "konsert"
       ],
+      "priceFrom": null,
+      "currency": null,
       "ticketUrl": "https://www.ticketmaster.no/event/organ-recital-with-hanne-kuhlmann-tickets/752857026?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/organ-recital-with-hanne-kuhlmann-tickets/752857026?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/e/93b/84afdc3b-6d80-429b-9e56-85ec2dd4093b_TABLET_LANDSCAPE_16_9.jpg",
@@ -670,7 +670,7 @@
     {
       "id": "tm-Z698xZb_Z16eZ3uVJ_",
       "title": "Bo Kaspers Orkester",
-      "description": "Arrangement på Sentrum Scene, Oslo",
+      "description": null,
       "date": "2026-09-29",
       "time": "19:00",
       "endTime": null,
@@ -678,6 +678,8 @@
       "categories": [
         "konsert"
       ],
+      "priceFrom": null,
+      "currency": null,
       "ticketUrl": "https://www.ticketmaster.no/event/bo-kaspers-orkester-tickets/2012374999?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/bo-kaspers-orkester-tickets/2012374999?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/e/15f/0e854812-978c-4fb6-8afd-7c4867b8815f_RETINA_LANDSCAPE_16_9.jpg",
@@ -689,7 +691,7 @@
     {
       "id": "tm-Z698xZb_Z16v0IfoA8",
       "title": "Bo Kaspers Orkester",
-      "description": "Arrangement på Sentrum Scene, Oslo",
+      "description": null,
       "date": "2026-09-30",
       "time": "19:00",
       "endTime": null,
@@ -697,6 +699,8 @@
       "categories": [
         "konsert"
       ],
+      "priceFrom": null,
+      "currency": null,
       "ticketUrl": "https://www.ticketmaster.no/event/bo-kaspers-orkester-tickets/1928511150?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/bo-kaspers-orkester-tickets/1928511150?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/e/23e/8b22e593-acf8-423d-92c1-f52dbf66523e_RETINA_LANDSCAPE_16_9.jpg",
@@ -708,7 +712,7 @@
     {
       "id": "tm-Z698xZb_Z16vfA8YO_",
       "title": "Bo Kaspers Orkester",
-      "description": "Arrangement på Sentrum Scene, Oslo",
+      "description": null,
       "date": "2026-10-01",
       "time": "19:00",
       "endTime": null,
@@ -716,6 +720,8 @@
       "categories": [
         "konsert"
       ],
+      "priceFrom": null,
+      "currency": null,
       "ticketUrl": "https://www.ticketmaster.no/event/bo-kaspers-orkester-tickets/1505430819?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/bo-kaspers-orkester-tickets/1505430819?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/e/edb/3d19a8dc-49bc-4373-a434-bee3c9ed4edb_RETINA_LANDSCAPE_16_9.jpg",
@@ -727,7 +733,7 @@
     {
       "id": "tm-Z698xZb_Z16v73aV-3",
       "title": "Duran Duran",
-      "description": "Arrangement på Unity Arena, Fornebu",
+      "description": null,
       "date": "2026-10-02",
       "time": "18:00",
       "endTime": null,
@@ -736,6 +742,8 @@
         "konsert",
         "uteliv"
       ],
+      "priceFrom": null,
+      "currency": null,
       "ticketUrl": "https://www.ticketmaster.no/event/duran-duran-tickets/1112274852?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/duran-duran-tickets/1112274852?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/a/336/2d864a36-ea9e-4d50-bf8a-08f7b7cab336_SOURCE",
@@ -747,7 +755,7 @@
     {
       "id": "tm-Z698xZb_Z16vjybOjF",
       "title": "Bo Kaspers Orkester",
-      "description": "Arrangement på Sentrum Scene, Oslo",
+      "description": null,
       "date": "2026-10-02",
       "time": "19:00",
       "endTime": null,
@@ -755,6 +763,8 @@
       "categories": [
         "konsert"
       ],
+      "priceFrom": null,
+      "currency": null,
       "ticketUrl": "https://www.ticketmaster.no/event/bo-kaspers-orkester-tickets/1739620708?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/bo-kaspers-orkester-tickets/1739620708?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/e/c7f/a17c5863-cfb3-4af8-84c6-c4ee503f1c7f_RETINA_PORTRAIT_16_9.jpg",
@@ -766,14 +776,16 @@
     {
       "id": "tm-Z698xZb_Z1kaVx_Gf",
       "title": "Home Free: Highways & High Seas Tour",
-      "description": "Arrangement på Oslo Spektrum, Oslo",
+      "description": null,
       "date": "2026-10-02",
       "time": "19:30",
       "endTime": null,
       "location": "Oslo Spektrum, Oslo",
       "categories": [
-        "familie"
+        "teater"
       ],
+      "priceFrom": null,
+      "currency": null,
       "ticketUrl": "https://www.ticketmaster.no/event/home-free-highways--high-seas-tour-tickets/274899314?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/home-free-highways--high-seas-tour-tickets/274899314?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/a/e49/147ee232-34bd-4ea9-8eb3-1275be197e49_TABLET_LANDSCAPE_16_9.jpg",
@@ -791,9 +803,10 @@
       "endTime": null,
       "location": "Oslo domkirke, Oslo",
       "categories": [
-        "konsert",
-        "familie"
+        "konsert"
       ],
+      "priceFrom": null,
+      "currency": null,
       "ticketUrl": "https://www.ticketmaster.no/event/organ-recital-with-anne-laver-tickets/746708512?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/organ-recital-with-anne-laver-tickets/746708512?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/e/9ce/0c126c9c-bcee-423b-95d4-1158271689ce_RETINA_LANDSCAPE_16_9.jpg",
@@ -813,6 +826,8 @@
       "categories": [
         "konsert"
       ],
+      "priceFrom": null,
+      "currency": null,
       "ticketUrl": "https://www.ticketmaster.no/event/knut-bry-80-years-tickets/1391269349?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/knut-bry-80-years-tickets/1391269349?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/e/5d1/7f200761-e5bd-42b0-8e3f-cefa896355d1_RETINA_PORTRAIT_16_9.jpg",
@@ -824,7 +839,7 @@
     {
       "id": "tm-Z698xZb_Z16vOEGM3o",
       "title": "Tøyen Holding",
-      "description": "Arrangement på Rockefeller, Oslo",
+      "description": null,
       "date": "2026-10-03",
       "time": "19:00",
       "endTime": null,
@@ -833,6 +848,8 @@
         "konsert",
         "uteliv"
       ],
+      "priceFrom": null,
+      "currency": null,
       "ticketUrl": "https://www.ticketmaster.no/event/toyen-holding-tickets/1827337491?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/toyen-holding-tickets/1827337491?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/e/b51/e2c8cc4a-4e02-4096-988c-e58768470b51_RETINA_PORTRAIT_16_9.jpg",
@@ -844,7 +861,7 @@
     {
       "id": "tm-LvZ18Q_YXj6SEE8ZlwUpl",
       "title": "Skov // DJ Sviskejus",
-      "description": "Arrangement på Oslo",
+      "description": null,
       "date": "2026-10-03",
       "time": "19:00",
       "endTime": null,
@@ -852,6 +869,8 @@
       "categories": [
         "konsert"
       ],
+      "priceFrom": null,
+      "currency": null,
       "ticketUrl": "https://www.universe.com/events/skov-dj-sviskejus-tickets-9P5X0L?ref=ticketmaster",
       "affiliateUrl": "https://www.universe.com/events/skov-dj-sviskejus-tickets-9P5X0L?ref=ticketmaster&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/c/797/5e693c26-2881-4776-8f0c-3aa94bfa3797_106511_RETINA_PORTRAIT_16_9.jpg",
@@ -869,8 +888,10 @@
       "endTime": null,
       "location": "Chateau Neuf,Storsalen, Oslo",
       "categories": [
-        "familie"
+        "teater"
       ],
+      "priceFrom": null,
+      "currency": null,
       "ticketUrl": "https://www.ticketmaster.no/event/oliver-twist-koffers-produksjoner-tickets/999836465?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/oliver-twist-koffers-produksjoner-tickets/999836465?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/e/ad0/1af3140b-2ab5-40eb-bb0d-deb35ec33ad0_RETINA_PORTRAIT_16_9.jpg",
@@ -882,7 +903,7 @@
     {
       "id": "tm-Z698xZb_Z16vFN8SJ9",
       "title": "Future Palace",
-      "description": "Arrangement på John Dee, Oslo",
+      "description": null,
       "date": "2026-10-05",
       "time": "19:00",
       "endTime": null,
@@ -891,6 +912,8 @@
         "konsert",
         "uteliv"
       ],
+      "priceFrom": null,
+      "currency": null,
       "ticketUrl": "https://www.ticketmaster.no/event/future-palace-tickets/1223433997?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/future-palace-tickets/1223433997?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/e/f90/cd9a3b3c-e4e2-4cb1-93a6-1c16a5e8af90_RETINA_PORTRAIT_16_9.jpg",
@@ -908,8 +931,10 @@
       "endTime": null,
       "location": "Chateau Neuf,Storsalen, Oslo",
       "categories": [
-        "familie"
+        "teater"
       ],
+      "priceFrom": null,
+      "currency": null,
       "ticketUrl": "https://www.ticketmaster.no/event/oliver-twist-koffers-produksjoner-tickets/1263562545?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/oliver-twist-koffers-produksjoner-tickets/1263562545?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/e/715/032dcbd7-2eca-49db-b1b0-9212e62ff715_RETINA_PORTRAIT_16_9.jpg",
@@ -929,6 +954,8 @@
       "categories": [
         "konsert"
       ],
+      "priceFrom": null,
+      "currency": null,
       "ticketUrl": "https://www.ticketmaster.no/event/konradsen-10-years-tickets/1206578072?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/konradsen-10-years-tickets/1206578072?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/a/256/af31cae1-4396-44d4-b102-4261df688256_SOURCE",
@@ -940,7 +967,7 @@
     {
       "id": "tm-Z698xZb_Z1kaf_VAa",
       "title": "Slå på ring - LIVE - Ny dato 08.10.2026",
-      "description": "Arrangement på Sentrum Scene, Oslo",
+      "description": null,
       "date": "2026-10-08",
       "time": "19:00",
       "endTime": null,
@@ -949,9 +976,97 @@
         "konsert",
         "uteliv"
       ],
+      "priceFrom": null,
+      "currency": null,
       "ticketUrl": "https://www.ticketmaster.no/event/sla-pa-ring-live-ny-dato-08102026-tickets/254674149?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/sla-pa-ring-live-ny-dato-08102026-tickets/254674149?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/a/63b/06c2126c-cfa2-4b7f-a49f-bd92ff3d163b_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16ev08S0f",
+      "title": "Vassendgutane",
+      "description": "Doors Open kl. 19.00. The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's Read the organizer's terms of purchase here. See www.rockefeller.no for the complete program.. Practical information about the concerts can be found here. The nearest transport hub is Storgata and/or Jernbanetorget. See ruter.no for more info.",
+      "date": "2026-10-09",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Sentrum Scene, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/vassendgutane-tickets/2064433914?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/vassendgutane-tickets/2064433914?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/4ce/ee6933c9-06eb-4c01-a3b6-6b77560694ce_TABLET_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18QIq92TzcduJoFCSc",
+      "title": "Oslo Negativ 2026",
+      "description": null,
+      "date": "2026-10-10",
+      "time": "11:00",
+      "endTime": null,
+      "location": "Nasjonalgalleriet, Oslo",
+      "categories": [
+        "teater"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.universe.com/events/oslo-negativ-2026-tickets-NK1SGH?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/oslo-negativ-2026-tickets-NK1SGH?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/99a/17bf547c-c64a-4395-84c2-f69dcdda699a_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎭",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kp6fO-x",
+      "title": "Oslo Orgelfestival: Domorganistenes ønskekonsert",
+      "description": "Tjark Pinne and Marcus André Berg perform the audience's requests. What will it be this year? A movement from your favourite symphony, or epic music from the world of film? Send your requests to tp643@kirken.no by 6 September. Oslo Cathedral has dedicated wheelchair spaces in the south transept. Companions enter free of charge upon presenting a companion certificate. Oslo Cathedral has a ramp and an elevator for step-free access. Please arrive at the main entrance, and our staff will guide you to the wheelchair entrance. A wheelchair-accessible restroom is available by the main entrance. For questions; please call Oslo Cathedral, phone: +47 23629010",
+      "date": "2026-10-10",
+      "time": "12:00",
+      "endTime": null,
+      "location": "Oslo domkirke, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/oslo-orgelfestival-domorganistenes-onskekonsert-tickets/587520862?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/oslo-orgelfestival-domorganistenes-onskekonsert-tickets/587520862?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/cce/cafee4fc-8d67-4fad-a067-f03ee3fc7cce_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vbM-9fo",
+      "title": "Cat Power",
+      "description": null,
+      "date": "2026-10-10",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Sentrum Scene, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/cat-power-tickets/1637857511?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/cat-power-tickets/1637857511?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/3f7/c42221e3-6bd1-4539-9ccf-2c59c01233f7_RETINA_PORTRAIT_16_9.jpg",
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -960,11 +1075,10 @@
   ],
   "meta": {
     "city": "oslo",
-    "count": 49,
-    "fetchedAt": "2026-09-05T08:48:39.745Z",
+    "count": 50,
+    "fetchedAt": "2026-09-06T09:08:57.824Z",
     "sources": {
       "ticketmaster": 50,
-      "eventbrite": 0,
       "scrape": 0
     }
   }
