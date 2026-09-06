@@ -12,6 +12,8 @@
         "konsert",
         "uteliv"
       ],
+      "priceFrom": null,
+      "currency": null,
       "ticketUrl": "https://www.ticketmaster.no/event/drammen-metalfest-festivalpass-kometen-tickets/1359044128?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/drammen-metalfest-festivalpass-kometen-tickets/1359044128?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/e/986/db88d6ed-1d2f-45db-8bb4-494e69430986_RETINA_PORTRAIT_16_9.jpg",
@@ -24,10 +26,9 @@
   "meta": {
     "city": "drammen",
     "count": 1,
-    "fetchedAt": "2026-09-05T08:48:50.187Z",
+    "fetchedAt": "2026-09-06T09:09:06.860Z",
     "sources": {
       "ticketmaster": 1,
-      "eventbrite": 0,
       "scrape": 0
     }
   }

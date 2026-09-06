@@ -3,7 +3,7 @@
     {
       "id": "tm-LvZ18QN71ha944ZvLrsvy",
       "title": "Bakpå Presenterer Herreløse @ Savoy Terrasse",
-      "description": "Arrangement på Savoy Terrasse, Fredrikstad",
+      "description": null,
       "date": "2026-09-25",
       "time": "20:00",
       "endTime": null,
@@ -12,6 +12,8 @@
         "konsert",
         "uteliv"
       ],
+      "priceFrom": null,
+      "currency": null,
       "ticketUrl": "https://www.universe.com/events/bakpa-presenterer-herrelose-savoy-terrasse-tickets-B90S6X?ref=ticketmaster",
       "affiliateUrl": "https://www.universe.com/events/bakpa-presenterer-herrelose-savoy-terrasse-tickets-B90S6X?ref=ticketmaster&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_LARGE_16_9.jpg",
@@ -23,7 +25,7 @@
     {
       "id": "tm-LvZ18QN7uK65_AYZ0ZeXB",
       "title": "Bakpå Presenterer Køber @ Savoy Terrasse",
-      "description": "Arrangement på Savoy Terrasse, Fredrikstad",
+      "description": null,
       "date": "2026-10-30",
       "time": "20:00",
       "endTime": null,
@@ -32,6 +34,8 @@
         "konsert",
         "uteliv"
       ],
+      "priceFrom": null,
+      "currency": null,
       "ticketUrl": "https://www.universe.com/events/bakpa-presenterer-kober-savoy-terrasse-tickets-V6TKRN?ref=ticketmaster",
       "affiliateUrl": "https://www.universe.com/events/bakpa-presenterer-kober-savoy-terrasse-tickets-V6TKRN?ref=ticketmaster&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/c/80b/f3cd8d24-c3ae-4fa0-b4bc-1ba99f9b380b_106091_RETINA_PORTRAIT_16_9.jpg",
@@ -43,7 +47,7 @@
     {
       "id": "tm-LvZ18QN7CBt944ZvarskD",
       "title": "Bakpå Presenterer Svartepetter @ Savoy Terrasse",
-      "description": "Arrangement på Savoy Terrasse, Fredrikstad",
+      "description": null,
       "date": "2026-11-27",
       "time": "20:00",
       "endTime": null,
@@ -52,6 +56,8 @@
         "konsert",
         "uteliv"
       ],
+      "priceFrom": null,
+      "currency": null,
       "ticketUrl": "https://www.universe.com/events/bakpa-presenterer-svartepetter-savoy-terrasse-tickets-K9CBS7?ref=ticketmaster",
       "affiliateUrl": "https://www.universe.com/events/bakpa-presenterer-svartepetter-savoy-terrasse-tickets-K9CBS7?ref=ticketmaster&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/c/80b/f3cd8d24-c3ae-4fa0-b4bc-1ba99f9b380b_106091_RETINA_PORTRAIT_16_9.jpg",
@@ -64,10 +70,9 @@
   "meta": {
     "city": "fredrikstad",
     "count": 3,
-    "fetchedAt": "2026-09-05T08:48:51.358Z",
+    "fetchedAt": "2026-09-06T09:09:06.107Z",
     "sources": {
       "ticketmaster": 3,
-      "eventbrite": 0,
       "scrape": 0
     }
   }

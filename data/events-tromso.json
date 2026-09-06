@@ -38,32 +38,12 @@
       "sponsored": false,
       "featured": false,
       "source": "local"
-    },
-    {
-      "id": "tromso-4",
-      "title": "Samisk kulturfestival",
-      "description": "Opplev samisk kultur, joik, håndverk og tradisjonell mat i hjertet av Tromsø. En unik mulighet til å lære om urfolkskulturen i Nord-Norge.",
-      "date": "2026-09-05",
-      "time": "11:00",
-      "endTime": "18:00",
-      "location": "Perspektivet Museum, Tromsø",
-      "categories": [
-        "familie",
-        "gratis"
-      ],
-      "ticketUrl": null,
-      "affiliateUrl": null,
-      "imageUrl": null,
-      "imageEmoji": "🥁",
-      "sponsored": false,
-      "featured": false,
-      "source": "local"
     }
   ],
   "meta": {
     "city": "tromso",
-    "count": 3,
-    "fetchedAt": "2026-06-21T08:56:47.602Z",
+    "count": 2,
+    "fetchedAt": "2026-09-06T09:09:00.628Z",
     "sources": {
       "ticketmaster": 0,
       "eventbrite": 0,
