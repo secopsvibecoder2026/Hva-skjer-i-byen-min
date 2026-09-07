@@ -1,49 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z16eeFFIQ8",
-      "title": "Norwegian Military Tattoo",
-      "description": null,
-      "date": "2026-09-06",
-      "time": "13:00",
-      "endTime": null,
-      "location": "Oslo Spektrum, Oslo",
-      "categories": [
-        "familie",
-        "barn"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/norwegian-military-tattoo-tickets/2088228690?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/norwegian-military-tattoo-tickets/2088228690?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/2cc/7d2679e0-d17b-4cf2-a325-7ed093b562cc_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z1kGU-Vbk",
-      "title": "Masterwork recital - Beethoven/Grieg/Liszt recital",
-      "description": null,
-      "date": "2026-09-06",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Kampen Kirke, Oslo, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/masterwork-recital-beethoven-grieg-liszt-recital-tickets/336874606?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/masterwork-recital-beethoven-grieg-liszt-recital-tickets/336874606?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/426/de51a23a-e20c-4ec2-91d3-3a13d3c87426_SOURCE",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z1kF6j9PK",
       "title": "Devin Townsend",
       "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's.",
@@ -109,27 +66,6 @@
       "source": "ticketmaster"
     },
     {
-      "id": "tm-Z698xZb_Z16v_FbkZg",
-      "title": "The Pussycat Dolls: PCD FOREVER TOUR",
-      "description": null,
-      "date": "2026-09-10",
-      "time": "18:30",
-      "endTime": null,
-      "location": "Oslo Spektrum, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/the-pussycat-dolls-pcd-forever-tour-tickets/1648606035?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/the-pussycat-dolls-pcd-forever-tour-tickets/1648606035?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/e1e/81bad860-56ff-4595-bcc4-90766354be1e_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z1kaAbpuv",
       "title": "Papaya / Radioresepsjonen 20 år",
       "description": null,
@@ -146,6 +82,27 @@
       "affiliateUrl": "https://www.ticketmaster.no/event/papaya-radioresepsjonen-20-ar-tickets/245616341?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/e/2d9/fec7b5a1-c080-4ebf-bc0f-b7ee8f3802d9_RETINA_PORTRAIT_16_9.jpg",
       "imageEmoji": "🎭",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16v_FbkZg",
+      "title": "The Pussycat Dolls: PCD FOREVER TOUR",
+      "description": null,
+      "date": "2026-09-10",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Oslo Spektrum, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/the-pussycat-dolls-pcd-forever-tour-tickets/1648606035?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/the-pussycat-dolls-pcd-forever-tour-tickets/1648606035?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/e1e/81bad860-56ff-4595-bcc4-90766354be1e_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
@@ -1071,12 +1028,55 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vGZ8S4_",
+      "title": "Dumdum Boys",
+      "description": "Doors Open kl. 19.00. The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's Read the organizer's terms of purchase here. See www.rockefeller.no for the complete program.. Practical information about the concerts can be found here. The nearest transport hub is Storgata and/or Jernbanetorget. See ruter.no for more info.",
+      "date": "2026-10-10",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Rockefeller, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/dumdum-boys-tickets/1300433559?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/dumdum-boys-tickets/1300433559?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/98e/8d25a687-af56-438c-b28f-0111d816998e_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16v7Z4tvb",
+      "title": "Myles Smith - My Mess, My Heart, My Life. Tour",
+      "description": null,
+      "date": "2026-10-10",
+      "time": "19:30",
+      "endTime": null,
+      "location": "Oslo Spektrum, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/myles-smith-my-mess-my-heart-my-life-tour-tickets/1100569058?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/myles-smith-my-mess-my-heart-my-life-tour-tickets/1100569058?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/ec4/b84faeac-440a-4ce2-8af2-1ad5c76aeec4_SOURCE",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 50,
-    "fetchedAt": "2026-09-06T09:08:57.824Z",
+    "fetchedAt": "2026-09-07T09:56:41.513Z",
     "sources": {
       "ticketmaster": 50,
       "scrape": 0

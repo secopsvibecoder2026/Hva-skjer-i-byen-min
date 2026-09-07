@@ -1,25 +1,6 @@
 {
   "events": [
     {
-      "id": "scrape-gen-bollywood-musical-night-2026-09-06",
-      "title": "Bollywood Musical Night",
-      "description": "Søndag 6. september\nkl. 18.00",
-      "date": "2026-09-06",
-      "time": null,
-      "endTime": null,
-      "location": "Lillestrøm",
-      "categories": [],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17162-bollywood-musical-night/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17162-bollywood-musical-night/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
       "id": "scrape-gen-kulturkaf-gategutt-en-hyllest-til-lilleb-2026-09-10",
       "title": "Kulturkafé – Gategutt: En hyllest til Lillebjørn Nilsen",
       "description": "Utsolgt",
@@ -60,7 +41,7 @@
     {
       "id": "scrape-gen--lyst-p-livet-med-anne-lindmo-og-nina-br-2026-09-10",
       "title": "«Lyst på livet» med Anne Lindmo og Nina Brochmann",
-      "description": "Få billetter igjen",
+      "description": "Utsolgt",
       "date": "2026-09-10",
       "time": null,
       "endTime": null,
@@ -954,7 +935,7 @@
     {
       "id": "scrape-gen-one-night-only-2026-10-27",
       "title": "One Night Only",
-      "description": "Tirsdag 27. oktober\nkl. 19.00",
+      "description": "Få billetter igjen",
       "date": "2026-10-27",
       "time": null,
       "endTime": null,
@@ -2433,11 +2414,11 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 124,
-    "fetchedAt": "2026-09-06T09:09:08.910Z",
+    "count": 123,
+    "fetchedAt": "2026-09-07T09:57:02.187Z",
     "sources": {
       "ticketmaster": 0,
-      "scrape": 125
+      "scrape": 124
     }
   }
 }
