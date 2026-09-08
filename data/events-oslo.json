@@ -1,28 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z1kF6j9PK",
-      "title": "Devin Townsend",
-      "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's.",
-      "date": "2026-09-07",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Sentrum Scene, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/devin-townsend-tickets/207717953?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/devin-townsend-tickets/207717953?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/d01/e9781de6-5df1-49f9-8402-5f534c77dd01_SOURCE",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z16vbtOKQ9",
       "title": "Papaya / Radioresepsjonen 20 år",
       "description": null,
@@ -303,7 +281,7 @@
     {
       "id": "tm-Z698xZb_Z1kq_uoaO",
       "title": "Ella Mai: Do You Still Love Me? Tour",
-      "description": null,
+      "description": "Doors open 7 pm. VIP Package Disclaimer: Buyers will receive an email approximately three days prior to the show date with VIP details, sent to the address submitted at time of purchase. One More Time VIP, the artist, tour, promoter, ticketing company, venue or any other affiliated parties are not responsible for outdated or inaccurate information provided by the consumer. All packages and package contents are non-transferable; no refunds or exchanges; all sales are final. Package elements are subject to change. VIP merchandise items will be distributed at the show. If you have any questions regarding your VIP package elements, please contact info@onemoretimevip.com The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's.",
       "date": "2026-09-14",
       "time": "19:00",
       "endTime": null,
@@ -316,7 +294,7 @@
       "currency": null,
       "ticketUrl": "https://www.ticketmaster.no/event/ella-mai-do-you-still-love-me-tour-tickets/759351260?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/ella-mai-do-you-still-love-me-tour-tickets/759351260?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/ee5/6781efa3-b464-4aad-bc05-532503715ee5_RETINA_PORTRAIT_16_9.jpg",
+      "imageUrl": "https://s1.ticketm.net/dam/e/ee5/6781efa3-b464-4aad-bc05-532503715ee5_TABLET_LANDSCAPE_16_9.jpg",
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -1071,12 +1049,33 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18QIq92TzcduJoFCSm",
+      "title": "Oslo Negativ 2026",
+      "description": null,
+      "date": "2026-10-11",
+      "time": "11:00",
+      "endTime": null,
+      "location": "Nasjonalgalleriet, Oslo",
+      "categories": [
+        "teater"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.universe.com/events/oslo-negativ-2026-tickets-NK1SGH?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/oslo-negativ-2026-tickets-NK1SGH?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/99a/17bf547c-c64a-4395-84c2-f69dcdda699a_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎭",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 50,
-    "fetchedAt": "2026-09-07T09:56:41.513Z",
+    "fetchedAt": "2026-09-08T09:21:44.868Z",
     "sources": {
       "ticketmaster": 50,
       "scrape": 0

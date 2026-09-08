@@ -421,7 +421,7 @@
     {
       "id": "scrape-gen-temakveld-akevittsmaking-2026-09-30",
       "title": "Temakveld – akevittsmaking",
-      "description": "Onsdag 30. september\nkl. 18.00",
+      "description": "Få billetter igjen",
       "date": "2026-09-30",
       "time": null,
       "endTime": null,
@@ -2415,7 +2415,7 @@
   "meta": {
     "city": "lillestrom",
     "count": 123,
-    "fetchedAt": "2026-09-07T09:57:02.187Z",
+    "fetchedAt": "2026-09-08T09:22:01.241Z",
     "sources": {
       "ticketmaster": 0,
       "scrape": 124
