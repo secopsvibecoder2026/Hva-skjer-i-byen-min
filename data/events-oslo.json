@@ -1075,7 +1075,7 @@
   "meta": {
     "city": "oslo",
     "count": 50,
-    "fetchedAt": "2026-09-08T09:21:44.868Z",
+    "fetchedAt": "2026-09-09T09:23:35.125Z",
     "sources": {
       "ticketmaster": 50,
       "scrape": 0

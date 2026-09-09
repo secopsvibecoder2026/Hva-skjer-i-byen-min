@@ -560,7 +560,7 @@
     {
       "id": "scrape-gen-halvor-johansson-det-er-lov-pr-ve-seg-2026-10-09",
       "title": "Halvor Johansson – Det er lov å prøve seg",
-      "description": "Få billetter igjen",
+      "description": "Utsolgt",
       "date": "2026-10-09",
       "time": null,
       "endTime": null,
@@ -935,7 +935,7 @@
     {
       "id": "scrape-gen-one-night-only-2026-10-27",
       "title": "One Night Only",
-      "description": "Få billetter igjen",
+      "description": "Utsolgt",
       "date": "2026-10-27",
       "time": null,
       "endTime": null,
@@ -1091,7 +1091,7 @@
     {
       "id": "scrape-gen-espen-lind-2026-11-03",
       "title": "Espen Lind",
-      "description": "Tirsdag 3. november\nkl. 20.00",
+      "description": "Få billetter igjen",
       "date": "2026-11-03",
       "time": null,
       "endTime": null,
@@ -1591,7 +1591,7 @@
     {
       "id": "scrape-gen-b-rd-tufte-johansen-pr-ver-v-re-positiv-2026-11-27",
       "title": "Bård Tufte Johansen – Prøver å være positiv",
-      "description": "Få billetter igjen",
+      "description": "Fre. 27. nov.\n2 forestillinger",
       "date": "2026-11-27",
       "time": null,
       "endTime": null,
@@ -2415,7 +2415,7 @@
   "meta": {
     "city": "lillestrom",
     "count": 123,
-    "fetchedAt": "2026-09-08T09:22:01.241Z",
+    "fetchedAt": "2026-09-09T09:23:51.059Z",
     "sources": {
       "ticketmaster": 0,
       "scrape": 124
