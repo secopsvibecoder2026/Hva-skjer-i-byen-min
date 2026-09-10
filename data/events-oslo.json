@@ -1,49 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z16vbtOKQ9",
-      "title": "Papaya / Radioresepsjonen 20 år",
-      "description": null,
-      "date": "2026-09-09",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Sentrum Scene, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/papaya-radioresepsjonen-20-ar-tickets/1629813697?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/papaya-radioresepsjonen-20-ar-tickets/1629813697?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/20b/0da2486a-aabd-4dd7-a52f-2be7a39a720b_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18QoDatfQEBYvNX_7F",
-      "title": "Bransjepass / Delegate pass - by:Larm 2026",
-      "description": null,
-      "date": "2026-09-10",
-      "time": "10:00",
-      "endTime": null,
-      "location": "by:Larm, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.universe.com/events/bransjepass-delegate-pass-by-larm-2026-tickets-W5J342?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/bransjepass-delegate-pass-by-larm-2026-tickets-W5J342?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/9f4/f889692d-4f8f-46de-bc4b-8d99a63f59f4_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z1kaAbpuv",
       "title": "Papaya / Radioresepsjonen 20 år",
       "description": null,
@@ -1070,12 +1027,33 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kAVxfvA",
+      "title": "OLIVER TWIST - Koffers produksjoner",
+      "description": "OLIVER TWIST -- EN MUSIKAL SOM TREFFER HJERTET Den populære familiemusikalen OLIVER TWIST! har begeistret publikum verden over -- nå er det CHATEAU NEUF sin tur! KUN 8 FORESTILLINGER! Basert på Charles Dickens' udødelige fortelling byr musikalen på sterke følelser, gripende historier og uforglemmelige musikalske numre. Denne versjonen er en hyllest til de glemte barna -- de som lider i stillhet, uten noen som ser dem eller beskytter dem. OLIVER TWIST minner oss om hvor sårbar barndommen er, og hvor lett vi voksne kan overse tegn på ensomhet, mobbing og fortvilelse. Gjennom Oliver møter vi barnet i oss selv -- og i andre -- de som ble tvunget til å vokse opp altfor fort i 1800-tallets London. Produsent: Koffers Produksjoner Regi og koreografi: Patrick Svingholm Terndrup Prosjektleder: Gry Spone Musikalsk ansvarlig: Trine Bariås Originalversjon: AMR Produce (Spania) Manus og tekst: Pedro Villora Norsk oversettelse: Astrid Berg Hauge Oversatt fra spansk av: Victôria Fuster Arrangementstidspunkt/konsertstart : 14:30 Dørene åpner : 14:00 Varighet : 120 min Servering : Kiosk Aldersgrense : Ingen aldersgrense Ledsager : Full pris Adkomst : kollektivtransport til Majorstuen så tre min gange Bevegelseshemmede : Ja Parkeringsmuligheter : Nei Arrangørens nettside",
+      "date": "2026-10-11",
+      "time": "14:30",
+      "endTime": null,
+      "location": "Chateau Neuf,Storsalen, Oslo",
+      "categories": [
+        "teater"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/oliver-twist-koffers-produksjoner-tickets/174894045?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/oliver-twist-koffers-produksjoner-tickets/174894045?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/286/4125db4c-12bf-4110-929a-7466e3b27286_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎭",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
-    "count": 50,
-    "fetchedAt": "2026-09-09T09:23:35.125Z",
+    "count": 49,
+    "fetchedAt": "2026-09-10T09:23:40.208Z",
     "sources": {
       "ticketmaster": 50,
       "scrape": 0

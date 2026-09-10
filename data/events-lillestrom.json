@@ -935,7 +935,7 @@
     {
       "id": "scrape-gen-one-night-only-2026-10-27",
       "title": "One Night Only",
-      "description": "Utsolgt",
+      "description": "Få billetter igjen",
       "date": "2026-10-27",
       "time": null,
       "endTime": null,
@@ -1049,8 +1049,8 @@
       "source": "scrape"
     },
     {
-      "id": "scrape-gen-tour-de-force-the-return-2026-11-01",
-      "title": "Tour de Force – The Return",
+      "id": "scrape-gen-ole-edvard-antonsen-tour-de-force-2026-11-01",
+      "title": "Ole Edvard Antonsen – Tour de Force",
       "description": "Søndag 1. november\nkl. 19.00",
       "date": "2026-11-01",
       "time": null,
@@ -1059,8 +1059,8 @@
       "categories": [],
       "priceFrom": null,
       "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17682-tour-de-force-the-return/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17682-tour-de-force-the-return/?ref=hvaSkjerIByenMin",
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17682-ole-edvard-antonsen-tour-de-force/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17682-ole-edvard-antonsen-tour-de-force/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -2415,7 +2415,7 @@
   "meta": {
     "city": "lillestrom",
     "count": 123,
-    "fetchedAt": "2026-09-09T09:23:51.059Z",
+    "fetchedAt": "2026-09-10T09:23:55.354Z",
     "sources": {
       "ticketmaster": 0,
       "scrape": 124
