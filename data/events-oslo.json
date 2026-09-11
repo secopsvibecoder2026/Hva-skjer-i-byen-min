@@ -1,48 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z1kaAbpuv",
-      "title": "Papaya / Radioresepsjonen 20 år",
-      "description": null,
-      "date": "2026-09-10",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Sentrum Scene, Oslo",
-      "categories": [
-        "teater"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/papaya-radioresepsjonen-20-ar-tickets/245616341?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/papaya-radioresepsjonen-20-ar-tickets/245616341?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/2d9/fec7b5a1-c080-4ebf-bc0f-b7ee8f3802d9_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎭",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16v_FbkZg",
-      "title": "The Pussycat Dolls: PCD FOREVER TOUR",
-      "description": null,
-      "date": "2026-09-10",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Oslo Spektrum, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/the-pussycat-dolls-pcd-forever-tour-tickets/1648606035?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/the-pussycat-dolls-pcd-forever-tour-tickets/1648606035?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/e1e/81bad860-56ff-4595-bcc4-90766354be1e_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z1k1Z_fv3",
       "title": "Papaya / Radioresepsjonen 20 år",
       "description": null,
@@ -774,7 +732,7 @@
     {
       "id": "tm-Z698xZb_Z1kJ_OUoP",
       "title": "OLIVER TWIST - Koffers produksjoner",
-      "description": "OLIVER TWIST -- EN MUSIKAL SOM TREFFER HJERTET Den populære familiemusikalen OLIVER TWIST! har begeistret publikum verden over -- nå er det CHATEAU NEUF sin tur! KUN 8 FORESTILLINGER! Basert på Charles Dickens' udødelige fortelling byr musikalen på sterke følelser, gripende historier og uforglemmelige musikalske numre. Denne versjonen er en hyllest til de glemte barna -- de som lider i stillhet, uten noen som ser dem eller beskytter dem. OLIVER TWIST minner oss om hvor sårbar barndommen er, og hvor lett vi voksne kan overse tegn på ensomhet, mobbing og fortvilelse. Gjennom Oliver møter vi barnet i oss selv -- og i andre -- de som ble tvunget til å vokse opp altfor fort i 1800-tallets London. Produsent: Koffers Produksjoner Regi og koreografi: Patrick Svingholm Terndrup Prosjektleder: Gry Spone Musikalsk ansvarlig: Trine Bariås Originalversjon: AMR Produce (Spania) Manus og tekst: Pedro Villora Norsk oversettelse: Astrid Berg Hauge Oversatt fra spansk av: Victôria Fuster Arrangementstidspunkt/konsertstart : 18:00 Dørene åpner : 17:30 Varighet : 120 min Servering : Kiosk Aldersgrense : Ingen aldersgrense Ledsager : Full pris Adkomst : kollektivtransport til Majorstuen så tre min gange Bevegelseshemmede : Ja Parkeringsmuligheter : Nei Arrangørens nettside",
+      "description": "OLIVER TWIST -- EN MUSIKAL SOM TREFFER HJERTET Den populære familiemusikalen OLIVER TWIST! har begeistret publikum verden over -- nå er det CHATEAU NEUF sin tur! KUN 6 FORESTILLINGER! Oliver Twist er en amatør produksjon basert på Charles Dickens' udødelige fortelling byr musikalen på sterke følelser, gripende historier og uforglemmelige musikalske numre. Denne versjonen er en hyllest til de glemte barna -- de som lider i stillhet, uten noen som ser dem eller beskytter dem. OLIVER TWIST minner oss om hvor sårbar barndommen er, og hvor lett vi voksne kan overse tegn på ensomhet, mobbing og fortvilelse. Gjennom Oliver møter vi barnet i oss selv -- og i andre -- de som ble tvunget til å vokse opp altfor fort i 1800-tallets London. Produsent: Koffers Produksjoner Regi og koreografi: Patrick Svingholm Terndrup Prosjektleder: Gry Spone Musikalsk ansvarlig: Trine Bariås Originalversjon: AMR Produce (Spania) Manus og tekst: Pedro Villora Norsk oversettelse: Astrid Berg Hauge Oversatt fra spansk av: Victôria Fuster Arrangementstidspunkt/konsertstart : 18:00 Dørene åpner : 17:30 Varighet : 120 min Servering : Kiosk Aldersgrense : Ingen aldersgrense Ledsager : Full pris Adkomst : kollektivtransport til Majorstuen så tre min gange Bevegelseshemmede : Ja Parkeringsmuligheter : Nei Arrangørens nettside",
       "date": "2026-10-05",
       "time": "18:00",
       "endTime": null,
@@ -786,7 +744,7 @@
       "currency": null,
       "ticketUrl": "https://www.ticketmaster.no/event/oliver-twist-koffers-produksjoner-tickets/999836465?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/oliver-twist-koffers-produksjoner-tickets/999836465?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/ad0/1af3140b-2ab5-40eb-bb0d-deb35ec33ad0_RETINA_PORTRAIT_16_9.jpg",
+      "imageUrl": "https://s1.ticketm.net/dam/e/83c/075cf99b-1733-484e-aa54-dd4dbf93c83c_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "imageEmoji": "🎭",
       "sponsored": false,
       "featured": false,
@@ -817,7 +775,7 @@
     {
       "id": "tm-Z698xZb_Z16vaN4x4A",
       "title": "OLIVER TWIST - Koffers produksjoner",
-      "description": "OLIVER TWIST -- EN MUSIKAL SOM TREFFER HJERTET Den populære familiemusikalen OLIVER TWIST! har begeistret publikum verden over -- nå er det CHATEAU NEUF sin tur! KUN 8 FORESTILLINGER! Basert på Charles Dickens' udødelige fortelling byr musikalen på sterke følelser, gripende historier og uforglemmelige musikalske numre. Denne versjonen er en hyllest til de glemte barna -- de som lider i stillhet, uten noen som ser dem eller beskytter dem. OLIVER TWIST minner oss om hvor sårbar barndommen er, og hvor lett vi voksne kan overse tegn på ensomhet, mobbing og fortvilelse. Gjennom Oliver møter vi barnet i oss selv -- og i andre -- de som ble tvunget til å vokse opp altfor fort i 1800-tallets London. Produsent: Koffers Produksjoner Regi og koreografi: Patrick Svingholm Terndrup Prosjektleder: Gry Spone Musikalsk ansvarlig: Trine Bariås Originalversjon: AMR Produce (Spania) Manus og tekst: Pedro Villora Norsk oversettelse: Astrid Berg Hauge Oversatt fra spansk av: Victôria Fuster Arrangementstidspunkt/konsertstart : 18:00 Dørene åpner : 17:30 Varighet : 120 min Servering : Kiosk Aldersgrense : Ingen aldersgrense Ledsager : Full pris Adkomst : kollektivtransport til Majorstuen så tre min gange Bevegelseshemmede : Ja Parkeringsmuligheter : Nei Arrangørens nettside",
+      "description": "OLIVER TWIST -- EN MUSIKAL SOM TREFFER HJERTET Den populære familiemusikalen OLIVER TWIST! har begeistret publikum verden over -- nå er det CHATEAU NEUF sin tur! KUN 6 FORESTILLINGER! Oliver Twist er en amatør produksjon basert på Charles Dickens' udødelige fortelling byr musikalen på sterke følelser, gripende historier og uforglemmelige musikalske numre. Denne versjonen er en hyllest til de glemte barna -- de som lider i stillhet, uten noen som ser dem eller beskytter dem. OLIVER TWIST minner oss om hvor sårbar barndommen er, og hvor lett vi voksne kan overse tegn på ensomhet, mobbing og fortvilelse. Gjennom Oliver møter vi barnet i oss selv -- og i andre -- de som ble tvunget til å vokse opp altfor fort i 1800-tallets London. Produsent: Koffers Produksjoner Regi og koreografi: Patrick Svingholm Terndrup Prosjektleder: Gry Spone Musikalsk ansvarlig: Trine Bariås Originalversjon: AMR Produce (Spania) Manus og tekst: Pedro Villora Norsk oversettelse: Astrid Berg Hauge Oversatt fra spansk av: Victôria Fuster Arrangementstidspunkt/konsertstart : 18:00 Dørene åpner : 17:30 Varighet : 120 min Servering : Kiosk Aldersgrense : Ingen aldersgrense Ledsager : Full pris Adkomst : kollektivtransport til Majorstuen så tre min gange Bevegelseshemmede : Ja Parkeringsmuligheter : Nei Arrangørens nettside",
       "date": "2026-10-06",
       "time": "18:00",
       "endTime": null,
@@ -829,7 +787,7 @@
       "currency": null,
       "ticketUrl": "https://www.ticketmaster.no/event/oliver-twist-koffers-produksjoner-tickets/1263562545?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/oliver-twist-koffers-produksjoner-tickets/1263562545?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/715/032dcbd7-2eca-49db-b1b0-9212e62ff715_RETINA_PORTRAIT_16_9.jpg",
+      "imageUrl": "https://s1.ticketm.net/dam/e/106/55a08463-723c-4bf7-be38-cf54cc770106_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "imageEmoji": "🎭",
       "sponsored": false,
       "featured": false,
@@ -1031,7 +989,7 @@
     {
       "id": "tm-Z698xZb_Z1kAVxfvA",
       "title": "OLIVER TWIST - Koffers produksjoner",
-      "description": "OLIVER TWIST -- EN MUSIKAL SOM TREFFER HJERTET Den populære familiemusikalen OLIVER TWIST! har begeistret publikum verden over -- nå er det CHATEAU NEUF sin tur! KUN 8 FORESTILLINGER! Basert på Charles Dickens' udødelige fortelling byr musikalen på sterke følelser, gripende historier og uforglemmelige musikalske numre. Denne versjonen er en hyllest til de glemte barna -- de som lider i stillhet, uten noen som ser dem eller beskytter dem. OLIVER TWIST minner oss om hvor sårbar barndommen er, og hvor lett vi voksne kan overse tegn på ensomhet, mobbing og fortvilelse. Gjennom Oliver møter vi barnet i oss selv -- og i andre -- de som ble tvunget til å vokse opp altfor fort i 1800-tallets London. Produsent: Koffers Produksjoner Regi og koreografi: Patrick Svingholm Terndrup Prosjektleder: Gry Spone Musikalsk ansvarlig: Trine Bariås Originalversjon: AMR Produce (Spania) Manus og tekst: Pedro Villora Norsk oversettelse: Astrid Berg Hauge Oversatt fra spansk av: Victôria Fuster Arrangementstidspunkt/konsertstart : 14:30 Dørene åpner : 14:00 Varighet : 120 min Servering : Kiosk Aldersgrense : Ingen aldersgrense Ledsager : Full pris Adkomst : kollektivtransport til Majorstuen så tre min gange Bevegelseshemmede : Ja Parkeringsmuligheter : Nei Arrangørens nettside",
+      "description": "OLIVER TWIST -- EN MUSIKAL SOM TREFFER HJERTET Den populære familiemusikalen OLIVER TWIST! har begeistret publikum verden over -- nå er det CHATEAU NEUF sin tur! KUN 6 FORESTILLINGER! Oliver Twist er en amatør produksjon basert på Charles Dickens' udødelige fortelling byr musikalen på sterke følelser, gripende historier og uforglemmelige musikalske numre. Denne versjonen er en hyllest til de glemte barna -- de som lider i stillhet, uten noen som ser dem eller beskytter dem. OLIVER TWIST minner oss om hvor sårbar barndommen er, og hvor lett vi voksne kan overse tegn på ensomhet, mobbing og fortvilelse. Gjennom Oliver møter vi barnet i oss selv -- og i andre -- de som ble tvunget til å vokse opp altfor fort i 1800-tallets London. Produsent: Koffers Produksjoner Regi og koreografi: Patrick Svingholm Terndrup Prosjektleder: Gry Spone Musikalsk ansvarlig: Trine Bariås Originalversjon: AMR Produce (Spania) Manus og tekst: Pedro Villora Norsk oversettelse: Astrid Berg Hauge Oversatt fra spansk av: Victôria Fuster Arrangementstidspunkt/konsertstart : 14:30 Dørene åpner : 14:00 Varighet : 120 min Servering : Kiosk Aldersgrense : Ingen aldersgrense Ledsager : Full pris Adkomst : kollektivtransport til Majorstuen så tre min gange Bevegelseshemmede : Ja Parkeringsmuligheter : Nei Arrangørens nettside",
       "date": "2026-10-11",
       "time": "14:30",
       "endTime": null,
@@ -1043,7 +1001,50 @@
       "currency": null,
       "ticketUrl": "https://www.ticketmaster.no/event/oliver-twist-koffers-produksjoner-tickets/174894045?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/oliver-twist-koffers-produksjoner-tickets/174894045?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/286/4125db4c-12bf-4110-929a-7466e3b27286_RETINA_PORTRAIT_16_9.jpg",
+      "imageUrl": "https://s1.ticketm.net/dam/e/264/ffd0a956-86e7-404b-a5e1-fe63593de264_SOURCE",
+      "imageEmoji": "🎭",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vPbq0AZ",
+      "title": "Eve: Scorpion Tour",
+      "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's.",
+      "date": "2026-10-12",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Rockefeller, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/eve-scorpion-tour-tickets/1958764140?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/eve-scorpion-tour-tickets/1958764140?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/b7c/4f73ba56-cc10-47e4-98db-62541342bb7c_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vF8fKqy",
+      "title": "Storefri LIVE (18 år)",
+      "description": "The Storefri podcast is going on tour again! Once more, Mikkel and Herman are opening the doors to their podcast studio and inviting you into the wild Storefri universe --- in a city near you! All you need to do is grab a ticket and start preparing mentally. Because as Herman says: 'It's like a school trip to the Freia chocolate factory; full of impressions, fascinating, and you might come home a little tired of chocolate.' Boom boom taka boom --- we can't wait to see you at the show! Event start / showtime: 19:00 Doors open: 30 minutes prior Duration: 75 minutes Food & drinks: Kiosk Beer / Wine Age limit: 18 (more info: https://neuf.no/praktisk#aldersgrense-og-sikkerhet) Companion ticket: Same as regular price Wheelchair access: Yes Parking: Yes",
+      "date": "2026-10-13",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Chateau Neuf,Storsalen, Oslo",
+      "categories": [
+        "teater"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/storefri-live-18-ar--tickets/1210513779?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/storefri-live-18-ar--tickets/1210513779?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/c09/45a43f18-a3c7-4e74-8669-67665083ac09_RETINA_LANDSCAPE_16_9.jpg",
       "imageEmoji": "🎭",
       "sponsored": false,
       "featured": false,
@@ -1053,7 +1054,7 @@
   "meta": {
     "city": "oslo",
     "count": 49,
-    "fetchedAt": "2026-09-10T09:23:40.208Z",
+    "fetchedAt": "2026-09-11T09:21:28.909Z",
     "sources": {
       "ticketmaster": 50,
       "scrape": 0

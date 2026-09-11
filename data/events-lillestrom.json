@@ -1,63 +1,6 @@
 {
   "events": [
     {
-      "id": "scrape-gen-kulturkaf-gategutt-en-hyllest-til-lilleb-2026-09-10",
-      "title": "Kulturkafé – Gategutt: En hyllest til Lillebjørn Nilsen",
-      "description": "Utsolgt",
-      "date": "2026-09-10",
-      "time": null,
-      "endTime": null,
-      "location": "Lillestrøm",
-      "categories": [],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16637-kulturkafe-gategutt-en-hyllest-til-lillebjorn-nilsen/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16637-kulturkafe-gategutt-en-hyllest-til-lillebjorn-nilsen/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
-      "id": "scrape-gen-adam-douglas-2026-09-10",
-      "title": "Adam Douglas",
-      "description": "Torsdag 10. september\nkl. 19.00",
-      "date": "2026-09-10",
-      "time": null,
-      "endTime": null,
-      "location": "Lillestrøm",
-      "categories": [],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17581-adam-douglas/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17581-adam-douglas/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
-      "id": "scrape-gen--lyst-p-livet-med-anne-lindmo-og-nina-br-2026-09-10",
-      "title": "«Lyst på livet» med Anne Lindmo og Nina Brochmann",
-      "description": "Utsolgt",
-      "date": "2026-09-10",
-      "time": null,
-      "endTime": null,
-      "location": "Lillestrøm",
-      "categories": [],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17917-lyst-pa-livet-med-anne-lindmo-og-nina-brochmann/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17917-lyst-pa-livet-med-anne-lindmo-og-nina-brochmann/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
       "id": "scrape-gen-ingar-kristiansen-the-sinatra-songbook-2026-09-11",
       "title": "Ingar Kristiansen & the Sinatra Songbook",
       "description": "Fredag 11. september\nkl. 19.00",
@@ -282,7 +225,7 @@
     {
       "id": "scrape-gen-eva-joly-tillit-og-samhold-i-en-urolig-t-2026-09-22",
       "title": "Eva Joly – Tillit og samhold i en urolig tid",
-      "description": "Få billetter igjen",
+      "description": "Utsolgt",
       "date": "2026-09-22",
       "time": null,
       "endTime": null,
@@ -558,9 +501,28 @@
       "source": "scrape"
     },
     {
+      "id": "scrape-gen-stjernenatt-i-kulturkvartalene-2026-10-09",
+      "title": "Stjernenatt i Kulturkvartalene",
+      "description": "Gratis",
+      "date": "2026-10-09",
+      "time": null,
+      "endTime": null,
+      "location": "Lillestrøm",
+      "categories": [],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17624-stjernenatt-i-kulturkvartalene/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17624-stjernenatt-i-kulturkvartalene/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
       "id": "scrape-gen-halvor-johansson-det-er-lov-pr-ve-seg-2026-10-09",
       "title": "Halvor Johansson – Det er lov å prøve seg",
-      "description": "Utsolgt",
+      "description": "Få billetter igjen",
       "date": "2026-10-09",
       "time": null,
       "endTime": null,
@@ -2414,11 +2376,11 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 123,
-    "fetchedAt": "2026-09-10T09:23:55.354Z",
+    "count": 121,
+    "fetchedAt": "2026-09-11T09:21:43.444Z",
     "sources": {
       "ticketmaster": 0,
-      "scrape": 124
+      "scrape": 122
     }
   }
 }
