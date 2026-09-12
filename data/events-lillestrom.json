@@ -1,25 +1,6 @@
 {
   "events": [
     {
-      "id": "scrape-gen-ingar-kristiansen-the-sinatra-songbook-2026-09-11",
-      "title": "Ingar Kristiansen & the Sinatra Songbook",
-      "description": "Fredag 11. september\nkl. 19.00",
-      "date": "2026-09-11",
-      "time": null,
-      "endTime": null,
-      "location": "Lillestrøm",
-      "categories": [],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16866-ingar-kristiansen-the-sinatra-songbook/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16866-ingar-kristiansen-the-sinatra-songbook/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
       "id": "scrape-gen-bruce-springsteen-the-songs-and-the-stor-2026-09-12",
       "title": "Bruce Springsteen – The Songs and The Stories",
       "description": "Lørdag 12. september\nkl. 19.00",
@@ -522,7 +503,7 @@
     {
       "id": "scrape-gen-halvor-johansson-det-er-lov-pr-ve-seg-2026-10-09",
       "title": "Halvor Johansson – Det er lov å prøve seg",
-      "description": "Få billetter igjen",
+      "description": "Utsolgt",
       "date": "2026-10-09",
       "time": null,
       "endTime": null,
@@ -1849,6 +1830,25 @@
       "source": "scrape"
     },
     {
+      "id": "scrape-gen-smith-dues-juleshow-2026-12-12",
+      "title": "Smith&Dues Juleshow",
+      "description": "Lørdag 12. desember\nkl. 19.00",
+      "date": "2026-12-12",
+      "time": null,
+      "endTime": null,
+      "location": "Lillestrøm",
+      "categories": [],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17672-smithdues-juleshow/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17672-smithdues-juleshow/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
       "id": "scrape-gen-julefantasi-2026-2026-12-14",
       "title": "Julefantasi 2026",
       "description": "Mandag 14. desember\nkl. 18.00",
@@ -1870,7 +1870,7 @@
     {
       "id": "scrape-gen-for-v-r-jord-en-julekonsert-2026-12-17",
       "title": "For vår jord – en julekonsert",
-      "description": "Få billetter igjen",
+      "description": "Torsdag 17. desember\nkl. 19.00",
       "date": "2026-12-17",
       "time": null,
       "endTime": null,
@@ -2377,7 +2377,7 @@
   "meta": {
     "city": "lillestrom",
     "count": 121,
-    "fetchedAt": "2026-09-11T09:21:43.444Z",
+    "fetchedAt": "2026-09-12T09:01:13.266Z",
     "sources": {
       "ticketmaster": 0,
       "scrape": 122

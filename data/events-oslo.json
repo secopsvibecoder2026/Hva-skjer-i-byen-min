@@ -1,72 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z1k1Z_fv3",
-      "title": "Papaya / Radioresepsjonen 20 år",
-      "description": null,
-      "date": "2026-09-11",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Sentrum Scene, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/papaya-radioresepsjonen-20-ar-tickets/280654052?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/papaya-radioresepsjonen-20-ar-tickets/280654052?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/c91/9c09e6bc-af53-435f-b7df-55d22f6dbc91_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z1kjMpvbM",
-      "title": "Ingenting",
-      "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's.",
-      "date": "2026-09-11",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Rockefeller, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/ingenting-tickets/737581637?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/ingenting-tickets/737581637?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/699/65d19c47-a235-4987-bb86-90048db4f699_TABLET_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z1kPbbPfg",
-      "title": "Linni (18+)",
-      "description": "After several years of critically acclaimed releases and unwavering artistic integrity, Linni has established himself as one of Norway's most original voices in the alternative rap scene. Now, the Bergen-based rapper takes over Chateau Neuf with a much harder and more club-focused package. With a number of new projects underway, his sound is being pushed further into a dark rave universe, where modern hip hop collides with techno, jungle, ghettotech, and jerk. Expect heavy pressure, high intensity, and an immersive audiovisual experience---bathed in fire, flames, and pure energy from start to finish. Doors open at 21:00, concert starts at 22:00. The event has an 18+ age limit, with no guardian arrangement. Valid student ID must be presented at ticket inspection when purchasing a student ticket. Wheelchair Access or Limited Mobility at Betong: Access to the basement for wheelchair users or people with limited mobility is via elevator. At events with high audience capacity, accessibility and visibility may be very limited. Please feel free to contact billetter@neuf.no before purchasing tickets.",
-      "date": "2026-09-11",
-      "time": "22:00",
-      "endTime": null,
-      "location": "Chateau Neuf, Betong, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/linni-18--tickets/958625535?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/linni-18--tickets/958625535?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/e40/af93e67a-5a0d-4f85-9213-6f8538f32e40_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z16vb_o6fg",
       "title": "Bailey Zimmerman: Different Night Same Rodeo Tour 2026",
       "description": null,
@@ -82,27 +16,6 @@
       "ticketUrl": "https://www.ticketmaster.no/event/bailey-zimmerman-different-night-same-rodeo-tour-2026-tickets/1619447535?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/bailey-zimmerman-different-night-same-rodeo-tour-2026-tickets/1619447535?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/a/fd0/8e20e642-292c-4fb6-b145-a8679ceb6fd0_SOURCE",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z1kabooro",
-      "title": "Organ recital with Kåre Nordstoga",
-      "description": "Kåre Nordstoga, organ. Works by Buxtehude, Bach Demessieux, Sandvold and Tournemire. Dear friends of organ music, Welcome to Oslo Cathedral and this year's summer concert series! Over the course of 15 Saturdays from July to October, we invite you to festive and diverse concerts featuring organists from both Norway and abroad. Each concert has its own distinct character, reflecting the musical background and tradition of the guest performer. During the summer months, when everyday life tends to slow down and time feels more spacious, we wish to present a rich and varied musical program on our cathedral organ, built in 1998 by the Norwegian organ builder Ryde & Berg. We are committed to making organ music accessible to as many people as possible. Please feel free to take the program with you, share it with friends and family, and invite someone along to a concert. Admission is always free for children and students. We look forward to seeing you at Oslo Cathedral and wish you a joyful and inspiring summer! Marcus André Berg and Tjark Pinne Organists of Oslo Cathedral. Accessibility: Oslo Cathedral has dedicated wheelchair spaces in the south transept. Companions enter free of charge upon presenting a companion certificate. Oslo Cathedral has a ramp and an elevator for step-free access. Please arrive at the main entrance, and our staff will guide you to the wheelchair entrance. A wheelchair-accessible restroom is available by the main entrance. For questions; please call Oslo Cathedral, phone: +47 23629010",
-      "date": "2026-09-12",
-      "time": "12:00",
-      "endTime": null,
-      "location": "Oslo domkirke, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/organ-recital-with-kare-nordstoga-tickets/258451791?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/organ-recital-with-kare-nordstoga-tickets/258451791?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/1da/d50c4877-4d39-425f-a183-dde28a8761da_RETINA_LANDSCAPE_16_9.jpg",
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -188,28 +101,6 @@
       "ticketUrl": "https://www.ticketmaster.no/event/megan-moroney-%7C-vip-tickets/414567932?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/megan-moroney-%7C-vip-tickets/414567932?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/e/89f/c86139af-c4c1-4c86-9475-d8eecdecf89f_SOURCE",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z1kq_uoaO",
-      "title": "Ella Mai: Do You Still Love Me? Tour",
-      "description": "Doors open 7 pm. VIP Package Disclaimer: Buyers will receive an email approximately three days prior to the show date with VIP details, sent to the address submitted at time of purchase. One More Time VIP, the artist, tour, promoter, ticketing company, venue or any other affiliated parties are not responsible for outdated or inaccurate information provided by the consumer. All packages and package contents are non-transferable; no refunds or exchanges; all sales are final. Package elements are subject to change. VIP merchandise items will be distributed at the show. If you have any questions regarding your VIP package elements, please contact info@onemoretimevip.com The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's.",
-      "date": "2026-09-14",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Sentrum Scene, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/ella-mai-do-you-still-love-me-tour-tickets/759351260?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/ella-mai-do-you-still-love-me-tour-tickets/759351260?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/ee5/6781efa3-b464-4aad-bc05-532503715ee5_TABLET_LANDSCAPE_16_9.jpg",
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -1030,6 +921,28 @@
       "source": "ticketmaster"
     },
     {
+      "id": "tm-Z698xZb_Z16v4ZZx8E",
+      "title": "Simple Plan - Bigger Than You Think! Europe Tour 2026",
+      "description": null,
+      "date": "2026-10-13",
+      "time": "00:00",
+      "endTime": null,
+      "location": "Sentrum Scene, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/simple-plan-bigger-than-you-think-europe-tour-2026-tickets/1540022427?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/simple-plan-bigger-than-you-think-europe-tour-2026-tickets/1540022427?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/560/4b5b8aec-86c5-423d-b751-01bbe4f14560_SOURCE",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
       "id": "tm-Z698xZb_Z16vF8fKqy",
       "title": "Storefri LIVE (18 år)",
       "description": "The Storefri podcast is going on tour again! Once more, Mikkel and Herman are opening the doors to their podcast studio and inviting you into the wild Storefri universe --- in a city near you! All you need to do is grab a ticket and start preparing mentally. Because as Herman says: 'It's like a school trip to the Freia chocolate factory; full of impressions, fascinating, and you might come home a little tired of chocolate.' Boom boom taka boom --- we can't wait to see you at the show! Event start / showtime: 19:00 Doors open: 30 minutes prior Duration: 75 minutes Food & drinks: Kiosk Beer / Wine Age limit: 18 (more info: https://neuf.no/praktisk#aldersgrense-og-sikkerhet) Companion ticket: Same as regular price Wheelchair access: Yes Parking: Yes",
@@ -1049,12 +962,75 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kfE89oS",
+      "title": "Pumpegris",
+      "description": "Doors Open kl. 19.00. The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's Read the organizer's terms of purchase here. See www.rockefeller.no for the complete program.. Practical information about the concerts can be found here. The nearest transport hub is Storgata and/or Jernbanetorget. See ruter.no for more info.",
+      "date": "2026-10-15",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Rockefeller, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/pumpegris-tickets/527417473?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/pumpegris-tickets/527417473?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/a5a/ebc4704f-b0f8-4129-a2b7-b6f445ba1a5a_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18QIq92UxSuZ2BteRf",
+      "title": "Oslo Negativ 2026",
+      "description": null,
+      "date": "2026-10-16",
+      "time": "14:00",
+      "endTime": null,
+      "location": "Nasjonalgalleriet, Oslo",
+      "categories": [
+        "teater"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.universe.com/events/oslo-negativ-2026-tickets-NK1SGH?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/oslo-negativ-2026-tickets-NK1SGH?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/99a/17bf547c-c64a-4395-84c2-f69dcdda699a_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎭",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18QIq92TzcduJoFCSR",
+      "title": "Oslo Negativ 2026",
+      "description": null,
+      "date": "2026-10-17",
+      "time": "11:00",
+      "endTime": null,
+      "location": "Nasjonalgalleriet, Oslo",
+      "categories": [
+        "teater"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.universe.com/events/oslo-negativ-2026-tickets-NK1SGH?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/oslo-negativ-2026-tickets-NK1SGH?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/99a/17bf547c-c64a-4395-84c2-f69dcdda699a_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎭",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
-    "count": 49,
-    "fetchedAt": "2026-09-11T09:21:28.909Z",
+    "count": 48,
+    "fetchedAt": "2026-09-12T09:01:00.499Z",
     "sources": {
       "ticketmaster": 50,
       "scrape": 0
