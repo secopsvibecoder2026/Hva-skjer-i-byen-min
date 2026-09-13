@@ -1,70 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z16vb_o6fg",
-      "title": "Bailey Zimmerman: Different Night Same Rodeo Tour 2026",
-      "description": null,
-      "date": "2026-09-12",
-      "time": "00:00",
-      "endTime": null,
-      "location": "Oslo Spektrum, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/bailey-zimmerman-different-night-same-rodeo-tour-2026-tickets/1619447535?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/bailey-zimmerman-different-night-same-rodeo-tour-2026-tickets/1619447535?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/fd0/8e20e642-292c-4fb6-b145-a8679ceb6fd0_SOURCE",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16v_Vq748",
-      "title": "Papaya / Radioresepsjonen 20 år",
-      "description": null,
-      "date": "2026-09-12",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Sentrum Scene, Oslo",
-      "categories": [
-        "teater"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/papaya-radioresepsjonen-20-ar-tickets/1674744550?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/papaya-radioresepsjonen-20-ar-tickets/1674744550?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/095/43560ea3-f7a0-4df5-847a-7742e8ae4095_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎭",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z1k-Kv6Zw",
-      "title": "Gunslingers",
-      "description": "Doors Open kl. 19.00. The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's Read the organizer's terms of purchase here. See www.rockefeller.no for the complete program.. Practical information about the concerts can be found here. The nearest transport hub is Storgata and/or Jernbanetorget. See ruter.no for more info.",
-      "date": "2026-09-12",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Rockefeller, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/gunslingers-tickets/853047032?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/gunslingers-tickets/853047032?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/fc8/dda8f031-66d5-4130-8b98-45e5fc95afc8_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z1k14r_vz",
       "title": "Megan Moroney",
       "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's. Read the organizer's terms of purchase here. See www.rockefeller.no for the complete program.. Practical information about the concerts can be found here. The nearest transport hub is Storgata and/or Jernbanetorget. See ruter.no for more info.",
@@ -1025,12 +961,76 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1k-8a38U",
+      "title": "Howl",
+      "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's.",
+      "date": "2026-10-17",
+      "time": "19:00",
+      "endTime": null,
+      "location": "John Dee, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/howl-tickets/850252436?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/howl-tickets/850252436?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/6df/a5a28462-4ff9-48fd-aadf-885014fe56df_TABLET_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kJv4OqU",
+      "title": "Skinny E - Se på meg nå, Hilde*",
+      "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's.",
+      "date": "2026-10-17",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Rockefeller, Oslo",
+      "categories": [
+        "teater"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/skinny-e-se-pa-meg-na-hilde-tickets/981560776?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/skinny-e-se-pa-meg-na-hilde-tickets/981560776?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/c18/fcbc394d-8425-4ab1-ada2-bb7cc157ac18_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎭",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kCKo0F8",
+      "title": "Espen Lind",
+      "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's.",
+      "date": "2026-10-17",
+      "time": "20:00",
+      "endTime": null,
+      "location": "Sentrum Scene, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/espen-lind-tickets/393464210?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/espen-lind-tickets/393464210?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/9c6/6c4853b6-15ba-4148-9b9f-c3d797eab9c6_SOURCE",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 48,
-    "fetchedAt": "2026-09-12T09:01:00.499Z",
+    "fetchedAt": "2026-09-13T09:58:53.144Z",
     "sources": {
       "ticketmaster": 50,
       "scrape": 0

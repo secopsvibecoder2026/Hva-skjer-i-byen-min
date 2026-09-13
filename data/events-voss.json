@@ -1,30 +1,9 @@
 {
-  "events": [
-    {
-      "id": "voss-3",
-      "title": "Voss Folkemusikk Festspel",
-      "description": "Tradisjonsrik festival for norsk folkemusikk og folkedans. Lystige toner og dans i Voss kulturhus og på friluftscenene.",
-      "date": "2026-09-12",
-      "time": "14:00",
-      "endTime": "22:00",
-      "location": "Voss kulturhus, Voss",
-      "categories": [
-        "konsert",
-        "familie"
-      ],
-      "ticketUrl": "https://www.visitvoss.no",
-      "affiliateUrl": "https://www.visitvoss.no/hva-skjer/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎻",
-      "sponsored": false,
-      "featured": false,
-      "source": "local"
-    }
-  ],
+  "events": [],
   "meta": {
     "city": "voss",
-    "count": 1,
-    "fetchedAt": "2026-07-26T07:34:00.156Z",
+    "count": 0,
+    "fetchedAt": "2026-09-13T09:59:19.800Z",
     "sources": {
       "ticketmaster": 0,
       "eventbrite": 0,
