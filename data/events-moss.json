@@ -1,12 +1,33 @@
 {
-  "events": [],
+  "events": [
+    {
+      "id": "tm-Z698xZb_Z16v8_bSO0",
+      "title": "KARPE",
+      "description": null,
+      "date": "2028-04-26",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Verket Scene, Moss",
+      "categories": [
+        "konsert"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/karpe-tickets/1419633824?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/karpe-tickets/1419633824?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/912/d05097c5-b910-4711-9924-7e16642d1912_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    }
+  ],
   "meta": {
     "city": "moss",
-    "count": 0,
-    "fetchedAt": "2026-03-28T20:24:27.124Z",
+    "count": 1,
+    "fetchedAt": "2026-09-14T10:19:26.160Z",
     "sources": {
-      "ticketmaster": 0,
-      "eventbrite": 0,
+      "ticketmaster": 1,
       "scrape": 0
     }
   }

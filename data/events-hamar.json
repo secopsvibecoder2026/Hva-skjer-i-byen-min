@@ -62,14 +62,36 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16eZfOyoJ",
+      "title": "Hamar Open Air",
+      "description": null,
+      "date": "2027-08-14",
+      "time": "00:00",
+      "endTime": null,
+      "location": "Utenfor Vikingskipet, Hamar",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/hamar-open-air-tickets/2014839466?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/hamar-open-air-tickets/2014839466?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/429/c1de12d9-7461-4f2a-860d-7da9e35c9429_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "hamar",
-    "count": 3,
-    "fetchedAt": "2026-09-13T09:59:03.704Z",
+    "count": 4,
+    "fetchedAt": "2026-09-14T10:19:19.695Z",
     "sources": {
-      "ticketmaster": 3,
+      "ticketmaster": 4,
       "scrape": 0
     }
   }

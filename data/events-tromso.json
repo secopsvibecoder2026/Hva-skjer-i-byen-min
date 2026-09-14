@@ -1,54 +1,100 @@
 {
   "events": [
     {
-      "id": "tromso-1",
-      "title": "Tromsø Internasjonale Filmfestival 2026",
-      "description": "En av Nordens ledende filmfestivaler samler filmelskere fra hele verden i januarmørket. Visninger, debatter og kulturopplevelser i verdens nordligste by av sin størrelse.",
-      "date": "2026-10-17",
-      "time": "18:00",
-      "endTime": "23:00",
-      "location": "Fokus Kino, Tromsø",
-      "categories": [
-        "familie",
-        "uteliv"
-      ],
-      "ticketUrl": "https://tiff.no",
-      "affiliateUrl": "https://tiff.no/billetter?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🦌",
-      "sponsored": false,
-      "featured": true,
-      "source": "local"
-    },
-    {
-      "id": "tromso-2",
-      "title": "Nordlyskonsert – Arktisk Filharmoni",
-      "description": "Arktisk Filharmoni fremfører storslåtte verk under den arktiske himmelen. En magisk musikkopplevelse med mulighet for nordlys.",
-      "date": "2026-11-14",
-      "time": "19:30",
-      "endTime": "22:00",
-      "location": "Kulturhuset, Tromsø",
+      "id": "tm-Z698xZb_Z1kap4vGZ",
+      "title": "Polaria Music Fest | Friday Pass",
+      "description": null,
+      "date": "2027-06-25",
+      "time": "00:00",
+      "endTime": null,
+      "location": "Tromsdalen",
       "categories": [
         "konsert"
       ],
-      "ticketUrl": "https://www.arktiskfilharmoni.no",
-      "affiliateUrl": "https://www.arktiskfilharmoni.no/billetter?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🌌",
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/polaria-music-fest-%7C-friday-pass-tickets/256541300?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/polaria-music-fest-%7C-friday-pass-tickets/256541300?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/917/f1bd9fb3-47aa-4163-83de-25e70702e917_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
-      "source": "local"
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kkKPsq8",
+      "title": "Polaria Music Fest | Festival pass",
+      "description": null,
+      "date": "2027-06-25",
+      "time": "00:00",
+      "endTime": null,
+      "location": "Tromsdalen",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/polaria-music-fest-%7C-festival-pass-tickets/193971750?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/polaria-music-fest-%7C-festival-pass-tickets/193971750?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/917/f1bd9fb3-47aa-4163-83de-25e70702e917_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kjSutve",
+      "title": "Polaria Music Fest | Saturday Pass",
+      "description": null,
+      "date": "2027-06-26",
+      "time": "00:00",
+      "endTime": null,
+      "location": "Tromsdalen",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/polaria-music-fest-%7C-saturday-pass-tickets/733369042?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/polaria-music-fest-%7C-saturday-pass-tickets/733369042?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/917/f1bd9fb3-47aa-4163-83de-25e70702e917_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1k-v1ZOK",
+      "title": "KARPE (DIEM) OVERTIME/OVERKILL (2000-2028)  // Bryggeriet Scene",
+      "description": null,
+      "date": "2028-05-04",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Bryggeriet Tromsø, Tromsø",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/karpe-diem-overtime-overkill-2000-2028-bryggeriet-scene-tickets/841280813?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/karpe-diem-overtime-overkill-2000-2028-bryggeriet-scene-tickets/841280813?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/38a/53bea220-a719-4818-b058-e44ddf57038a_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "tromso",
-    "count": 2,
-    "fetchedAt": "2026-09-06T09:09:00.628Z",
+    "count": 4,
+    "fetchedAt": "2026-09-14T10:19:15.540Z",
     "sources": {
-      "ticketmaster": 0,
-      "eventbrite": 0,
-      "scrape": 0,
-      "note": "Seed-data."
+      "ticketmaster": 4,
+      "scrape": 0
     }
   }
 }

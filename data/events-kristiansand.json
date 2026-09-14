@@ -1,13 +1,57 @@
 {
-  "events": [],
+  "events": [
+    {
+      "id": "tm-Z698xZb_Z16vA3vUu-",
+      "title": "KARPE (DIEM) - OVERTIME/OVERKILL (2000-2028)",
+      "description": null,
+      "date": "2028-04-29",
+      "time": "21:00",
+      "endTime": null,
+      "location": "KICK Scene, Kristiansand S",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/karpe-diem-overtime-overkill-2000-2028--tickets/1152076361?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/karpe-diem-overtime-overkill-2000-2028--tickets/1152076361?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/8b0/6db4da34-8f21-490a-8075-43008a7828b0_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16v4Eaf_k",
+      "title": "KARPE (DIEM) - OVERTIME/OVERKILL (2000-2028)",
+      "description": "Karpe announces their very last concerts ever, and Kristiansand is one of the stops. 29th and 30th of april 2028 Karpe has their very last concert in Kristiansand. Tickets go on sale Thursday 17 September at 09:00 via www.karpe4life.no Doors open: 19:00 Concert starts: 21:00 Age limit: 18, no guardian arrangement Photography and audio recording prohibited - The concerts have an absolute mobile phone ban. This is how it works: Upon arrival, your phone will be placed in a lockable Yondr pouch, which you keep with you throughout the evening. If you need your phone, the pouch can be unlocked by staff in designated mobile phone zones at the venue -- and locked again before you go back inside. The pouch is unlocked and returned when the concert is over. Unauthorized use of phones in the concert area will result in expulsion. Remember to bring a bank card for purchases at the venue. Thank you for helping create a phone-free experience together with Karpe! Read more about Yondr: https://www.overyondr.com/phone-locking-pouch Due to the check-in of mobile phones, we recommend that the audience arrive early, doors open at 19:00. Event time/concert start: 21:00 Doors open: 120 min before",
+      "date": "2028-04-30",
+      "time": "21:00",
+      "endTime": null,
+      "location": "KICK Scene, Kristiansand S",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/karpe-diem-overtime-overkill-2000-2028--tickets/1567254646?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/karpe-diem-overtime-overkill-2000-2028--tickets/1567254646?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/16e/2717f084-fd62-48e0-a144-961a961dd16e_TABLET_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    }
+  ],
   "meta": {
     "city": "kristiansand",
-    "count": 0,
-    "fetchedAt": "2026-09-07T09:56:44.686Z",
+    "count": 2,
+    "fetchedAt": "2026-09-14T10:19:14.726Z",
     "sources": {
-      "ticketmaster": 0,
-      "eventbrite": 0,
-      "scrape": 17
+      "ticketmaster": 2,
+      "scrape": 0
     }
   }
 }

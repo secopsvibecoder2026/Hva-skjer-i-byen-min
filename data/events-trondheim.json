@@ -22,6 +22,28 @@
       "source": "ticketmaster"
     },
     {
+      "id": "tm-Z698xZb_Z16vZK_dba",
+      "title": "NEON | Festival pass",
+      "description": null,
+      "date": "2027-06-04",
+      "time": "00:00",
+      "endTime": null,
+      "location": "Lade idrettspark, Trondheim",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/neon-%7C-festival-pass-tickets/1013643609?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/neon-%7C-festival-pass-tickets/1013643609?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/772/d4b2c36a-420f-4620-b9b2-76a820b1e772_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
       "id": "tm-Z698xZb_Z16v1fGvFt",
       "title": "Westlife 25: The Anniversary World Tour",
       "description": null,
@@ -46,10 +68,10 @@
   ],
   "meta": {
     "city": "trondheim",
-    "count": 2,
-    "fetchedAt": "2026-09-13T09:58:55.050Z",
+    "count": 3,
+    "fetchedAt": "2026-09-14T10:19:13.365Z",
     "sources": {
-      "ticketmaster": 2,
+      "ticketmaster": 3,
       "scrape": 0
     }
   }

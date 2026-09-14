@@ -1,49 +1,6 @@
 {
   "events": [
     {
-      "id": "scrape-gen-rundt-et-flygel-for-barn-musikktyven-2026-09-13",
-      "title": "Rundt et flygel for barn – Musikktyven",
-      "description": "Søndag 13. september\nkl. 14.00",
-      "date": "2026-09-13",
-      "time": null,
-      "endTime": null,
-      "location": "Lillestrøm",
-      "categories": [
-        "konsert",
-        "uteliv",
-        "familie",
-        "barn"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17382-rundt-et-flygel-for-barn-musikktyven/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17382-rundt-et-flygel-for-barn-musikktyven/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
-      "id": "scrape-gen-erik-bye-i-100-2026-09-13",
-      "title": "Erik Bye i 100",
-      "description": "Søndag 13. september\nkl. 18.00",
-      "date": "2026-09-13",
-      "time": null,
-      "endTime": null,
-      "location": "Lillestrøm",
-      "categories": [],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17537-erik-bye-i-100/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17537-erik-bye-i-100/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
       "id": "scrape-gen-rundt-et-flygel-ber-mte-arier-2026-09-16",
       "title": "Rundt et flygel – Berømte arier",
       "description": "Onsdag 16. september\nkl. 19.00",
@@ -1908,8 +1865,8 @@
       "source": "scrape"
     },
     {
-      "id": "scrape-gen-sn-s-steren-2026-12-20",
-      "title": "Snøsøsteren",
+      "id": "scrape-gen-maja-lunde-og-lisa-aisatos-sn-s-steren-e-2026-12-20",
+      "title": "Maja Lunde og Lisa Aisatos «Snøsøsteren – en julefortelling»",
       "description": "Søn. 20. des.\n2 forestillinger",
       "date": "2026-12-20",
       "time": null,
@@ -1918,8 +1875,8 @@
       "categories": [],
       "priceFrom": null,
       "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/18122-snososteren/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/18122-snososteren/?ref=hvaSkjerIByenMin",
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/18122-maja-lunde-og-lisa-aisatos-snososteren-en-julefortelling/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/18122-maja-lunde-og-lisa-aisatos-snososteren-en-julefortelling/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -2357,11 +2314,11 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 120,
-    "fetchedAt": "2026-09-13T09:59:07.690Z",
+    "count": 118,
+    "fetchedAt": "2026-09-14T10:19:24.256Z",
     "sources": {
       "ticketmaster": 0,
-      "scrape": 121
+      "scrape": 119
     }
   }
 }

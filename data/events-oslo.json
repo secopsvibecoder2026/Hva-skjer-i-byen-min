@@ -1,48 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z1k14r_vz",
-      "title": "Megan Moroney",
-      "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's. Read the organizer's terms of purchase here. See www.rockefeller.no for the complete program.. Practical information about the concerts can be found here. The nearest transport hub is Storgata and/or Jernbanetorget. See ruter.no for more info.",
-      "date": "2026-09-13",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Sentrum Scene, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/megan-moroney-tickets/295799078?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/megan-moroney-tickets/295799078?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/d3e/6b2b1a95-fe1e-4ee0-9113-32966527cd3e_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z1k8f4E0w",
-      "title": "Megan Moroney | VIP",
-      "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's. Read the organizer's terms of purchase here. See www.rockefeller.no for the complete program.. Practical information about the concerts can be found here. The nearest transport hub is Storgata and/or Jernbanetorget. See ruter.no for more info.",
-      "date": "2026-09-13",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Sentrum Scene, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/megan-moroney-%7C-vip-tickets/414567932?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/megan-moroney-%7C-vip-tickets/414567932?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/89f/c86139af-c4c1-4c86-9475-d8eecdecf89f_SOURCE",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z1kxKkAaS",
       "title": "Chuck Ragan",
       "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's.",
@@ -67,7 +25,7 @@
     {
       "id": "tm-Z698xZb_Z16v8tudrd",
       "title": "Alessandro Cortini",
-      "description": null,
+      "description": "Doors Open kl. 19.00. The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's Read the organizer's terms of purchase here. See www.rockefeller.no for the complete program.. Practical information about the concerts can be found here. The nearest transport hub is Storgata and/or Jernbanetorget. See ruter.no for more info.",
       "date": "2026-09-16",
       "time": "19:00",
       "endTime": null,
@@ -79,7 +37,7 @@
       "currency": null,
       "ticketUrl": "https://www.ticketmaster.no/event/alessandro-cortini-tickets/1429343783?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/alessandro-cortini-tickets/1429343783?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/496/5e27b1a5-64f3-48ae-bfdd-47756f19e496_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageUrl": "https://s1.ticketm.net/dam/e/496/5e27b1a5-64f3-48ae-bfdd-47756f19e496_RETINA_PORTRAIT_16_9.jpg",
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -223,7 +181,8 @@
       "endTime": null,
       "location": "Sentrum Scene, Oslo",
       "categories": [
-        "konsert"
+        "konsert",
+        "uteliv"
       ],
       "priceFrom": null,
       "currency": null,
@@ -1025,12 +984,55 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kAyfV_v",
+      "title": "Bob Dylan",
+      "description": null,
+      "date": "2026-10-17",
+      "time": "20:00",
+      "endTime": null,
+      "location": "Oslo Spektrum, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/bob-dylan-tickets/179534641?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/bob-dylan-tickets/179534641?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/034/3bd6c573-ccda-49dd-a2e5-6a0959de7034_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18QIq92TzcduJoFCSY",
+      "title": "Oslo Negativ 2026",
+      "description": null,
+      "date": "2026-10-18",
+      "time": "11:00",
+      "endTime": null,
+      "location": "Nasjonalgalleriet, Oslo",
+      "categories": [
+        "teater"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.universe.com/events/oslo-negativ-2026-tickets-NK1SGH?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/oslo-negativ-2026-tickets-NK1SGH?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/99a/17bf547c-c64a-4395-84c2-f69dcdda699a_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎭",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 48,
-    "fetchedAt": "2026-09-13T09:58:53.144Z",
+    "fetchedAt": "2026-09-14T10:19:11.816Z",
     "sources": {
       "ticketmaster": 50,
       "scrape": 0

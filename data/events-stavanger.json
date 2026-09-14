@@ -1,12 +1,56 @@
 {
-  "events": [],
+  "events": [
+    {
+      "id": "tm-Z698xZb_Z16v4su7G3",
+      "title": "Vaulen Open Air | Friday Pass",
+      "description": null,
+      "date": "2027-06-11",
+      "time": "00:00",
+      "endTime": null,
+      "location": "Stavanger",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/vaulen-open-air-%7C-friday-pass-tickets/1571344312?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/vaulen-open-air-%7C-friday-pass-tickets/1571344312?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/1a6/3b9ed360-0630-46b8-937b-6b16a5ebc1a6_TABLET_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kakxF3F",
+      "title": "Vaulen Open Air | Festival Pass",
+      "description": null,
+      "date": "2027-06-11",
+      "time": "00:00",
+      "endTime": null,
+      "location": "Stavanger",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/vaulen-open-air-%7C-festival-pass-tickets/246888488?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/vaulen-open-air-%7C-festival-pass-tickets/246888488?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/1a6/3b9ed360-0630-46b8-937b-6b16a5ebc1a6_TABLET_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    }
+  ],
   "meta": {
     "city": "stavanger",
-    "count": 0,
-    "fetchedAt": "2026-05-24T07:48:24.208Z",
+    "count": 2,
+    "fetchedAt": "2026-09-14T10:19:13.973Z",
     "sources": {
-      "ticketmaster": 1,
-      "eventbrite": 0,
+      "ticketmaster": 2,
       "scrape": 0
     }
   }

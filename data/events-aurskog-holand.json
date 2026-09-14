@@ -1,13 +1,35 @@
 {
-  "events": [],
+  "events": [
+    {
+      "id": "tm-Z698xZb_Z1k_kvtqO",
+      "title": "KARPE (DIEM) OVERTIME/OVERKILL (2000-2028)",
+      "description": "I dag annonserte Karpe sine aller siste konserter noensinne, og Rognan er et av stoppene. 13. mai 2028 har Karpe sin aller siste konsert i Rognan. Billetter legges ut for salg torsdag 17. september kl. 09.00 via www.karpe4life.no Dørene åpner: kl. 19.00 Konsertstart: kl 21.00 Aldersgrense: 18 år, ingen verge ordning Foto og lydopptak forbudt - Konsertene har absolutt mobilforbud. Slik fungerer det: Ved ankomst legges telefonen din i en låsbar Yondr-pose, som du beholder selv hele kvelden. Trenger du telefonen, kan posen åpnes av personalet i egne mobilsoner på arenaen -- og låses igjen før du går inn igjen. Posen åpnes og returneres når konserten er over. Ulovlig bruk av telefon i konsertområdet fører til utvisning. Husk å ta med bankkort til kjøp på arenaen. Takk for at du er med på å skape en mobilfri opplevelse sammen med Karpe! Les mer om Yondr: https://www.overyondr.com/phone-locking-pouch På grunn av innsjekk av mobiltelefoner anbefaler vi publikum å komme tidlig, dørene åpner kl. 19:00.",
+      "date": "2028-05-13",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Rognan",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/karpe-diem-overtime-overkill-2000-2028--tickets/646069760?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/karpe-diem-overtime-overkill-2000-2028--tickets/646069760?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/af9/ebaee9b8-fc78-44b8-8647-4004ca551af9_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    }
+  ],
   "meta": {
     "city": "aurskog-holand",
-    "count": 0,
-    "fetchedAt": "2026-09-07T09:57:17.709Z",
+    "count": 1,
+    "fetchedAt": "2026-09-14T10:19:40.096Z",
     "sources": {
-      "ticketmaster": 0,
-      "eventbrite": 0,
-      "scrape": 7
+      "ticketmaster": 1,
+      "scrape": 0
     }
   }
 }
