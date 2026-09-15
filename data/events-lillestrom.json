@@ -300,6 +300,25 @@
       "source": "scrape"
     },
     {
+      "id": "scrape-gen-generalpr-ve-shrek-the-musical-2026-10-01",
+      "title": "Generalprøve SHREK The Musical",
+      "description": "Torsdag 1. oktober\nkl. 18.00",
+      "date": "2026-10-01",
+      "time": null,
+      "endTime": null,
+      "location": "Lillestrøm",
+      "categories": [],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/18250-generalprove-shrek-the-musical/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/18250-generalprove-shrek-the-musical/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
       "id": "scrape-gen-shrek-the-musical-premiere-2026-10-02",
       "title": "Shrek The Musical – premiere",
       "description": "2. okt. – 11. okt.\n9 forestillinger",
@@ -2314,11 +2333,11 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 118,
-    "fetchedAt": "2026-09-14T10:19:24.256Z",
+    "count": 119,
+    "fetchedAt": "2026-09-15T09:46:45.330Z",
     "sources": {
       "ticketmaster": 0,
-      "scrape": 119
+      "scrape": 120
     }
   }
 }
