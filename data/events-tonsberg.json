@@ -1,6 +1,27 @@
 {
   "events": [
     {
+      "id": "tm-LvZ18QtTJIz-Ez9HZqlnI",
+      "title": "Jubileumskonsert 60 år",
+      "description": null,
+      "date": "2026-11-08",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Tønsberg Domkirke, Tønsberg",
+      "categories": [
+        "konsert"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.universe.com/events/jubileumskonsert-60-ar-tickets-FST56K?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/jubileumskonsert-60-ar-tickets-FST56K?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://images.universe.com/2f0992f0-b260-40cb-97b5-09cb35b0a9b7/-/format/jpeg/-/scale_crop/1024x576/center/-/progressive/yes/-/inline/yes/",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
       "id": "tm-Z698xZb_Z16vfea6Jd",
       "title": "Festivalpass med NATTEN Slottsfjell 2027",
       "description": "Slottsfjell har flyttet ned fra fjellet til vakre Kaldnes, kun fire minutters gange fra legendariske Tønsberg Brygge. På området opplever du fremtidens festival midt i sentrum av Norges beste sommerby, Tønsberg. Omkranset av skjærgård byr vi på en bred og spennende musikkprofil på store utendørsscener, nattklubb og vår egen strand. Når du vil trekke deg tilbake har vi flere loungeområder og en gigantisk mathall hvor du kan nyte mat fra hele verden med vennene dine. Når solen går ned, og lyden fra hovedscenen har stilnet, presenterer vi Norges største nattklubb - NATTEN! Festivalpasset inkluderer NATTEN og har 20 års aldersgrense - gyldig ID kreves! Portene åpner kl. 13:00 hver dag. NATTEN åpner kl. 21:00 Ledsager gratis mot fremvisning av gyldig ledsagerbevis. For mer informasjon om artistslipp, program og praktiske opplysninger se Slottsfjells hjemmeside og facebookside",
@@ -30,7 +51,8 @@
       "endTime": null,
       "location": "Tønsberg",
       "categories": [
-        "konsert"
+        "konsert",
+        "uteliv"
       ],
       "priceFrom": null,
       "currency": null,
@@ -107,10 +129,10 @@
   ],
   "meta": {
     "city": "tonsberg",
-    "count": 5,
-    "fetchedAt": "2026-09-15T09:46:46.920Z",
+    "count": 6,
+    "fetchedAt": "2026-09-16T09:40:38.241Z",
     "sources": {
-      "ticketmaster": 5,
+      "ticketmaster": 6,
       "scrape": 0
     }
   }

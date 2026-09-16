@@ -111,9 +111,9 @@
     {
       "id": "tm-Z698xZb_Z1k3kaPoU",
       "title": "Infected Mushroom",
-      "description": null,
+      "description": "Doors open at 7:30 PM The event has a 20-year age limit with ID requirement. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification.",
       "date": "2026-09-18",
-      "time": "21:00",
+      "time": "19:30",
       "endTime": null,
       "location": "Sentrum Scene, Oslo",
       "categories": [
@@ -1031,7 +1031,7 @@
   "meta": {
     "city": "oslo",
     "count": 48,
-    "fetchedAt": "2026-09-15T09:46:30.395Z",
+    "fetchedAt": "2026-09-16T09:40:25.544Z",
     "sources": {
       "ticketmaster": 50,
       "scrape": 0

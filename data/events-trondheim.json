@@ -37,7 +37,7 @@
       "currency": null,
       "ticketUrl": "https://www.ticketmaster.no/event/neon-%7C-festival-pass-tickets/1013643609?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/neon-%7C-festival-pass-tickets/1013643609?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/772/d4b2c36a-420f-4620-b9b2-76a820b1e772_RETINA_LANDSCAPE_16_9.jpg",
+      "imageUrl": "https://s1.ticketm.net/dam/a/8ff/143076fc-6019-4b5a-8124-062f7c7708ff_RETINA_PORTRAIT_16_9.jpg",
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -69,7 +69,7 @@
   "meta": {
     "city": "trondheim",
     "count": 3,
-    "fetchedAt": "2026-09-15T09:46:32.764Z",
+    "fetchedAt": "2026-09-16T09:40:27.205Z",
     "sources": {
       "ticketmaster": 3,
       "scrape": 0
