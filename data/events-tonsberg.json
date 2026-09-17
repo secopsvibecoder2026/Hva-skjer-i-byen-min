@@ -15,7 +15,7 @@
       "currency": null,
       "ticketUrl": "https://www.universe.com/events/jubileumskonsert-60-ar-tickets-FST56K?ref=ticketmaster",
       "affiliateUrl": "https://www.universe.com/events/jubileumskonsert-60-ar-tickets-FST56K?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://images.universe.com/2f0992f0-b260-40cb-97b5-09cb35b0a9b7/-/format/jpeg/-/scale_crop/1024x576/center/-/progressive/yes/-/inline/yes/",
+      "imageUrl": "https://s1.ticketm.net/dam/c/518/83a05c63-479c-4f7e-a7aa-1932aab77518_105461_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -36,7 +36,28 @@
       "currency": null,
       "ticketUrl": "https://www.ticketmaster.no/event/festivalpass-med-natten-slottsfjell-2027-tickets/1502247983?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/festivalpass-med-natten-slottsfjell-2027-tickets/1502247983?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/40e/f526b176-2175-4a99-9fdb-21cc977fb40e_RETINA_LANDSCAPE_16_9.jpg",
+      "imageUrl": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kAUvSOY",
+      "title": "Friday Natten upgrade - Slottsfjell 2027",
+      "description": "Slottsfjell is a rock- and pop festival located at Slottsfjellet in Tønsberg where stages and public areas is constructed amongst the ruins of the medieval fortress Tunsberghus on Slottsfjellet and the surrounding area. There are also concerts in other venues in the city. This festival pass is ONLY for those over 18 years - valid ID required! HC Companion is free if valid escort certificate can be presented at the entrance. The gates open at. 13:00 every day. For more information about artist announcments, program and practical information, see Slottsfjell's homepage og facebookpage. Also, check the mood of previous festivals on their YouTube channel.",
+      "date": "2027-07-02",
+      "time": "00:00",
+      "endTime": null,
+      "location": "Tønsberg",
+      "categories": [
+        "konsert"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/friday-natten-upgrade-slottsfjell-2027-tickets/176073830?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/friday-natten-upgrade-slottsfjell-2027-tickets/176073830?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_RETINA_PORTRAIT_16_9.jpg",
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -58,7 +79,92 @@
       "currency": null,
       "ticketUrl": "https://www.ticketmaster.no/event/festivalpass-uten-natten-slottsfjell-2027-tickets/310489662?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/festivalpass-uten-natten-slottsfjell-2027-tickets/310489662?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/40e/f526b176-2175-4a99-9fdb-21cc977fb40e_RETINA_LANDSCAPE_16_9.jpg",
+      "imageUrl": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1k_-AyGJ",
+      "title": "2-dagers Natten Upgrade - Slottsfjell 2027",
+      "description": "Slottsfjell is a rock- and pop festival located at Slottsfjellet in Tønsberg where stages and public areas is constructed amongst the ruins of the medieval fortress Tunsberghus on Slottsfjellet and the surrounding area. There are also concerts in other venues in the city. This festival pass is ONLY for those over 20 years - valid ID required! HC Companion is free if valid escort certificate can be presented at the entrance. The gates open at. 13:00 every day. For more information about artist announcments, program and practical information, see Slottsfjell's homepage og facebookpage. Also, check the mood of previous festivals on their YouTube channel.",
+      "date": "2027-07-02",
+      "time": "00:00",
+      "endTime": null,
+      "location": "Tønsberg",
+      "categories": [
+        "konsert"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/2-dagers-natten-upgrade-slottsfjell-2027-tickets/661179326?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/2-dagers-natten-upgrade-slottsfjell-2027-tickets/661179326?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kopq_3A",
+      "title": "Saturday Natten upgrade - Slottsfjell 2027",
+      "description": "Slottsfjell is a rock- and pop festival located at Slottsfjellet in Tønsberg where stages and public areas is constructed amongst the ruins of the medieval fortress Tunsberghus on Slottsfjellet and the surrounding area. There are also concerts in other venues in the city. This festival pass is ONLY for those over 18 years - valid ID required! HC Companion is free if valid escort certificate can be presented at the entrance. The gates open at. 13:00 every day. For more information about artist announcments, program and practical information, see Slottsfjell's homepage og facebookpage. Also, check the mood of previous festivals on their YouTube channel.",
+      "date": "2027-07-03",
+      "time": "00:00",
+      "endTime": null,
+      "location": "Tønsberg",
+      "categories": [
+        "konsert"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/saturday-natten-upgrade-slottsfjell-2027-tickets/456759485?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/saturday-natten-upgrade-slottsfjell-2027-tickets/456759485?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vop044z",
+      "title": "Day pass saturday without natten - Slottsfjell 2027",
+      "description": "Slottsfjell is a rock- and pop festival located at Slottsfjellet in Tønsberg where stages and public areas is constructed amongst the ruins of the medieval fortress Tunsberghus on Slottsfjellet and the surrounding area. There are also concerts in other venues in the city. This festival pass is ONLY for those over 18 years - valid ID required! HC Companion is free if valid escort certificate can be presented at the entrance. The gates open at. 13:00 every day. For more information about artist announcments, program and practical information, see Slottsfjell's homepage og facebookpage. Also, check the mood of previous festivals on their YouTube channel.",
+      "date": "2027-07-03",
+      "time": "13:00",
+      "endTime": null,
+      "location": "Tønsberg",
+      "categories": [
+        "konsert"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/day-pass-saturday-without-natten-slottsfjell-2027-tickets/1456915578?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/day-pass-saturday-without-natten-slottsfjell-2027-tickets/1456915578?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kG784bZ",
+      "title": "Day pass Saturday with natten - Slottsfjell 2027",
+      "description": "Slottsfjell is a rock- and pop festival located at Slottsfjellet in Tønsberg where stages and public areas is constructed amongst the ruins of the medieval fortress Tunsberghus on Slottsfjellet and the surrounding area. There are also concerts in other venues in the city. This festival pass is ONLY for those over 18 years - valid ID required! HC Companion is free if valid escort certificate can be presented at the entrance. The gates open at. 13:00 every day. For more information about artist announcments, program and practical information, see Slottsfjell's homepage og facebookpage. Also, check the mood of previous festivals on their YouTube channel.",
+      "date": "2027-07-03",
+      "time": "13:00",
+      "endTime": null,
+      "location": "Tønsberg",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/day-pass-saturday-with-natten-slottsfjell-2027-tickets/304415600?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/day-pass-saturday-with-natten-slottsfjell-2027-tickets/304415600?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_RETINA_PORTRAIT_16_9.jpg",
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -129,10 +235,10 @@
   ],
   "meta": {
     "city": "tonsberg",
-    "count": 6,
-    "fetchedAt": "2026-09-16T09:40:38.241Z",
+    "count": 11,
+    "fetchedAt": "2026-09-17T09:49:08.308Z",
     "sources": {
-      "ticketmaster": 6,
+      "ticketmaster": 11,
       "scrape": 0
     }
   }

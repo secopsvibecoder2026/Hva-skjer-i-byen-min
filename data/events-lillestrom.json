@@ -1,44 +1,6 @@
 {
   "events": [
     {
-      "id": "scrape-gen-rundt-et-flygel-ber-mte-arier-2026-09-16",
-      "title": "Rundt et flygel – Berømte arier",
-      "description": "Onsdag 16. september\nkl. 19.00",
-      "date": "2026-09-16",
-      "time": null,
-      "endTime": null,
-      "location": "Lillestrøm",
-      "categories": [],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16645-rundt-et-flygel-beromte-arier/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16645-rundt-et-flygel-beromte-arier/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
-      "id": "scrape-gen-minor-majority-trio-2026-09-16",
-      "title": "Minor Majority Trio",
-      "description": "Onsdag 16. september\nkl. 19.30",
-      "date": "2026-09-16",
-      "time": null,
-      "endTime": null,
-      "location": "Lillestrøm",
-      "categories": [],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17793-minor-majority-trio/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17793-minor-majority-trio/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
       "id": "scrape-gen-lillestr-m-smaksfestival-presenterer-fer-2026-09-17",
       "title": "Lillestrøm Smaksfestival presenterer: Fernando Mora MW.",
       "description": "Torsdag 17. september\nkl. 19.00",
@@ -201,7 +163,7 @@
     {
       "id": "scrape-gen-men-har-du-pr-vd-yoga--2026-09-25",
       "title": "Men har du prøvd yoga?",
-      "description": "Få billetter igjen",
+      "description": "Utsolgt",
       "date": "2026-09-25",
       "time": null,
       "endTime": null,
@@ -1337,7 +1299,7 @@
     {
       "id": "scrape-gen-viljeskallen-petter-northug-i-samtale-me-2026-11-18",
       "title": "Viljeskallen – Petter Northug i samtale med Thor Gotaas",
-      "description": "Få billetter igjen",
+      "description": "Onsdag 18. november\nkl. 19.00",
       "date": "2026-11-18",
       "time": null,
       "endTime": null,
@@ -2354,11 +2316,11 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 120,
-    "fetchedAt": "2026-09-16T09:40:37.170Z",
+    "count": 118,
+    "fetchedAt": "2026-09-17T09:49:07.057Z",
     "sources": {
       "ticketmaster": 0,
-      "scrape": 121
+      "scrape": 119
     }
   }
 }
