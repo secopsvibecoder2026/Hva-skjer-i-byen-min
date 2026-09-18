@@ -152,28 +152,6 @@
       "source": "ticketmaster"
     },
     {
-      "id": "tm-Z698xZb_Z16vaxFSO0",
-      "title": "Cover Me - a tribute to Bruce Springsteen",
-      "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's. Read the organizer's terms of purchase here. See www.rockefeller.no for the complete program.. Practical information about the concerts can be found here. The nearest transport hub is Storgata and/or Jernbanetorget. See ruter.no for more info.",
-      "date": "2026-09-19",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Rockefeller, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/cover-me-a-tribute-to-bruce-springsteen-tickets/1262233824?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/cover-me-a-tribute-to-bruce-springsteen-tickets/1262233824?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/d60/57584958-7c53-483f-a042-69cecbda3d60_SOURCE",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z1kAM468e",
       "title": "A$AP Rocky - Don’t Be Dumb World Tour",
       "description": "Ticket Information: - Maximum 8 tickets per person. - Bottles, cans, and laser pointers are prohibited inside the concert area. Tickets will be available as mobile tickets (QR codes) via the Ticketmaster app and your user account well in advance of the concert (about 30 days). Learn more about delayed delivery of admission passes here. Wheelchair and companion seats are sold through Ticketmaster. For assistance, contact customer support here. Use public transportation to Unity Arena. Visit unityarena.no or ruter.no for travel options. For more details about the concert, artists, and entry times, visit unityarena.no or livenation.no. Schedule: - Box Office opens: 17:30 - Doors open: 18:00 - Concert starts: 19:30 General Information: The organizer reserves the right to deny entry to individuals who refuse personal inspection (this may include a body search and baggage check). See unityarena.no for details about prohibited items. Ejected individuals are not entitled to a ticket refund. There is no minimum age for the concert, but children under 15 must be accompanied by an adult (as per the Police Act in Bærum Municipality).",
@@ -375,14 +353,14 @@
       "endTime": null,
       "location": "Oslo Spektrum, Oslo",
       "categories": [
-        "teater"
+        "konsert"
       ],
       "priceFrom": null,
       "currency": null,
       "ticketUrl": "https://www.ticketmaster.no/event/home-free-highways--high-seas-tour-tickets/274899314?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/home-free-highways--high-seas-tour-tickets/274899314?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/a/e49/147ee232-34bd-4ea9-8eb3-1275be197e49_TABLET_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎭",
+      "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
@@ -909,14 +887,14 @@
       "endTime": null,
       "location": "Rockefeller, Oslo",
       "categories": [
-        "teater"
+        "konsert"
       ],
       "priceFrom": null,
       "currency": null,
       "ticketUrl": "https://www.ticketmaster.no/event/skinny-e-se-pa-meg-na-hilde-tickets/981560776?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/skinny-e-se-pa-meg-na-hilde-tickets/981560776?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/e/c18/fcbc394d-8425-4ab1-ada2-bb7cc157ac18_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎭",
+      "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
@@ -1030,8 +1008,8 @@
   ],
   "meta": {
     "city": "oslo",
-    "count": 48,
-    "fetchedAt": "2026-09-17T09:48:54.210Z",
+    "count": 47,
+    "fetchedAt": "2026-09-18T09:22:52.779Z",
     "sources": {
       "ticketmaster": 50,
       "scrape": 0
