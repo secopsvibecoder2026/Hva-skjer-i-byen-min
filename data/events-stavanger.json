@@ -31,8 +31,7 @@
       "endTime": null,
       "location": "Stavanger",
       "categories": [
-        "konsert",
-        "uteliv"
+        "konsert"
       ],
       "priceFrom": null,
       "currency": null,
@@ -48,7 +47,7 @@
   "meta": {
     "city": "stavanger",
     "count": 2,
-    "fetchedAt": "2026-09-18T09:22:55.551Z",
+    "fetchedAt": "2026-09-19T09:11:26.659Z",
     "sources": {
       "ticketmaster": 2,
       "scrape": 0

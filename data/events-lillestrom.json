@@ -1,25 +1,6 @@
 {
   "events": [
     {
-      "id": "scrape-gen-koht-h-p-og-glede-2026-09-18",
-      "title": "Koht, håp og glede",
-      "description": "Få billetter igjen",
-      "date": "2026-09-18",
-      "time": null,
-      "endTime": null,
-      "location": "Lillestrøm",
-      "categories": [],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17739-koht-hap-og-glede/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17739-koht-hap-og-glede/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
       "id": "scrape-gen-barnas-teaterl-rdag-hvor-er-du-kj-re-kj--2026-09-19",
       "title": "Barnas teaterlørdag – Hvor er du, kjære kjære roboten min?",
       "description": "Lørdag 19. september\nkl. 13.00",
@@ -66,7 +47,7 @@
     {
       "id": "scrape-gen-viggo-vennel-s-2026-09-19",
       "title": "Viggo Venneløs",
-      "description": "Lørdag 19. september\nkl. 19.00",
+      "description": "Få billetter igjen",
       "date": "2026-09-19",
       "time": null,
       "endTime": null,
@@ -1413,6 +1394,27 @@
       "source": "scrape"
     },
     {
+      "id": "scrape-gen-lillestr-m-musikkorps-og-lillestr-m-skol-2026-11-22",
+      "title": "Lillestrøm Musikkorps og Lillestrøm Skolekorps",
+      "description": "Søndag 22. november\nkl. 18.00",
+      "date": "2026-11-22",
+      "time": null,
+      "endTime": null,
+      "location": "Lillestrøm",
+      "categories": [
+        "konsert"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17220-lillestrom-musikkorps-og-lillestrom-skolekorps/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17220-lillestrom-musikkorps-og-lillestrom-skolekorps/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
       "id": "scrape-gen-j-velungen-alle-har-bagasje-2026-11-26",
       "title": "Jævelungen – Alle har bagasje",
       "description": "Torsdag 26. november\nkl. 20.00",
@@ -2296,7 +2298,7 @@
   "meta": {
     "city": "lillestrom",
     "count": 117,
-    "fetchedAt": "2026-09-18T09:23:07.825Z",
+    "fetchedAt": "2026-09-19T09:11:39.350Z",
     "sources": {
       "ticketmaster": 0,
       "scrape": 118
