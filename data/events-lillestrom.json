@@ -1,69 +1,6 @@
 {
   "events": [
     {
-      "id": "scrape-gen-barnas-teaterl-rdag-hvor-er-du-kj-re-kj--2026-09-19",
-      "title": "Barnas teaterlørdag – Hvor er du, kjære kjære roboten min?",
-      "description": "Lørdag 19. september\nkl. 13.00",
-      "date": "2026-09-19",
-      "time": null,
-      "endTime": null,
-      "location": "Lillestrøm",
-      "categories": [
-        "uteliv",
-        "barn",
-        "teater"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17542-barnas-teaterlordag-hvor-er-du-kjaere-kjaere-roboten-min/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17542-barnas-teaterlordag-hvor-er-du-kjaere-kjaere-roboten-min/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
-      "id": "scrape-gen-jazzkaf-jazz-og-s-nt-2026-09-19",
-      "title": "Jazzkafé – Jazz og Sånt",
-      "description": "Lørdag 19. september\nkl. 15.00",
-      "date": "2026-09-19",
-      "time": null,
-      "endTime": null,
-      "location": "Lillestrøm",
-      "categories": [
-        "konsert"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16869-jazzkafe-jazz-og-sant/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16869-jazzkafe-jazz-og-sant/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
-      "id": "scrape-gen-viggo-vennel-s-2026-09-19",
-      "title": "Viggo Venneløs",
-      "description": "Få billetter igjen",
-      "date": "2026-09-19",
-      "time": null,
-      "endTime": null,
-      "location": "Lillestrøm",
-      "categories": [],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17321-viggo-vennelos/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17321-viggo-vennelos/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
       "id": "scrape-gen-eva-joly-tillit-og-samhold-i-en-urolig-t-2026-09-22",
       "title": "Eva Joly – Tillit og samhold i en urolig tid",
       "description": "Utsolgt",
@@ -186,7 +123,7 @@
     {
       "id": "scrape-gen-dragbingo-med-ivana-impeachum-2026-09-26",
       "title": "Dragbingo med Ivana Impeachum",
-      "description": "Få billetter igjen",
+      "description": "Utsolgt",
       "date": "2026-09-26",
       "time": null,
       "endTime": null,
@@ -1257,6 +1194,25 @@
       "source": "scrape"
     },
     {
+      "id": "scrape-gen-solokveld-med-norsk-ballettinstitutt-2026-11-15",
+      "title": "Solokveld med Norsk Ballettinstitutt",
+      "description": "Søn. 15. nov.\n2 forestillinger",
+      "date": "2026-11-15",
+      "time": null,
+      "endTime": null,
+      "location": "Lillestrøm",
+      "categories": [],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17683-solokveld-med-norsk-ballettinstitutt/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17683-solokveld-med-norsk-ballettinstitutt/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
       "id": "scrape-gen-viljeskallen-petter-northug-i-samtale-me-2026-11-18",
       "title": "Viljeskallen – Petter Northug i samtale med Thor Gotaas",
       "description": "Onsdag 18. november\nkl. 19.00",
@@ -2297,11 +2253,11 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 117,
-    "fetchedAt": "2026-09-19T09:11:39.350Z",
+    "count": 115,
+    "fetchedAt": "2026-09-20T09:35:59.210Z",
     "sources": {
       "ticketmaster": 0,
-      "scrape": 118
+      "scrape": 116
     }
   }
 }
