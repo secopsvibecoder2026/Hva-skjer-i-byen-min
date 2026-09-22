@@ -66,69 +66,6 @@
       "source": "ticketmaster"
     },
     {
-      "id": "tm-Z698xZb_Z16eZ3uVJ_",
-      "title": "Bo Kaspers Orkester",
-      "description": null,
-      "date": "2026-09-29",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Sentrum Scene, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/bo-kaspers-orkester-tickets/2012374999?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/bo-kaspers-orkester-tickets/2012374999?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/15f/0e854812-978c-4fb6-8afd-7c4867b8815f_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16v0IfoA8",
-      "title": "Bo Kaspers Orkester",
-      "description": null,
-      "date": "2026-09-30",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Sentrum Scene, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/bo-kaspers-orkester-tickets/1928511150?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/bo-kaspers-orkester-tickets/1928511150?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/23e/8b22e593-acf8-423d-92c1-f52dbf66523e_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16vfA8YO_",
-      "title": "Bo Kaspers Orkester",
-      "description": null,
-      "date": "2026-10-01",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Sentrum Scene, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/bo-kaspers-orkester-tickets/1505430819?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/bo-kaspers-orkester-tickets/1505430819?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/edb/3d19a8dc-49bc-4373-a434-bee3c9ed4edb_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z16v73aV-3",
       "title": "Duran Duran",
       "description": "Ticket Information: - Maximum 8 tickets per person. - Bottles, cans, and laser pointers are prohibited inside the concert area. Wheelchair and companion seats are sold through Ticketmaster. For assistance, contact customer support here. Use public transportation to Unity Arena. Visit unityarena.no or ruter.no for travel options. For more details about the concert, artists, and entry times, visit unityarena.no or livenation.no. Schedule: - Box Office opens: 17:00 - Doors open: 18:00 Tickets will be available as mobile tickets (QR code) via the Ticketmaster app and your account. Learn more about delayed delivery of admission passes here. General Information: The organizer reserves the right to deny entry to individuals who refuse personal inspection (this may include a body search and baggage check). See unityarena.no for details about prohibited items. Ejected individuals are not entitled to a ticket refund. There is no minimum age for the concert, but children under 15 must be accompanied by an adult (as per the Police Act in Bærum Municipality).",
@@ -145,27 +82,6 @@
       "ticketUrl": "https://www.ticketmaster.no/event/duran-duran-tickets/1112274852?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/duran-duran-tickets/1112274852?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/a/336/2d864a36-ea9e-4d50-bf8a-08f7b7cab336_SOURCE",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16vjybOjF",
-      "title": "Bo Kaspers Orkester",
-      "description": null,
-      "date": "2026-10-02",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Sentrum Scene, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/bo-kaspers-orkester-tickets/1739620708?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/bo-kaspers-orkester-tickets/1739620708?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/c7f/a17c5863-cfb3-4af8-84c6-c4ee503f1c7f_RETINA_PORTRAIT_16_9.jpg",
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -1002,12 +918,76 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18QIq92TzcduJoFCSs",
+      "title": "Oslo Negativ 2026",
+      "description": null,
+      "date": "2026-10-24",
+      "time": "11:00",
+      "endTime": null,
+      "location": "Nasjonalgalleriet, Oslo",
+      "categories": [
+        "teater"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.universe.com/events/oslo-negativ-2026-tickets-NK1SGH?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/oslo-negativ-2026-tickets-NK1SGH?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/99a/17bf547c-c64a-4395-84c2-f69dcdda699a_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎭",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16v-arfxf",
+      "title": "Halva Priset",
+      "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's. Read the organizer's terms of purchase here. See www.rockefeller.no for the complete program.. Practical information about the concerts can be found here. The nearest transport hub is Storgata and/or Jernbanetorget. See ruter.no for more info.",
+      "date": "2026-10-24",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Sentrum Scene, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/halva-priset-tickets/1849794894?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/halva-priset-tickets/1849794894?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/f34/210cb47b-8cc5-434e-ae80-b953ccf7cf34_TABLET_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1AMJdGe",
+      "title": "Hot Wheels Stunt Show",
+      "description": null,
+      "date": "2026-10-25",
+      "time": "10:30",
+      "endTime": null,
+      "location": "Unity Arena, Fornebu",
+      "categories": [
+        "familie",
+        "barn"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/hot-wheels-stunt-show-tickets/37983302?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/hot-wheels-stunt-show-tickets/37983302?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/d75/0453e4d0-2642-4d80-8fca-a94e7dd40d75_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
-    "count": 47,
-    "fetchedAt": "2026-09-21T10:23:55.138Z",
+    "count": 46,
+    "fetchedAt": "2026-09-22T09:37:41.310Z",
     "sources": {
       "ticketmaster": 50,
       "scrape": 0
