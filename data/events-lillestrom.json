@@ -1,25 +1,6 @@
 {
   "events": [
     {
-      "id": "scrape-gen-espen-lee-historiene-bak-2026-09-23",
-      "title": "Espen Lee  – Historiene bak",
-      "description": "Onsdag 23. september\nkl. 19.00",
-      "date": "2026-09-23",
-      "time": null,
-      "endTime": null,
-      "location": "Lillestrøm",
-      "categories": [],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17783-espen-lee-historiene-bak/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17783-espen-lee-historiene-bak/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
       "id": "scrape-gen-ikke-lett-glemme-et-foredrag-om-demens-o-2026-09-24",
       "title": "Ikke lett å glemme – Et foredrag om demens og pårørenderollen",
       "description": "Torsdag 24. september\nkl. 18.00",
@@ -829,8 +810,8 @@
       "source": "scrape"
     },
     {
-      "id": "scrape-gen-allehelgenkonsert-med-anita-skorgan-2026-11-02",
-      "title": "Allehelgenkonsert med Anita Skorgan",
+      "id": "scrape-gen-allehelgenskonsert-med-anita-skorgan-2026-11-02",
+      "title": "Allehelgenskonsert med Anita Skorgan",
       "description": "Gratis",
       "date": "2026-11-02",
       "time": null,
@@ -841,8 +822,8 @@
       ],
       "priceFrom": null,
       "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17355-allehelgenkonsert-med-anita-skorgan/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17355-allehelgenkonsert-med-anita-skorgan/?ref=hvaSkjerIByenMin",
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17355-allehelgenskonsert-med-anita-skorgan/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17355-allehelgenskonsert-med-anita-skorgan/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -2310,11 +2291,11 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 118,
-    "fetchedAt": "2026-09-23T09:44:23.441Z",
+    "count": 117,
+    "fetchedAt": "2026-09-24T09:42:33.448Z",
     "sources": {
       "ticketmaster": 0,
-      "scrape": 119
+      "scrape": 118
     }
   }
 }
