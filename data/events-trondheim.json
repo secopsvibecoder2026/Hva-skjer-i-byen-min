@@ -29,7 +29,7 @@
       "date": "2027-06-20",
       "time": "18:00",
       "endTime": null,
-      "location": "Trondheim",
+      "location": "Sverresborg Museum, Trondheim",
       "categories": [
         "konsert",
         "uteliv"
@@ -48,7 +48,7 @@
   "meta": {
     "city": "trondheim",
     "count": 2,
-    "fetchedAt": "2026-09-24T09:42:21.579Z",
+    "fetchedAt": "2026-09-25T09:59:36.884Z",
     "sources": {
       "ticketmaster": 2,
       "scrape": 0

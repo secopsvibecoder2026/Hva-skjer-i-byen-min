@@ -1,25 +1,6 @@
 {
   "events": [
     {
-      "id": "scrape-gen-ikke-lett-glemme-et-foredrag-om-demens-o-2026-09-24",
-      "title": "Ikke lett å glemme – Et foredrag om demens og pårørenderollen",
-      "description": "Torsdag 24. september\nkl. 18.00",
-      "date": "2026-09-24",
-      "time": null,
-      "endTime": null,
-      "location": "Lillestrøm",
-      "categories": [],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17452-ikke-lett-a-glemme-et-foredrag-om-demens-og-parorenderollen/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17452-ikke-lett-a-glemme-et-foredrag-om-demens-og-parorenderollen/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
       "id": "scrape-gen-men-har-du-pr-vd-yoga--2026-09-25",
       "title": "Men har du prøvd yoga?",
       "description": "Få billetter igjen",
@@ -319,8 +300,8 @@
       "source": "scrape"
     },
     {
-      "id": "scrape-gen-live-writing--2026-10-09",
-      "title": "Live Writing?",
+      "id": "scrape-gen-live-writing-2026-10-09",
+      "title": "Live Writing",
       "description": "Gratis",
       "date": "2026-10-09",
       "time": null,
@@ -1567,9 +1548,9 @@
       "source": "scrape"
     },
     {
-      "id": "scrape-gen-stjernenatt-en-julekonsert-med-odd-ren-a-2026-12-05",
-      "title": "Stjernenatt – en julekonsert med Odd René Andersen",
-      "description": "Lørdag 5. desember\nkl. 19.00",
+      "id": "scrape-gen-ahus-stjernenatt-en-julekonsert-med-odd--2026-12-05",
+      "title": "AHUS – Stjernenatt – en julekonsert med Odd René Andersen",
+      "description": "Lør. 5. des.\n2 forestillinger",
       "date": "2026-12-05",
       "time": null,
       "endTime": null,
@@ -1579,8 +1560,8 @@
       ],
       "priceFrom": null,
       "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17445-stjernenatt-en-julekonsert-med-odd-rene-andersen/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17445-stjernenatt-en-julekonsert-med-odd-rene-andersen/?ref=hvaSkjerIByenMin",
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17445-ahus-stjernenatt-en-julekonsert-med-odd-rene-andersen/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17445-ahus-stjernenatt-en-julekonsert-med-odd-rene-andersen/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -2291,11 +2272,11 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 117,
-    "fetchedAt": "2026-09-24T09:42:33.448Z",
+    "count": 116,
+    "fetchedAt": "2026-09-25T09:59:47.682Z",
     "sources": {
       "ticketmaster": 0,
-      "scrape": 118
+      "scrape": 117
     }
   }
 }

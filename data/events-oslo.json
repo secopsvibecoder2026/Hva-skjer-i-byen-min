@@ -630,8 +630,7 @@
       "endTime": null,
       "location": "Rockefeller, Oslo",
       "categories": [
-        "konsert",
-        "uteliv"
+        "konsert"
       ],
       "priceFrom": null,
       "currency": null,
@@ -885,7 +884,8 @@
       "endTime": null,
       "location": "John Dee, Oslo",
       "categories": [
-        "konsert"
+        "konsert",
+        "uteliv"
       ],
       "priceFrom": null,
       "currency": null,
@@ -987,7 +987,7 @@
   "meta": {
     "city": "oslo",
     "count": 46,
-    "fetchedAt": "2026-09-24T09:42:19.632Z",
+    "fetchedAt": "2026-09-25T09:59:34.674Z",
     "sources": {
       "ticketmaster": 50,
       "scrape": 0
