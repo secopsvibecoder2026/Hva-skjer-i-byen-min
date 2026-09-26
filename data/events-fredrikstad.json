@@ -1,28 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-LvZ18QN71ha944ZvLrsvy",
-      "title": "Bakpå Presenterer Herreløse @ Savoy Terrasse",
-      "description": null,
-      "date": "2026-09-25",
-      "time": "20:00",
-      "endTime": null,
-      "location": "Savoy Terrasse, Fredrikstad",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.universe.com/events/bakpa-presenterer-herrelose-savoy-terrasse-tickets-B90S6X?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/bakpa-presenterer-herrelose-savoy-terrasse-tickets-B90S6X?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-LvZ18QN7uK65_AYZ0ZeXB",
       "title": "Bakpå Presenterer Køber @ Savoy Terrasse",
       "description": null,
@@ -69,10 +47,10 @@
   ],
   "meta": {
     "city": "fredrikstad",
-    "count": 3,
-    "fetchedAt": "2026-09-25T09:59:45.030Z",
+    "count": 2,
+    "fetchedAt": "2026-09-26T09:41:56.930Z",
     "sources": {
-      "ticketmaster": 3,
+      "ticketmaster": 2,
       "scrape": 0
     }
   }

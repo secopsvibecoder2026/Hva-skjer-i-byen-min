@@ -1,28 +1,9 @@
 {
   "events": [
     {
-      "id": "scrape-gen-men-har-du-pr-vd-yoga--2026-09-25",
-      "title": "Men har du prøvd yoga?",
-      "description": "Få billetter igjen",
-      "date": "2026-09-25",
-      "time": null,
-      "endTime": null,
-      "location": "Lillestrøm",
-      "categories": [],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17766-men-har-du-provd-yoga/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17766-men-har-du-provd-yoga/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
       "id": "scrape-gen-barnas-teaterl-rdag-det-var-en-gang-en-s-2026-09-26",
       "title": "Barnas teaterlørdag – Det var en gang en skog",
-      "description": "Lør. 26. sep.\n2 forestillinger",
+      "description": "Få billetter igjen",
       "date": "2026-09-26",
       "time": null,
       "endTime": null,
@@ -2070,6 +2051,27 @@
       "source": "scrape"
     },
     {
+      "id": "scrape-gen-hvis-gud-vil-en-standupforestilling-av-g-2027-02-27",
+      "title": "Hvis Gud Vil – En standupforestilling av Galvan Mehidi",
+      "description": "Lørdag 27. februar 2027\nkl. 19.00",
+      "date": "2027-02-27",
+      "time": null,
+      "endTime": null,
+      "location": "Lillestrøm",
+      "categories": [
+        "teater"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17266-hvis-gud-vil-en-standupforestilling-av-galvan-mehidi/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17266-hvis-gud-vil-en-standupforestilling-av-galvan-mehidi/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
       "id": "scrape-gen-rundt-et-flygel-for-barn-trollmannen-col-2027-03-06",
       "title": "Rundt et flygel for barn – Trollmannen Colas og den magiske blomst",
       "description": "Lørdag 6. mars 2027\nkl. 13.00",
@@ -2273,7 +2275,7 @@
   "meta": {
     "city": "lillestrom",
     "count": 116,
-    "fetchedAt": "2026-09-25T09:59:47.682Z",
+    "fetchedAt": "2026-09-26T09:41:59.372Z",
     "sources": {
       "ticketmaster": 0,
       "scrape": 117
