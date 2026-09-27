@@ -1,69 +1,6 @@
 {
   "events": [
     {
-      "id": "scrape-gen-barnas-teaterl-rdag-det-var-en-gang-en-s-2026-09-26",
-      "title": "Barnas teaterlørdag – Det var en gang en skog",
-      "description": "Få billetter igjen",
-      "date": "2026-09-26",
-      "time": null,
-      "endTime": null,
-      "location": "Lillestrøm",
-      "categories": [
-        "uteliv",
-        "barn",
-        "teater"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/18031-barnas-teaterlordag-det-var-en-gang-en-skog/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/18031-barnas-teaterlordag-det-var-en-gang-en-skog/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
-      "id": "scrape-gen-jazzkaf-primabandet-2026-09-26",
-      "title": "Jazzkafé – Primabandet",
-      "description": "Lørdag 26. september\nkl. 15.00",
-      "date": "2026-09-26",
-      "time": null,
-      "endTime": null,
-      "location": "Lillestrøm",
-      "categories": [
-        "konsert"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16890-jazzkafe-primabandet/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16890-jazzkafe-primabandet/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
-      "id": "scrape-gen-dragbingo-med-ivana-impeachum-2026-09-26",
-      "title": "Dragbingo med Ivana Impeachum",
-      "description": "Utsolgt",
-      "date": "2026-09-26",
-      "time": null,
-      "endTime": null,
-      "location": "Lillestrøm",
-      "categories": [],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17791-dragbingo-med-ivana-impeachum/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17791-dragbingo-med-ivana-impeachum/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
       "id": "scrape-gen-temakveld-akevittsmaking-2026-09-30",
       "title": "Temakveld – akevittsmaking",
       "description": "Få billetter igjen",
@@ -928,7 +865,7 @@
     {
       "id": "scrape-gen--faen-d-martha-med-martha-leivestad-2026-11-07",
       "title": "«Faen då, Martha!» med Martha Leivestad",
-      "description": "Få billetter igjen",
+      "description": "Utsolgt",
       "date": "2026-11-07",
       "time": null,
       "endTime": null,
@@ -1394,7 +1331,7 @@
     {
       "id": "scrape-gen-ylvis-calle-et-juleshow-2026-11-28",
       "title": "Ylvis & Calle – Et juleshow",
-      "description": "Lørdag 28. november\nkl. 19.00",
+      "description": "Få billetter igjen",
       "date": "2026-11-28",
       "time": null,
       "endTime": null,
@@ -2274,11 +2211,11 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 116,
-    "fetchedAt": "2026-09-26T09:41:59.372Z",
+    "count": 113,
+    "fetchedAt": "2026-09-27T10:21:52.595Z",
     "sources": {
       "ticketmaster": 0,
-      "scrape": 117
+      "scrape": 114
     }
   }
 }

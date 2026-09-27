@@ -1,28 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z16vqYaSaO",
-      "title": "Anatolaks",
-      "description": "Anatolaks is a music band based in Oslo, mainly covering songs in the genres of Turkish-Anatolian and Psychedelic Rock (a fusion of Turkish folk music and rock). The band was founded in 2024 by Arda Unlusoy (drums, back vocal), Burak Kara (vocal, electric guitar), Yavuzer Cetin (electric guitar) and Numan Hekimoglu (bass guitar). Emre Onder Guner (baglama/saz) and Ahmet Emin Memis (darbuka and ney) joined later and completed the band's final lineup. Each member is an experienced musician who has previously performed at various well-known events in Turkiye. These six individuals, each with different backgrounds, came together in Oslo and now share a common goal: to carry the distinctive sound of Anatolia beyond borders!",
-      "date": "2026-09-26",
-      "time": "20:00",
-      "endTime": null,
-      "location": "Studio, USF Verftet, Bergen",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/anatolaks-tickets/1770273260?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/anatolaks-tickets/1770273260?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/559/e692cfbf-24f4-4666-864b-76b8dd763559_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z16evAQ9jM",
       "title": "Tundra and Lightning 2026 - Friday Pass",
       "description": "Bergen Live and USF Verftet continue the success following last year's sold-out festival and invite you to the second edition of Tundra and Lightning in Bergen the first weekend of October 2026. The festival will utilize the entire USF and will grow each year in line with the development of the USF Cultural Quarter. We look forward to a beautiful autumn weekend in Bergen with heavy riffs, great atmosphere, and kick ass rock! Friday Pass provide access to the Tundra and Lightning festival at USF Verftet on Friday, October 2. 2026. The festival pass is personal and cannot be shared with others. You will receive an email from the Tundra and Lightning festival with information about exchanging your ticket for a wristband as the festival approaches. Tickets will be available as mobile tickets (QR codes) via the Ticketmaster app and your user account well in advance of the concert (about 14 days). Learn more about delayed delivery of admission passes here. Age limit 18 years, guardian arrangement with a minimum age of 12 years. Fill out the form from tundraandlightning.no before arrival. Festival times will be announced at a later date. HC/Wheelchair users purchase a wheelchair ticket and can bring up to 1 companion. A valid government-issued companion certificate is required for this arrangement. The companion will receive a wristband for that day. Meet at the ticket check for companion registration before entering the festival. For more information about the festival and concerts, see tundraandlightning.no. Follow Tundra and Lightning on Facebook // Instagram // Food and drink will be served at the festival. Food, beverages, bottles, cans, animals, weapons, selfie sticks, and laser pointers are prohibited from being brought into the festival. Alcohol control takes place in licensed areas and through spot checks at the festival. Violation of general licensing rules will result in expulsion and police reporting. The organizer reserves the right to deny entry to persons who refuse personal inspection (This may include body searches and checking any luggage). Persons who are removed do not have the right to have their ticket costs refunded. Changes may occur, Tundra and Lightning is a festival and refunds are only given in the event of total cancellation of either the entire festival or a single day of the festival.",
@@ -198,10 +176,10 @@
   ],
   "meta": {
     "city": "bergen",
-    "count": 9,
-    "fetchedAt": "2026-09-26T09:41:47.130Z",
+    "count": 8,
+    "fetchedAt": "2026-09-27T10:21:36.404Z",
     "sources": {
-      "ticketmaster": 9,
+      "ticketmaster": 8,
       "scrape": 0
     }
   }
