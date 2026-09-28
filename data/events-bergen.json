@@ -88,6 +88,50 @@
       "source": "ticketmaster"
     },
     {
+      "id": "tm-Z698xZb_Z1kbP-Z7U",
+      "title": "Erlend Ropstad",
+      "description": "Røkeriet, USF Verftet Standing tickets Age limit 18 years Bar with beer and wine Photo and audio recording prohibited Please check event date and time on your ticket, doors usually open 1 hour before. Wheelchair and Companion: Guests with a valid companion certificate may bring up to one companion free of charge. The companion does not need a separate ticket. Please go to the ticket check on arrival to register the companion before entering the concert. A valid, publicly issued companion certificate must be brought and presented upon request. Bergen Live (organizer) website and Facebook page",
+      "date": "2027-02-04",
+      "time": "20:00",
+      "endTime": null,
+      "location": "Røkeriet, USF Verftet, Bergen",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/erlend-ropstad-tickets/625840136?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/erlend-ropstad-tickets/625840136?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/974/77c0d5d3-ae79-4ce3-9b39-3378b6c70974_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kGY8-Zy",
+      "title": "Rod Stewart - The Final Encore",
+      "description": "Only standing tickets are sold for the concert. Tickets will be available as mobile tickets (QR codes) via the Ticketmaster app and your user account about 14 days before the show. Learn more about delayed delivery of admission passes here. Age limit 18 years, guardian arrangement with a minimum age of 12 years. Fill out the form from bergenlive.no before arrival. Serving: Sale of food, beer/wine, and non-alcoholic beverages. Photo and audio recording prohibited. Concert starts around 20:00. Wheelchair users/Accessible Tickets Tickets for wheelchair users with a companion (1 per HC/wheelchair) can be ordered here. Wheelchair users are referred to a dedicated ramp that provides a good view of the stage and a safe concert experience. Limited number of seats. Wheelchair users are prioritized. Others with mobility issues thereafter, companions will have to stand in the surrounding area if the ramp is full. Companion certificates are not accepted. For more information about the concert and showtimes, see Bergen Live (organizer) website and Facebook page.",
+      "date": "2027-06-15",
+      "time": "20:00",
+      "endTime": null,
+      "location": "Bergen",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/rod-stewart-the-final-encore-tickets/330421039?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/rod-stewart-the-final-encore-tickets/330421039?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/b68/77391add-9f8f-4448-85f9-2e561bb75b68_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
       "id": "tm-Z698xZb_Z16vqbP-f9",
       "title": "Beyond the Gates XV - 4 Day Festival Pass GOLD",
       "description": "4 day metal festival located in the heart of Bergen, Norway. 2027 marks the festivals 15th anniversary. Mulitple stages and venues, black metal, doom metal, heavy metal and more. Arrangementstidspunkt/konsertstart : 17:30 Dørene åpner : 60 min før Servering : Mat Øl / Vin Aldersgrense : 18 Ledsager : Ledsager gratis med billett - Maks antall: 10 Rullestol : Ja Parkeringsmuligheter : Ja Linker: Arrangørens nettside Instagram Facebook",
@@ -176,10 +220,10 @@
   ],
   "meta": {
     "city": "bergen",
-    "count": 8,
-    "fetchedAt": "2026-09-27T10:21:36.404Z",
+    "count": 10,
+    "fetchedAt": "2026-09-28T11:26:18.706Z",
     "sources": {
-      "ticketmaster": 8,
+      "ticketmaster": 10,
       "scrape": 0
     }
   }

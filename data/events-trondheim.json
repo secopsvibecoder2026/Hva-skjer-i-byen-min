@@ -23,6 +23,28 @@
       "source": "ticketmaster"
     },
     {
+      "id": "tm-Z698xZb_Z16vaUkoZJ",
+      "title": "Rod Stewart - The Final Encore",
+      "description": "Sales Information There is a maximum limit of 8 tickets per customer. Only standing tickets are available for this concert. Age Limits There is no minimum age requirement for the concert. Individuals under 18 must be accompanied by an adult (guardian). Important Times Doors open: 18:00 Wheelchair/Companion: To register a companion for an accessible ticket, contact borge@trondheimstage.no. Remember to bring a valid government-issued companion certificate! For more information about the concert, entry times, etc, visit livenation.no or Trondheim Stage.",
+      "date": "2027-06-13",
+      "time": "18:00",
+      "endTime": null,
+      "location": "Sverresborg Museum, Trondheim",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/rod-stewart-the-final-encore-tickets/1276191026?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/rod-stewart-the-final-encore-tickets/1276191026?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/b68/77391add-9f8f-4448-85f9-2e561bb75b68_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
       "id": "tm-Z698xZb_Z16v1fGvFt",
       "title": "Westlife 25: The Anniversary World Tour",
       "description": null,
@@ -47,10 +69,10 @@
   ],
   "meta": {
     "city": "trondheim",
-    "count": 2,
-    "fetchedAt": "2026-09-27T10:21:39.703Z",
+    "count": 3,
+    "fetchedAt": "2026-09-28T11:26:22.000Z",
     "sources": {
-      "ticketmaster": 2,
+      "ticketmaster": 3,
       "scrape": 0
     }
   }
