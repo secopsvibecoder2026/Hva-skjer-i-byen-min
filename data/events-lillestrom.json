@@ -1192,8 +1192,8 @@
       "source": "scrape"
     },
     {
-      "id": "scrape-gen-jule-lkveld-med-espen-lothe-fra-kinn-bry-2026-11-21",
-      "title": "Juleølkveld med Espen Lothe fra Kinn Bryggeri",
+      "id": "scrape-gen-jule-lsmaking-med-sigurd-borge-kristoffe-2026-11-21",
+      "title": "Juleølsmaking med Sigurd Borge Kristoffersen",
       "description": "Lørdag 21. november\nkl. 14.00",
       "date": "2026-11-21",
       "time": null,
@@ -1202,8 +1202,8 @@
       "categories": [],
       "priceFrom": null,
       "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17873-juleolkveld-med-espen-lothe-fra-kinn-bryggeri/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17873-juleolkveld-med-espen-lothe-fra-kinn-bryggeri/?ref=hvaSkjerIByenMin",
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17873-juleolsmaking-med-sigurd-borge-kristoffersen/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17873-juleolsmaking-med-sigurd-borge-kristoffersen/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -1836,25 +1836,6 @@
       "source": "scrape"
     },
     {
-      "id": "scrape-gen-dyrene-i-hakkebakkeskogen-2027-01-23",
-      "title": "Dyrene i Hakkebakkeskogen",
-      "description": "Lørdag 23. januar 2027\nkl. 14.30",
-      "date": "2027-01-23",
-      "time": null,
-      "endTime": null,
-      "location": "Lillestrøm",
-      "categories": [],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17635-dyrene-i-hakkebakkeskogen/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17635-dyrene-i-hakkebakkeskogen/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
       "id": "scrape-gen-ivana-uten-baller-2027-01-28",
       "title": "Ivana uten baller",
       "description": "Torsdag 28. januar 2027\nkl. 19.00",
@@ -2230,8 +2211,8 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 114,
-    "fetchedAt": "2026-09-28T11:26:43.763Z",
+    "count": 113,
+    "fetchedAt": "2026-09-29T11:06:33.422Z",
     "sources": {
       "ticketmaster": 0,
       "scrape": 115
