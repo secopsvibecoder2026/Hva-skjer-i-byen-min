@@ -1,25 +1,6 @@
 {
   "events": [
     {
-      "id": "scrape-gen-temakveld-akevittsmaking-2026-09-30",
-      "title": "Temakveld – akevittsmaking",
-      "description": "Få billetter igjen",
-      "date": "2026-09-30",
-      "time": null,
-      "endTime": null,
-      "location": "Lillestrøm",
-      "categories": [],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/18080-temakveld-akevittsmaking/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/18080-temakveld-akevittsmaking/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
       "id": "scrape-gen-generalpr-ve-shrek-the-musical-2026-10-01",
       "title": "Generalprøve SHREK The Musical",
       "description": "Torsdag 1. oktober\nkl. 18.00",
@@ -1426,9 +1407,28 @@
       "source": "scrape"
     },
     {
+      "id": "scrape-gen-romerike-sparebank-presenterer-scrooge-e-2026-12-03",
+      "title": "Romerike Sparebank presenterer Scrooge – et juleeventyr",
+      "description": "Torsdag 3. desember\nkl. 18.00",
+      "date": "2026-12-03",
+      "time": null,
+      "endTime": null,
+      "location": "Lillestrøm",
+      "categories": [],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/18287-romerike-sparebank-presenterer-scrooge-et-juleeventyr/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/18287-romerike-sparebank-presenterer-scrooge-et-juleeventyr/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
       "id": "scrape-gen-v-r-jul-2026-2026-12-04",
       "title": "Vår jul 2026",
-      "description": "Fre. 4. des.\n2 forestillinger",
+      "description": "Få billetter igjen",
       "date": "2026-12-04",
       "time": null,
       "endTime": null,
@@ -2250,7 +2250,7 @@
   "meta": {
     "city": "lillestrom",
     "count": 115,
-    "fetchedAt": "2026-09-30T10:54:07.064Z",
+    "fetchedAt": "2026-10-01T11:22:47.137Z",
     "sources": {
       "ticketmaster": 0,
       "scrape": 117

@@ -110,6 +110,28 @@
       "source": "ticketmaster"
     },
     {
+      "id": "tm-Z698xZb_Z16vjFuI4U",
+      "title": "Day Pass Bergenfest 2027",
+      "description": "The Day Pass provides access to concerts at Bergenhus Fortress on the specific day for which the ticket was purchased. Please note that there are different ticket types for guests over and under 18 years of age. Different wristbands will be issued for guests over/under 18, and only those with an \"over 18 wristband\" will have access to the bars. For more information about the festival, artists, concerts and opening hours, visit bergenfest.no. Follow Bergenfest on Facebook and Instagram for updates and artist announcements. You can also check out Bergenfest on Spotify. Entry closes at 22:00 each day. A guardian scheme applies to guests under the age of 15. Please see the criteria at bergenfest.no. Guests requiring accessible/wheelchair access should purchase a regular ticket and may bring up to 1 companion per day. A valid companion certificate is required. Companions will receive a wristband for each individual day, rather than for the entire festival. Please visit the ticket booth at the festival entrance to register before entering the festival area. Groups/hotel packages: tel. +47 55 21 61 70 / revyogteater.no Food and beverages are available for purchase inside the festival area. Food, beverages, bottles, cans, umbrellas, folding chairs, animals, weapons, selfie sticks and laser pointers are prohibited inside the festival area. You will receive an email from Bergenfest with information about exchanging your ticket for a wristband as the festival approaches. Tickets will be made available as mobile tickets (QR codes) via the Ticketmaster app and your Ticketmaster account well in advance of the festival (approximately 14 days before). Read more about delayed ticket delivery here. Alcohol service is monitored at the entrances to licensed serving areas and through random checks within the festival area. Violations of general alcohol regulations will result in removal from the festival and may be reported to the police. The programme is subject to change. Bergenfest is a festival, and refunds will only be issued in the event of the complete cancellation of either the entire festival or an individual festival day.",
+      "date": "2027-06-09",
+      "time": "15:01",
+      "endTime": null,
+      "location": "Bergen",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/day-pass-bergenfest-2027-tickets/1708368576?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/day-pass-bergenfest-2027-tickets/1708368576?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/35b/c6bf4059-78bf-4a48-b26c-5e5ee29a235b_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
       "id": "tm-Z698xZb_Z1kGY8-Zy",
       "title": "Rod Stewart - The Final Encore",
       "description": "Only standing tickets are sold for the concert. Tickets will be available as mobile tickets (QR codes) via the Ticketmaster app and your user account about 14 days before the show. Learn more about delayed delivery of admission passes here. Age limit 18 years, guardian arrangement with a minimum age of 12 years. Fill out the form from bergenlive.no before arrival. Serving: Sale of food, beer/wine, and non-alcoholic beverages. Photo and audio recording prohibited. Concert starts around 20:00. Wheelchair users/Accessible Tickets Tickets for wheelchair users with a companion (1 per HC/wheelchair) can be ordered here. Wheelchair users are referred to a dedicated ramp that provides a good view of the stage and a safe concert experience. Limited number of seats. Wheelchair users are prioritized. Others with mobility issues thereafter, companions will have to stand in the surrounding area if the ramp is full. Companion certificates are not accepted. For more information about the concert and showtimes, see Bergen Live (organizer) website and Facebook page.",
@@ -220,10 +242,10 @@
   ],
   "meta": {
     "city": "bergen",
-    "count": 10,
-    "fetchedAt": "2026-09-30T10:53:46.581Z",
+    "count": 11,
+    "fetchedAt": "2026-10-01T11:22:32.884Z",
     "sources": {
-      "ticketmaster": 10,
+      "ticketmaster": 11,
       "scrape": 0
     }
   }

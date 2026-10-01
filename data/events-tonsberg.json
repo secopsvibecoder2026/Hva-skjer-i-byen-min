@@ -30,7 +30,8 @@
       "endTime": null,
       "location": "Tønsberg",
       "categories": [
-        "konsert"
+        "konsert",
+        "uteliv"
       ],
       "priceFrom": null,
       "currency": null,
@@ -72,8 +73,7 @@
       "endTime": null,
       "location": "Tønsberg",
       "categories": [
-        "konsert",
-        "uteliv"
+        "konsert"
       ],
       "priceFrom": null,
       "currency": null,
@@ -236,7 +236,7 @@
   "meta": {
     "city": "tonsberg",
     "count": 11,
-    "fetchedAt": "2026-09-30T10:54:08.729Z",
+    "fetchedAt": "2026-10-01T11:22:48.407Z",
     "sources": {
       "ticketmaster": 11,
       "scrape": 0

@@ -110,7 +110,7 @@
     {
       "id": "tm-Z698xZb_Z16vOEGM3o",
       "title": "Tøyen Holding",
-      "description": null,
+      "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's.",
       "date": "2026-10-03",
       "time": "19:00",
       "endTime": null,
@@ -424,28 +424,6 @@
       "affiliateUrl": "https://www.ticketmaster.no/event/oliver-twist-koffers-produksjoner-tickets/174894045?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/e/264/ffd0a956-86e7-404b-a5e1-fe63593de264_SOURCE",
       "imageEmoji": "🎭",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16vPbq0AZ",
-      "title": "Eve: Scorpion Tour",
-      "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's.",
-      "date": "2026-10-12",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Rockefeller, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/eve-scorpion-tour-tickets/1958764140?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/eve-scorpion-tour-tickets/1958764140?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/b7c/4f73ba56-cc10-47e4-98db-62541342bb7c_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
@@ -982,12 +960,34 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vbZrKON",
+      "title": "Razorlight",
+      "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's.",
+      "date": "2026-10-27",
+      "time": "19:00",
+      "endTime": null,
+      "location": "John Dee, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/razorlight-tickets/1600793823?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/razorlight-tickets/1600793823?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/574/bb076aa6-5610-44d1-9259-bd1ec99ae574_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 46,
-    "fetchedAt": "2026-09-30T10:53:47.555Z",
+    "fetchedAt": "2026-10-01T11:22:34.009Z",
     "sources": {
       "ticketmaster": 50,
       "scrape": 0
