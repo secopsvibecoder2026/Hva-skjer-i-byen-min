@@ -67,6 +67,28 @@
       "source": "ticketmaster"
     },
     {
+      "id": "tm-LvZ18QIi8UsO9i3KfgnrR",
+      "title": "DDE KONSERT I BERGEN SENTRUM",
+      "description": null,
+      "date": "2026-10-08",
+      "time": "18:30",
+      "endTime": null,
+      "location": "Trekanttomten, Bergen",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.universe.com/events/dde-konsert-i-bergen-sentrum-tickets-RZH0NG?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/dde-konsert-i-bergen-sentrum-tickets-RZH0NG?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/677/2fceabe7-47de-4571-af80-86880b188677_267691_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
       "id": "tm-Z698xZb_Z1kqAekuk",
       "title": "MACY GRAY - THE TROUBLE WITH THE TRUTH TOUR",
       "description": "On November 15, 2026, one of modern soul's most distinctive voices takes the stage at Røkeriet. With her raspy, unmistakable vocals, funky energy, and uncompromising approach to soul, Macy Gray has been in a league of her own ever since her breakthrough in the late '90s. Her music is direct, honest, and full of personality -- with songs that hit just as hard on the dance floor as they do in the heart. Gray achieved her international breakthrough in 1999 with her triple-platinum debut album On How Life Is. The album featured the global hit \"I Try,\" which earned her a Grammy Award for Best Female Pop Vocal Performance. Since then, she has sold more than 25 million albums, received five Grammy nominations and two BRIT Awards, and built a devoted fan base around the world. Throughout her career, she has collaborated with artists including Ariana Grande, Bobby Brown, and Galactic, while cementing her reputation as a formidable live performer. On stage, she blends soul, R&B, and funk with raw presence, humor, and a voice you recognize from the very first note. In addition to her music career, Macy Gray has also made her mark as an actress, appearing in films and TV series including Training Day, For Colored Girls, and Fuller House. Show time: 8:00 PM Doors open: 60 minutes before showtime Duration: 75 minutes Food & beverage: Fully licensed bar Age restriction: 18+ Companion: Free admission for companions with a valid companion ticket Wheelchair accessible: Yes Parking: Yes Links: YouTube Spotify Instagram Facebook",
@@ -242,10 +264,10 @@
   ],
   "meta": {
     "city": "bergen",
-    "count": 11,
-    "fetchedAt": "2026-10-01T11:22:32.884Z",
+    "count": 12,
+    "fetchedAt": "2026-10-02T10:52:47.603Z",
     "sources": {
-      "ticketmaster": 11,
+      "ticketmaster": 12,
       "scrape": 0
     }
   }

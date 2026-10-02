@@ -1,25 +1,6 @@
 {
   "events": [
     {
-      "id": "scrape-gen-generalpr-ve-shrek-the-musical-2026-10-01",
-      "title": "Generalprøve SHREK The Musical",
-      "description": "Torsdag 1. oktober\nkl. 18.00",
-      "date": "2026-10-01",
-      "time": null,
-      "endTime": null,
-      "location": "Lillestrøm",
-      "categories": [],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/18250-generalprove-shrek-the-musical/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/18250-generalprove-shrek-the-musical/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
       "id": "scrape-gen-shrek-the-musical-premiere-2026-10-02",
       "title": "Shrek The Musical – premiere",
       "description": "2. okt. – 11. okt.\n9 forestillinger",
@@ -546,6 +527,25 @@
       "currency": null,
       "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17538-one-night-only/",
       "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17538-one-night-only/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-lillestr-m-kulturkonferanse-2026-2026-10-28",
+      "title": "Lillestrøm kulturkonferanse 2026",
+      "description": "Onsdag 28. oktober\nkl. 08.30",
+      "date": "2026-10-28",
+      "time": null,
+      "endTime": null,
+      "location": "Lillestrøm",
+      "categories": [],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17631-lillestrom-kulturkonferanse-2026/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17631-lillestrom-kulturkonferanse-2026/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -2250,7 +2250,7 @@
   "meta": {
     "city": "lillestrom",
     "count": 115,
-    "fetchedAt": "2026-10-01T11:22:47.137Z",
+    "fetchedAt": "2026-10-02T10:53:01.763Z",
     "sources": {
       "ticketmaster": 0,
       "scrape": 117

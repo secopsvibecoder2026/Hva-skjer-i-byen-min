@@ -942,7 +942,7 @@
     {
       "id": "tm-Z698xZb_Z16vFeGJAo",
       "title": "Europe - The Final Countdown 40th Anniversary",
-      "description": null,
+      "description": "Doors Open kl. 19.00. The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's Read the organizer's terms of purchase here. See www.rockefeller.no for the complete program.. Practical information about the concerts can be found here. The nearest transport hub is Storgata and/or Jernbanetorget. See ruter.no for more info.",
       "date": "2026-10-26",
       "time": "19:00",
       "endTime": null,
@@ -987,7 +987,7 @@
   "meta": {
     "city": "oslo",
     "count": 46,
-    "fetchedAt": "2026-10-01T11:22:34.009Z",
+    "fetchedAt": "2026-10-02T10:52:48.595Z",
     "sources": {
       "ticketmaster": 50,
       "scrape": 0
