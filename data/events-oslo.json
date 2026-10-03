@@ -1,92 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z16v73aV-3",
-      "title": "Duran Duran",
-      "description": "Ticket Information: - Maximum 8 tickets per person. - Bottles, cans, and laser pointers are prohibited inside the concert area. Wheelchair and companion seats are sold through Ticketmaster. For assistance, contact customer support here. Use public transportation to Unity Arena. Visit unityarena.no or ruter.no for travel options. For more details about the concert, artists, and entry times, visit unityarena.no or livenation.no. Schedule: - Box Office opens: 17:00 - Doors open: 18:00 Tickets will be available as mobile tickets (QR code) via the Ticketmaster app and your account. Learn more about delayed delivery of admission passes here. General Information: The organizer reserves the right to deny entry to individuals who refuse personal inspection (this may include a body search and baggage check). See unityarena.no for details about prohibited items. Ejected individuals are not entitled to a ticket refund. There is no minimum age for the concert, but children under 15 must be accompanied by an adult (as per the Police Act in Bærum Municipality).",
-      "date": "2026-10-02",
-      "time": "18:00",
-      "endTime": null,
-      "location": "Unity Arena, Fornebu",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/duran-duran-tickets/1112274852?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/duran-duran-tickets/1112274852?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/336/2d864a36-ea9e-4d50-bf8a-08f7b7cab336_SOURCE",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z1kANZvao",
-      "title": "Villskudd",
-      "description": null,
-      "date": "2026-10-02",
-      "time": "19:00",
-      "endTime": null,
-      "location": "John Dee, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/villskudd-tickets/163001251?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/villskudd-tickets/163001251?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/bd2/e20a44c0-dcf1-4872-81f9-1a3d3c9b5bd2_TABLET_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z1kaVx_Gf",
-      "title": "Home Free: Highways & High Seas Tour",
-      "description": null,
-      "date": "2026-10-02",
-      "time": "19:30",
-      "endTime": null,
-      "location": "Oslo Spektrum, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/home-free-highways--high-seas-tour-tickets/274899314?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/home-free-highways--high-seas-tour-tickets/274899314?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/e49/147ee232-34bd-4ea9-8eb3-1275be197e49_TABLET_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z1kqkjFf3",
-      "title": "Organ recital with Anne Laver",
-      "description": "Anne Laver (Syracuse, USA), organ. Works by Buxtehude, Bjørneboe, Draper, Bach, Chee and Rogg. Dear friends of organ music, Welcome to Oslo Cathedral and this year's summer concert series! Over the course of 15 Saturdays from July to October, we invite you to festive and diverse concerts featuring organists from both Norway and abroad. Each concert has its own distinct character, reflecting the musical background and tradition of the guest performer. During the summer months, when everyday life tends to slow down and time feels more spacious, we wish to present a rich and varied musical program on our cathedral organ, built in 1998 by the Norwegian organ builder Ryde & Berg. We are committed to making organ music accessible to as many people as possible. Please feel free to take the program with you, share it with friends and family, and invite someone along to a concert. Admission is always free for children and students. We look forward to seeing you at Oslo Cathedral and wish you a joyful and inspiring summer! Marcus André Berg and Tjark Pinne Organists of Oslo Cathedral. Accessibility: Oslo Cathedral has dedicated wheelchair spaces in the south transept. Companions enter free of charge upon presenting a companion certificate. Oslo Cathedral has a ramp and an elevator for step-free access. Please arrive at the main entrance, and our staff will guide you to the wheelchair entrance. A wheelchair-accessible restroom is available by the main entrance. For questions; please call Oslo Cathedral, phone: +47 23629010",
-      "date": "2026-10-03",
-      "time": "12:00",
-      "endTime": null,
-      "location": "Oslo domkirke, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/organ-recital-with-anne-laver-tickets/746708512?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/organ-recital-with-anne-laver-tickets/746708512?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/9ce/0c126c9c-bcee-423b-95d4-1158271689ce_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z16vCoatua",
       "title": "Knut Bry 80 years!",
       "description": "We're celebrating Knut's 80 young and wonderful years on the very day, 3rd of October 2026, from 18:00--24:00. Join us for an evening filled with great food and music (from several of Knut's musical friends), wonderful people, and a memorable celebration of our one and only Knut! Trond Moi will be serving Knut's favourite meal --- his world-famous fish soup! You will get a drink upon arrival, other beverages can be purchased at the bars throughout the rest of the evening. You received a \"Save the Date\" this spring, and the response has been overwhelming! Now it's time to book your ticket! Date: 3rd October 2026 Time: 18:00--24:00 Venue: Carls Arena, Carl Berners plass, Trondheimsveien. 113 Dress code: Whatever you feel like wearing to celebrate Knut. Tickets: Ticketmaster (max. two per invitation) The ticket price is NOK 550 per person, which covers the costs of the event. Your place is only secured once the ticket has been purchased. There are limited tickets available, so it's first come, first served! Seating is unreserved, but if you need a reserved seat or are bringing guests under the age of 18, please get in touch. WELCOME TO A BRYSK EVENING! Questions or special requirements? tina@tinagent.no and/or kirsten.thorseth.poppe@gmail.com",
@@ -820,15 +734,14 @@
       "endTime": null,
       "location": "Unity Arena, Fornebu",
       "categories": [
-        "familie",
-        "barn"
+        "teater"
       ],
       "priceFrom": null,
       "currency": null,
       "ticketUrl": "https://www.ticketmaster.no/event/hot-wheels-stunt-show-tickets/839719438?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/hot-wheels-stunt-show-tickets/839719438?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/a/d75/0453e4d0-2642-4d80-8fca-a94e7dd40d75_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "imageEmoji": "🎪",
+      "imageEmoji": "🎭",
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
@@ -982,12 +895,97 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kGpJb0O",
+      "title": "Oslo World: Marcel Khalife - Promises of the Storm",
+      "description": "A Lebanese legend opens Oslo World. The Lebanese oud player, singer, and composer Marcel Khalife is a folk hero in the Arab world. With a career spanning six decades, he has combined effortless mastery of his instrument with political outspokenness and poetry. When he first set the words of the great Palestinian poet Mahmoud Darwish to music, he had no idea it was the prelude to a meeting that would forge a deep and enduring friendship between the two men a few years later---even as the songs themselves resonated across the globe. Promises of the Storm was influenced by Arab-Andalusian traditions and contemporary Middle Eastern politics. Channeling the poetry by Dahrwish and his Palestinian compatriot Izzidine Al Munassrah, Khalifé sung in colloquial Arabic. It was his way of dignifying the common people. The album became iconic in the Arab community and beyond, and to mark the fiftieth anniversary, Marcel Khalife has re-recorded it as a solo project. To have Marcel Khalife opening our festival has been a dream for many years. We are proud to present him this year, in a format stripped down to its bare essential: his magnificently seasoned tenor voice accompanied solely by his most faithful companion, the oud. After the concert in the Chateau Neuf Auditorium, the Swiss/Moroccan multi-instrumentalist Sami Galbi will play at Betong, where the opening party continues. All tickets for Marcel Khalife automatically include entry to Sami Galbi's concert at Betong later that night. Please note: The concert with Sami Galbi has an 18+ age limit, with no guardian exception.",
+      "date": "2026-10-27",
+      "time": "20:00",
+      "endTime": null,
+      "location": "Chateau Neuf,Storsalen, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/oslo-world-marcel-khalife-promises-of-the-storm-tickets/316998920?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/oslo-world-marcel-khalife-promises-of-the-storm-tickets/316998920?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/a9e/e96dbebb-8e4f-4056-865b-e690f1363a9e_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kA0PsOe",
+      "title": "Oslo World: Sami Galbi",
+      "description": "Futuristic North African dance party. The Swiss and Moroccan multi-instrumentalist and producer Sami Galbi draws on the music of his childhood, which he rediscovered as an adult in the Cabarets of Casablanca: raï and chaâbi music, interpreted in Galbi's own way, with analog machines, guitar effects and synthesizer. He has emerged from the alternative scenes of Switzerland in recent years, drawing on parallel musical influences such as US hip-hop, UK bass, house and Afro-Caribbean dance music. The North African folk music of his childhood is modulated, given pop texture and a dense club atmosphere. On his debut album, YLH BYE BYE, the listener is immersed in a rich poetic where Sami Galbi's storytelling unfolds through hypnotic refrains and soaring melodies. Entirely produced by the artist, the music was mixed by Tunisian producer Ammar 808. In concert, Sami Galbi delivers high energy performances, well suited for the opening party of this years Oslo World. All tickets to the opening concert with Marcel Khalife at Chateau Neuf also automatically include admission to Sami Galbi's concert at Betong later that same evening. Please note, however, that the concert with Sami Galbi has an 18+ age limit, with no guardian exception. Therefore, children's tickets purchased for the Marcel Khalife concert cannot be used for the Sami Galbi concert.",
+      "date": "2026-10-27",
+      "time": "22:00",
+      "endTime": null,
+      "location": "Chateau Neuf, Betong, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/oslo-world-sami-galbi-tickets/164971802?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/oslo-world-sami-galbi-tickets/164971802?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/501/55f5feae-1ae7-478a-84c8-ece28d397501_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16v-8-pb8",
+      "title": "TYLA - THE A*POP WORLD TOUR",
+      "description": null,
+      "date": "2026-10-30",
+      "time": "19:30",
+      "endTime": null,
+      "location": "Oslo Spektrum, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/tyla-the-apop-world-tour-tickets/1850856610?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/tyla-the-apop-world-tour-tickets/1850856610?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/b83/7a3aefd8-1443-4c2a-b141-481c47333b83_SOURCE",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vq_be8v",
+      "title": "Unholy Halloween: Dimmu Borgir",
+      "description": null,
+      "date": "2026-10-31",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Oslo Spektrum, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/unholy-halloween-dimmu-borgir-tickets/1759602401?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/unholy-halloween-dimmu-borgir-tickets/1759602401?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/735/e0699e33-2587-4e26-bb0a-efc821f90735_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 46,
-    "fetchedAt": "2026-10-02T10:52:48.595Z",
+    "fetchedAt": "2026-10-03T10:13:01.673Z",
     "sources": {
       "ticketmaster": 50,
       "scrape": 0

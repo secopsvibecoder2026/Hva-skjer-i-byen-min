@@ -1,25 +1,6 @@
 {
   "events": [
     {
-      "id": "scrape-gen-shrek-the-musical-premiere-2026-10-02",
-      "title": "Shrek The Musical – premiere",
-      "description": "2. okt. – 11. okt.\n9 forestillinger",
-      "date": "2026-10-02",
-      "time": null,
-      "endTime": null,
-      "location": "Lillestrøm",
-      "categories": [],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16533-shrek-the-musical-premiere/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16533-shrek-the-musical-premiere/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
       "id": "scrape-gen-barnas-teaterl-rdag-trufilotten-2026-10-03",
       "title": "Barnas teaterlørdag – Trufilotten",
       "description": "Lørdag 3. oktober\nkl. 13.00",
@@ -36,6 +17,25 @@
       "currency": null,
       "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17545-barnas-teaterlordag-trufilotten/",
       "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17545-barnas-teaterlordag-trufilotten/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-shrek-the-musical-2026-10-03",
+      "title": "Shrek the musical",
+      "description": "3. okt. – 11. okt.\n8 forestillinger",
+      "date": "2026-10-03",
+      "time": null,
+      "endTime": null,
+      "location": "Lillestrøm",
+      "categories": [],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16533-shrek-the-musical/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16533-shrek-the-musical/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -517,7 +517,7 @@
     {
       "id": "scrape-gen-one-night-only-2026-10-27",
       "title": "One Night Only",
-      "description": "Få billetter igjen",
+      "description": "Utsolgt",
       "date": "2026-10-27",
       "time": null,
       "endTime": null,
@@ -884,7 +884,7 @@
     {
       "id": "scrape-gen-bjelleklang-i-et-evig-ekko-2026-11-10",
       "title": "Bjelleklang – I et evig ekko",
-      "description": "Tirsdag 10. november\nkl. 19.00",
+      "description": "Få billetter igjen",
       "date": "2026-11-10",
       "time": null,
       "endTime": null,
@@ -1428,7 +1428,7 @@
     {
       "id": "scrape-gen-v-r-jul-2026-2026-12-04",
       "title": "Vår jul 2026",
-      "description": "Få billetter igjen",
+      "description": "Fre. 4. des.\n2 forestillinger",
       "date": "2026-12-04",
       "time": null,
       "endTime": null,
@@ -1893,6 +1893,27 @@
       "source": "scrape"
     },
     {
+      "id": "scrape-gen--clap-hands-en-hyllestkonsert-til-tom-wa-2027-01-30",
+      "title": "«CLAP HANDS!» – En hyllestkonsert til Tom Waits",
+      "description": "Lørdag 30. januar 2027\nkl. 19.30",
+      "date": "2027-01-30",
+      "time": null,
+      "endTime": null,
+      "location": "Lillestrøm",
+      "categories": [
+        "konsert"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/18233-clap-hands-en-hyllestkonsert-til-tom-waits/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/18233-clap-hands-en-hyllestkonsert-til-tom-waits/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
       "id": "scrape-gen-guttejente-2027-02-04",
       "title": "Guttejente",
       "description": "Torsdag 4. februar 2027\nkl. 19.00",
@@ -2063,6 +2084,25 @@
       "currency": null,
       "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17487-rundt-et-flygel-trio-no-treble/",
       "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17487-rundt-et-flygel-trio-no-treble/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-hivju-and-the-garbage-king-2027-03-11",
+      "title": "HIVJU and The Garbage KING",
+      "description": "Torsdag 11. mars 2027\nkl. 19.00",
+      "date": "2027-03-11",
+      "time": null,
+      "endTime": null,
+      "location": "Lillestrøm",
+      "categories": [],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/18272-hivju-and-the-garbage-king/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/18272-hivju-and-the-garbage-king/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -2249,11 +2289,11 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 115,
-    "fetchedAt": "2026-10-02T10:53:01.763Z",
+    "count": 117,
+    "fetchedAt": "2026-10-03T10:13:13.308Z",
     "sources": {
       "ticketmaster": 0,
-      "scrape": 117
+      "scrape": 119
     }
   }
 }
