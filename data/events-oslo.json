@@ -1,70 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z16vCoatua",
-      "title": "Knut Bry 80 years!",
-      "description": "We're celebrating Knut's 80 young and wonderful years on the very day, 3rd of October 2026, from 18:00--24:00. Join us for an evening filled with great food and music (from several of Knut's musical friends), wonderful people, and a memorable celebration of our one and only Knut! Trond Moi will be serving Knut's favourite meal --- his world-famous fish soup! You will get a drink upon arrival, other beverages can be purchased at the bars throughout the rest of the evening. You received a \"Save the Date\" this spring, and the response has been overwhelming! Now it's time to book your ticket! Date: 3rd October 2026 Time: 18:00--24:00 Venue: Carls Arena, Carl Berners plass, Trondheimsveien. 113 Dress code: Whatever you feel like wearing to celebrate Knut. Tickets: Ticketmaster (max. two per invitation) The ticket price is NOK 550 per person, which covers the costs of the event. Your place is only secured once the ticket has been purchased. There are limited tickets available, so it's first come, first served! Seating is unreserved, but if you need a reserved seat or are bringing guests under the age of 18, please get in touch. WELCOME TO A BRYSK EVENING! Questions or special requirements? tina@tinagent.no and/or kirsten.thorseth.poppe@gmail.com",
-      "date": "2026-10-03",
-      "time": "18:00",
-      "endTime": null,
-      "location": "Carls - Arena, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/knut-bry-80-years-tickets/1391269349?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/knut-bry-80-years-tickets/1391269349?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/5d1/7f200761-e5bd-42b0-8e3f-cefa896355d1_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16vOEGM3o",
-      "title": "Tøyen Holding",
-      "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's.",
-      "date": "2026-10-03",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Rockefeller, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/toyen-holding-tickets/1827337491?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/toyen-holding-tickets/1827337491?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/b51/e2c8cc4a-4e02-4096-988c-e58768470b51_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18Q_YXj6SEE8ZlwUpl",
-      "title": "Skov // DJ Sviskejus",
-      "description": null,
-      "date": "2026-10-03",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.universe.com/events/skov-dj-sviskejus-tickets-9P5X0L?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/skov-dj-sviskejus-tickets-9P5X0L?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/797/5e693c26-2881-4776-8f0c-3aa94bfa3797_106511_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z1kJ_OUoP",
       "title": "OLIVER TWIST - Koffers produksjoner",
       "description": "OLIVER TWIST -- EN MUSIKAL SOM TREFFER HJERTET Den populære familiemusikalen OLIVER TWIST! har begeistret publikum verden over -- nå er det CHATEAU NEUF sin tur! KUN 6 FORESTILLINGER! Oliver Twist er en amatør produksjon basert på Charles Dickens' udødelige fortelling byr musikalen på sterke følelser, gripende historier og uforglemmelige musikalske numre. Denne versjonen er en hyllest til de glemte barna -- de som lider i stillhet, uten noen som ser dem eller beskytter dem. OLIVER TWIST minner oss om hvor sårbar barndommen er, og hvor lett vi voksne kan overse tegn på ensomhet, mobbing og fortvilelse. Gjennom Oliver møter vi barnet i oss selv -- og i andre -- de som ble tvunget til å vokse opp altfor fort i 1800-tallets London. Produsent: Koffers Produksjoner Regi og koreografi: Patrick Svingholm Terndrup Prosjektleder: Gry Spone Musikalsk ansvarlig: Trine Bariås Originalversjon: AMR Produce (Spania) Manus og tekst: Pedro Villora Norsk oversettelse: Astrid Berg Hauge Oversatt fra spansk av: Victôria Fuster Arrangementstidspunkt/konsertstart : 18:00 Dørene åpner : 17:30 Varighet : 120 min Servering : Kiosk Aldersgrense : Ingen aldersgrense Ledsager : Full pris Adkomst : kollektivtransport til Majorstuen så tre min gange Bevegelseshemmede : Ja Parkeringsmuligheter : Nei Arrangørens nettside",
@@ -961,6 +897,27 @@
       "source": "ticketmaster"
     },
     {
+      "id": "tm-Z698xZb_Z16vP9j8vO",
+      "title": "Smingel Halloweenfest for single",
+      "description": "Smingel Halloweenfest for single på Carls Er du singel og 25--45 år? Lørdag 31. oktober inviterer Smingel til høstens store Halloweenfest for single på Carls! Kvelden starter med Smingel Musikkbingo som gjør det enkelt å bli kjent, før festen fortsetter med mingling, DJ, dansegulv og herlig Halloween-stemning. Kanskje dette blir kvelden du møter noen helt spesiell? Det er begrenset antall billetter med jevn fordeling mellom kvinner og menn. Sikre deg billett og bli med på Smingel Halloweenfest! Aldersgrense: 25 år HERREBILLETT 25-45 år -- Smingel Halloweenfest inkl musikkbingo! Kl 18.00 - 01.00 Innslipp 1800-1830 DAMEBILLETT 25-45 år -- Smingel Halloweenfest inkl musikkbingo! Kl 18.00 - 01.00 Innslipp 1800-1830 LATE ENTRY HERREBILLETT 25-45 år -- Smingel Halloweenfest Kl 21.00 - 01.00 Innslipp 2100 - 2230 LATE ENTRY DAMEBILLETT 25-45 år -- Smingel Halloweenfest Kl 21.00 - 01.00 Innslipp 2100 - 2230",
+      "date": "2026-10-31",
+      "time": "00:00",
+      "endTime": null,
+      "location": "Carls, Oslo",
+      "categories": [
+        "teater"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/smingel-halloweenfest-for-single-tickets/1957710060?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/smingel-halloweenfest-for-single-tickets/1957710060?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/eb1/a7380112-2217-46ef-863f-d6f442021eb1_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎭",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
       "id": "tm-Z698xZb_Z16vq_be8v",
       "title": "Unholy Halloween: Dimmu Borgir",
       "description": null,
@@ -980,12 +937,55 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vuNZY87",
+      "title": "Requiem by Torbjørn Dyrud - All Saints' Day concert",
+      "description": "This year's All Saints' concert features the world premiere of the final work by Torbjørn Dyrud. The piece is scored for choir, narrator, string trio, and wind trio, and was commissioned by Oslo Cathedral Choir and Bergen Cathedral Choir. Between the movements, texts describing near-death experiences will be read aloud. The work will be performed simultaneously in Oslo Cathedral and Bergen Cathedral, in addition to concerts at Hoff Church on November 14 and Bragernes Church on November 15. Composer and musician Torbjørn Dyrud lived with a serious cancer diagnosis for seven years. He passed away on July 19 this year, shortly after delivering the completed work to us. During his final years, he found great comfort in accounts of near-death experiences and other similarly incomprehensible phenomena. Torbjørn was a deeply optimistic person, and part of the intention behind this work was to encourage us, here on earth, to recognize more clearly that the world is in fact filled with light and love. Near-death experiences are stories and encounters that challenge our understanding of reality at a fundamental level. Many people who have had such experiences insist that who we truly are continues to exist even after the death of the physical body. In the void left by Torbjørn's passing, we return to the intention behind the work and read what Torbjørn himself wrote in a new light: \"For me, as a church musician, this literature has opened up my spiritual life in a fundamental way. It seems increasingly credible that accounts of a more real reality, beyond time and space, a state in which unconditional love fills everything, are simply true. Something within me opens up when I read these personal narratives in the light of the Bible and other historical sources.\" Requiem lasts approximately 45 minutes. The concert will also feature three of Torbjørn's other well-known songs and hymns composed for choir. The total duration of the concert is approximately one hour. Program: Soon She Kisses Her Friend in the Rose Garden (Snart kysser hun sin venn i rosenhagen) by Torbjørn Dyrud, with text by Inger Hagerup. Come, Breath of Life (Kom livspust) by Torbjørn Dyrud, with text by Ingrid B. Melve With a Bouquet (Med en bukett) by Torbjørn Dyrud, with text by Henrik Wergeland Requiem by Torbjørn Dyrud, with readings from accounts of near-death experiences Performers: Oslo Cathedral Choir Vivianne Sydnes, conductor Eldar Skar, Actor Brass players: Tormod Åsgård, Simen Aleksander Olsen Hagen, and Lars Brynestad String players: Sølve Sigerland, Henninge Landaas, and Ellen Margrete Flesjø (Ssens Trio) Dedicated wheelchair spaces can be purchased in the south transept. Here you can choose whether you are accompanied by a companion or not. Companions are admitted free of charge upon presentation of a companion certificate. The companion will be seated directly behind the wheelchair space. Oslo Cathedral has both a ramp and a lift to ensure step-free access. Please arrive at the main entrance, where our staff will guide you to the wheelchair entrance. A wheelchair-accessible restroom is available near the main entrance. If you wish to purchase a companion ticket without it being linked to a wheelchair space, select the ticket category \"companion seat\" for any other seat in the Cathedral. For questions, please contact the organizer, Oslo Cathedral Choir, at +47 977 95 450.",
+      "date": "2026-11-01",
+      "time": "18:00",
+      "endTime": null,
+      "location": "Oslo domkirke, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/requiem-by-torbjorn-dyrud-all-saints-day-concert-tickets/1363030404?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/requiem-by-torbjorn-dyrud-all-saints-day-concert-tickets/1363030404?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/22d/80da6303-6dd9-47cd-9a2f-7c9b907ea22d_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16v4v_KCe",
+      "title": "Warren Zeiders",
+      "description": "Doors Open kl. 19.00. The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's Read the organizer's terms of purchase here. See www.rockefeller.no for the complete program.. Practical information about the concerts can be found here. The nearest transport hub is Storgata and/or Jernbanetorget. See ruter.no for more info.",
+      "date": "2026-11-02",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Sentrum Scene, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/warren-zeiders-tickets/1541653382?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/warren-zeiders-tickets/1541653382?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/6b9/dd1e1655-f868-48cd-9891-99b703b676b9_SOURCE",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 46,
-    "fetchedAt": "2026-10-03T10:13:01.673Z",
+    "fetchedAt": "2026-10-04T10:53:45.087Z",
     "sources": {
       "ticketmaster": 50,
       "scrape": 0

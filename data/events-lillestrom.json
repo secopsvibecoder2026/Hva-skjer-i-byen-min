@@ -1,33 +1,10 @@
 {
   "events": [
     {
-      "id": "scrape-gen-barnas-teaterl-rdag-trufilotten-2026-10-03",
-      "title": "Barnas teaterlørdag – Trufilotten",
-      "description": "Lørdag 3. oktober\nkl. 13.00",
-      "date": "2026-10-03",
-      "time": null,
-      "endTime": null,
-      "location": "Lillestrøm",
-      "categories": [
-        "uteliv",
-        "barn",
-        "teater"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17545-barnas-teaterlordag-trufilotten/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17545-barnas-teaterlordag-trufilotten/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
-      "id": "scrape-gen-shrek-the-musical-2026-10-03",
+      "id": "scrape-gen-shrek-the-musical-2026-10-04",
       "title": "Shrek the musical",
-      "description": "3. okt. – 11. okt.\n8 forestillinger",
-      "date": "2026-10-03",
+      "description": "4. okt. – 11. okt.\n6 forestillinger",
+      "date": "2026-10-04",
       "time": null,
       "endTime": null,
       "location": "Lillestrøm",
@@ -36,27 +13,6 @@
       "currency": null,
       "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16533-shrek-the-musical/",
       "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16533-shrek-the-musical/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
-      "id": "scrape-gen-jazzkaf-salongtrioen-2026-10-03",
-      "title": "Jazzkafé – Salongtrioen",
-      "description": "Lørdag 3. oktober\nkl. 15.00",
-      "date": "2026-10-03",
-      "time": null,
-      "endTime": null,
-      "location": "Lillestrøm",
-      "categories": [
-        "konsert"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16891-jazzkafe-salongtrioen/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16891-jazzkafe-salongtrioen/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -846,7 +802,7 @@
     {
       "id": "scrape-gen--faen-d-martha-med-martha-leivestad-2026-11-07",
       "title": "«Faen då, Martha!» med Martha Leivestad",
-      "description": "Utsolgt",
+      "description": "Få billetter igjen",
       "date": "2026-11-07",
       "time": null,
       "endTime": null,
@@ -922,7 +878,7 @@
     {
       "id": "scrape-gen-noman-mubashir-m-rke-menn-som-pusher-50-2026-11-11",
       "title": "Noman Mubashir – Mørke menn som pusher 50",
-      "description": "Onsdag 11. november\nkl. 19.00",
+      "description": "Få billetter igjen",
       "date": "2026-11-11",
       "time": null,
       "endTime": null,
@@ -2289,11 +2245,11 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 117,
-    "fetchedAt": "2026-10-03T10:13:13.308Z",
+    "count": 115,
+    "fetchedAt": "2026-10-04T10:54:03.001Z",
     "sources": {
       "ticketmaster": 0,
-      "scrape": 119
+      "scrape": 117
     }
   }
 }
