@@ -22,6 +22,28 @@
       "source": "ticketmaster"
     },
     {
+      "id": "tm-Z698xZb_Z16vOzP473",
+      "title": "Robbie Williams Live 2027",
+      "description": "Robbie Williams is one of the most successful music artists in the world with 90 million album sales worldwide, six of the Top 100 best-selling albums in British history and a record-breaking 16 UK Number 1 albums. Across his celebrated career Robbie has received awards from countries all over the world including a record 18 BRIT Awards, 8 German ECHO Awards, 3 MTV European Music Awards and 2 GRAMMY nominations. He won the prestigious PRS for Music Icon Award at The Ivors 2025 -- his fifth Ivor Novello Award -- celebrating Robbie as one of Britain's most iconic and influential songwriters. In January 2026 Robbie released his album 'BRITPOP' to widespread critical acclaim, which secured him his 16th UK Number 1 album and made history breaking the all-time record for the artist with the most UK Number 1 albums. Robbie is also a much-loved live performer all around the globe, who continues to sell out venues worldwide, and is renowned for his dynamic shows and incredible showmanship. Robbie took to the stage last summer for his most recent tour, the 'BRITPOP' stadium tour, performing to 1.2 million people globally. This summer, he returns with a series of European shows and festival appearances, followed by headline arena performances in South America, closing the year with stadium dates in Australia and New Zealand. As well as being one of our most celebrated music artists, Robbie is also a pop culture icon who transcends music. In June 2025 Robbie was announced as the Official FIFA Music Ambassador -- a global role for FIFA marking a powerful new union between music and football on the world stage. In his first engagement in his ongoing role, Robbie co-wrote and recorded the first ever Official FIFA anthem, 'Desire' featuring Laura Pausini, to accompany players as they walk onto the pitch across all FIFA tournaments and matches worldwide. He performed the song at the final of the FIFA Club World CupTM last year and the track will be played at all future FIFA tournaments including the FIFA World Cup 26TM this summer. In December 2024 his Oscar-nominated film, 'Better Man', was released globally to critical acclaim with the accompanying film soundtrack released in January 2025. Other acclaimed projects across his career - in music and beyond - include a Netflix documentary about his life, a Las Vegas residency, launching his own art exhibition 'Radical Honesty' and creating the score for the Royal Shakespeare Company's production of 'The Boy in the Dress'. A UNICEF ambassador since 2000, Robbie co- founded Soccer Aid. Since its launch in 2006 the annual event, celebrating it's 20th anniversary this year, has raised more than £137 million to date for charity worldwide. Doors open 4:30pm NB: No designated accessible parking for HC/wheelchair users",
+      "date": "2027-06-26",
+      "time": "16:30",
+      "endTime": null,
+      "location": "Tønsberg",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/robbie-williams-live-2027-tickets/1838955112?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/robbie-williams-live-2027-tickets/1838955112?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/e34/2f75d1ac-3779-48a9-b60c-d199d5b89e34_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
       "id": "tm-Z698xZb_Z16vfea6Jd",
       "title": "Festivalpass med NATTEN Slottsfjell 2027",
       "description": "Slottsfjell har flyttet ned fra fjellet til vakre Kaldnes, kun fire minutters gange fra legendariske Tønsberg Brygge. På området opplever du fremtidens festival midt i sentrum av Norges beste sommerby, Tønsberg. Omkranset av skjærgård byr vi på en bred og spennende musikkprofil på store utendørsscener, nattklubb og vår egen strand. Når du vil trekke deg tilbake har vi flere loungeområder og en gigantisk mathall hvor du kan nyte mat fra hele verden med vennene dine. Når solen går ned, og lyden fra hovedscenen har stilnet, presenterer vi Norges største nattklubb - NATTEN! Festivalpasset inkluderer NATTEN og har 20 års aldersgrense - gyldig ID kreves! Portene åpner kl. 13:00 hver dag. NATTEN åpner kl. 21:00 Ledsager gratis mot fremvisning av gyldig ledsagerbevis. For mer informasjon om artistslipp, program og praktiske opplysninger se Slottsfjells hjemmeside og facebookside",
@@ -235,10 +257,10 @@
   ],
   "meta": {
     "city": "tonsberg",
-    "count": 11,
-    "fetchedAt": "2026-10-04T10:54:04.035Z",
+    "count": 12,
+    "fetchedAt": "2026-10-05T12:02:40.163Z",
     "sources": {
-      "ticketmaster": 11,
+      "ticketmaster": 12,
       "scrape": 0
     }
   }

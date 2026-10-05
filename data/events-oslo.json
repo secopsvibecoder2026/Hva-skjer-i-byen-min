@@ -73,7 +73,8 @@
       "endTime": null,
       "location": "Kulturkirken Jakob, Oslo",
       "categories": [
-        "konsert"
+        "konsert",
+        "uteliv"
       ],
       "priceFrom": null,
       "currency": null,
@@ -985,7 +986,7 @@
   "meta": {
     "city": "oslo",
     "count": 46,
-    "fetchedAt": "2026-10-04T10:53:45.087Z",
+    "fetchedAt": "2026-10-05T12:02:24.407Z",
     "sources": {
       "ticketmaster": 50,
       "scrape": 0
