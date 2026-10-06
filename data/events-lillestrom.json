@@ -1032,7 +1032,7 @@
     {
       "id": "scrape-gen-viljeskallen-petter-northug-i-samtale-me-2026-11-18",
       "title": "Viljeskallen – Petter Northug i samtale med Thor Gotaas",
-      "description": "Onsdag 18. november\nkl. 19.00",
+      "description": "Få billetter igjen",
       "date": "2026-11-18",
       "time": null,
       "endTime": null,
@@ -1190,7 +1190,7 @@
     {
       "id": "scrape-gen-bori-presenterer-scrooge-et-juleeventyr-2026-11-26",
       "title": "BORI presenterer Scrooge – et juleeventyr",
-      "description": "Torsdag 26. november\nkl. 18.00",
+      "description": "Få billetter igjen",
       "date": "2026-11-26",
       "time": null,
       "endTime": null,
@@ -2246,7 +2246,7 @@
   "meta": {
     "city": "lillestrom",
     "count": 115,
-    "fetchedAt": "2026-10-05T12:02:38.439Z",
+    "fetchedAt": "2026-10-06T11:47:56.213Z",
     "sources": {
       "ticketmaster": 0,
       "scrape": 117

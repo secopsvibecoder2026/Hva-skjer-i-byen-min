@@ -45,20 +45,18 @@
     {
       "id": "tm-Z698xZb_Z16vqwjFa4",
       "title": "Oktoberfest Hamar 2026 | LØRDAG",
-      "description": "Lørdag: Dørene åpner 1600 DJ Loveshack 1800 DJ Loveshack 1930-2030 Petter Katastrofe/Staysman (Tidspunkt kommer senere)",
+      "description": "Lørdag: Dørene åpner 1700 DJ Loveshack 1800 DJ Loveshack 1930-2030 Petter Katastrofe/Staysman (Tidspunkt kommer senere)",
       "date": "2026-10-10",
-      "time": "16:00",
+      "time": "17:00",
       "endTime": null,
       "location": "Vikingskipet, Hamar",
-      "categories": [
-        "konsert"
-      ],
+      "categories": [],
       "priceFrom": null,
       "currency": null,
       "ticketUrl": "https://www.ticketmaster.no/event/oktoberfest-hamar-2026-%7C-lrdag-tickets/1772708255?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/oktoberfest-hamar-2026-%7C-lrdag-tickets/1772708255?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/e/e52/069c1eb6-8805-47d6-adf4-33d01932ae52_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
+      "imageEmoji": "🎪",
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
@@ -89,7 +87,7 @@
   "meta": {
     "city": "hamar",
     "count": 4,
-    "fetchedAt": "2026-10-05T12:02:34.190Z",
+    "fetchedAt": "2026-10-06T11:47:51.657Z",
     "sources": {
       "ticketmaster": 4,
       "scrape": 0
