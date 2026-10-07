@@ -473,7 +473,7 @@
     {
       "id": "scrape-gen-one-night-only-2026-10-27",
       "title": "One Night Only",
-      "description": "Utsolgt",
+      "description": "Få billetter igjen",
       "date": "2026-10-27",
       "time": null,
       "endTime": null,
@@ -1602,7 +1602,7 @@
     {
       "id": "scrape-gen-for-v-r-jord-en-julekonsert-2026-12-17",
       "title": "For vår jord – en julekonsert",
-      "description": "Torsdag 17. desember\nkl. 19.00",
+      "description": "Få billetter igjen",
       "date": "2026-12-17",
       "time": null,
       "endTime": null,
@@ -2246,7 +2246,7 @@
   "meta": {
     "city": "lillestrom",
     "count": 115,
-    "fetchedAt": "2026-10-06T11:47:56.213Z",
+    "fetchedAt": "2026-10-07T11:31:12.605Z",
     "sources": {
       "ticketmaster": 0,
       "scrape": 117

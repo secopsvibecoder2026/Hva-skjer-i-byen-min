@@ -1,49 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z16vaN4x4A",
-      "title": "OLIVER TWIST - Koffers produksjoner",
-      "description": "OLIVER TWIST -- EN MUSIKAL SOM TREFFER HJERTET Den populære familiemusikalen OLIVER TWIST! har begeistret publikum verden over -- nå er det CHATEAU NEUF sin tur! KUN 6 FORESTILLINGER! Oliver Twist er en amatør produksjon basert på Charles Dickens' udødelige fortelling byr musikalen på sterke følelser, gripende historier og uforglemmelige musikalske numre. Denne versjonen er en hyllest til de glemte barna -- de som lider i stillhet, uten noen som ser dem eller beskytter dem. OLIVER TWIST minner oss om hvor sårbar barndommen er, og hvor lett vi voksne kan overse tegn på ensomhet, mobbing og fortvilelse. Gjennom Oliver møter vi barnet i oss selv -- og i andre -- de som ble tvunget til å vokse opp altfor fort i 1800-tallets London. Produsent: Koffers Produksjoner Regi og koreografi: Patrick Svingholm Terndrup Prosjektleder: Gry Spone Musikalsk ansvarlig: Trine Bariås Originalversjon: AMR Produce (Spania) Manus og tekst: Pedro Villora Norsk oversettelse: Astrid Berg Hauge Oversatt fra spansk av: Victôria Fuster Arrangementstidspunkt/konsertstart : 18:00 Dørene åpner : 17:30 Varighet : 120 min Servering : Kiosk Aldersgrense : Ingen aldersgrense Ledsager : Full pris Adkomst : kollektivtransport til Majorstuen så tre min gange Bevegelseshemmede : Ja Parkeringsmuligheter : Nei Arrangørens nettside",
-      "date": "2026-10-06",
-      "time": "18:00",
-      "endTime": null,
-      "location": "Chateau Neuf,Storsalen, Oslo",
-      "categories": [
-        "teater"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/oliver-twist-koffers-produksjoner-tickets/1263562545?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/oliver-twist-koffers-produksjoner-tickets/1263562545?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/106/55a08463-723c-4bf7-be38-cf54cc770106_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "imageEmoji": "🎭",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16vFk4zvw",
-      "title": "Konradsen - 10 years! (Almost sold out)",
-      "description": "10TH ANNIVERSARY CONCERT: KONRADSEN!! The duo Konradsen is celebrating 10 years and invites you to a very special anniversary concert at Kulturkirken Jakob -- the exact venue where they held their very first release concert! On this evening, they are stripping things back and sharing the stage with good friends made along the way. Since 2019, Jenny Marie Sabel and Eirik Vildgren have carved out a unique place in the Norwegian indie scene with their distinctive, intricate, and critically acclaimed sound. This concert also marks the release of their third album, Hunt, Gather -- a personal and introspective record about the life spent chasing goals for years, and the longing for something more. The release was celebrated with a truly unique, sold-out concert experience at MUNCH in Oslo on April 10th. Now, they are coming to Kulturkirken Jakob! Konradsen's music shifts between the romantic, playful, and deeply emotional, blending subtle glimpses of reality---like audio clips from old family videos and chats with friends---with synths, piano, and a nuanced musical landscape. The result is a complex soundscape that feels both weightless and intimate all at once. The album Hunt, Gather was produced by Hans Olav Settem and Marit Othilie Thorvik (Beharie, Ea Othilde, Jouska) in collaboration with the duo themselves. A major part of the music was also co-written with Erlend Vesteraas and Ivar Myrset Asheim, both of whom are key contributors to the project. Come celebrate 10 years of Konradsen and experience a concert that moves seamlessly between the deeply intimate and the grand!",
-      "date": "2026-10-06",
-      "time": "20:00",
-      "endTime": null,
-      "location": "Kulturkirken Jakob, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/konradsen-10-years-almost-sold-out--tickets/1206578072?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/konradsen-10-years-almost-sold-out--tickets/1206578072?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/256/af31cae1-4396-44d4-b102-4261df688256_SOURCE",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z1kaf_VAa",
       "title": "Slå på ring - LIVE - Ny dato 08.10.2026",
       "description": "Doors Open kl. 19.00. The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's Read the organizer's terms of purchase here. See www.rockefeller.no for the complete program.. Practical information about the concerts can be found here. The nearest transport hub is Storgata and/or Jernbanetorget. See ruter.no for more info.",
@@ -232,28 +189,6 @@
       "affiliateUrl": "https://www.ticketmaster.no/event/oliver-twist-koffers-produksjoner-tickets/174894045?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/e/264/ffd0a956-86e7-404b-a5e1-fe63593de264_SOURCE",
       "imageEmoji": "🎭",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16v4ZZx8E",
-      "title": "Simple Plan - Bigger Than You Think! Europe Tour 2026",
-      "description": null,
-      "date": "2026-10-13",
-      "time": "00:00",
-      "endTime": null,
-      "location": "Sentrum Scene, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/simple-plan-bigger-than-you-think-europe-tour-2026-tickets/1540022427?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/simple-plan-bigger-than-you-think-europe-tour-2026-tickets/1540022427?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/560/4b5b8aec-86c5-423d-b751-01bbe4f14560_SOURCE",
-      "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
@@ -979,12 +914,76 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kff84qY",
+      "title": "Hammok",
+      "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's.",
+      "date": "2026-11-05",
+      "time": "19:00",
+      "endTime": null,
+      "location": "John Dee, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/hammok-tickets/514415770?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/hammok-tickets/514415770?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/3b3/1f988879-2f8c-4afa-abb5-5ffe06d8a3b3_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vFtPOjP",
+      "title": "Fontaines D.C.",
+      "description": null,
+      "date": "2026-11-06",
+      "time": "19:30",
+      "endTime": null,
+      "location": "Oslo Spektrum, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/fontaines-dc-tickets/1229960725?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/fontaines-dc-tickets/1229960725?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/9f3/cda7f635-ebbc-4a5d-9988-7e7db1ab39f3_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kfJ-3Ap",
+      "title": "Kristian Kristensen",
+      "description": "Doors Open kl. 19.00. The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's Read the organizer's terms of purchase here. See www.rockefeller.no for the complete program.. Practical information about the concerts can be found here. The nearest transport hub is Storgata and/or Jernbanetorget. See ruter.no for more info.",
+      "date": "2026-11-07",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Sentrum Scene, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/kristian-kristensen-tickets/526852156?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/kristian-kristensen-tickets/526852156?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/ab5/69c96d72-27c6-4a7b-ab0f-eded0798cab5_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 46,
-    "fetchedAt": "2026-10-06T11:47:41.622Z",
+    "fetchedAt": "2026-10-07T11:30:59.053Z",
     "sources": {
       "ticketmaster": 50,
       "scrape": 0
