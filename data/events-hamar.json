@@ -29,15 +29,13 @@
       "time": "00:00",
       "endTime": null,
       "location": "Vikingskipet, Hamar",
-      "categories": [
-        "konsert"
-      ],
+      "categories": [],
       "priceFrom": null,
       "currency": null,
       "ticketUrl": "https://www.ticketmaster.no/event/oktoberfest-2026-%7C-helgepass-tickets/1675545784?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/oktoberfest-2026-%7C-helgepass-tickets/1675545784?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/e/994/c6fffa95-49d7-4268-8240-60765472d994_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
+      "imageEmoji": "🎪",
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
@@ -87,7 +85,7 @@
   "meta": {
     "city": "hamar",
     "count": 4,
-    "fetchedAt": "2026-10-07T11:31:08.789Z",
+    "fetchedAt": "2026-10-08T11:46:33.538Z",
     "sources": {
       "ticketmaster": 4,
       "scrape": 0

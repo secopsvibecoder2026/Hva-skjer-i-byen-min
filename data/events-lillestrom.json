@@ -1,44 +1,6 @@
 {
   "events": [
     {
-      "id": "scrape-gen--ystein-sunde-med-hurra-meg-rundt-i-80-2026-10-07",
-      "title": "Øystein Sunde med HURRA-meg-RUNDT i 80",
-      "description": "Utsolgt",
-      "date": "2026-10-07",
-      "time": null,
-      "endTime": null,
-      "location": "Lillestrøm",
-      "categories": [],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17958-oystein-sunde-med-hurra-meg-rundt-i-80/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17958-oystein-sunde-med-hurra-meg-rundt-i-80/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
-      "id": "scrape-gen-hvorfor-det--2026-10-07",
-      "title": "Hvorfor det?",
-      "description": "Onsdag 7. oktober\nkl. 19.30",
-      "date": "2026-10-07",
-      "time": null,
-      "endTime": null,
-      "location": "Lillestrøm",
-      "categories": [],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17694-hvorfor-det/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17694-hvorfor-det/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
       "id": "scrape-gen-shrek-the-musical-2026-10-08",
       "title": "Shrek the musical",
       "description": "8. okt. – 11. okt.\n5 forestillinger",
@@ -315,7 +277,7 @@
     {
       "id": "scrape-gen-karius-og-baktus-2026-10-18",
       "title": "Karius og Baktus",
-      "description": "Få billetter igjen",
+      "description": "Søndag 18. oktober\nkl. 13.00",
       "date": "2026-10-18",
       "time": null,
       "endTime": null,
@@ -1188,6 +1150,25 @@
       "source": "scrape"
     },
     {
+      "id": "scrape-gen-thon-senter-str-mmen-presenterer-scrooge-2026-11-25",
+      "title": "Thon Senter Strømmen presenterer Scrooge – et juleeventyr",
+      "description": "Gratis",
+      "date": "2026-11-25",
+      "time": null,
+      "endTime": null,
+      "location": "Lillestrøm",
+      "categories": [],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/18323-thon-senter-strommen-presenterer-scrooge-et-juleeventyr/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/18323-thon-senter-strommen-presenterer-scrooge-et-juleeventyr/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
       "id": "scrape-gen-bori-presenterer-scrooge-et-juleeventyr-2026-11-26",
       "title": "BORI presenterer Scrooge – et juleeventyr",
       "description": "Få billetter igjen",
@@ -1811,6 +1792,25 @@
       "source": "scrape"
     },
     {
+      "id": "scrape-gen-lars-lillo-stenberg-2027-01-29",
+      "title": "Lars Lillo-Stenberg",
+      "description": "Fredag 29. januar 2027\nkl. 19.30",
+      "date": "2027-01-29",
+      "time": null,
+      "endTime": null,
+      "location": "Lillestrøm",
+      "categories": [],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/18288-lars-lillo-stenberg/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/18288-lars-lillo-stenberg/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
       "id": "scrape-gen-badebygjengen-2027-01-30",
       "title": "Badebygjengen",
       "description": "Lørdag 30. januar 2027\nkl. 13.00",
@@ -2246,7 +2246,7 @@
   "meta": {
     "city": "lillestrom",
     "count": 115,
-    "fetchedAt": "2026-10-07T11:31:12.605Z",
+    "fetchedAt": "2026-10-08T11:46:36.551Z",
     "sources": {
       "ticketmaster": 0,
       "scrape": 117
