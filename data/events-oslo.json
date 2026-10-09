@@ -1,28 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z1kaf_VAa",
-      "title": "Slå på ring - LIVE - Ny dato 08.10.2026",
-      "description": "Doors Open kl. 19.00. The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's Read the organizer's terms of purchase here. See www.rockefeller.no for the complete program.. Practical information about the concerts can be found here. The nearest transport hub is Storgata and/or Jernbanetorget. See ruter.no for more info.",
-      "date": "2026-10-08",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Sentrum Scene, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/sla-pa-ring-live-ny-dato-08102026-tickets/254674149?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/sla-pa-ring-live-ny-dato-08102026-tickets/254674149?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/63b/06c2126c-cfa2-4b7f-a49f-bd92ff3d163b_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z16ev08S0f",
       "title": "Vassendgutane",
       "description": "Doors Open kl. 19.00. The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's Read the organizer's terms of purchase here. See www.rockefeller.no for the complete program.. Practical information about the concerts can be found here. The nearest transport hub is Storgata and/or Jernbanetorget. See ruter.no for more info.",
@@ -337,6 +315,28 @@
       "ticketUrl": "https://www.ticketmaster.no/event/bob-dylan-tickets/179534641?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/bob-dylan-tickets/179534641?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/a/034/3bd6c573-ccda-49dd-a2e5-6a0959de7034_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kJv4OqU",
+      "title": "Skinny E - Se på meg nå, Hilde*",
+      "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's.",
+      "date": "2026-10-17",
+      "time": "20:00",
+      "endTime": null,
+      "location": "Rockefeller, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/skinny-e-se-pa-meg-na-hilde-tickets/981560776?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/skinny-e-se-pa-meg-na-hilde-tickets/981560776?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/c18/fcbc394d-8425-4ab1-ada2-bb7cc157ac18_RETINA_PORTRAIT_16_9.jpg",
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -983,7 +983,7 @@
   "meta": {
     "city": "oslo",
     "count": 46,
-    "fetchedAt": "2026-10-08T11:46:25.666Z",
+    "fetchedAt": "2026-10-09T11:39:06.322Z",
     "sources": {
       "ticketmaster": 50,
       "scrape": 0

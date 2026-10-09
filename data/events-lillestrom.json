@@ -1,44 +1,6 @@
 {
   "events": [
     {
-      "id": "scrape-gen-shrek-the-musical-2026-10-08",
-      "title": "Shrek the musical",
-      "description": "8. okt. – 11. okt.\n5 forestillinger",
-      "date": "2026-10-08",
-      "time": null,
-      "endTime": null,
-      "location": "Lillestrøm",
-      "categories": [],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16533-shrek-the-musical/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16533-shrek-the-musical/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
-      "id": "scrape-gen-erik-simensen-jeg-hater-endring-det-er-s-2026-10-08",
-      "title": "Erik Simensen: Jeg hater endring! – Det er så innmari slitsomt",
-      "description": "Torsdag 8. oktober\nkl. 19.30",
-      "date": "2026-10-08",
-      "time": null,
-      "endTime": null,
-      "location": "Lillestrøm",
-      "categories": [],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17939-erik-simensen-jeg-hater-endring-det-er-sa-innmari-slitsomt/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17939-erik-simensen-jeg-hater-endring-det-er-sa-innmari-slitsomt/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
       "id": "scrape-gen-stjernenatt-i-kulturkvartalene-2026-10-09",
       "title": "Stjernenatt i Kulturkvartalene",
       "description": "Gratis",
@@ -58,9 +20,9 @@
       "source": "scrape"
     },
     {
-      "id": "scrape-gen-halvor-johansson-det-er-lov-pr-ve-seg-2026-10-09",
-      "title": "Halvor Johansson – Det er lov å prøve seg",
-      "description": "Utsolgt",
+      "id": "scrape-gen-shrek-the-musical-2026-10-09",
+      "title": "Shrek the musical",
+      "description": "9. okt. – 11. okt.\n4 forestillinger",
       "date": "2026-10-09",
       "time": null,
       "endTime": null,
@@ -68,8 +30,8 @@
       "categories": [],
       "priceFrom": null,
       "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17876-halvor-johansson-det-er-lov-a-prove-seg/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17876-halvor-johansson-det-er-lov-a-prove-seg/?ref=hvaSkjerIByenMin",
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16533-shrek-the-musical/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16533-shrek-the-musical/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -91,6 +53,25 @@
       "currency": null,
       "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17135-teigens-tropper-med-anita-skorgan/",
       "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17135-teigens-tropper-med-anita-skorgan/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-halvor-johansson-det-er-lov-pr-ve-seg-2026-10-09",
+      "title": "Halvor Johansson – Det er lov å prøve seg",
+      "description": "Utsolgt",
+      "date": "2026-10-09",
+      "time": null,
+      "endTime": null,
+      "location": "Lillestrøm",
+      "categories": [],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17876-halvor-johansson-det-er-lov-a-prove-seg/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17876-halvor-johansson-det-er-lov-a-prove-seg/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -764,7 +745,7 @@
     {
       "id": "scrape-gen--faen-d-martha-med-martha-leivestad-2026-11-07",
       "title": "«Faen då, Martha!» med Martha Leivestad",
-      "description": "Få billetter igjen",
+      "description": "Utsolgt",
       "date": "2026-11-07",
       "time": null,
       "endTime": null,
@@ -2245,11 +2226,11 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 115,
-    "fetchedAt": "2026-10-08T11:46:36.551Z",
+    "count": 114,
+    "fetchedAt": "2026-10-09T11:39:18.372Z",
     "sources": {
       "ticketmaster": 0,
-      "scrape": 117
+      "scrape": 116
     }
   }
 }
