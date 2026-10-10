@@ -1,80 +1,15 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z16ev08S0f",
-      "title": "Vassendgutane",
-      "description": "Doors Open kl. 19.00. The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's Read the organizer's terms of purchase here. See www.rockefeller.no for the complete program.. Practical information about the concerts can be found here. The nearest transport hub is Storgata and/or Jernbanetorget. See ruter.no for more info.",
-      "date": "2026-10-09",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Sentrum Scene, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/vassendgutane-tickets/2064433914?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/vassendgutane-tickets/2064433914?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/4ce/ee6933c9-06eb-4c01-a3b6-6b77560694ce_TABLET_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18QIq92TzcduJoFCSc",
-      "title": "Oslo Negativ 2026",
-      "description": null,
-      "date": "2026-10-10",
-      "time": "11:00",
-      "endTime": null,
-      "location": "Nasjonalgalleriet, Oslo",
-      "categories": [
-        "teater"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.universe.com/events/oslo-negativ-2026-tickets-NK1SGH?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/oslo-negativ-2026-tickets-NK1SGH?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/99a/17bf547c-c64a-4395-84c2-f69dcdda699a_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎭",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z1kp6fO-x",
-      "title": "Oslo Orgelfestival: Domorganistenes ønskekonsert",
-      "description": "Tjark Pinne and Marcus André Berg perform the audience's requests. What will it be this year? A movement from your favourite symphony, or epic music from the world of film? Send your requests to tp643@kirken.no by 6 September. Oslo Cathedral has dedicated wheelchair spaces in the south transept. Companions enter free of charge upon presenting a companion certificate. Oslo Cathedral has a ramp and an elevator for step-free access. Please arrive at the main entrance, and our staff will guide you to the wheelchair entrance. A wheelchair-accessible restroom is available by the main entrance. For questions; please call Oslo Cathedral, phone: +47 23629010",
-      "date": "2026-10-10",
-      "time": "12:00",
-      "endTime": null,
-      "location": "Oslo domkirke, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/oslo-orgelfestival-domorganistenes-onskekonsert-tickets/587520862?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/oslo-orgelfestival-domorganistenes-onskekonsert-tickets/587520862?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/cce/cafee4fc-8d67-4fad-a067-f03ee3fc7cce_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z16vbM-9fo",
       "title": "Cat Power",
-      "description": null,
+      "description": "Doors Open kl. 19.00. The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's Read the organizer's terms of purchase here. See www.rockefeller.no for the complete program.. Practical information about the concerts can be found here. The nearest transport hub is Storgata and/or Jernbanetorget. See ruter.no for more info.",
       "date": "2026-10-10",
       "time": "19:00",
       "endTime": null,
       "location": "Sentrum Scene, Oslo",
       "categories": [
-        "konsert",
-        "uteliv"
+        "konsert"
       ],
       "priceFrom": null,
       "currency": null,
@@ -420,7 +355,7 @@
       "currency": null,
       "ticketUrl": "https://www.ticketmaster.no/event/spark-2026--en-kveld-for-deg-som-vil-mer-tickets/382504862?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/spark-2026--en-kveld-for-deg-som-vil-mer-tickets/382504862?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/2b6/79423f96-d455-4229-a130-7bac6c7332b6_RETINA_PORTRAIT_16_9.jpg",
+      "imageUrl": "https://s1.ticketm.net/dam/e/2b6/79423f96-d455-4229-a130-7bac6c7332b6_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "imageEmoji": "🎭",
       "sponsored": false,
       "featured": false,
@@ -429,7 +364,7 @@
     {
       "id": "tm-Z698xZb_Z1k03fKoA",
       "title": "Stevie Wonder: Songs In The Key of Life Performances",
-      "description": "Songs In The Key of Life Performances - 50th Anniversary Tour Ticket Information: - Maximum 8 tickets per person. - Bottles, cans, and laser pointers are prohibited inside the concert area. Tickets will be available as mobile tickets (QR codes) via the Ticketmaster app and your user account well in advance of the concert (about 30 days). Learn more about delayed delivery of admission passes here. Wheelchair and companion seats are sold through Ticketmaster. For assistance, contact customer support here. Use public transportation to Unity Arena. Visit unityarena.no or ruter.no for travel options. For more details about the concert, artists, and entry times, visit unityarena.no or livenation.no. Schedule: - Box Office opens: 17:00 - Doors open: 18:00 - Concert starts: 19:30 General Information: The organizer reserves the right to deny entry to individuals who refuse personal inspection (this may include a body search and baggage check). See unityarena.no for details about prohibited items. Ejected individuals are not entitled to a ticket refund. There is no minimum age for the concert, but children under 15 must be accompanied by an adult (as per the Police Act in Bærum Municipality).",
+      "description": "Songs In The Key of Life Performances - 50th Anniversary Tour Ticket Information: - Maximum 8 tickets per person. - Bottles, cans, and laser pointers are prohibited inside the concert area. Tickets will be available as mobile tickets (QR codes) via the Ticketmaster app and your user account well in advance of the concert (about 30 days). Learn more about delayed delivery of admission passes here. Wheelchair and companion seats are sold through Ticketmaster. For assistance, contact customer support here. Use public transportation to Unity Arena. Visit unityarena.no or ruter.no for travel options. For more details about the concert, artists, and entry times, visit unityarena.no or livenation.no. Schedule: - Box Office opens: 17:30 - Doors open: 18:30 - Concert starts: 19:30 General Information: The organizer reserves the right to deny entry to individuals who refuse personal inspection (this may include a body search and baggage check). See unityarena.no for details about prohibited items. Ejected individuals are not entitled to a ticket refund. There is no minimum age for the concert, but children under 15 must be accompanied by an adult (as per the Police Act in Bærum Municipality).",
       "date": "2026-10-20",
       "time": "19:30",
       "endTime": null,
@@ -457,7 +392,8 @@
       "endTime": null,
       "location": "Sentrum Scene, Oslo",
       "categories": [
-        "konsert"
+        "konsert",
+        "uteliv"
       ],
       "priceFrom": null,
       "currency": null,
@@ -493,13 +429,14 @@
     {
       "id": "tm-Z698xZb_Z1kASJvZE",
       "title": "Oddny",
-      "description": null,
+      "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's. Read the organizer's terms of purchase here. See www.rockefeller.no for the complete program.. Practical information about the concerts can be found here. The nearest transport hub is Storgata and/or Jernbanetorget. See ruter.no for more info.",
       "date": "2026-10-22",
       "time": "19:00",
       "endTime": null,
       "location": "Rockefeller, Oslo",
       "categories": [
-        "konsert"
+        "konsert",
+        "uteliv"
       ],
       "priceFrom": null,
       "currency": null,
@@ -541,8 +478,7 @@
       "endTime": null,
       "location": "John Dee, Oslo",
       "categories": [
-        "konsert",
-        "uteliv"
+        "konsert"
       ],
       "priceFrom": null,
       "currency": null,
@@ -563,14 +499,15 @@
       "endTime": null,
       "location": "Unity Arena, Fornebu",
       "categories": [
-        "teater"
+        "familie",
+        "barn"
       ],
       "priceFrom": null,
       "currency": null,
       "ticketUrl": "https://www.ticketmaster.no/event/hot-wheels-stunt-show-tickets/839719438?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/hot-wheels-stunt-show-tickets/839719438?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/a/d75/0453e4d0-2642-4d80-8fca-a94e7dd40d75_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "imageEmoji": "🎭",
+      "imageEmoji": "🎪",
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
@@ -663,13 +600,14 @@
     {
       "id": "tm-Z698xZb_Z16vfdA3fz",
       "title": "She Past Away",
-      "description": null,
+      "description": "Doors Open kl. 19.00. The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's Read the organizer's terms of purchase here. See www.rockefeller.no for the complete program.. Practical information about the concerts can be found here. The nearest transport hub is Storgata and/or Jernbanetorget. See ruter.no for more info.",
       "date": "2026-10-25",
       "time": "19:00",
       "endTime": null,
       "location": "John Dee, Oslo",
       "categories": [
-        "konsert"
+        "konsert",
+        "uteliv"
       ],
       "priceFrom": null,
       "currency": null,
@@ -712,8 +650,7 @@
       "endTime": null,
       "location": "John Dee, Oslo",
       "categories": [
-        "konsert",
-        "uteliv"
+        "konsert"
       ],
       "priceFrom": null,
       "currency": null,
@@ -861,8 +798,7 @@
       "endTime": null,
       "location": "Sentrum Scene, Oslo",
       "categories": [
-        "konsert",
-        "uteliv"
+        "konsert"
       ],
       "priceFrom": null,
       "currency": null,
@@ -924,7 +860,8 @@
       "endTime": null,
       "location": "John Dee, Oslo",
       "categories": [
-        "konsert"
+        "konsert",
+        "uteliv"
       ],
       "priceFrom": null,
       "currency": null,
@@ -978,12 +915,77 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kJ4qAPK",
+      "title": "Le Roi David",
+      "description": "Arthur Honegger (1892--1955) composed Le roi David in 1921 for a stage drama by René Morax. The work combines narrated text, soloists, choir, and instrumental ensemble in a form that lies somewhere between an oratorio and musical theatre. Its music brings together archaic elements, French modernism, and liturgically inspired choral writing, and the work has come to occupy an important place in the European sacred music repertoire. The story follows the biblical King David, from his youth as a shepherd and musician in the fields of Bethlehem to his reign as King of Israel. It is a narrative of triumph, doubt, and human vulnerability. In the Christian tradition, David is also associated with the authorship of several of the Psalms, making him a symbolic figure for church music, praise, and worship. Performers: Lydia Tjore Hoen, soprano Mathias Gillebo, tenor Bård Elias Nystøyl, alto Hulda Hein-Gutierrez, the witch Biskop Sunniva Gylver, narrator Stavanger Cathedral Boys Choir Trinity Girls Choir Oslo Cathedral Boys Choir Andreas Løken Taklo, piano Marcus André Berg, organ David Maiwald, organist and artistic director Accessibility: Dedicated wheelchair spaces are available in the south transept. Oslo Cathedral offers step-free access via a ramp and elevator. Please arrive at the main entrance, where our ushers will escort you to the wheelchair-accessible entrance. An accessible restroom is available near the main entrance. Companions may obtain a complimentary ticket. Please remember to bring a valid companion card/ID. If you have any questions, please contact the organizer, Oslo Cathedral Boys' Choir, at +47 930 43 232.",
+      "date": "2026-11-07",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Oslo domkirke, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/le-roi-david-tickets/995745953?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/le-roi-david-tickets/995745953?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/fda/30fbcb39-a217-4475-b87e-73d999e5afda_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kQ8Ogf8",
+      "title": "DON TOLIVER: NITROUS - OCTANE WORLD TOUR LEG 2",
+      "description": "Ticket Information: - Maximum 8 tickets per person. - Bottles, cans, and laser pointers are prohibited inside the concert area. Tickets will be available as mobile tickets (QR codes) via the Ticketmaster app and your user account well in advance of the concert (about 30 days). Learn more about delayed delivery of admission passes here. Wheelchair and companion seats are sold through Ticketmaster. For assistance, contact customer support here. Use public transportation to Unity Arena. Visit unityarena.no or ruter.no for travel options. For more details about the concert, artists, and entry times, visit unityarena.no or livenation.no. Schedule: - Box Office opens: 17:00 - Doors open: 18:00 General Information: The organizer reserves the right to deny entry to individuals who refuse personal inspection (this may include a body search and baggage check). See unityarena.no for details about prohibited items. Ejected individuals are not entitled to a ticket refund. There is no minimum age for the concert, but children under 15 must be accompanied by an adult (as per the Police Act in Bærum Municipality).",
+      "date": "2026-11-08",
+      "time": "18:00",
+      "endTime": null,
+      "location": "Unity Arena, Fornebu",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/don-toliver-nitrous-octane-world-tour-leg-2-tickets/690835510?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/don-toliver-nitrous-octane-world-tour-leg-2-tickets/690835510?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/4d1/d0bc76d6-02e3-4e46-96fc-658377e464d1_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vb3qSfV",
+      "title": "Beth Hart - flyttet fra 20.10.25 til 09.11.26",
+      "description": "Doors Open kl. 19.00. The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's Read the organizer's terms of purchase here. See www.rockefeller.no for the complete program.. Practical information about the concerts can be found here. The nearest transport hub is Storgata and/or Jernbanetorget. See ruter.no for more info.",
+      "date": "2026-11-09",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Sentrum Scene, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/beth-hart-flyttet-fra-201025-til-091126-tickets/1612773534?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/beth-hart-flyttet-fra-201025-til-091126-tickets/1612773534?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/0e5/ed161267-bfd8-444d-be9a-49e314d9c0e5_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 46,
-    "fetchedAt": "2026-10-09T11:39:06.322Z",
+    "fetchedAt": "2026-10-10T10:56:49.713Z",
     "sources": {
       "ticketmaster": 50,
       "scrape": 0

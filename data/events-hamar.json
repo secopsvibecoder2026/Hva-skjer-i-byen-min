@@ -1,27 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z16v_VZM_a",
-      "title": "Oktoberfest Hamar 2026 | FREDAG",
-      "description": "Fredag: Dørene åpner 1700 DJ Trang Fødsel 1830 Los Mexicanacas 2030 DJ Loveshack 2230",
-      "date": "2026-10-09",
-      "time": "17:00",
-      "endTime": null,
-      "location": "Vikingskipet, Hamar",
-      "categories": [
-        "konsert"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/oktoberfest-hamar-2026-%7C-fredag-tickets/1674037649?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/oktoberfest-hamar-2026-%7C-fredag-tickets/1674037649?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/8a1/009a2fad-1f03-40be-be1c-95337aaf88a1_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z16v_g4Ar7",
       "title": "Oktoberfest 2026 | HELGEPASS",
       "description": "Norges største Oktoberfest er tilbake! Aldersgrense : 20 Ledsager : Full pris Bevegelseshemmede : Ja Parkeringsmuligheter : Nei",
@@ -84,10 +63,10 @@
   ],
   "meta": {
     "city": "hamar",
-    "count": 4,
-    "fetchedAt": "2026-10-09T11:39:14.309Z",
+    "count": 3,
+    "fetchedAt": "2026-10-10T10:56:58.920Z",
     "sources": {
-      "ticketmaster": 4,
+      "ticketmaster": 3,
       "scrape": 0
     }
   }

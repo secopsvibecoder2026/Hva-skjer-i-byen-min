@@ -52,8 +52,7 @@
       "endTime": null,
       "location": "Bergen",
       "categories": [
-        "konsert",
-        "uteliv"
+        "konsert"
       ],
       "priceFrom": null,
       "currency": null,
@@ -96,7 +95,8 @@
       "endTime": null,
       "location": "Grieghallen, Griegsalen, Bergen",
       "categories": [
-        "konsert"
+        "konsert",
+        "uteliv"
       ],
       "priceFrom": null,
       "currency": null,
@@ -177,7 +177,7 @@
   "meta": {
     "city": "bergen",
     "count": 8,
-    "fetchedAt": "2026-10-09T11:39:05.629Z",
+    "fetchedAt": "2026-10-10T10:56:48.318Z",
     "sources": {
       "ticketmaster": 8,
       "scrape": 0

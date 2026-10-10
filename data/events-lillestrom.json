@@ -1,29 +1,10 @@
 {
   "events": [
     {
-      "id": "scrape-gen-stjernenatt-i-kulturkvartalene-2026-10-09",
-      "title": "Stjernenatt i Kulturkvartalene",
-      "description": "Gratis",
-      "date": "2026-10-09",
-      "time": null,
-      "endTime": null,
-      "location": "Lillestrøm",
-      "categories": [],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17624-stjernenatt-i-kulturkvartalene/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17624-stjernenatt-i-kulturkvartalene/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
-      "id": "scrape-gen-shrek-the-musical-2026-10-09",
+      "id": "scrape-gen-shrek-the-musical-2026-10-10",
       "title": "Shrek the musical",
-      "description": "9. okt. – 11. okt.\n4 forestillinger",
-      "date": "2026-10-09",
+      "description": "Få billetter igjen",
+      "date": "2026-10-10",
       "time": null,
       "endTime": null,
       "location": "Lillestrøm",
@@ -32,65 +13,6 @@
       "currency": null,
       "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16533-shrek-the-musical/",
       "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16533-shrek-the-musical/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
-      "id": "scrape-gen-teigens-tropper-med-anita-skorgan-2026-10-09",
-      "title": "Teigens tropper med Anita Skorgan",
-      "description": "Fredag 9. oktober\nkl. 19.00",
-      "date": "2026-10-09",
-      "time": null,
-      "endTime": null,
-      "location": "Lillestrøm",
-      "categories": [
-        "konsert"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17135-teigens-tropper-med-anita-skorgan/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17135-teigens-tropper-med-anita-skorgan/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
-      "id": "scrape-gen-halvor-johansson-det-er-lov-pr-ve-seg-2026-10-09",
-      "title": "Halvor Johansson – Det er lov å prøve seg",
-      "description": "Utsolgt",
-      "date": "2026-10-09",
-      "time": null,
-      "endTime": null,
-      "location": "Lillestrøm",
-      "categories": [],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17876-halvor-johansson-det-er-lov-a-prove-seg/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17876-halvor-johansson-det-er-lov-a-prove-seg/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
-      "id": "scrape-gen-live-writing-2026-10-09",
-      "title": "Live Writing",
-      "description": "Gratis",
-      "date": "2026-10-09",
-      "time": null,
-      "endTime": null,
-      "location": "Lillestrøm",
-      "categories": [],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/18006-live-writing/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/18006-live-writing/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -937,7 +859,7 @@
     {
       "id": "scrape-gen-the-magic-of-alexx-alexxander-2-0-2026-11-14",
       "title": "The Magic of Alexx Alexxander 2.0",
-      "description": "Lørdag 14. november\nkl. 19.00",
+      "description": "Få billetter igjen",
       "date": "2026-11-14",
       "time": null,
       "endTime": null,
@@ -2226,11 +2148,11 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 114,
-    "fetchedAt": "2026-10-09T11:39:18.372Z",
+    "count": 110,
+    "fetchedAt": "2026-10-10T10:57:03.049Z",
     "sources": {
       "ticketmaster": 0,
-      "scrape": 116
+      "scrape": 112
     }
   }
 }

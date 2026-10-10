@@ -1,6 +1,25 @@
 {
   "events": [
     {
+      "id": "tm-LvZ18QiQ_lT7K0VKgFWp0",
+      "title": "Rosa Sløyfe Mannekengoppvisning Kristiansand",
+      "description": null,
+      "date": "2026-10-26",
+      "time": "18:00",
+      "endTime": null,
+      "location": "Hotel Caledonien, Kristiansand S",
+      "categories": [],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.universe.com/events/rosa-sloyfe-mannekengoppvisning-kristiansand-tickets-38VYLM?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/rosa-sloyfe-mannekengoppvisning-kristiansand-tickets-38VYLM?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/c09/cbee274e-eb99-4431-bfb0-21dee7684c09_105321_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
       "id": "tm-Z698xZb_Z16vA3vUu-",
       "title": "KARPE (DIEM) - OVERTIME/OVERKILL (2000-2028)",
       "description": null,
@@ -47,10 +66,10 @@
   ],
   "meta": {
     "city": "kristiansand",
-    "count": 2,
-    "fetchedAt": "2026-10-09T11:39:09.285Z",
+    "count": 3,
+    "fetchedAt": "2026-10-10T10:56:53.222Z",
     "sources": {
-      "ticketmaster": 2,
+      "ticketmaster": 3,
       "scrape": 0
     }
   }
