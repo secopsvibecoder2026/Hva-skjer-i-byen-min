@@ -1,10 +1,10 @@
 {
   "events": [
     {
-      "id": "scrape-gen-shrek-the-musical-2026-10-10",
+      "id": "scrape-gen-shrek-the-musical-2026-10-11",
       "title": "Shrek the musical",
       "description": "Få billetter igjen",
-      "date": "2026-10-10",
+      "date": "2026-10-11",
       "time": null,
       "endTime": null,
       "location": "Lillestrøm",
@@ -13,25 +13,6 @@
       "currency": null,
       "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16533-shrek-the-musical/",
       "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16533-shrek-the-musical/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
-      "id": "scrape-gen-dolly-style-2026-10-10",
-      "title": "Dolly Style",
-      "description": "Utsolgt",
-      "date": "2026-10-10",
-      "time": null,
-      "endTime": null,
-      "location": "Lillestrøm",
-      "categories": [],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17932-dolly-style/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17932-dolly-style/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -2148,11 +2129,11 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 110,
-    "fetchedAt": "2026-10-10T10:57:03.049Z",
+    "count": 109,
+    "fetchedAt": "2026-10-11T11:12:40.060Z",
     "sources": {
       "ticketmaster": 0,
-      "scrape": 112
+      "scrape": 111
     }
   }
 }

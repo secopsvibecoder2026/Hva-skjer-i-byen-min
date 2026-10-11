@@ -1,44 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z16v_g4Ar7",
-      "title": "Oktoberfest 2026 | HELGEPASS",
-      "description": "Norges største Oktoberfest er tilbake! Aldersgrense : 20 Ledsager : Full pris Bevegelseshemmede : Ja Parkeringsmuligheter : Nei",
-      "date": "2026-10-10",
-      "time": "00:00",
-      "endTime": null,
-      "location": "Vikingskipet, Hamar",
-      "categories": [],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/oktoberfest-2026-%7C-helgepass-tickets/1675545784?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/oktoberfest-2026-%7C-helgepass-tickets/1675545784?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/994/c6fffa95-49d7-4268-8240-60765472d994_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16vqwjFa4",
-      "title": "Oktoberfest Hamar 2026 | LØRDAG",
-      "description": "Lørdag: Dørene åpner 1700 DJ Loveshack 1800 DJ Loveshack 1930-2030 Petter Katastrofe/Staysman (Tidspunkt kommer senere)",
-      "date": "2026-10-10",
-      "time": "17:00",
-      "endTime": null,
-      "location": "Vikingskipet, Hamar",
-      "categories": [],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/oktoberfest-hamar-2026-%7C-lrdag-tickets/1772708255?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/oktoberfest-hamar-2026-%7C-lrdag-tickets/1772708255?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/e52/069c1eb6-8805-47d6-adf4-33d01932ae52_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z16eZfOyoJ",
       "title": "Hamar Open Air",
       "description": null,
@@ -63,10 +25,10 @@
   ],
   "meta": {
     "city": "hamar",
-    "count": 3,
-    "fetchedAt": "2026-10-10T10:56:58.920Z",
+    "count": 1,
+    "fetchedAt": "2026-10-11T11:12:35.755Z",
     "sources": {
-      "ticketmaster": 3,
+      "ticketmaster": 1,
       "scrape": 0
     }
   }
