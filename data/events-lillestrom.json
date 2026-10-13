@@ -1,49 +1,9 @@
 {
   "events": [
     {
-      "id": "scrape-gen-shrek-the-musical-2026-10-11",
-      "title": "Shrek the musical",
-      "description": "Få billetter igjen",
-      "date": "2026-10-11",
-      "time": null,
-      "endTime": null,
-      "location": "Lillestrøm",
-      "categories": [],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16533-shrek-the-musical/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16533-shrek-the-musical/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
-      "id": "scrape-gen-mix-koret-jubileumskonsert-2026-10-11",
-      "title": "Mix Koret – Jubileumskonsert",
-      "description": "Søndag 11. oktober\nkl. 18.00",
-      "date": "2026-10-11",
-      "time": null,
-      "endTime": null,
-      "location": "Lillestrøm",
-      "categories": [
-        "konsert"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17649-mix-koret-jubileumskonsert/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17649-mix-koret-jubileumskonsert/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
       "id": "scrape-gen-slik-takler-du-idiotene-p-jobben-2-2026-10-13",
       "title": "Slik takler du idiotene på jobben! 2",
-      "description": "Tirsdag 13. oktober\nkl. 19.00",
+      "description": "Få billetter igjen",
       "date": "2026-10-13",
       "time": null,
       "endTime": null,
@@ -840,7 +800,7 @@
     {
       "id": "scrape-gen-the-magic-of-alexx-alexxander-2-0-2026-11-14",
       "title": "The Magic of Alexx Alexxander 2.0",
-      "description": "Få billetter igjen",
+      "description": "Lørdag 14. november\nkl. 19.00",
       "date": "2026-11-14",
       "time": null,
       "endTime": null,
@@ -1249,7 +1209,7 @@
     {
       "id": "scrape-gen-v-r-jul-2026-2026-12-04",
       "title": "Vår jul 2026",
-      "description": "Fre. 4. des.\n2 forestillinger",
+      "description": "Få billetter igjen",
       "date": "2026-12-04",
       "time": null,
       "endTime": null,
@@ -2129,11 +2089,11 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 109,
-    "fetchedAt": "2026-10-11T11:12:40.060Z",
+    "count": 107,
+    "fetchedAt": "2026-10-13T12:27:44.089Z",
     "sources": {
       "ticketmaster": 0,
-      "scrape": 111
+      "scrape": 109
     }
   }
 }
