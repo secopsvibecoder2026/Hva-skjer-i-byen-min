@@ -1,27 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z16vF8fKqy",
-      "title": "Storefri LIVE (18 år)",
-      "description": "The Storefri podcast is going on tour again! Once more, Mikkel and Herman are opening the doors to their podcast studio and inviting you into the wild Storefri universe --- in a city near you! All you need to do is grab a ticket and start preparing mentally. Because as Herman says: 'It's like a school trip to the Freia chocolate factory; full of impressions, fascinating, and you might come home a little tired of chocolate.' Boom boom taka boom --- we can't wait to see you at the show! Event start / showtime: 19:00 Doors open: 30 minutes prior Duration: 75 minutes Food & drinks: Kiosk Beer / Wine Age limit: 18 (more info: https://neuf.no/praktisk#aldersgrense-og-sikkerhet) Companion ticket: Same as regular price Wheelchair access: Yes Parking: Yes",
-      "date": "2026-10-13",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Chateau Neuf,Storsalen, Oslo",
-      "categories": [
-        "teater"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/storefri-live-18-ar--tickets/1210513779?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/storefri-live-18-ar--tickets/1210513779?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/c09/45a43f18-a3c7-4e74-8669-67665083ac09_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎭",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z1kfE89oS",
       "title": "Pumpegris",
       "description": "Doors Open kl. 19.00. The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's Read the organizer's terms of purchase here. See www.rockefeller.no for the complete program.. Practical information about the concerts can be found here. The nearest transport hub is Storgata and/or Jernbanetorget. See ruter.no for more info.",
@@ -1006,12 +985,55 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18QEE7nHvatzixnMhG",
+      "title": "Avind // Parksalongen",
+      "description": null,
+      "date": "2026-11-14",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.universe.com/events/avind-parksalongen-tickets-08FHLY?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/avind-parksalongen-tickets-08FHLY?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kC6fZoe",
+      "title": "Fri Da Tarab",
+      "description": "Fri Da Tarab is a night of Arabic song. Frida Marida and Ahmad Alak take the old tarab classics and today's Arab pop, and set them beside international songs everyone already knows --- reworked with a Middle Eastern twist. Two hours, acoustic, with Ashuri on guitar. Familiar melodies in unfamiliar colours, and a room that sings along whether or not it knows the words. Event start time / concert start time : 20:00 Doors open : 60 min før Length : 60 min Catering:: Beer / Wine Age limit : 18 Companion ticket : If you hold a companion certificate, you are eligible for a companion ticket. To request a companion ticket, please email billett@oslonye.no. A valid companion certificate must be presented upon arrival at the performance. Wheelchair access: No Parking available: No Organizer's website",
+      "date": "2026-11-14",
+      "time": "20:00",
+      "endTime": null,
+      "location": "Oslo Nye Teaterkjelleren, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/fri-da-tarab-tickets/387500442?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/fri-da-tarab-tickets/387500442?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/1f1/2b1deed2-fb15-4b51-8e22-d727c62701f1_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
-    "count": 47,
-    "fetchedAt": "2026-10-13T12:27:30.242Z",
+    "count": 48,
+    "fetchedAt": "2026-10-14T09:54:59.528Z",
     "sources": {
       "ticketmaster": 50,
       "scrape": 0
