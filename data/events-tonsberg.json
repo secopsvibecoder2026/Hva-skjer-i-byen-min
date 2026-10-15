@@ -178,7 +178,8 @@
       "endTime": null,
       "location": "Tønsberg",
       "categories": [
-        "konsert"
+        "konsert",
+        "uteliv"
       ],
       "priceFrom": null,
       "currency": null,
@@ -278,28 +279,6 @@
       "source": "ticketmaster"
     },
     {
-      "id": "tm-Z698xZb_Z16vop044z",
-      "title": "Day pass saturday without natten - Slottsfjell 2027",
-      "description": "Slottsfjell is a rock- and pop festival located at Slottsfjellet in Tønsberg where stages and public areas is constructed amongst the ruins of the medieval fortress Tunsberghus on Slottsfjellet and the surrounding area. There are also concerts in other venues in the city. This festival pass is ONLY for those over 18 years - valid ID required! HC Companion is free if valid escort certificate can be presented at the entrance. The gates open at. 13:00 every day. For more information about artist announcments, program and practical information, see Slottsfjell's homepage og facebookpage. Also, check the mood of previous festivals on their YouTube channel.",
-      "date": "2027-07-03",
-      "time": "13:00",
-      "endTime": null,
-      "location": "Tønsberg",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/day-pass-saturday-without-natten-slottsfjell-2027-tickets/1456915578?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/day-pass-saturday-without-natten-slottsfjell-2027-tickets/1456915578?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z1kG784bZ",
       "title": "Day pass Saturday with natten - Slottsfjell 2027",
       "description": "Slottsfjell is a rock- and pop festival located at Slottsfjellet in Tønsberg where stages and public areas is constructed amongst the ruins of the medieval fortress Tunsberghus on Slottsfjellet and the surrounding area. There are also concerts in other venues in the city. This festival pass is ONLY for those over 18 years - valid ID required! HC Companion is free if valid escort certificate can be presented at the entrance. The gates open at. 13:00 every day. For more information about artist announcments, program and practical information, see Slottsfjell's homepage og facebookpage. Also, check the mood of previous festivals on their YouTube channel.",
@@ -314,6 +293,27 @@
       "currency": null,
       "ticketUrl": "https://www.ticketmaster.no/event/day-pass-saturday-with-natten-slottsfjell-2027-tickets/304415600?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/day-pass-saturday-with-natten-slottsfjell-2027-tickets/304415600?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vop044z",
+      "title": "Day pass saturday without natten - Slottsfjell 2027",
+      "description": "Slottsfjell is a rock- and pop festival located at Slottsfjellet in Tønsberg where stages and public areas is constructed amongst the ruins of the medieval fortress Tunsberghus on Slottsfjellet and the surrounding area. There are also concerts in other venues in the city. This festival pass is ONLY for those over 18 years - valid ID required! HC Companion is free if valid escort certificate can be presented at the entrance. The gates open at. 13:00 every day. For more information about artist announcments, program and practical information, see Slottsfjell's homepage og facebookpage. Also, check the mood of previous festivals on their YouTube channel.",
+      "date": "2027-07-03",
+      "time": "13:01",
+      "endTime": null,
+      "location": "Tønsberg",
+      "categories": [
+        "konsert"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/day-pass-saturday-without-natten-slottsfjell-2027-tickets/1456915578?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/day-pass-saturday-without-natten-slottsfjell-2027-tickets/1456915578?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_RETINA_PORTRAIT_16_9.jpg",
       "imageEmoji": "🎵",
       "sponsored": false,
@@ -386,7 +386,7 @@
   "meta": {
     "city": "tonsberg",
     "count": 18,
-    "fetchedAt": "2026-10-14T09:55:11.648Z",
+    "fetchedAt": "2026-10-15T09:36:44.720Z",
     "sources": {
       "ticketmaster": 18,
       "scrape": 0

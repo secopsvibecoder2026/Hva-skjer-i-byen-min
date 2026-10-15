@@ -1,6 +1,28 @@
 {
   "events": [
     {
+      "id": "tm-Z698xZb_Z1k39PwFt",
+      "title": "Ålesund Live | Upgrade from Day Pass to Festival Pass",
+      "description": "This ticket is an upgrade and is only valid together with a day pass. Both tickets will need to be shown together at the entrance of the festival. You are paying the price difference and the ticket is therefore, not valid on its own.",
+      "date": "2027-06-18",
+      "time": "00:00",
+      "endTime": null,
+      "location": "Skutvika Havn, Ålesund",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/alesund-live-%7C-upgrade-from-day-pass-to-festival-pass-tickets/497972229?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/alesund-live-%7C-upgrade-from-day-pass-to-festival-pass-tickets/497972229?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/be6/c12188a9-5f80-4daf-8975-6bb6edb06be6_TABLET_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
       "id": "tm-Z698xZb_Z1kuPGvuk",
       "title": "Ålesund Live | Friday Pass",
       "description": null,
@@ -46,10 +68,10 @@
   ],
   "meta": {
     "city": "alesund",
-    "count": 2,
-    "fetchedAt": "2026-10-14T09:55:04.939Z",
+    "count": 3,
+    "fetchedAt": "2026-10-15T09:36:34.938Z",
     "sources": {
-      "ticketmaster": 2,
+      "ticketmaster": 3,
       "scrape": 0
     }
   }

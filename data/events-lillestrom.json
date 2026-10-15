@@ -1,25 +1,6 @@
 {
   "events": [
     {
-      "id": "scrape-gen-rundt-et-flygel-the-golden-age-of-saxoph-2026-10-14",
-      "title": "Rundt et flygel – The Golden Age of Saxophone",
-      "description": "Onsdag 14. oktober\nkl. 19.00",
-      "date": "2026-10-14",
-      "time": null,
-      "endTime": null,
-      "location": "Lillestrøm",
-      "categories": [],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16646-rundt-et-flygel-the-golden-age-of-saxophone/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16646-rundt-et-flygel-the-golden-age-of-saxophone/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
       "id": "scrape-gen-kulturkaf-leonard-cohen-the-flame-2026-10-15",
       "title": "Kulturkafé – Leonard Cohen: The Flame",
       "description": "Torsdag 15. oktober\nkl. 12.00",
@@ -102,7 +83,7 @@
     {
       "id": "scrape-gen-karius-og-baktus-2026-10-18",
       "title": "Karius og Baktus",
-      "description": "Søndag 18. oktober\nkl. 13.00",
+      "description": "Få billetter igjen",
       "date": "2026-10-18",
       "time": null,
       "endTime": null,
@@ -2089,11 +2070,11 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 107,
-    "fetchedAt": "2026-10-14T09:55:10.593Z",
+    "count": 106,
+    "fetchedAt": "2026-10-15T09:36:42.953Z",
     "sources": {
       "ticketmaster": 0,
-      "scrape": 109
+      "scrape": 108
     }
   }
 }
