@@ -1,44 +1,6 @@
 {
   "events": [
     {
-      "id": "scrape-gen-kulturkaf-leonard-cohen-the-flame-2026-10-15",
-      "title": "Kulturkafé – Leonard Cohen: The Flame",
-      "description": "Torsdag 15. oktober\nkl. 12.00",
-      "date": "2026-10-15",
-      "time": null,
-      "endTime": null,
-      "location": "Lillestrøm",
-      "categories": [],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16638-kulturkafe-leonard-cohen-the-flame/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16638-kulturkafe-leonard-cohen-the-flame/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
-      "id": "scrape-gen-det-betales-2026-10-15",
-      "title": "Det Betales",
-      "description": "Torsdag 15. oktober\nkl. 19.00",
-      "date": "2026-10-15",
-      "time": null,
-      "endTime": null,
-      "location": "Lillestrøm",
-      "categories": [],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17458-det-betales/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17458-det-betales/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
       "id": "scrape-gen-lillestr-m-storbandfestival-2026-10-16",
       "title": "Lillestrøm Storbandfestival",
       "description": "16. okt. – 17. okt.\n2 forestillinger",
@@ -1695,6 +1657,25 @@
       "source": "scrape"
     },
     {
+      "id": "scrape-gen-generalpr-ve-peter-pan-et-musikalsk-even-2027-02-03",
+      "title": "Generalprøve Peter Pan – Et musikalsk eventyr!",
+      "description": "Onsdag 3. februar 2027\nkl. 18.00",
+      "date": "2027-02-03",
+      "time": null,
+      "endTime": null,
+      "location": "Lillestrøm",
+      "categories": [],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/18355-generalprove-peter-pan-et-musikalsk-eventyr/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/18355-generalprove-peter-pan-et-musikalsk-eventyr/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
       "id": "scrape-gen-guttejente-2027-02-04",
       "title": "Guttejente",
       "description": "Torsdag 4. februar 2027\nkl. 19.00",
@@ -2070,8 +2051,8 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 106,
-    "fetchedAt": "2026-10-15T09:36:42.953Z",
+    "count": 105,
+    "fetchedAt": "2026-10-16T09:29:44.657Z",
     "sources": {
       "ticketmaster": 0,
       "scrape": 108

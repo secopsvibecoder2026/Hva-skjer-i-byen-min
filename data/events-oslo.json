@@ -1,27 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z1kfE89oS",
-      "title": "Pumpegris",
-      "description": "Doors Open kl. 19.00. The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's Read the organizer's terms of purchase here. See www.rockefeller.no for the complete program.. Practical information about the concerts can be found here. The nearest transport hub is Storgata and/or Jernbanetorget. See ruter.no for more info.",
-      "date": "2026-10-15",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Rockefeller, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/pumpegris-tickets/527417473?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/pumpegris-tickets/527417473?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/a5a/ebc4704f-b0f8-4129-a2b7-b6f445ba1a5a_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-LvZ18QIq92UxSuZ2BteRf",
       "title": "Oslo Negativ 2026",
       "description": null,
@@ -1028,12 +1007,33 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16ve83ovU",
+      "title": "Nøtteknekkeren – klassisk julbalett med strykekvartett",
+      "description": "World-class performance by Etoile Production. The world-famous ballet Nutcracker performed by Ukrainian ballet stars will be a magical Christmas gift for the whole family! A beautiful fairy tale about the adventures of young Clara and the Nutcracker Prince, full of exciting stories, was transformed by Pyotr Tchaikovsky in 1892 into the world's most popular classical ballet. Today, the Nutcracker has become a global Christmas tradition, and this performance is staged annually on theater and opera stages around the world. The universal language of dance is understood without translation by any audience - the stage will present a coming-of-age story about children, revealing a young girl's fragile dream and the struggle between good and evil, where love ultimately triumphs. Dancing snowflakes, the Nutcracker Prince, toy soldiers and the Sugar Plum Fairy come to life in this magical family classic. Experience a wonderful adventure with the little girl Clara, who falls asleep on Christmas Eve. She meets her prince, faces a battle against enormous mice and rats, and is transported to the lush Sugar Land. The story is much more than just a Christmas fairy tale. It is a tale of growing up, which is also reflected in the dance. Now is the time to immerse yourself in this magical world, forget about worries and stress, remember childhood dreams and fill your soul with inspiration, warmth and new dreams. The perfect ballet for children The Nutcracker is an ideal ballet for children to experience for the first time. If you are going to the ballet with a child, we recommend reading Hoffman's Nutcracker and The Musketeer together. You can also read the libretto at https://www.kulturforfolket.com/performance/the-nutcracker, where you will find descriptions of each ballet scene that can help you answer your child's questions. In addition, this ballet will bring a sense of wonder and beauty to both young and adult audience members, filling everyone with the Christmas spirit! Authentic Classical Ballet The performance of Marius Petipa's classical choreography is performed by Etoile Production -- a company organized in Kyiv by soloists of the Kharkiv Opera and Ballet Theatre of Ukraine, Irina and Anatoly Khandazhevsky. The performers include professional ballet dancers of the highest level -- winners of international ballet competitions, Honored Artists of Ukraine, soloists of Ukrainian, and from February 2022, European theatres. The company uses authentic, handmade theatre costumes and decor in its productions. The costumes are real professional ballet costumes, carefully designed so that they do not constrain the dancers' movements and allow them to fully demonstrate their skill on stage. A professional theatre lighting designer accompanies the ballet performance and creates an unforgettable atmosphere during the show. There are no cheap decorations or flashy decorations -- only true high art of professional theatre performance. The ballet is accompanied live by a string quartet, which gives the performance an intimate and warm Christmas atmosphere. The quartet performs on stage as part of the production and plays during key scenes, creating a close connection between music and dance. In addition, the performance uses a high-quality recording of the Kharkiv Opera Orchestra, which is combined with the live quartet to support the action on stage. This is a unique opportunity to see real classical ballet of the highest level, performed by world ballet stars, with live music on stage. Ballet soloists: Irina Khandazhevskaya, prima ballerina, Honored Artist of Ukraine, soloist of the Kharkiv Opera and Ballet Theater, choreographer, diploma winner of the International Ballet Competition \"Premio Roma\". Honorary Prize \"People's Recognition 2010\" in the artist category. Awarded the \"P. Virsky Prize\" in the choreography category in 2007. @irinakhandazhevskaya Anatoly Khandazhevsky, soloist of the Kharkiv Opera and Ballet Theater (Ukraine), choreographer, 2nd prize winner of the international competition in Tallinn. @anatoliikhandazhevskii Maria Shupilova, soloist of the Kyiv Opera. @shupilova_maria Kristina Kadashevich, first soloist of the Kharkiv Opera and Ballet Theatre, laureate of international ballet competitions. Katerina Andrenko, soloist of the Odessa National Opera, Hamburg Chamber Ballet, Opera Poznan. @andrenko_kate Dmitry Lazovik, soloist of the Belarusian State Academic Musical Theatre, laureate of international ballet competitions. Vsevolod Maievskyi, soloist of the Dutch National Ballet, former soloist of the English National Ballet, Ukrainian-born former dancer of the Mariinsky Ballet. @vsevolod_maievskyi Larisa Hrytsay, soloist of the Kharkiv Opera and Ballet Theatre (Ukraine), soloist of the Odessa National Opera. @lorikeets89 Audience feedback: Birgitta: A wonderful break from everyday life! Beautiful costumes, skillful dancing, beautiful music and everything took me to a dream world for a while. Ami: Fantastic! The Grand Pas de deux was so beautiful that I started to cry! Ingrid: Fantastically beautiful dance and music, and beautiful costumes! The tour is presented by the Norwegian organization Kultur for Folket, a company focused on delivering high-quality cultural events. More information about the ballet and the artists can be found on the website https://www.kulturforfolket.com. Event time/concert start: 18:00 Doors open: 30 min before Duration: 130 min Serving: Kiosk Beer / Wine Age limit: No age limit Wheelchair/companion. Dedicated spaces for wheelchairs and companions for wheelchair users at the back of field A/F. Companions pay regular price. For Group bookings, fill out this form: Group sales",
+      "date": "2026-11-15",
+      "time": "18:00",
+      "endTime": null,
+      "location": "Chateau Neuf,Storsalen, Oslo",
+      "categories": [
+        "teater"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/notteknekkeren--klassisk-julbalett-med-strykekvartett-tickets/1090491076?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/notteknekkeren--klassisk-julbalett-med-strykekvartett-tickets/1090491076?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/b24/affced5a-a655-456e-a7f8-8ea6255acb24_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎭",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 48,
-    "fetchedAt": "2026-10-15T09:36:27.705Z",
+    "fetchedAt": "2026-10-16T09:29:29.653Z",
     "sources": {
       "ticketmaster": 50,
       "scrape": 0
