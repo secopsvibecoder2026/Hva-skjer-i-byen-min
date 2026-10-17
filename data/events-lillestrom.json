@@ -1,10 +1,10 @@
 {
   "events": [
     {
-      "id": "scrape-gen-lillestr-m-storbandfestival-2026-10-16",
+      "id": "scrape-gen-lillestr-m-storbandfestival-2026-10-17",
       "title": "Lillestrøm Storbandfestival",
-      "description": "16. okt. – 17. okt.\n2 forestillinger",
-      "date": "2026-10-16",
+      "description": "Lørdag 17. oktober\nkl. 17.00",
+      "date": "2026-10-17",
       "time": null,
       "endTime": null,
       "location": "Lillestrøm",
@@ -15,27 +15,6 @@
       "currency": null,
       "ticketUrl": "https://www.lillestrom-kultursenter.no/program/15586-lillestrom-storbandfestival/",
       "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/15586-lillestrom-storbandfestival/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
-      "id": "scrape-gen-kristian-valen-bare-visvas-2026-10-16",
-      "title": "Kristian Valen – Bare VisVas",
-      "description": "Fre. 16. okt.\n2 forestillinger",
-      "date": "2026-10-16",
-      "time": null,
-      "endTime": null,
-      "location": "Lillestrøm",
-      "categories": [
-        "uteliv"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17388-kristian-valen-bare-visvas/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17388-kristian-valen-bare-visvas/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -456,7 +435,7 @@
     {
       "id": "scrape-gen-bj-rnov-tar-det-piano-2026-11-05",
       "title": "Bjørnov tar det piano",
-      "description": "Torsdag 5. november\nkl. 19.00",
+      "description": "Få billetter igjen",
       "date": "2026-11-05",
       "time": null,
       "endTime": null,
@@ -561,6 +540,27 @@
       "currency": null,
       "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17288-dansedrommer-med-norsk-ballettinstitutt/",
       "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17288-dansedrommer-med-norsk-ballettinstitutt/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-lillestr-m-skolekorps-inviterer-n-billet-2026-11-08",
+      "title": "Lillestrøm skolekorps inviterer: Én billett – to konserter",
+      "description": "Søndag 8. november\nkl. 14.00",
+      "date": "2026-11-08",
+      "time": null,
+      "endTime": null,
+      "location": "Lillestrøm",
+      "categories": [
+        "konsert"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17056-lillestrom-skolekorps-inviterer-en-billett-to-konserter/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17056-lillestrom-skolekorps-inviterer-en-billett-to-konserter/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -753,6 +753,25 @@
       "currency": null,
       "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17683-solokveld-med-norsk-ballettinstitutt/",
       "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17683-solokveld-med-norsk-ballettinstitutt/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-testshow-med-martin-lepper-d-og-henrik-f-2026-11-17",
+      "title": "Testshow med Martin Lepperød og Henrik Fladseth",
+      "description": "Tirsdag 17. november\nkl. 19.00",
+      "date": "2026-11-17",
+      "time": null,
+      "endTime": null,
+      "location": "Lillestrøm",
+      "categories": [],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/18348-testshow-med-martin-lepperod-og-henrik-fladseth/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/18348-testshow-med-martin-lepperod-og-henrik-fladseth/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -1036,7 +1055,7 @@
     {
       "id": "scrape-gen-ylvis-calle-et-juleshow-2026-11-28",
       "title": "Ylvis & Calle – Et juleshow",
-      "description": "Lørdag 28. november\nkl. 19.00",
+      "description": "Få billetter igjen",
       "date": "2026-11-28",
       "time": null,
       "endTime": null,
@@ -1171,7 +1190,7 @@
     {
       "id": "scrape-gen-avantgarde-med-espen-abrahamsen-2026-12-04",
       "title": "Avantgarde med Espen Abrahamsen",
-      "description": "Fre. 4. des.\n2 forestillinger",
+      "description": "Få billetter igjen",
       "date": "2026-12-04",
       "time": null,
       "endTime": null,
@@ -2051,11 +2070,11 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 105,
-    "fetchedAt": "2026-10-16T09:29:44.657Z",
+    "count": 106,
+    "fetchedAt": "2026-10-17T09:00:35.179Z",
     "sources": {
       "ticketmaster": 0,
-      "scrape": 108
+      "scrape": 109
     }
   }
 }
