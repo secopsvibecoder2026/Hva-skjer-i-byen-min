@@ -1,27 +1,6 @@
 {
   "events": [
     {
-      "id": "scrape-gen-lillestr-m-storbandfestival-2026-10-17",
-      "title": "Lillestrøm Storbandfestival",
-      "description": "Lørdag 17. oktober\nkl. 17.00",
-      "date": "2026-10-17",
-      "time": null,
-      "endTime": null,
-      "location": "Lillestrøm",
-      "categories": [
-        "konsert"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/15586-lillestrom-storbandfestival/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/15586-lillestrom-storbandfestival/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
       "id": "scrape-gen-karius-og-baktus-2026-10-18",
       "title": "Karius og Baktus",
       "description": "Få billetter igjen",
@@ -2070,11 +2049,11 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 106,
-    "fetchedAt": "2026-10-17T09:00:35.179Z",
+    "count": 105,
+    "fetchedAt": "2026-10-18T09:19:41.564Z",
     "sources": {
       "ticketmaster": 0,
-      "scrape": 109
+      "scrape": 108
     }
   }
 }
