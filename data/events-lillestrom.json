@@ -1,25 +1,6 @@
 {
   "events": [
     {
-      "id": "scrape-gen-karius-og-baktus-2026-10-18",
-      "title": "Karius og Baktus",
-      "description": "Få billetter igjen",
-      "date": "2026-10-18",
-      "time": null,
-      "endTime": null,
-      "location": "Lillestrøm",
-      "categories": [],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17330-karius-og-baktus/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17330-karius-og-baktus/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
       "id": "scrape-gen-en-musikalsk-reise-gjennom-verdensrommet-2026-10-19",
       "title": "En musikalsk reise gjennom verdensrommet",
       "description": "Mandag 19. oktober\nkl. 19.00",
@@ -161,7 +142,7 @@
     {
       "id": "scrape-gen-one-night-only-2026-10-27",
       "title": "One Night Only",
-      "description": "Få billetter igjen",
+      "description": "Utsolgt",
       "date": "2026-10-27",
       "time": null,
       "endTime": null,
@@ -1150,7 +1131,7 @@
     {
       "id": "scrape-gen-v-r-jul-2026-2026-12-04",
       "title": "Vår jul 2026",
-      "description": "Få billetter igjen",
+      "description": "Fre. 4. des.\n3 forestillinger",
       "date": "2026-12-04",
       "time": null,
       "endTime": null,
@@ -2049,11 +2030,11 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 105,
-    "fetchedAt": "2026-10-18T09:19:41.564Z",
+    "count": 104,
+    "fetchedAt": "2026-10-19T10:30:31.192Z",
     "sources": {
       "ticketmaster": 0,
-      "scrape": 108
+      "scrape": 107
     }
   }
 }
