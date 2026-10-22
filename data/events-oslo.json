@@ -1,28 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z1kjsFIJ4",
-      "title": "Hanne Boel med band",
-      "description": "Doors Open kl. 19.00. The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's Read the organizer's terms of purchase here. See www.rockefeller.no for the complete program.. Practical information about the concerts can be found here. The nearest transport hub is Storgata and/or Jernbanetorget. See ruter.no for more info.",
-      "date": "2026-10-21",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Sentrum Scene, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/hanne-boel-med-band-tickets/731228995?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/hanne-boel-med-band-tickets/731228995?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/a15/be012f2b-1c28-4a02-bca3-137cdaef4a15_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z1k00GyoP",
       "title": "Placebo - 30th Anniversary Tour",
       "description": null,
@@ -179,15 +157,14 @@
       "endTime": null,
       "location": "Unity Arena, Fornebu",
       "categories": [
-        "familie",
-        "barn"
+        "teater"
       ],
       "priceFrom": null,
       "currency": null,
       "ticketUrl": "https://www.ticketmaster.no/event/hot-wheels-stunt-show-tickets/37983302?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/hot-wheels-stunt-show-tickets/37983302?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/a/d75/0453e4d0-2642-4d80-8fca-a94e7dd40d75_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "imageEmoji": "🎪",
+      "imageEmoji": "🎭",
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
@@ -1030,6 +1007,28 @@
       "source": "ticketmaster"
     },
     {
+      "id": "tm-Z698xZb_Z1kaS_3jx",
+      "title": "Det Norske Kammerorkester // Amnesty og Kammerorkesteret",
+      "description": "Gjennom 2026 har Det Norske Kammerorkester hatt et tett samarbeid med Amnesty International Norge. Gjennom ulike konserter har orkesteret løftet frem temaer fra Amnestys arbeid med menneskerettigheter. Denne kvelden er viet samarbeidet i sin helhet. Med inspirasjon fra den klassiske symfonien er konserten bygget opp i fire deler, som til sammen danner en musikalsk bevegelse. Vi begynner med å tegne opp et landskap. Deretter følger en roligere del, der vi kommer tettere på det menneskelige. Så åpner det seg igjen, med mer bevegelse og energi. Til slutt peker musikken fremover -- mot handling og håp. Med et særlig fokus på kvinners rettigheter denne kvelden, er det naturlig å la stemmene til Katarina Barruk og Ghawgha Taban bære mye av det vi ønsker å formidle. Program J. S. Bach / Max Reger - O Mensch, bewein dein Sünde gross Erkki-Sven Tüür - Action for string orchestra Ghawgha - Man Kabulam Boat Sing for me Franz Schubert - Fra Døden og piken, op. 7 no. 3 Missy Mazzoli - Vespers for Violin Arvo Pärt - Fratres for violin, strings and percussion Sanger av Katarina Barruk Medvirkende Pekka Kuusisto, kunstnerisk leder Katarina Barruk, vokal Ghawgha, vokal",
+      "date": "2026-11-26",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Kulturkirken Jakob, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/det-norske-kammerorkester-amnesty-og-kammerorkesteret-tickets/273652722?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/det-norske-kammerorkester-amnesty-og-kammerorkesteret-tickets/273652722?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/151/86c45ee2-91a9-4d0e-991d-74d0d3ef1151_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
       "id": "tm-Z698xZb_Z16v38kfe3",
       "title": "beabadoobee: The Powerlines Tour",
       "description": null,
@@ -1054,7 +1053,7 @@
   "meta": {
     "city": "oslo",
     "count": 49,
-    "fetchedAt": "2026-10-21T09:49:04.711Z",
+    "fetchedAt": "2026-10-22T09:50:09.144Z",
     "sources": {
       "ticketmaster": 50,
       "scrape": 0

@@ -123,7 +123,7 @@
     {
       "id": "scrape-gen-one-night-only-2026-10-27",
       "title": "One Night Only",
-      "description": "Utsolgt",
+      "description": "Få billetter igjen",
       "date": "2026-10-27",
       "time": null,
       "endTime": null,
@@ -1247,6 +1247,27 @@
       "source": "scrape"
     },
     {
+      "id": "scrape-gen-sven-ingvars-jubileumskonsert-2026-12-10",
+      "title": "Sven Ingvars jubileumskonsert",
+      "description": "Torsdag 10. desember\nkl. 19.00",
+      "date": "2026-12-10",
+      "time": null,
+      "endTime": null,
+      "location": "Lillestrøm",
+      "categories": [
+        "konsert"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/18347-sven-ingvars-jubileumskonsert/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/18347-sven-ingvars-jubileumskonsert/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
       "id": "scrape-gen-nils-ingar-aadne-tenk-det-2026-12-11",
       "title": "Nils-Ingar Aadne – Tenk det",
       "description": "Fredag 11. desember\nkl. 19.00",
@@ -2005,6 +2026,27 @@
       "source": "scrape"
     },
     {
+      "id": "scrape-gen-fredskonsert-med-sangkoret-yeren-2027-05-23",
+      "title": "Fredskonsert med Sangkoret Øyeren",
+      "description": "Søndag 23. mai 2027\nkl. 18.00",
+      "date": "2027-05-23",
+      "time": null,
+      "endTime": null,
+      "location": "Lillestrøm",
+      "categories": [
+        "konsert"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17902-fredskonsert-med-sangkoret-oyeren/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17902-fredskonsert-med-sangkoret-oyeren/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
       "id": "scrape-gen-keep-it-country-concert-2027-10-17",
       "title": "Keep It Country Concert",
       "description": "Søndag 17. oktober 2027\nkl. 19.00",
@@ -2049,11 +2091,11 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 105,
-    "fetchedAt": "2026-10-21T09:49:18.506Z",
+    "count": 107,
+    "fetchedAt": "2026-10-22T09:50:20.001Z",
     "sources": {
       "ticketmaster": 0,
-      "scrape": 108
+      "scrape": 110
     }
   }
 }
