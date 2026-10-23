@@ -1,27 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z1k00GyoP",
-      "title": "Placebo - 30th Anniversary Tour",
-      "description": null,
-      "date": "2026-10-22",
-      "time": "00:00",
-      "endTime": null,
-      "location": "Oslo Spektrum, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/placebo-30th-anniversary-tour-tickets/924339465?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/placebo-30th-anniversary-tour-tickets/924339465?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/203/9d67080c-201e-4beb-aa89-dbc166980203_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-LvZ18QIq92UxSuZ2BteR4",
       "title": "Oslo Negativ 2026",
       "description": null,
@@ -38,6 +17,50 @@
       "affiliateUrl": "https://www.universe.com/events/oslo-negativ-2026-tickets-NK1SGH?ref=ticketmaster&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/a/99a/17bf547c-c64a-4395-84c2-f69dcdda699a_RETINA_PORTRAIT_16_9.jpg",
       "imageEmoji": "🎭",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vod_aop",
+      "title": "HØSTSABBAT 2026 (FESTIVAL PASS)",
+      "description": "Høstsabbat once again returns to the Church of Riffs the 23rd and 24th of October. The Oslo boutique festival which mixes the best of every crushing genre. The Church of Riffs, the Crypt, and our new venue Kafé Hærverk, will once again be laid to waste. Kicking of with the first wave of bands, mixing stonermetal, doom, psych, punk and hardcore. NO: Høstsabbat er tilbake i år igjen, 23 og 24 Oktober i the Church of Riffs! Boutique festivalen som samler det beste fra de hardeste sjangerne. Veggene vil riste i the Church of Riffs, Krypten og vår nye venue Kafé Hærverk. Vi sparker igang annonseringene med første bølge av band, med stonermetal, doom, psych, punk og hardcore! Ingen vergeordning: Det er ikke mulig for de under 18 år å komme inn med verge på Høstsabbat.",
+      "date": "2026-10-23",
+      "time": "15:30",
+      "endTime": null,
+      "location": "Kulturkirken Jakob, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/hstsabbat-2026-festival-pass--tickets/1443649456?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/hstsabbat-2026-festival-pass--tickets/1443649456?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/877/8fc939a5-2adc-481d-adde-3a21a47ae877_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1krFafv0",
+      "title": "HØSTSABBAT 2026 (FRIDAY)",
+      "description": "Høstsabbat once again returns to the Church of Riffs the 23rd and 24th of October. The Oslo boutique festival which mixes the best of every crushing genre. The Church of Riffs, the Crypt, and our new venue Kafé Hærverk, will once again be laid to waste. Kicking of with the first wave of bands, mixing stonermetal, doom, psych, punk and hardcore. This ticket is for friday only. NO: Høstsabbat er tilbake i år igjen, 23 og 24 Oktober i the Church of Riffs! Boutique festivalen som samler det beste fra de hardeste sjangerne. Veggene vil riste i the Church of Riffs, Krypten og vår nye venue Kafé Hærverk. Vi sparker igang annonseringene med første bølge av band, med stonermetal, doom, psych, punk og hardcore! Denne billetten er dagspass for fredag. Ingen vergeordning: Det er ikke mulig for de under 18 år å komme inn med verge på Høstsabbat.",
+      "date": "2026-10-23",
+      "time": "15:30",
+      "endTime": null,
+      "location": "Kulturkirken Jakob, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/hstsabbat-2026-friday--tickets/788254064?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/hstsabbat-2026-friday--tickets/788254064?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/15c/6273a1cb-21e2-4246-bf2c-7592e311215c_SOURCE",
+      "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
@@ -123,6 +146,28 @@
       "affiliateUrl": "https://www.universe.com/events/oslo-negativ-2026-tickets-NK1SGH?ref=ticketmaster&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/a/99a/17bf547c-c64a-4395-84c2-f69dcdda699a_RETINA_PORTRAIT_16_9.jpg",
       "imageEmoji": "🎭",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kj_PA7p",
+      "title": "HØSTSABBAT 2026 (SATURDAY)",
+      "description": "Høstsabbat once again returns to the Church of Riffs the 23rd and 24th of October. The Oslo boutique festival which mixes the best of every crushing genre. The Church of Riffs, the Crypt, and our new venue Kafé Hærverk, will once again be laid to waste. Kicking of with the first wave of bands, mixing stonermetal, doom, psych, punk and hardcore. This ticket is for saturday only. NO: Høstsabbat er tilbake i år igjen, 23 og 24 Oktober i the Church of Riffs! Boutique festivalen som samler det beste fra de hardeste sjangerne. Veggene vil riste i the Church of Riffs, Krypten og vår nye venue Kafé Hærverk. Vi sparker igang annonseringene med første bølge av band, med stonermetal, doom, psych, punk og hardcore! Denne billetten er dagspass for lørdag. Ingen vergeordning: Det er ikke mulig for de under 18 år å komme inn med verge på Høstsabbat.",
+      "date": "2026-10-24",
+      "time": "14:30",
+      "endTime": null,
+      "location": "Kulturkirken Jakob, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/hstsabbat-2026-saturday--tickets/719945116?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/hstsabbat-2026-saturday--tickets/719945116?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/0a8/c0c67ac9-2b3f-4830-967a-0b2b556670a8_SOURCE",
+      "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
@@ -256,6 +301,28 @@
       "source": "ticketmaster"
     },
     {
+      "id": "tm-Z698xZb_Z16v8x4abt",
+      "title": "Unnskyld - Et requiem med Svein Tindberg og Kjetil Bjerkestrand",
+      "description": "UNNSKYLD - et requiem Av og med Svein Tindberg og Kjetil Bjerkestrand En maidag i 2024 fikk komponist og musiker Kjetil Bjerkestrand (70) en tanke han ikke klarte å riste av seg: Fortjener ikke resten av menneskeheten en unnskyldning fra vår generasjon? Fra menn over sytti. For unnfallenhet i møte med klimakrise, urettferdighet, sult og fattigdom. For dårlige bent frem umoralske valg. For likegyldigheten. For å ha tålt urett i over syv tiår. Der mange vender blikket vekk, velger Bjerkestrand og Svein Tindberg å se det rett i øynene og gjøre det til kunst. <> er et requiem som ikke bare sørger, men også søker. Med Tindbergs tekster og Bjerkestrands musikk, og Beate S. Lechs stemme som bærer det hele, er dette en forestilling som tør å stille de vanskelige spørsmålene, og gir deg rom til å sitte med dem. Hva slags håp finnes det for menn over 70, og for alle oss andre? Medvirkende Svein Tindberg (skuespiller) Kjetil Bjerkestrand (piano og keys) Beate S. Lech (vokal) + 2 musikere Tekst: Svein Tindberg Musikk: Kjetil Bjerkestrand",
+      "date": "2026-10-27",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Kulturkirken Jakob, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/unnskyld-et-requiem-med-svein-tindberg-og-kjetil-bjerkestrand-tickets/1422549629?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/unnskyld-et-requiem-med-svein-tindberg-og-kjetil-bjerkestrand-tickets/1422549629?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/6a4/e7bbb906-1a86-48ee-b7a0-a50637b426a4_SOURCE",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
       "id": "tm-Z698xZb_Z1kGpJb0O",
       "title": "Oslo World: Marcel Khalife - Promises of the Storm",
       "description": "A Lebanese legend opens Oslo World. The Lebanese oud player, singer, and composer Marcel Khalife is a folk hero in the Arab world. With a career spanning six decades, he has combined effortless mastery of his instrument with political outspokenness and poetry. When he first set the words of the great Palestinian poet Mahmoud Darwish to music, he had no idea it was the prelude to a meeting that would forge a deep and enduring friendship between the two men a few years later---even as the songs themselves resonated across the globe. Promises of the Storm was influenced by Arab-Andalusian traditions and contemporary Middle Eastern politics. Channeling the poetry by Dahrwish and his Palestinian compatriot Izzidine Al Munassrah, Khalifé sung in colloquial Arabic. It was his way of dignifying the common people. The album became iconic in the Arab community and beyond, and to mark the fiftieth anniversary, Marcel Khalife has re-recorded it as a solo project. To have Marcel Khalife opening our festival has been a dream for many years. We are proud to present him this year, in a format stripped down to its bare essential: his magnificently seasoned tenor voice accompanied solely by his most faithful companion, the oud. After the concert in the Chateau Neuf Auditorium, the Swiss/Moroccan multi-instrumentalist Sami Galbi will play at Betong, where the opening party continues. All tickets for Marcel Khalife automatically include entry to Sami Galbi's concert at Betong later that night. Please note: The concert with Sami Galbi has an 18+ age limit, with no guardian exception.",
@@ -293,6 +360,71 @@
       "ticketUrl": "https://www.ticketmaster.no/event/oslo-world-sami-galbi-tickets/164971802?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/oslo-world-sami-galbi-tickets/164971802?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/e/501/55f5feae-1ae7-478a-84c8-ece28d397501_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kAoq4Zf",
+      "title": "Benny Borg – 60 år på scenen",
+      "description": "Benny Borg feirer 60 år på scenen med en jubileumskonsert i Kulturkirken Jakob. Det blir en kveld med nye låter fra hans kommende album, sanger fra et langt artistliv, og flere gjester. Benny Borg begynte sitt liv på scenen for 60 år siden, og kom til Norge noen få år etter. Siden har han vært en bauta i norsk musikkliv. Han var blant vinnerne av den aller første Spellemannprisen, og nådde toppen av Norsktoppen med <>. Han har skrevet klassikere for seg selv og for andre -- blant dem <>, <> og <> -- og mange kjenner ham fra scenen sammen med Dizzie Tunes. For ti år siden gjorde han comeback på plate med <>, og <> er siden blitt en hit som måler seg med <>. Men Benny er en utrettelig låtskriver. Sammen med Rune Berg og Åge Reite i Lydbroderiet -- som også er med som musikere denne kvelden -- har han gitt ut tre album, inkludert en ny Spellemann-nominasjon, og nå er de aktuelle med enda en plate. Innspillingen startet en kald januarhelg på Bennys hytte i Hemsedal. Gjester som har vært en del av Bennys musikalske liv gjennom disse 60 årene vil delta -- annonseres etter hvert. Velkommen til en stor konsertopplevelse i Jakob! Foto: Julie Pike",
+      "date": "2026-10-28",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Kulturkirken Jakob, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/benny-borg--60-ar-pa-scenen-tickets/151755014?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/benny-borg--60-ar-pa-scenen-tickets/151755014?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/256/af31cae1-4396-44d4-b102-4261df688256_SOURCE",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1keo_poS",
+      "title": "Oslo World: KALEM",
+      "description": "Kalem Name a more dynamic Balkan duo. The ensemble Kalem performs traditional and composed songs, with an unmistakable, personal voice rooted in their home lands. A virtuoso meeting between violin and guitar, inspired by several musical traditions. Stefan Ilic, the singer and violinist of Kalem, grew up surrounded by folk songs. From his earliest days, every activity in his home was accompanied by Balkan melodies passed down through generations. It led him to enroll in music school for gifted children in Cuprija, and later graduate in violin from the Music Academy in Kragujevac. Dusan Popovic Lipovac grew up in a home dominated by heavy sounds, epic guitar solos, and complex harmonies, blues and jazz, while he also discovered flamenco and fado. During his studies in Spain, Dusan decided to explore what his own homeland had to offer. It turned out to be much more than he initially thought. In 2017, Stefan and Dusan's paths crossed. After a few rehearsals, they realized their musical sensibilities resonated perfectly, and the repertoire they started building included the most beautiful traditional and composed songs from the Balkans. A few months later, Kalem was an ensemble performing traditional and composed songs, with a voice unmistakably rooted in these lands, colored by the sound of a guitar inspired by the folk music of the world. The release of \"Mesece\", in 2021, was named after an original song. It became a song that people still sing at concerts. Their journey continued to evolve, leading to the release of their second album in 2023, \"Tragom snova i predanja\" (\"Following Dreams and Legends\"), which produced several highly popular arrangements and original compositions, paving the way for Kalem in 2024 to hold sold-out concerts in Belgrade, Kragujevac, Novi Sad, again in Kragujevac, and even in Oslo and Paris. This year, the ensemble is returning to Oslo.",
+      "date": "2026-10-29",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Kulturkirken Jakob, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/oslo-world-kalem-tickets/91656473?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/oslo-world-kalem-tickets/91656473?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/256/af31cae1-4396-44d4-b102-4261df688256_SOURCE",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vu_PYbV",
+      "title": "Oslo World: Nai Barghouti/Tord Gustavsen/Ruven Ruppik/Steinar Raknes",
+      "description": "Nai Barghouti w/ Ruven Ruppik, Tord Gustavsen & Steinar Raknes NaiStrumentation meets Norwegian jazz heavy weights. This year at Oslo World, we are proud to present a spontaneous meeting between four remarkable musicians, spearheaded by the young Palestinian singer, composer and flutist Nai Barghouti. Born in Jerusalem, Barghouti played her first concerts in Ramallah and Cairo at the age of 14, and has studied both classical music and jazz. In her studies, she explored the nexus between Arabic Tarab music and jazz improvisation, developing a distinct vocal technique, a wordless and highly ornamented style she has dubbed NaiStrumentation. Her virtuosity evokes legendary Arab singers such as Asmahan, Umm Kulthoum and Fairouz, and she has gone on to perform packed concerts in cities all over the world. She has a remarkably varied output, incorporating ballads, folk music, electronic landscapes and improvisation. And when she briefly met the Norwegian musicians Tord Gustavsen and Steinar Raknes a couple of years ago, it soon became obvious there was room to explore more. Pianist Tord Gustavsen is one of the most lauded and successful Norwegian jazz musicians of the last decades. His trio has become one of the defining ECM acts, and they perform for sold out concert halls all over Europe and beyond. As well as being a member of Gustavsen's trio, the bass player Steinar Raknes is one of the defining musicians of his generation. A stellar instrumentalist known from a long and varied range of jazz collaborations, as well as a burgeoning career as genre crossing solo artist and singer. Joining them on stage is Ruven Ruppik, a dutch percussionist with a highly original approach to drumming, ranging from classical techniques and jazz to a vast pallet of different traditional styles. At Oslo World this year, we are proud to present this intriguing project, capable of great beauty and unexpected moments of musical magic. Doors: 17:30",
+      "date": "2026-10-30",
+      "time": "18:00",
+      "endTime": null,
+      "location": "Kulturkirken Jakob, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/oslo-world-nai-barghouti-tord-gustavsen-ruven-ruppik-steinar-raknes-tickets/1359970634?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/oslo-world-nai-barghouti-tord-gustavsen-ruven-ruppik-steinar-raknes-tickets/1359970634?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/683/a09e3891-688f-498d-b6e2-6077d9d58683_TABLET_LANDSCAPE_16_9.jpg",
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -341,6 +473,28 @@
       "source": "ticketmaster"
     },
     {
+      "id": "tm-Z698xZb_Z1ku3ppAw",
+      "title": "Xibalbita 2026 – A Family Celebration of Día de Muertos",
+      "description": "Xibalbita 2026 -- A Family Celebration of Día de Muertos Join us for Xibalbita 2026, a family-friendly celebration of Mexico's Día de Muertos (Day of the Dead) tradition. Enjoy a vibrant day of music, dance, authentic Mexican food, culture, and community. Organized by MEXperience, this annual event has been bringing people together for 11 years, sharing the rich traditions of Día de Muertos while creating cultural connections between Mexico, Norway, and the wider world. Celebrate life, memory, and togetherness with us at Xibalbita 2026. Follow us on social media for event updates, program details, and exciting announcements. Facebook: https://www.facebook.com/XibalbaDodesDag Instagram: https://www.instagram.com/xibalbadodesdag/ Web page: https://www.xibalba.no",
+      "date": "2026-10-31",
+      "time": "10:00",
+      "endTime": null,
+      "location": "Kulturkirken Jakob, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/xibalbita-2026--a-family-celebration-of-dia-de-muertos-tickets/352596172?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/xibalbita-2026--a-family-celebration-of-dia-de-muertos-tickets/352596172?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/ffa/eafb2e3b-ec61-460a-adcd-946d4f490ffa_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
       "id": "tm-Z698xZb_Z16vq_be8v",
       "title": "Unholy Halloween: Dimmu Borgir",
       "description": null,
@@ -362,9 +516,30 @@
       "source": "ticketmaster"
     },
     {
+      "id": "tm-Z698xZb_Z16vJepaOK",
+      "title": "Oslo World: IRIS CALTWAIT",
+      "description": "Iris Caltwait Norwegian alt pop sensation Even in the seemingly never ending stream of new talent in contemporary music, there is something about Iris Caltwait that makes the listener stop for a moment and listen carefully. She has emerged from a strong indie pop scene on the western coast of Norway, collaborating with Askjell Solstrand, who has also produced Sigrid and Aurora. Last year, Caltwait released her full length debut. On Again, for the first time, she demonstrates her flair for bringing classic pop harmonies, bubblegum vibes and an almost David Lynch-like sense of the uncanny in to modern pop songs without it ever sounding too clever or forced. The result is irresistible. She broke through when she won Årets Urørt in 2019. The same year, she was invited to join AURORA on a tour of Norway and Europe as a special guest and has since released two critically acclaimed EP's and an album -- with streams exceeding 50 millions. In 2025, she received a Norwegian Spellemann award for songwriter of the year. The hype is by no means just a Norwegian thing - magazines such as Clash Magazine, Ones To Watch and The Line of Best Fit view her as one of the most exciting new things in alternative pop. We agree.",
+      "date": "2026-10-31",
+      "time": "20:00",
+      "endTime": null,
+      "location": "Kulturkirken Jakob, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/oslo-world-iris-caltwait-tickets/1982589813?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/oslo-world-iris-caltwait-tickets/1982589813?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/256/af31cae1-4396-44d4-b102-4261df688256_SOURCE",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
       "id": "tm-Z698xZb_Z16vuNZY87",
       "title": "Requiem by Torbjørn Dyrud - All Saints' Day concert",
-      "description": "This year's All Saints' concert features the world premiere of the final work by Torbjørn Dyrud. The piece is scored for choir, narrator, string trio, and wind trio, and was commissioned by Oslo Cathedral Choir and Bergen Cathedral Choir. Between the movements, texts describing near-death experiences will be read aloud. The work will be performed simultaneously in Oslo Cathedral and Bergen Cathedral, in addition to concerts at Hoff Church on November 14 and Bragernes Church on November 15. Composer and musician Torbjørn Dyrud lived with a serious cancer diagnosis for seven years. He passed away on July 19 this year, shortly after delivering the completed work to us. During his final years, he found great comfort in accounts of near-death experiences and other similarly incomprehensible phenomena. Torbjørn was a deeply optimistic person, and part of the intention behind this work was to encourage us, here on earth, to recognize more clearly that the world is in fact filled with light and love. Near-death experiences are stories and encounters that challenge our understanding of reality at a fundamental level. Many people who have had such experiences insist that who we truly are continues to exist even after the death of the physical body. In the void left by Torbjørn's passing, we return to the intention behind the work and read what Torbjørn himself wrote in a new light: \"For me, as a church musician, this literature has opened up my spiritual life in a fundamental way. It seems increasingly credible that accounts of a more real reality, beyond time and space, a state in which unconditional love fills everything, are simply true. Something within me opens up when I read these personal narratives in the light of the Bible and other historical sources.\" Requiem lasts approximately 45 minutes. The concert will also feature three of Torbjørn's other well-known songs and hymns composed for choir. The total duration of the concert is approximately one hour. Program: Soon She Kisses Her Friend in the Rose Garden (Snart kysser hun sin venn i rosenhagen) by Torbjørn Dyrud, with text by Inger Hagerup. Come, Breath of Life (Kom livspust) by Torbjørn Dyrud, with text by Ingrid B. Melve With a Bouquet (Med en bukett) by Torbjørn Dyrud, with text by Henrik Wergeland Requiem by Torbjørn Dyrud, with readings from accounts of near-death experiences Performers: Oslo Cathedral Choir Vivianne Sydnes, conductor Eldar Skar, Actor Brass players: Tormod Åsgård, Simen Aleksander Olsen Hagen, and Lars Brynestad String players: Sølve Sigerland, Henninge Landaas, and Ellen Margrete Flesjø (Ssens Trio) Dedicated wheelchair spaces can be purchased in the south transept. Here you can choose whether you are accompanied by a companion or not. Companions are admitted free of charge upon presentation of a companion certificate. The companion will be seated directly behind the wheelchair space. Oslo Cathedral has both a ramp and a lift to ensure step-free access. Please arrive at the main entrance, where our staff will guide you to the wheelchair entrance. A wheelchair-accessible restroom is available near the main entrance. If you wish to purchase a companion ticket without it being linked to a wheelchair space, select the ticket category \"companion seat\" for any other seat in the Cathedral. For questions, please contact the organizer, Oslo Cathedral Choir, at +47 977 95 450.",
+      "description": "This year's All Saints' concert features the world premiere of the final work by Torbjørn Dyrud. The piece is scored for choir, narrator, string trio, and wind trio, and was commissioned by Oslo Cathedral Choir and Bergen Cathedral Choir. Between the movements, texts describing near-death experiences will be read aloud. The work will be performed simultaneously in Oslo Cathedral and Bergen Cathedral, in addition to concerts at Hoff Church on November 14 and Bragernes Church on November 15. Composer and musician Torbjørn Dyrud lived with a serious cancer diagnosis for seven years. He passed away on July 19 this year, shortly after delivering the completed work to us. During his final years, he found great comfort in accounts of near-death experiences and other similarly incomprehensible phenomena. Torbjørn was a deeply optimistic person, and part of the intention behind this work was to encourage us, here on earth, to recognize more clearly that the world is in fact filled with light and love. Near-death experiences are stories and encounters that challenge our understanding of reality at a fundamental level. Many people who have had such experiences insist that who we truly are continues to exist even after the death of the physical body. In the void left by Torbjørn's passing, we return to the intention behind the work and read what Torbjørn himself wrote in a new light: \"For me, as a church musician, this literature has opened up my spiritual life in a fundamental way. It seems increasingly credible that accounts of a more real reality, beyond time and space, a state in which unconditional love fills everything, are simply true. Something within me opens up when I read these personal narratives in the light of the Bible and other historical sources.\" Requiem lasts approximately 45 minutes. The concert will also feature three of Torbjørn's other well-known songs and hymns composed for choir. The total duration of the concert is approximately one hour. Program: Soon She Kisses Her Friend in the Rose Garden (Snart kysser hun sin venn i rosenhagen) by Torbjørn Dyrud, with text by Inger Hagerup. Come, Breath of Life (Kom livspust) by Torbjørn Dyrud, with text by Ingrid B. Melve With a Bouquet (Med en bukett) by Torbjørn Dyrud, with text by Henrik Wergeland Requiem by Torbjørn Dyrud, with readings from accounts of near-death experiences Performers: Oslo Cathedral Choir Vivianne Sydnes, conductor Eldar Skar, Actor Brass players: Tormod Åsgård, Sverre Stang Christiansen, and Lars Brynestad String players: Sølve Sigerland, Henninge Landaas, and Ellen Margrete Flesjø (Ssens Trio) Dedicated wheelchair spaces can be purchased in the south transept. Here you can choose whether you are accompanied by a companion or not. Companions are admitted free of charge upon presentation of a companion certificate. The companion will be seated directly behind the wheelchair space. Oslo Cathedral has both a ramp and a lift to ensure step-free access. Please arrive at the main entrance, where our staff will guide you to the wheelchair entrance. A wheelchair-accessible restroom is available near the main entrance. If you wish to purchase a companion ticket without it being linked to a wheelchair space, select the ticket category \"companion seat\" for any other seat in the Cathedral. For questions, please contact the organizer, Oslo Cathedral Choir, at +47 977 95 450.",
       "date": "2026-11-01",
       "time": "18:00",
       "endTime": null,
@@ -405,6 +580,27 @@
       "source": "ticketmaster"
     },
     {
+      "id": "tm-Z698xZb_Z1kbt_baA",
+      "title": "Maren Davidsen - This Is Where I Leave You",
+      "description": "Rogalendingen Maren Davidsen flyttet til London for å følge drømmen sin. Nå er hun tilbake i Norge med albumet This Is Where I Leave You i bagasjen. Siden første slipp av den nydelige låten Tennessee On My Mind i april har hun fått mye internasjonal oppmerksomhet. \"Et vakkert stykke nordisk americana, som treffer deg rett i hjertet\" skriver den canadiske musikkjournalisten Eric Alper. This Is Where I Leave You er et personlig og sårbart album om å miste seg selv i en relasjon, og om å finne veien tilbake. Mange av låtene er skrevet fra et mørkt sted, om kjærlighet, brudd og følelsen av å ikke lenger kjenne sin egen verdi. Samtidig handler tittelen om mer enn å forlate en person: For Maren handler den om å forlate livet hun hadde i London, gamle mønstre og den versjonen av seg selv hun ikke lenger ville være. I oktober legger hun ut på album-turné som avsluttes i Oslo intimt og ærlig på gølvet i Kulturkirken Jakob. Support: Nora Legrand Med røtter som strekker seg fra Romsdalen via Frankrike til Appalachia, har Nora Legrand etablert seg som en av de mest spennende stemmene i norsk country. I 2025 ble hun Spellemannsnominert for debutalbumet Paper Sky, nominert til Fjordingprisen for <<årets album>> og kåret til Årets Gjennombrudd av Norsk Americanaforum. Singelen \"Wherever She's Running\" ble en ekte radiohit med 24 uker på P1s A-liste, og hennes sjelfulle stemme og sterke låtskriving trekkes stadig frem av både presse og publikum. Nora studerte Bluegrass og Country Music ved East Tennessee State University, og er inspirert av artister som Brandi Carlile, Sierra Ferrell og Townes Van Zandt. På scenen formidler hun ektefølte historier med en helt særegen nerve som treffer rett i hjertet. OM \"PÅ GØLVET\"-serien Hvorfor skal konserter være på scenen? På avstand, opphøyet og bak sterke lys? Hvorfor skal vi bare se hverandres rygger? Jada, vi vet de tekniske, praktiske forklaringene og svarene på dette. Men vi har lyst til å få i pose og sekk i Jakob fremover. Noe på scenen -- og noe helt nedpå. PÅ GØLVET. Midt blant publikum. Så vi kan se svettedråper på gitarister, se notater og vannglass -- og se hvem som ellers er på konsert. På samme nivå. Nær. Kjenne trøkket. Sammen. På gølvet. \"På gølvet\" er en serie akustiske/semiakustiske konserter i Kulturkirken Jakob hvor vi flytter scene, artister og instrumenter ned på kirkegulvet og lager stoloppsett helt tett innpå. Disse konserten blir unike og intime opplevelser hvor du kan få møte noen av landets fineste artister og musikere på helt nært hold.",
+      "date": "2026-11-03",
+      "time": "20:00",
+      "endTime": null,
+      "location": "Kulturkirken Jakob, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/maren-davidsen-this-is-where-i-leave-you-tickets/629658245?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/maren-davidsen-this-is-where-i-leave-you-tickets/629658245?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/958/aa834c9b-1263-4d90-8397-0492f826c958_TABLET_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
       "id": "tm-Z698xZb_Z16v04jOr6",
       "title": "Mellomvalg på Neuf: Debrif med Thomas Seltzer og Ole Øyvind Sand Holth",
       "description": "Klassekampen og Chateau Neuf inviterer på valgvake og live podkast for mellomvalget i USA! Med utenriksredaktør Ole Øyvind Sand Holth og programleder Thomas Seltzer. Arrangementet er gratis, men man må holde av billett for tilgang til Storsalen. Se neuf.no for mer informasjon om Mellomvalget på Neuf. Arrangementsstart : 21:00 Dørene åpner : 30 min før Varighet : 60 min Aldersgrense : 18 Ledsager : Gratis med billett Arrangementer i Storsalen har garderobeplikt. Adkomst : Kollektiv transport til Majorstuen, 3 minutters gange.",
@@ -419,6 +615,28 @@
       "affiliateUrl": "https://www.ticketmaster.no/event/mellomvalg-pa-neuf-debrif-med-thomas-seltzer-og-ole-yvind-sand-holth-tickets/1915720787?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/e/9f0/dedbf068-6595-4593-ae08-8650c39919f0_TABLET_LANDSCAPE_16_9.jpg",
       "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vJko_77",
+      "title": "Runar Netland - releasekonsert",
+      "description": "Trommeslager, komponist og musiker Runar Netland debuterer med sitt første soloalbum First, Everything -- et helhetlig og sanselig verk som utforsker rytme, struktur og improvisasjon med en organisk tilnærming til jazz. Albumet presenteres live i Kulturkirken Jakob 4. november. First, Everything er bygget som en reise. Musikken utvikler seg fra det enkle til det komplekse, fra stillhet til bevegelse, gjennom kontraster og forandring: fra mono til stereo, fra optimisme til pessimisme, fra ensomhet til fellesskap, fra å føle seg fortvilet til å finne håp. Resultatet er et uttrykk som balanserer ro og transformasjon, inspirert av naturens rytmiske mønstre og den uendelige syklusen i omgivelsene våre. Med trommesett, piano, synther, trommemaskiner, perkusjon og elektroniske elementer som utgangspunkt, har Netland utviklet et tydelig og personlig musikalsk språk. Filosofien bak musikken er forankret i en enkel, ren tilstedeværelse -- før alt annet bygger seg på. Albumets struktur og rytmer speiler denne tankegangen og gir rom for både fri improvisasjon og meditativ ro, samtidig som musikken trekker veksler på naturens dynamikk og konstante endring. Albumet inviterer lytteren til å være til stede, lytte og føle -- i takt med både naturens pulserende rytmer og den indre roen mindfulness kan gi. First, Everything er ment både som en fordypende lytteopplevelse og som en musikalsk reisefølge: på toget, på flyet, på løpeturen, fjellturen eller skituren. Store deler av musikken er inspirert av Runar Netlands mange skiturer i Nordmarka i Oslo - et sted som har blitt et slags andre hjem. Albumet er spilt inn sammen med et stjernelag av musikere, som også blir med på scenen denne kvelden: Andreas Ulvo (tangenter) - Mathias Marstrander (pedalsteel, gitar) - Lyder Øvreås Røed (trompet), Sunniva Lilian Shaw Of-Tordarroch (cello) og Martin Ulltang (kontrabass). First, Everything er komponert og produsert av Runar Netland og er resultatet av hans masterstudium i musikk ved NLA Staffeldtsgate. Albumet er en invitasjon til å senke tempoet, lytte dypere og bevege seg varsomt -- fra start til slutt. Foto: Helge Brekke",
+      "date": "2026-11-04",
+      "time": "20:00",
+      "endTime": null,
+      "location": "Kulturkirken Jakob, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/runar-netland-releasekonsert-tickets/1986459104?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/runar-netland-releasekonsert-tickets/1986459104?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/256/af31cae1-4396-44d4-b102-4261df688256_SOURCE",
+      "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
@@ -446,6 +664,28 @@
       "source": "ticketmaster"
     },
     {
+      "id": "tm-Z698xZb_Z1kObj_8_",
+      "title": "Olga Myko",
+      "description": "Olga Myko rørte lyttere over hele verden og ble et kjent navn, nærmest over natten. 5. november kommer det svenske stjerneskuddet til Kulturkirken Jakob, klar for å fylle rommet med ny musikk og en konsertopplevelse som garantert vil sette spor i hjertet. Med en fot i barokkens strykere, ukrainske folkeeventyr og lyden av bestemoren på kjøkkenet, og den andre i et Stockholm i konstant bevegelse, omfavner Olga Myko både det tidløse og samtidig slående moderne. Musikken hennes oppstår i møtet mellom disse kontrastene. Mellom det gamle og det nye, det skjøre og det voldsomme, det vonde og det fine. Tekstene er tett på de følelsene som gjør vondt, det som sårer, og følelsene vi ofte mangler ord for. Med en unik åpenhet, forvandler hun uro, lengsel og kjærlighetssorg til låter som finner veien inn i andres liv og resonerer med mennesker på tvers av alder og landegrenser. Gjennombruddet kom omtrent over natten med hiten <>. Her fanget hun oppmerksomheten til både TikTok-publikum, musikkritikere og etablerte en stadig voksende internasjonal fanskare. Siden har hun blitt nominert til Grammis, varmet opp for etablerte internasjonale artister og tatt steget opp på stadig større scener. Nå er hun klar for å legge ut på sin første headlinerturné. På den nyeste EP-en How Dare You Tryna Love Me (2026) forteller Olga Myko i en historie født ut av kjærlighetssorg. Gjennom tvil, indre konflikt og motstand, tar hun oss med på en personlig reise mot å våge å akseptere kjærlighet, og erkjennelsen av at også hun fortjener å bli elsket. Når Olga Myko inntar Kulturkirken Jakob 5. november, åpner hun dørene til et musikalsk univers som er mørkt, varmt og omfavnende. Under kirkehvelvingene kombinerer hun cembalo og synthesizere med en stemme som rommer både sårbarhet og styrke. Stående/sittende: Stående konsert Ledsager: Gratis med billett Aldersgrense: 18 år",
+      "date": "2026-11-05",
+      "time": "20:00",
+      "endTime": null,
+      "location": "Kulturkirken Jakob, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/olga-myko-tickets/818719419?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/olga-myko-tickets/818719419?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/256/af31cae1-4396-44d4-b102-4261df688256_SOURCE",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
       "id": "tm-Z698xZb_Z16vFtPOjP",
       "title": "Fontaines D.C.",
       "description": null,
@@ -461,6 +701,28 @@
       "ticketUrl": "https://www.ticketmaster.no/event/fontaines-dc-tickets/1229960725?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/fontaines-dc-tickets/1229960725?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/a/9f3/cda7f635-ebbc-4a5d-9988-7e7db1ab39f3_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1k-SvoQ8",
+      "title": "NyNorsk Messingkvintett 10 år - en jubileumsfestival",
+      "description": "NyNorsk Messingkvintett 10 år -- en jubileumsfestival Kulturkirken JAKOB, lørdag 7. november 2026 kl. 16.00 10 år er gått siden NyNorsk Messingkvintett entret scenen for aller første gang, og dette er selvsagt en begivenhet som må feires med brask og bram. Ensemblet inviterer til en storslagen jubileumsfestival i Kulturkirken JAKOB, der de sammen med en stjernerekke av artister fremfører smakebiter fra nye og gamle prosjekter. På menyen står også et helt nyskrevet jubileumsverk, signert komponisten Trond Reinholdtsen. I likhet med ensemblets filosofi blir dette en kveld der musikere og sangere kjører slalåm mellom etablerte sjangergrenser og blåser en lang marsj i alle konvensjoner. Bli med på en heidundrende bursdagsfeiring for en ikke lenger fullt så Ny Norsk Messingkvintett! Gjesteartister: Tora Augestad, (mezzosopran) Trygve Seim, (saksofoner) Frode Haltli, (akkordeon) Julie Kleive, (vokal) Silje Aker Johnsen (sopran) Geir Strande Syrrist (slagverk) DEL 1 (kl. 16.00) My favorite thing -- verk av Smørdal og Asheim Vi åpner festivalkvelden med Jan Martin Smørdals verk <> fra det eksperimentelle samarbeidet med sopranen Silje Aker Johnsen. Det blir også gjenhør med <> Hornflowers, skrevet av Nils Henrik Asheim til vårt debutalbum med samme navn. DEL 2 (ca. 17.15) Reinholdtsens jubileumsverk og Trygve Seim/Frode Haltli Duo NyNorsk Messingkvintett urfremfører kveldens jubileumsverk, signert Trond Reinholdtsen. Trygve Seim og Frode Haltli byr på musikk fra sitt kritikerroste duo-prosjekt, utgitt på ECM. DEL 3 (ca. 18.15) Fenghuang -- musikk av Haltli, Hannevold og Ratkje Frode Haltli, slagverker Geir Strande Syrrist og NyNorsk Messingkvintett fremfører utdrag fra prosjektet <> med verk av Frode Haltli og Anders Hannevold, inspirert av øst-asiatiske myter og folklore. Sammen med sangerne Tora Augestad, Julie Kleive og Silje Aker Johnsen fremfører Frode Haltli tre tangoer han og Maja Ratkje har skrevet til tekster av den svenske forfatteren Gunnar Ekelöf. DEL 4 (ca. 19.30) Fløgstad-songar og andre sanger Tora Augestad, Trygve Seim og NyNorsk Messingkvintett fremfører utdrag fra Seims sangsyklus Fløgstad-songar, komponert til dikt av Kjartan Fløgstad. Tora Augestad og Geir Strande Syrrist fremfører <> av Donald Trump (!) tonesatt av Marcus Paus. Før kvelden avsluttes med fellesnummer, får vi smakebiter fra <> - det nye samarbeidet mellom vokalist og komponist Julie Kleive og NyNorsk Messingkvintett. Det blir åpen bar, med salg av mat og drikke gjennom kvelden. Vel møtt! NyNorsk Messingkvintett: Jørgen Arnesen, trompet Erlend Aagaard-Nilsen, trompet Marie Solum Gran, horn Ingebjørg Bruket, trombone Berger Iver Færder, tub Barn i følge med voksen ledsager kommer inn gratis. Kontakt Kulturkirken Jakob for registrering i forkant: jakob@kkv.no",
+      "date": "2026-11-07",
+      "time": "16:00",
+      "endTime": null,
+      "location": "Kulturkirken Jakob, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/nynorsk-messingkvintett-10-ar-en-jubileumsfestival-tickets/873051690?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/nynorsk-messingkvintett-10-ar-en-jubileumsfestival-tickets/873051690?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/256/af31cae1-4396-44d4-b102-4261df688256_SOURCE",
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -554,6 +816,28 @@
       "source": "ticketmaster"
     },
     {
+      "id": "tm-Z698xZb_Z16vaYpkAN",
+      "title": "LEVI.SCT",
+      "description": "LEVI.SCT til Kulturkirken Jakob Den prisvinnende pianosensasjonen kommer til Oslo 9. november 2026 Den tyske pianisten og komponisten Levi Schechtmann, bedre kjent som LEVI.SCT, kommer til Kulturkirken Jakob 9. november 2026. Med sitt sjangerbrytende uttrykk og eksplosive liveshow har han raskt blitt en av Europas mest omtalte nye artister innen moderne piano og crossover-musikk. LEVI.SCT kombinerer klassiske komponister som Chopin og Rachmaninov med elementer fra hip-hop, house, jazz og elektronisk musikk. Resultatet er en konsertopplevelse som både er emosjonell, rytmisk og visuelt sterk. Musikken hans truffet et stort publikum verden over. Den 25 år gamle pianisten har de siste årene opplevd en enorm internasjonal suksess. Med over 1,7 millioner følgere på Instagram og millioner av visninger på sosiale medier har han introdusert klassisk piano til et nytt publikum. I 2025 ble han kåret til \"Contemporary Pianist of the Year\" under Pianote Awards. I januar 2026 startet LEVI.SCT sin første verdensturné, som allerede har inkludert utsolgte konserter i blant annet Paris og London. Han har også opptrådt på anerkjente scener som Elbphilharmonie i Hamburg og Flagey i Brussel. Flere kommende konserter i Europa er allerede utsolgt, og ekstra datoer har blitt annonsert i blant annet Wien, Lyon, Istanbul og Manchester. Nå kommer han til Oslo og Kulturkirken Jakob for det som blir en helt spesiell kveld høsten 2026. \"The 25-year-old rising star impresses with his re-interpretations of classical music, which he blends with hip-hop and electronic beats.\" -- Rolling Stone",
+      "date": "2026-11-09",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Kulturkirken Jakob, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/levisct-tickets/1270586163?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/levisct-tickets/1270586163?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/256/af31cae1-4396-44d4-b102-4261df688256_SOURCE",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
       "id": "tm-Z698xZb_Z1kvkCAfY",
       "title": "Kneecap",
       "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's Read the organizer's terms of purchase here. See www.rockefeller.no for the complete program.. Practical information about the concerts can be found here. The nearest transport hub is Storgata and/or Jernbanetorget. See ruter.no for more info.",
@@ -569,6 +853,27 @@
       "ticketUrl": "https://www.ticketmaster.no/event/kneecap-tickets/46385530?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/kneecap-tickets/46385530?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/a/0ae/ef45203c-6ea5-4a1b-9ab6-8395bc4250ae_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kCK0t87",
+      "title": "Claudio Constantini",
+      "description": "Piano og bandoneon står i sentrum når Claudio Constantini inntar Kulturkirken Jakob med sitt nyeste album Fragile. Her møter vi en artist som beveger seg sømløst mellom det skjøre og det kraftfulle. Med en karriere fra noen av verdens største scener, en Latin Grammy-nominasjon og flere internasjonale priser, retter Constantini nå fullt fokus mot egne komposisjoner. Repertoaret henter materiale fra albumet Fragile. Musikken utfolder seg i kontraster, og tar publikum med på en reise gjennom uro, refleksjon og stillhet. Dette er en sjelden mulighet til å oppleve Claudio Constantini i et nært og stemningsfullt rom.",
+      "date": "2026-11-10",
+      "time": "20:00",
+      "endTime": null,
+      "location": "Kulturkirken Jakob, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/claudio-constantini-tickets/393929404?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/claudio-constantini-tickets/393929404?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/1ed/2569e5d4-4e3e-4934-b9a5-e90c4e0941ed_TABLET_LANDSCAPE_16_9.jpg",
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -591,6 +896,27 @@
       "ticketUrl": "https://www.ticketmaster.no/event/tayc-tickets/1822319412?language=en-us",
       "affiliateUrl": "https://www.ticketmaster.no/event/tayc-tickets/1822319412?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/e/75b/82172894-8281-407c-abc9-b1839f46775b_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16voUa_C9",
+      "title": "Sophie Zelmani",
+      "description": "Sophie Zelmani til Kulturkirken Jakob! Sophie Zelmani har genom alla år varit konsekvent i sitt skapande på många sätt. Hennes musik, karaktäristiska röst och personliga uttryck känns igen på mils avstånd. Hon har också konsekvent spelat med fullt band tillsammans med samma musiker. Men när idén på en kyrkoturné föddes så blev det tydligt att kyrkorummet behövde en annan musikalisk inramning. Denna turné kommer Sophie göra med sin producent och gitarrist Lars Halapi, bara dom två på duo tillsammans med kyrkans akustik. Detta kräver också sin egen låtlista där låtar som tidigare inte passat kan passa bättre, eller låtar som behöver ett nytt arrangemang för att fungera i kyrkans rum. Denne konserten var tidligere lagt til \"På Gølvet\" serien, men er nå flyttet opp på scenen grunnet høy etterspørsel etter billetter.",
+      "date": "2026-11-11",
+      "time": "20:00",
+      "endTime": null,
+      "location": "Kulturkirken Jakob, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/sophie-zelmani-tickets/1476259397?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/sophie-zelmani-tickets/1476259397?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/b7a/c88c63d9-f9af-4e29-bd3a-6c828f05bb7a_TABLET_LANDSCAPE_16_9.jpg",
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -707,310 +1033,10 @@
       "source": "ticketmaster"
     },
     {
-      "id": "tm-LvZ18QEE7nHvatzixnMhG",
-      "title": "Avind // Parksalongen",
-      "description": null,
+      "id": "tm-Z698xZb_Z1k1oadpf",
+      "title": "GRAND PIANO THEATER. MUSIC BY HANS ZIMMER, LUDOVICO EINAUDI & MORE",
+      "description": "GRAND PIANO THEATER Musikk av Hans Zimmer * Ludovico Einaudi * Ramin Djawadi * Yann Tiersen En konsertkveld fylt med lydpoesi og filmatisk magi Bli med inn i atmosfæren av en ekstraordinær kveld viet til de store komponistene i vår tid. Deres musikk får utfolde sin fulle emosjonelle kraft i et unikt klaverprogram - en hyllest til melodiene som har ledsaget de mest gripende øyeblikkene i filmhistorien og fortsatt lever i vår hukommelse. Konserten finner sted i en historisk sal, hvor arkitektur og atmosfære har inspirert musikk og kunst gjennom generasjoner. Den spesielle akustikken gir liv til hver tone - klaveret blir en forteller: kraftfullt, følsomt og direkte. Fremført av Alise Sapega, solist i GLOBAL SYMPHONY Orchestra. Hennes tolkninger kombinerer teknisk briljans med emosjonell dybde og evnen til å gjøre lyd om til historier. På programmet: * Hans Zimmer * Ludovico Einaudi * Ramin Djawadi * Yann Tiersen * samt musikalske overraskelser Sikre deg billetter nå - antall plasser er begrenset. En kveld fylt med skjønnhet, følelser og inspirasjon venter på deg. Merk: Setene i Kulturkirken Jakob er er unummerert.",
       "date": "2026-11-14",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.universe.com/events/avind-parksalongen-tickets-08FHLY?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/avind-parksalongen-tickets-08FHLY?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z1kC6fZoe",
-      "title": "Fri Da Tarab",
-      "description": "Fri Da Tarab is a night of Arabic song. Frida Marida and Ahmad Alak take the old tarab classics and today's Arab pop, and set them beside international songs everyone already knows --- reworked with a Middle Eastern twist. Two hours, acoustic, with Ashuri on guitar. Familiar melodies in unfamiliar colours, and a room that sings along whether or not it knows the words. Event start time / concert start time : 20:00 Doors open : 60 min før Length : 60 min Catering:: Beer / Wine Age limit : 18 Companion ticket : If you hold a companion certificate, you are eligible for a companion ticket. To request a companion ticket, please email billett@oslonye.no. A valid companion certificate must be presented upon arrival at the performance. Wheelchair access: No Parking available: No Organizer's website",
-      "date": "2026-11-14",
-      "time": "20:00",
-      "endTime": null,
-      "location": "Oslo Nye Teaterkjelleren, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/fri-da-tarab-tickets/387500442?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/fri-da-tarab-tickets/387500442?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/1f1/2b1deed2-fb15-4b51-8e22-d727c62701f1_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16ve83ovU",
-      "title": "Nøtteknekkeren – klassisk julbalett med strykekvartett",
-      "description": "World-class performance by Etoile Production. The world-famous ballet Nutcracker performed by Ukrainian ballet stars will be a magical Christmas gift for the whole family! A beautiful fairy tale about the adventures of young Clara and the Nutcracker Prince, full of exciting stories, was transformed by Pyotr Tchaikovsky in 1892 into the world's most popular classical ballet. Today, the Nutcracker has become a global Christmas tradition, and this performance is staged annually on theater and opera stages around the world. The universal language of dance is understood without translation by any audience - the stage will present a coming-of-age story about children, revealing a young girl's fragile dream and the struggle between good and evil, where love ultimately triumphs. Dancing snowflakes, the Nutcracker Prince, toy soldiers and the Sugar Plum Fairy come to life in this magical family classic. Experience a wonderful adventure with the little girl Clara, who falls asleep on Christmas Eve. She meets her prince, faces a battle against enormous mice and rats, and is transported to the lush Sugar Land. The story is much more than just a Christmas fairy tale. It is a tale of growing up, which is also reflected in the dance. Now is the time to immerse yourself in this magical world, forget about worries and stress, remember childhood dreams and fill your soul with inspiration, warmth and new dreams. The perfect ballet for children The Nutcracker is an ideal ballet for children to experience for the first time. If you are going to the ballet with a child, we recommend reading Hoffman's Nutcracker and The Musketeer together. You can also read the libretto at https://www.kulturforfolket.com/performance/the-nutcracker, where you will find descriptions of each ballet scene that can help you answer your child's questions. In addition, this ballet will bring a sense of wonder and beauty to both young and adult audience members, filling everyone with the Christmas spirit! Authentic Classical Ballet The performance of Marius Petipa's classical choreography is performed by Etoile Production -- a company organized in Kyiv by soloists of the Kharkiv Opera and Ballet Theatre of Ukraine, Irina and Anatoly Khandazhevsky. The performers include professional ballet dancers of the highest level -- winners of international ballet competitions, Honored Artists of Ukraine, soloists of Ukrainian, and from February 2022, European theatres. The company uses authentic, handmade theatre costumes and decor in its productions. The costumes are real professional ballet costumes, carefully designed so that they do not constrain the dancers' movements and allow them to fully demonstrate their skill on stage. A professional theatre lighting designer accompanies the ballet performance and creates an unforgettable atmosphere during the show. There are no cheap decorations or flashy decorations -- only true high art of professional theatre performance. The ballet is accompanied live by a string quartet, which gives the performance an intimate and warm Christmas atmosphere. The quartet performs on stage as part of the production and plays during key scenes, creating a close connection between music and dance. In addition, the performance uses a high-quality recording of the Kharkiv Opera Orchestra, which is combined with the live quartet to support the action on stage. This is a unique opportunity to see real classical ballet of the highest level, performed by world ballet stars, with live music on stage. Ballet soloists: Irina Khandazhevskaya, prima ballerina, Honored Artist of Ukraine, soloist of the Kharkiv Opera and Ballet Theater, choreographer, diploma winner of the International Ballet Competition \"Premio Roma\". Honorary Prize \"People's Recognition 2010\" in the artist category. Awarded the \"P. Virsky Prize\" in the choreography category in 2007. @irinakhandazhevskaya Anatoly Khandazhevsky, soloist of the Kharkiv Opera and Ballet Theater (Ukraine), choreographer, 2nd prize winner of the international competition in Tallinn. @anatoliikhandazhevskii Maria Shupilova, soloist of the Kyiv Opera. @shupilova_maria Kristina Kadashevich, first soloist of the Kharkiv Opera and Ballet Theatre, laureate of international ballet competitions. Katerina Andrenko, soloist of the Odessa National Opera, Hamburg Chamber Ballet, Opera Poznan. @andrenko_kate Dmitry Lazovik, soloist of the Belarusian State Academic Musical Theatre, laureate of international ballet competitions. Vsevolod Maievskyi, soloist of the Dutch National Ballet, former soloist of the English National Ballet, Ukrainian-born former dancer of the Mariinsky Ballet. @vsevolod_maievskyi Larisa Hrytsay, soloist of the Kharkiv Opera and Ballet Theatre (Ukraine), soloist of the Odessa National Opera. @lorikeets89 Audience feedback: Birgitta: A wonderful break from everyday life! Beautiful costumes, skillful dancing, beautiful music and everything took me to a dream world for a while. Ami: Fantastic! The Grand Pas de deux was so beautiful that I started to cry! Ingrid: Fantastically beautiful dance and music, and beautiful costumes! The tour is presented by the Norwegian organization Kultur for Folket, a company focused on delivering high-quality cultural events. More information about the ballet and the artists can be found on the website https://www.kulturforfolket.com. Event time/concert start: 18:00 Doors open: 30 min before Duration: 130 min Serving: Kiosk Beer / Wine Age limit: No age limit Wheelchair/companion. Dedicated spaces for wheelchairs and companions for wheelchair users at the back of field A/F. Companions pay regular price. For Group bookings, fill out this form: Group sales",
-      "date": "2026-11-15",
-      "time": "18:00",
-      "endTime": null,
-      "location": "Chateau Neuf,Storsalen, Oslo",
-      "categories": [
-        "teater"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/notteknekkeren--klassisk-julbalett-med-strykekvartett-tickets/1090491076?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/notteknekkeren--klassisk-julbalett-med-strykekvartett-tickets/1090491076?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/b24/affced5a-a655-456e-a7f8-8ea6255acb24_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎭",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16vf03ZbI",
-      "title": "Naomi Klein og Astra Taylor: End Times Fascism",
-      "description": "Naomi Klein og Astra Taylor: End times Fascism Tirsdag 17. november kommer Naomi Klein og Astra Taylor til Chateau Neuf for å prate om sin nyeste bok End Times Fascism: And the Fight for the Living World. En ny, apokalyptisk allianse av religiøse fundamentalister, milliardærene i Silicon Valleys teknologielite og etnonasjonalister er på frammarsj. De er forent i troen på at en eller annen form for rensende katastrofe er på vei, og de ønsker en framtid preget av sjokk, knapphet og sammenbrudd velkommen, overbevist om at de selv vil være blant de frelste på den andre siden. Dette er verdenen til endetidsfascismen. Siden utgivelsen 12. september har boka alt blitt en bestselger i USA. Arrangementstidspunkt/konsertstart : 19:00 Dørene åpner : 30 min før Varighet : 90 min Aldersgrense : 18 Arrangementer i Storsalen har garderobeplikt. Garderobeavgift er inkludert i billetten. Ledsager : Som ordinær pris Ønsker du å bestille med faktura for flere personer 10> ta kontakt med gruppesalg",
-      "date": "2026-11-17",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Chateau Neuf,Storsalen, Oslo",
-      "categories": [],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/naomi-klein-og-astra-taylor-end-times-fascism-tickets/1524480628?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/naomi-klein-og-astra-taylor-end-times-fascism-tickets/1524480628?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/217/7df0c184-4430-446c-8b17-47655929e217_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16vAdb3Px",
-      "title": "Tove Lo – ESTRUS",
-      "description": null,
-      "date": "2026-11-17",
-      "time": "19:30",
-      "endTime": null,
-      "location": "Oslo Spektrum, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/tove-lo--estrus-tickets/1143612962?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/tove-lo--estrus-tickets/1143612962?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/586/506e13bd-ea87-4976-949b-48eb9afb1586_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z1kk3Atjs",
-      "title": "Saint Levant - AFANDI WORLD TOUR",
-      "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's.",
-      "date": "2026-11-19",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Rockefeller, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/saint-levant-afandi-world-tour-tickets/192169731?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/saint-levant-afandi-world-tour-tickets/192169731?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/023/94d3e3a2-ff1c-491f-8137-10e4c6529023_TABLET_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z1k__k4vd",
-      "title": "Side Brok",
-      "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's.",
-      "date": "2026-11-20",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Sentrum Scene, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/side-brok-tickets/659195043?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/side-brok-tickets/659195043?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/98e/a01a8912-71c9-4e4b-913d-5adc01fbf98e_TABLET_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16v0aAoop",
-      "title": "Dirty Oppland",
-      "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's. Read the organizer's terms of purchase here. See www.rockefeller.no for the complete program.. Practical information about the concerts can be found here. The nearest transport hub is Storgata and/or Jernbanetorget. See ruter.no for more info.",
-      "date": "2026-11-20",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Rockefeller, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/dirty-oppland-tickets/1909151456?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/dirty-oppland-tickets/1909151456?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/dac/3b759cc4-faa6-4eff-af5c-e2e4784e5dac_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z1k8aZb4S",
-      "title": "CC Cowboys",
-      "description": "Doors Open kl. 19.00. The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's Read the organizer's terms of purchase here. See www.rockefeller.no for the complete program.. Practical information about the concerts can be found here. The nearest transport hub is Storgata and/or Jernbanetorget. See ruter.no for more info.",
-      "date": "2026-11-21",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Sentrum Scene, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/cc-cowboys-tickets/409018573?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/cc-cowboys-tickets/409018573?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/098/80f9e904-c213-4e28-94b0-924136297098_SOURCE",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z1krF8o_U",
-      "title": "glaive with kurtains: God Save The Three Tour",
-      "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's.",
-      "date": "2026-11-22",
-      "time": "19:00",
-      "endTime": null,
-      "location": "John Dee, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/glaive-with-kurtains-god-save-the-three-tour-tickets/788411676?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/glaive-with-kurtains-god-save-the-three-tour-tickets/788411676?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/35b/d16bb569-f7ab-4492-9377-220907e4d35b_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16vC37VOY",
-      "title": "Destinations // Danseshow med OSI Gruppedans",
-      "description": "OSI Gruppedans is thrilled to invite you to this autumn's danceshow \"Destinations\"! We will bring you along on an unforgettable journey through a variety of different destinations, both from our world and beyond. The audience can expect to experience the city life, outer space and magical dance pavilions, all without having to do any of the planning! All 24 numbers are choreographed by our talented instructors, and offer an array of dance styles, from ballet, jazz, modern and contemporary fusion to hiphop, girly and female dancehall -- all performed by dance-loving students! If you need to daydream yourself away from studies and work, are looking for a new holiday destination or if you're just a big dance enthusiast, all you've got to do is pack your suitcase, have your ticket ready and prepare for take-off! OSI Gruppedans is a student dance association for Oslo students under the OSI umbrella (Oslo Students Sports Club), offering dance courses in jazz, hip hop, house, modern, contemporary fusion, classical ballet, female dancehall, girly jazz and girly hip hop every semester. The courses are offered at different levels, allowing everyone to be challenged and experience the joy of dance. We work towards a dance performance every semester where the dancers can shine on stage like the stars they are! Photography: Horgen_foto Design: Iselin Charlotte Rabben Nilsen",
-      "date": "2026-11-24",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Chateau Neuf,Storsalen, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/destinations-danseshow-med-osi-gruppedans-tickets/1392134830?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/destinations-danseshow-med-osi-gruppedans-tickets/1392134830?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/824/6595b2ea-d54a-4582-86ca-61b24609f824_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z1kovbKbE",
-      "title": "Hanna & de heldige - «Samma det vel!»",
-      "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's.",
-      "date": "2026-11-26",
-      "time": "17:00",
-      "endTime": null,
-      "location": "Sentrum Scene, Oslo",
-      "categories": [
-        "teater"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/hanna--de-heldige-samma-det-vel-tickets/441613627?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/hanna--de-heldige-samma-det-vel-tickets/441613627?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/30d/c11f7fbf-af5d-45f7-b3c8-f39151c0130d_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16v4fbJ44",
-      "title": "The Sheepdogs",
-      "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's. Read the organizer's terms of purchase here. See www.rockefeller.no for the complete program.. Practical information about the concerts can be found here. The nearest transport hub is Storgata and/or Jernbanetorget. See ruter.no for more info.",
-      "date": "2026-11-26",
-      "time": "19:00",
-      "endTime": null,
-      "location": "John Dee, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/the-sheepdogs-tickets/1554626555?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/the-sheepdogs-tickets/1554626555?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/393/4d699cc3-36d5-4ff5-98ee-ad8d74ed6393_TABLET_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16vuA8pfd",
-      "title": "VAMP",
-      "description": "Doors Open kl. 19.00. The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's Read the organizer's terms of purchase here. See www.rockefeller.no for the complete program.. Practical information about the concerts can be found here. The nearest transport hub is Storgata and/or Jernbanetorget. See ruter.no for more info.",
-      "date": "2026-11-26",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Rockefeller, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/vamp-tickets/1345416503?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/vamp-tickets/1345416503?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/41a/b114b0ec-2390-4dd2-b7c3-6111ec96c41a_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z1kaS_3jx",
-      "title": "Det Norske Kammerorkester // Amnesty og Kammerorkesteret",
-      "description": "Gjennom 2026 har Det Norske Kammerorkester hatt et tett samarbeid med Amnesty International Norge. Gjennom ulike konserter har orkesteret løftet frem temaer fra Amnestys arbeid med menneskerettigheter. Denne kvelden er viet samarbeidet i sin helhet. Med inspirasjon fra den klassiske symfonien er konserten bygget opp i fire deler, som til sammen danner en musikalsk bevegelse. Vi begynner med å tegne opp et landskap. Deretter følger en roligere del, der vi kommer tettere på det menneskelige. Så åpner det seg igjen, med mer bevegelse og energi. Til slutt peker musikken fremover -- mot handling og håp. Med et særlig fokus på kvinners rettigheter denne kvelden, er det naturlig å la stemmene til Katarina Barruk og Ghawgha Taban bære mye av det vi ønsker å formidle. Program J. S. Bach / Max Reger - O Mensch, bewein dein Sünde gross Erkki-Sven Tüür - Action for string orchestra Ghawgha - Man Kabulam Boat Sing for me Franz Schubert - Fra Døden og piken, op. 7 no. 3 Missy Mazzoli - Vespers for Violin Arvo Pärt - Fratres for violin, strings and percussion Sanger av Katarina Barruk Medvirkende Pekka Kuusisto, kunstnerisk leder Katarina Barruk, vokal Ghawgha, vokal",
-      "date": "2026-11-26",
       "time": "19:00",
       "endTime": null,
       "location": "Kulturkirken Jakob, Oslo",
@@ -1020,30 +1046,9 @@
       ],
       "priceFrom": null,
       "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/det-norske-kammerorkester-amnesty-og-kammerorkesteret-tickets/273652722?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/det-norske-kammerorkester-amnesty-og-kammerorkesteret-tickets/273652722?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/151/86c45ee2-91a9-4d0e-991d-74d0d3ef1151_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16v38kfe3",
-      "title": "beabadoobee: The Powerlines Tour",
-      "description": null,
-      "date": "2026-11-27",
-      "time": "18:30",
-      "endTime": null,
-      "location": "Oslo Spektrum, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/beabadoobee-the-powerlines-tour-tickets/1490194092?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/beabadoobee-the-powerlines-tour-tickets/1490194092?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/696/f8aa5376-37a5-42a1-aec2-c6886ca22696_SOURCE",
+      "ticketUrl": "https://www.ticketmaster.no/event/grand-piano-theater-music-by-hans-zimmer-ludovico-einaudi--more-tickets/291243594?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/grand-piano-theater-music-by-hans-zimmer-ludovico-einaudi--more-tickets/291243594?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/256/af31cae1-4396-44d4-b102-4261df688256_SOURCE",
       "imageEmoji": "🎵",
       "sponsored": false,
       "featured": false,
@@ -1053,7 +1058,7 @@
   "meta": {
     "city": "oslo",
     "count": 49,
-    "fetchedAt": "2026-10-22T09:50:09.144Z",
+    "fetchedAt": "2026-10-23T09:44:33.643Z",
     "sources": {
       "ticketmaster": 50,
       "scrape": 0
