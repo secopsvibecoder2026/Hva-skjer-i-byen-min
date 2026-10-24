@@ -1,156 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-LvZ18QIq92UxSuZ2BteR4",
-      "title": "Oslo Negativ 2026",
-      "description": null,
-      "date": "2026-10-23",
-      "time": "14:00",
-      "endTime": null,
-      "location": "Nasjonalgalleriet, Oslo",
-      "categories": [
-        "teater"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.universe.com/events/oslo-negativ-2026-tickets-NK1SGH?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/oslo-negativ-2026-tickets-NK1SGH?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/99a/17bf547c-c64a-4395-84c2-f69dcdda699a_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎭",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16vod_aop",
-      "title": "HØSTSABBAT 2026 (FESTIVAL PASS)",
-      "description": "Høstsabbat once again returns to the Church of Riffs the 23rd and 24th of October. The Oslo boutique festival which mixes the best of every crushing genre. The Church of Riffs, the Crypt, and our new venue Kafé Hærverk, will once again be laid to waste. Kicking of with the first wave of bands, mixing stonermetal, doom, psych, punk and hardcore. NO: Høstsabbat er tilbake i år igjen, 23 og 24 Oktober i the Church of Riffs! Boutique festivalen som samler det beste fra de hardeste sjangerne. Veggene vil riste i the Church of Riffs, Krypten og vår nye venue Kafé Hærverk. Vi sparker igang annonseringene med første bølge av band, med stonermetal, doom, psych, punk og hardcore! Ingen vergeordning: Det er ikke mulig for de under 18 år å komme inn med verge på Høstsabbat.",
-      "date": "2026-10-23",
-      "time": "15:30",
-      "endTime": null,
-      "location": "Kulturkirken Jakob, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/hstsabbat-2026-festival-pass--tickets/1443649456?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/hstsabbat-2026-festival-pass--tickets/1443649456?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/877/8fc939a5-2adc-481d-adde-3a21a47ae877_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z1krFafv0",
-      "title": "HØSTSABBAT 2026 (FRIDAY)",
-      "description": "Høstsabbat once again returns to the Church of Riffs the 23rd and 24th of October. The Oslo boutique festival which mixes the best of every crushing genre. The Church of Riffs, the Crypt, and our new venue Kafé Hærverk, will once again be laid to waste. Kicking of with the first wave of bands, mixing stonermetal, doom, psych, punk and hardcore. This ticket is for friday only. NO: Høstsabbat er tilbake i år igjen, 23 og 24 Oktober i the Church of Riffs! Boutique festivalen som samler det beste fra de hardeste sjangerne. Veggene vil riste i the Church of Riffs, Krypten og vår nye venue Kafé Hærverk. Vi sparker igang annonseringene med første bølge av band, med stonermetal, doom, psych, punk og hardcore! Denne billetten er dagspass for fredag. Ingen vergeordning: Det er ikke mulig for de under 18 år å komme inn med verge på Høstsabbat.",
-      "date": "2026-10-23",
-      "time": "15:30",
-      "endTime": null,
-      "location": "Kulturkirken Jakob, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/hstsabbat-2026-friday--tickets/788254064?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/hstsabbat-2026-friday--tickets/788254064?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/15c/6273a1cb-21e2-4246-bf2c-7592e311215c_SOURCE",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16eZEG0bs",
-      "title": "The Impossible Green",
-      "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's.",
-      "date": "2026-10-23",
-      "time": "19:00",
-      "endTime": null,
-      "location": "John Dee, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/the-impossible-green-tickets/2027324631?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/the-impossible-green-tickets/2027324631?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/a15/054d25f2-fd29-4556-8d08-2b9b7ab2ea15_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16v068O8z",
-      "title": "Myles Sanko - Flyttet Til Kulturhuset",
-      "description": "Den internasjonalt anerkjente soul- og jazzartisten Myles Sanko slipper sitt syvende studioalbum, I See My Light, 11. september 2026. Albumet bygger videre på den personlige og kunstneriske reisen som startet med Let It Unfold (2024), og utforsker temaer som selvkjærlighet, vekst og indre styrke. Med sin karakteristiske blanding av soul, jazz og hiphop, inspirert av sine ghanesiske røtter, leverer Sanko et album preget av varme, ærlighet og håp. I See My Light markerer neste kapittel i hans uavhengige karriere, utgitt på eget plateselskap, 213 Music. I forbindelse med albumslippet legger Myles Sanko ut på en omfattende europaturné, I See My Light Tour, og kommer til SALT i Oslo torsdag 23. oktober 2026 sammen med sitt faste band. Dørene åpner kl. 19.30. Konsertstart kl. 20.00. ID: 18+. Myles Sanko har etablert seg som en av Europas mest særegne soulstemmer, og har fått ros fra blant andre MOJO Magazine, Rolling Stone og BBC Radio 6 for sin unike kombinasjon av soul, jazz og moderne uttrykk.",
-      "date": "2026-10-23",
-      "time": "20:00",
-      "endTime": null,
-      "location": "Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/myles-sanko-flyttet-til-kulturhuset-tickets/1907420438?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/myles-sanko-flyttet-til-kulturhuset-tickets/1907420438?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/4d6/6fe20401-d6e8-4e87-9ebe-9947b2f424d6_548821_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z1kOyj_8z",
-      "title": "Hot Wheels Stunt Show",
-      "description": null,
-      "date": "2026-10-24",
-      "time": "10:30",
-      "endTime": null,
-      "location": "Unity Arena, Fornebu",
-      "categories": [
-        "familie",
-        "barn"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/hot-wheels-stunt-show-tickets/839719438?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/hot-wheels-stunt-show-tickets/839719438?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/d75/0453e4d0-2642-4d80-8fca-a94e7dd40d75_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18QIq92TzcduJoFCSs",
-      "title": "Oslo Negativ 2026",
-      "description": null,
-      "date": "2026-10-24",
-      "time": "11:00",
-      "endTime": null,
-      "location": "Nasjonalgalleriet, Oslo",
-      "categories": [
-        "teater"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.universe.com/events/oslo-negativ-2026-tickets-NK1SGH?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/oslo-negativ-2026-tickets-NK1SGH?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/99a/17bf547c-c64a-4395-84c2-f69dcdda699a_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎭",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z1kj_PA7p",
       "title": "HØSTSABBAT 2026 (SATURDAY)",
       "description": "Høstsabbat once again returns to the Church of Riffs the 23rd and 24th of October. The Oslo boutique festival which mixes the best of every crushing genre. The Church of Riffs, the Crypt, and our new venue Kafé Hærverk, will once again be laid to waste. Kicking of with the first wave of bands, mixing stonermetal, doom, psych, punk and hardcore. This ticket is for saturday only. NO: Høstsabbat er tilbake i år igjen, 23 og 24 Oktober i the Church of Riffs! Boutique festivalen som samler det beste fra de hardeste sjangerne. Veggene vil riste i the Church of Riffs, Krypten og vår nye venue Kafé Hærverk. Vi sparker igang annonseringene med første bølge av band, med stonermetal, doom, psych, punk og hardcore! Denne billetten er dagspass for lørdag. Ingen vergeordning: Det er ikke mulig for de under 18 år å komme inn med verge på Høstsabbat.",
@@ -168,6 +18,28 @@
       "affiliateUrl": "https://www.ticketmaster.no/event/hstsabbat-2026-saturday--tickets/719945116?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/e/0a8/c0c67ac9-2b3f-4830-967a-0b2b556670a8_SOURCE",
       "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1krFae0I",
+      "title": "Hot Wheels Stunt Show",
+      "description": "Basert på verdens mest solgte leketøy og The Original Stunt Brand™, bringer Hot Wheels Stunt Show et helt nytt, adrenalinfylt konsept til norske publikummere. Showet samler noen av verdens beste stuntførere i en intens konkurranse der hvert nummer overgår det forrige. Høyere hopp, villere triks og stadig mer spektakulære øyeblikk. Publikum kan forvente en eksplosjon av fart, spenning og rå energi når det ikoniske Hot Wheels universet vekkes til live i et actionfylt innendørs motorshow for hele familien på Unity Arena. Ikoniske kjøretøy, inkludert Hot Wheels bilene, streetbikes og ATV-er, vil levere presisjonskjøring i verdensklasse, halsbrekkende baklengssaltoer, massive rampehopp og den legendariske 10 meter høye 360 graders loopen. I tillegg byr arrangementet på interaktive fanopplevelser, utstillinger og opptredener fra kjente Hot Wheels-favoritter som GT Scorcher, Boneshaker og Rodger Dodger. -- Dette er ikke bare et show, det er en adrenalinfylt og spektakulær opplevelse for hele familien. Enten du er en dedikert samler eller en fremtidig racingstjerne, er dette en opplevelse du ikke vil gå glipp av, sier Tim Salvesen i FKP Scorpio Norge. Start forestillingen med en eksklusiv fanopplevelse Som en del av arrangementet inviteres publikum til den 60 minutter lange Hot Wheels Pre-Show Party før hver forestilling. Her får fans muligheten til å gå på arenaområdet, møte førerne, sikre seg autografer, ta bilder med kjøretøyene og delta i ulike interaktive aktiviteter. Om Mattel Mattel er et ledende globalt leketøy og underholdningsselskap med en av verdens mest ikoniske merkevareporteføljer, inkludert Barbie®, Hot Wheels®, Fisher-Price® og UNO®. Siden 1945 har selskapet inspirert generasjoner til lek, kreativitet og utvikling. For mer informasjon om showet, innslippstider etc, se FKP Scorpio eller Unity Arena Transport Benytt kollektivtransport til Unity Arena. Se unityarena.no eller ruter.no for kollektivtilbud. Rullestol / Ledsager Rullestol/ledsagerbillett selges parvis (1 rullestolplass + 1 ledsagerplass) via denne linken . Begrenset antall plasser. Kontakt kundesenteret her hvis du har spørsmål eller trenger kjøpshjelp. Generell informasjon Arrangør forbeholder seg retten til å nekte adgang til personer som motsetter seg personlig visitasjon (Dette kan inkludere kroppsvisitering og sjekk av eventuell bagasje). Se også unityarena.no for mer informasjon om effekter som ikke er lov å ta med inn på arenaen. Bortviste personer har ikke krav på å få refundert billettutgifter. Ingen aldersgrense, men barn under 15 år må være i følge med en voksen person (ref. Politiloven i Bærum Kommune).",
+      "date": "2026-10-24",
+      "time": "18:00",
+      "endTime": null,
+      "location": "Unity Arena, Fornebu",
+      "categories": [
+        "familie",
+        "barn"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/hot-wheels-stunt-show-tickets/788242928?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/hot-wheels-stunt-show-tickets/788242928?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/d75/0453e4d0-2642-4d80-8fca-a94e7dd40d75_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageEmoji": "🎪",
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
@@ -194,27 +66,6 @@
       "source": "ticketmaster"
     },
     {
-      "id": "tm-Z698xZb_Z1AMJdGe",
-      "title": "Hot Wheels Stunt Show",
-      "description": null,
-      "date": "2026-10-25",
-      "time": "10:30",
-      "endTime": null,
-      "location": "Unity Arena, Fornebu",
-      "categories": [
-        "teater"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/hot-wheels-stunt-show-tickets/37983302?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/hot-wheels-stunt-show-tickets/37983302?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/d75/0453e4d0-2642-4d80-8fca-a94e7dd40d75_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "imageEmoji": "🎭",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-LvZ18QIq92TzcduJoFCSw",
       "title": "Oslo Negativ 2026",
       "description": null,
@@ -230,6 +81,27 @@
       "ticketUrl": "https://www.universe.com/events/oslo-negativ-2026-tickets-NK1SGH?ref=ticketmaster",
       "affiliateUrl": "https://www.universe.com/events/oslo-negativ-2026-tickets-NK1SGH?ref=ticketmaster&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/a/99a/17bf547c-c64a-4395-84c2-f69dcdda699a_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎭",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1AMJdGe",
+      "title": "Hot Wheels Stunt Show",
+      "description": null,
+      "date": "2026-10-25",
+      "time": "11:30",
+      "endTime": null,
+      "location": "Unity Arena, Fornebu",
+      "categories": [
+        "teater"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/hot-wheels-stunt-show-tickets/37983302?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/hot-wheels-stunt-show-tickets/37983302?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/d75/0453e4d0-2642-4d80-8fca-a94e7dd40d75_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "imageEmoji": "🎭",
       "sponsored": false,
       "featured": false,
@@ -323,6 +195,27 @@
       "source": "ticketmaster"
     },
     {
+      "id": "tm-Z698xZb_Z16vOtPtjz",
+      "title": "Myles Sanko - Flyttet Til Kulturhuset",
+      "description": "Den internasjonalt anerkjente soul- og jazzartisten Myles Sanko slipper sitt syvende studioalbum, I See My Light, 11. september 2026. Albumet bygger videre på den personlige og kunstneriske reisen som startet med Let It Unfold (2024), og utforsker temaer som selvkjærlighet, vekst og indre styrke. Med sin karakteristiske blanding av soul, jazz og hiphop, inspirert av sine ghanesiske røtter, leverer Sanko et album preget av varme, ærlighet og håp. I See My Light markerer neste kapittel i hans uavhengige karriere, utgitt på eget plateselskap, 213 Music. I forbindelse med albumslippet legger Myles Sanko ut på en omfattende europaturné, I See My Light Tour, og kommer til SALT i Oslo torsdag 23. oktober 2026 sammen med sitt faste band. Dørene åpner kl. 19.30. Konsertstart kl. 20.00. ID: 18+. Myles Sanko har etablert seg som en av Europas mest særegne soulstemmer, og har fått ros fra blant andre MOJO Magazine, Rolling Stone og BBC Radio 6 for sin unike kombinasjon av soul, jazz og moderne uttrykk.",
+      "date": "2026-10-27",
+      "time": "20:00",
+      "endTime": null,
+      "location": "Oslo",
+      "categories": [
+        "teater"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/myles-sanko-flyttet-til-kulturhuset-tickets/1829969738?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/myles-sanko-flyttet-til-kulturhuset-tickets/1829969738?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/545/447dd0b0-207b-4868-98e9-1e0fbabea545_SOURCE",
+      "imageEmoji": "🎭",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
       "id": "tm-Z698xZb_Z1kGpJb0O",
       "title": "Oslo World: Marcel Khalife - Promises of the Storm",
       "description": "A Lebanese legend opens Oslo World. The Lebanese oud player, singer, and composer Marcel Khalife is a folk hero in the Arab world. With a career spanning six decades, he has combined effortless mastery of his instrument with political outspokenness and poetry. When he first set the words of the great Palestinian poet Mahmoud Darwish to music, he had no idea it was the prelude to a meeting that would forge a deep and enduring friendship between the two men a few years later---even as the songs themselves resonated across the globe. Promises of the Storm was influenced by Arab-Andalusian traditions and contemporary Middle Eastern politics. Channeling the poetry by Dahrwish and his Palestinian compatriot Izzidine Al Munassrah, Khalifé sung in colloquial Arabic. It was his way of dignifying the common people. The album became iconic in the Arab community and beyond, and to mark the fiftieth anniversary, Marcel Khalife has re-recorded it as a solo project. To have Marcel Khalife opening our festival has been a dream for many years. We are proud to present him this year, in a format stripped down to its bare essential: his magnificently seasoned tenor voice accompanied solely by his most faithful companion, the oud. After the concert in the Chateau Neuf Auditorium, the Swiss/Moroccan multi-instrumentalist Sami Galbi will play at Betong, where the opening party continues. All tickets for Marcel Khalife automatically include entry to Sami Galbi's concert at Betong later that night. Please note: The concert with Sami Galbi has an 18+ age limit, with no guardian exception.",
@@ -374,8 +267,7 @@
       "endTime": null,
       "location": "Kulturkirken Jakob, Oslo",
       "categories": [
-        "konsert",
-        "uteliv"
+        "konsert"
       ],
       "priceFrom": null,
       "currency": null,
@@ -1053,12 +945,138 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18QEE7nHvatzixnMhG",
+      "title": "Avind // Parksalongen",
+      "description": null,
+      "date": "2026-11-14",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.universe.com/events/avind-parksalongen-tickets-08FHLY?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/avind-parksalongen-tickets-08FHLY?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kC6fZoe",
+      "title": "Fri Da Tarab",
+      "description": "Fri Da Tarab is a night of Arabic song. Frida Marida and Ahmad Alak take the old tarab classics and today's Arab pop, and set them beside international songs everyone already knows --- reworked with a Middle Eastern twist. Two hours, acoustic, with Ashuri on guitar. Familiar melodies in unfamiliar colours, and a room that sings along whether or not it knows the words. Event start time / concert start time : 20:00 Doors open : 60 min før Length : 60 min Catering:: Beer / Wine Age limit : 18 Companion ticket : If you hold a companion certificate, you are eligible for a companion ticket. To request a companion ticket, please email billett@oslonye.no. A valid companion certificate must be presented upon arrival at the performance. Wheelchair access: No Parking available: No Organizer's website",
+      "date": "2026-11-14",
+      "time": "20:00",
+      "endTime": null,
+      "location": "Oslo Nye Teaterkjelleren, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/fri-da-tarab-tickets/387500442?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/fri-da-tarab-tickets/387500442?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/1f1/2b1deed2-fb15-4b51-8e22-d727c62701f1_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16ve83ovU",
+      "title": "Nøtteknekkeren – klassisk julbalett med strykekvartett",
+      "description": "World-class performance by Etoile Production. The world-famous ballet Nutcracker performed by Ukrainian ballet stars will be a magical Christmas gift for the whole family! A beautiful fairy tale about the adventures of young Clara and the Nutcracker Prince, full of exciting stories, was transformed by Pyotr Tchaikovsky in 1892 into the world's most popular classical ballet. Today, the Nutcracker has become a global Christmas tradition, and this performance is staged annually on theater and opera stages around the world. The universal language of dance is understood without translation by any audience - the stage will present a coming-of-age story about children, revealing a young girl's fragile dream and the struggle between good and evil, where love ultimately triumphs. Dancing snowflakes, the Nutcracker Prince, toy soldiers and the Sugar Plum Fairy come to life in this magical family classic. Experience a wonderful adventure with the little girl Clara, who falls asleep on Christmas Eve. She meets her prince, faces a battle against enormous mice and rats, and is transported to the lush Sugar Land. The story is much more than just a Christmas fairy tale. It is a tale of growing up, which is also reflected in the dance. Now is the time to immerse yourself in this magical world, forget about worries and stress, remember childhood dreams and fill your soul with inspiration, warmth and new dreams. The perfect ballet for children The Nutcracker is an ideal ballet for children to experience for the first time. If you are going to the ballet with a child, we recommend reading Hoffman's Nutcracker and The Musketeer together. You can also read the libretto at https://www.kulturforfolket.com/performance/the-nutcracker, where you will find descriptions of each ballet scene that can help you answer your child's questions. In addition, this ballet will bring a sense of wonder and beauty to both young and adult audience members, filling everyone with the Christmas spirit! Authentic Classical Ballet The performance of Marius Petipa's classical choreography is performed by Etoile Production -- a company organized in Kyiv by soloists of the Kharkiv Opera and Ballet Theatre of Ukraine, Irina and Anatoly Khandazhevsky. The performers include professional ballet dancers of the highest level -- winners of international ballet competitions, Honored Artists of Ukraine, soloists of Ukrainian, and from February 2022, European theatres. The company uses authentic, handmade theatre costumes and decor in its productions. The costumes are real professional ballet costumes, carefully designed so that they do not constrain the dancers' movements and allow them to fully demonstrate their skill on stage. A professional theatre lighting designer accompanies the ballet performance and creates an unforgettable atmosphere during the show. There are no cheap decorations or flashy decorations -- only true high art of professional theatre performance. The ballet is accompanied live by a string quartet, which gives the performance an intimate and warm Christmas atmosphere. The quartet performs on stage as part of the production and plays during key scenes, creating a close connection between music and dance. In addition, the performance uses a high-quality recording of the Kharkiv Opera Orchestra, which is combined with the live quartet to support the action on stage. This is a unique opportunity to see real classical ballet of the highest level, performed by world ballet stars, with live music on stage. Ballet soloists: Irina Khandazhevskaya, prima ballerina, Honored Artist of Ukraine, soloist of the Kharkiv Opera and Ballet Theater, choreographer, diploma winner of the International Ballet Competition \"Premio Roma\". Honorary Prize \"People's Recognition 2010\" in the artist category. Awarded the \"P. Virsky Prize\" in the choreography category in 2007. @irinakhandazhevskaya Anatoly Khandazhevsky, soloist of the Kharkiv Opera and Ballet Theater (Ukraine), choreographer, 2nd prize winner of the international competition in Tallinn. @anatoliikhandazhevskii Maria Shupilova, soloist of the Kyiv Opera. @shupilova_maria Kristina Kadashevich, first soloist of the Kharkiv Opera and Ballet Theatre, laureate of international ballet competitions. Katerina Andrenko, soloist of the Odessa National Opera, Hamburg Chamber Ballet, Opera Poznan. @andrenko_kate Dmitry Lazovik, soloist of the Belarusian State Academic Musical Theatre, laureate of international ballet competitions. Vsevolod Maievskyi, soloist of the Dutch National Ballet, former soloist of the English National Ballet, Ukrainian-born former dancer of the Mariinsky Ballet. @vsevolod_maievskyi Larisa Hrytsay, soloist of the Kharkiv Opera and Ballet Theatre (Ukraine), soloist of the Odessa National Opera. @lorikeets89 Audience feedback: Birgitta: A wonderful break from everyday life! Beautiful costumes, skillful dancing, beautiful music and everything took me to a dream world for a while. Ami: Fantastic! The Grand Pas de deux was so beautiful that I started to cry! Ingrid: Fantastically beautiful dance and music, and beautiful costumes! The tour is presented by the Norwegian organization Kultur for Folket, a company focused on delivering high-quality cultural events. More information about the ballet and the artists can be found on the website https://www.kulturforfolket.com. Event time/concert start: 18:00 Doors open: 30 min before Duration: 130 min Serving: Kiosk Beer / Wine Age limit: No age limit Wheelchair/companion. Dedicated spaces for wheelchairs and companions for wheelchair users at the back of field A/F. Companions pay regular price. For Group bookings, fill out this form: Group sales",
+      "date": "2026-11-15",
+      "time": "18:00",
+      "endTime": null,
+      "location": "Chateau Neuf,Storsalen, Oslo",
+      "categories": [
+        "teater"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/notteknekkeren--klassisk-julbalett-med-strykekvartett-tickets/1090491076?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/notteknekkeren--klassisk-julbalett-med-strykekvartett-tickets/1090491076?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/b24/affced5a-a655-456e-a7f8-8ea6255acb24_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎭",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16eZAPO-7",
+      "title": "Alle fugler // Kanskje du behøver noen",
+      "description": "Alle fugler er en ideell organisasjon og et nystartet korprosjekt som ønsker å skape sangglede og sangfelleskap for alle -- uavhengig av hvem du er, og hvor du kommer fra. På konserten skal korene fremføre sanger både sammen, og hver for seg. Repertoaret består av norsk og engelsk rock, pop og progrock fra 80- og 90-tallet og mange av sangene har nok aldri tidligere blitt fremført som korsanger. Her får man blant annet høre sanger av Raga Rockers, Kjøtt, Dumdum Boys, CC Cowboys og Ole Paus. Alle fugler er også så heldige å få med seg musiker og felespiller Tuva Livsdatter Syvertsen med på konserten. Hun er blant annet kjent som frontfigur og vokalist i Valkyrien Allstars og skal både være konferansier, og synge noen av sine egne sanger. I tillegg kommer biskopen i Oslo Sunniva Gylver og deler noen ord til ettertanke. Det blir også andre kunstneriske innslag på konserten som diktlesning og en egen kunstutstilling med arbeider laget av innsatte i norske fengsler. Alle fugler drives i samarbeid med blant annet Røde Kors, Værestedet Kjeller'n T33, Norsk sangerforum, Stiftelsen Petter Uteligger og Musikken studieforbund har vi startet to kvitrende kor som øver ukentlig. Kom og vær sammen med oss! Konserten er gratis.",
+      "date": "2026-11-17",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Kulturkirken Jakob, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/alle-fugler-kanskje-du-behover-noen-tickets/2005960844?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/alle-fugler-kanskje-du-behover-noen-tickets/2005960844?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/256/af31cae1-4396-44d4-b102-4261df688256_SOURCE",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vf03ZbI",
+      "title": "Naomi Klein og Astra Taylor: End Times Fascism",
+      "description": "Naomi Klein og Astra Taylor: End times Fascism Tirsdag 17. november kommer Naomi Klein og Astra Taylor til Chateau Neuf for å prate om sin nyeste bok End Times Fascism: And the Fight for the Living World. En ny, apokalyptisk allianse av religiøse fundamentalister, milliardærene i Silicon Valleys teknologielite og etnonasjonalister er på frammarsj. De er forent i troen på at en eller annen form for rensende katastrofe er på vei, og de ønsker en framtid preget av sjokk, knapphet og sammenbrudd velkommen, overbevist om at de selv vil være blant de frelste på den andre siden. Dette er verdenen til endetidsfascismen. Siden utgivelsen 12. september har boka alt blitt en bestselger i USA. Arrangementstidspunkt/konsertstart : 19:00 Dørene åpner : 30 min før Varighet : 90 min Aldersgrense : 18 Arrangementer i Storsalen har garderobeplikt. Garderobeavgift er inkludert i billetten. Ledsager : Som ordinær pris Ønsker du å bestille med faktura for flere personer 10> ta kontakt med gruppesalg",
+      "date": "2026-11-17",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Chateau Neuf,Storsalen, Oslo",
+      "categories": [],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/naomi-klein-og-astra-taylor-end-times-fascism-tickets/1524480628?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/naomi-klein-og-astra-taylor-end-times-fascism-tickets/1524480628?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/217/7df0c184-4430-446c-8b17-47655929e217_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vAdb3Px",
+      "title": "Tove Lo – ESTRUS",
+      "description": null,
+      "date": "2026-11-17",
+      "time": "19:30",
+      "endTime": null,
+      "location": "Oslo Spektrum, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/tove-lo--estrus-tickets/1143612962?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/tove-lo--estrus-tickets/1143612962?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/586/506e13bd-ea87-4976-949b-48eb9afb1586_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
-    "count": 49,
-    "fetchedAt": "2026-10-23T09:44:33.643Z",
+    "count": 50,
+    "fetchedAt": "2026-10-24T09:17:32.424Z",
     "sources": {
       "ticketmaster": 50,
       "scrape": 0
