@@ -1,33 +1,10 @@
 {
   "events": [
     {
-      "id": "scrape-gen-barnas-teaterl-rdag-kn-rv-2026-10-24",
-      "title": "Barnas teaterlørdag – Knørv",
-      "description": "Få billetter igjen",
-      "date": "2026-10-24",
-      "time": null,
-      "endTime": null,
-      "location": "Lillestrøm",
-      "categories": [
-        "uteliv",
-        "barn",
-        "teater"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17544-barnas-teaterlordag-knorv/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17544-barnas-teaterlordag-knorv/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
-      "id": "scrape-gen-legally-blonde-2026-10-24",
+      "id": "scrape-gen-legally-blonde-2026-10-25",
       "title": "Legally Blonde",
-      "description": "24. okt. – 1. nov.\n5 forestillinger",
-      "date": "2026-10-24",
+      "description": "25. okt. – 1. nov.\n4 forestillinger",
+      "date": "2026-10-25",
       "time": null,
       "endTime": null,
       "location": "Lillestrøm",
@@ -36,46 +13,6 @@
       "currency": null,
       "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17485-legally-blonde/",
       "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17485-legally-blonde/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
-      "id": "scrape-gen-30-r-med-kor-i-lia-2026-10-24",
-      "title": "30 år med Kor i Lia",
-      "description": "Lørdag 24. oktober\nkl. 18.00",
-      "date": "2026-10-24",
-      "time": null,
-      "endTime": null,
-      "location": "Lillestrøm",
-      "categories": [
-        "konsert"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17623-30-ar-med-kor-i-lia/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17623-30-ar-med-kor-i-lia/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
-      "id": "scrape-gen-a-night-at-the-movies-2026-10-24",
-      "title": "A Night at the Movies",
-      "description": "24. okt. – 25. okt.\n2 forestillinger",
-      "date": "2026-10-24",
-      "time": null,
-      "endTime": null,
-      "location": "Lillestrøm",
-      "categories": [],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17219-a-night-at-the-movies/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17219-a-night-at-the-movies/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -95,6 +32,25 @@
       "currency": null,
       "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17121-erik-mogeno-en-buktaler-kommer-sjelden-alene/",
       "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17121-erik-mogeno-en-buktaler-kommer-sjelden-alene/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-a-night-at-the-movies-2026-10-25",
+      "title": "A Night at the Movies",
+      "description": "Få billetter igjen",
+      "date": "2026-10-25",
+      "time": null,
+      "endTime": null,
+      "location": "Lillestrøm",
+      "categories": [],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17219-a-night-at-the-movies/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17219-a-night-at-the-movies/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -2091,11 +2047,11 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 107,
-    "fetchedAt": "2026-10-24T09:17:57.039Z",
+    "count": 105,
+    "fetchedAt": "2026-10-25T09:34:35.709Z",
     "sources": {
       "ticketmaster": 0,
-      "scrape": 110
+      "scrape": 108
     }
   }
 }

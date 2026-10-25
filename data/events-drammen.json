@@ -20,14 +20,57 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16v-83_fK",
+      "title": "Drammen Metalfest",
+      "description": "4. ADDITION METALFEST!! Limited EARLY BIRD and CHAD Festival-tickets are available now! PS: The tickets you buy here are FESTIVALPASSES, even if its just showing one date it is a festivalpass for Friday and Saturday<3 Bands tba.",
+      "date": "2027-09-10",
+      "time": "18:00",
+      "endTime": null,
+      "location": "Kometen, Drammen",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/drammen-metalfest-tickets/1850499513?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/drammen-metalfest-tickets/1850499513?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/754/e62b5d36-22ba-4e05-b50e-be7169e45754_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kvpF0e3",
+      "title": "Drammen Metalfest",
+      "description": "4. ADDITION METALFEST!! Limited EARLY BIRD and CHAD Festival-tickets are available now! PS: The tickets you buy here are FESTIVALPASSES, even if its just showing one date it is a festivalpass for Friday and Saturday<3 Bands tba.",
+      "date": "2027-09-11",
+      "time": "18:00",
+      "endTime": null,
+      "location": "Kometen, Drammen",
+      "categories": [
+        "konsert"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/drammen-metalfest-tickets/56224092?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/drammen-metalfest-tickets/56224092?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/9aa/29dfb60d-2e3c-4972-9d9c-1a11e64799aa_TABLET_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "drammen",
-    "count": 1,
-    "fetchedAt": "2026-10-24T09:17:55.126Z",
+    "count": 3,
+    "fetchedAt": "2026-10-25T09:34:33.403Z",
     "sources": {
-      "ticketmaster": 1,
+      "ticketmaster": 3,
       "scrape": 0
     }
   }
