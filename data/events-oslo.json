@@ -1,28 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z16vFeGJAo",
-      "title": "Europe - The Final Countdown 40th Anniversary",
-      "description": "Doors Open kl. 19.00. The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's Read the organizer's terms of purchase here. See www.rockefeller.no for the complete program.. Practical information about the concerts can be found here. The nearest transport hub is Storgata and/or Jernbanetorget. See ruter.no for more info.",
-      "date": "2026-10-26",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Sentrum Scene, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/europe-the-final-countdown-40th-anniversary-tickets/1202326151?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/europe-the-final-countdown-40th-anniversary-tickets/1202326151?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/ea4/36744b2e-910d-4197-8db7-b166b3d67ea4_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z16vbZrKON",
       "title": "Razorlight",
       "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's.",
@@ -516,7 +494,7 @@
     {
       "id": "tm-Z698xZb_Z1kJ4qAPK",
       "title": "Le Roi David",
-      "description": "Arthur Honegger (1892--1955) composed Le roi David in 1921 for a stage drama by René Morax. The work combines narrated text, soloists, choir, and instrumental ensemble in a form that lies somewhere between an oratorio and musical theatre. Its music brings together archaic elements, French modernism, and liturgically inspired choral writing, and the work has come to occupy an important place in the European sacred music repertoire. The story follows the biblical King David, from his youth as a shepherd and musician in the fields of Bethlehem to his reign as King of Israel. It is a narrative of triumph, doubt, and human vulnerability. In the Christian tradition, David is also associated with the authorship of several of the Psalms, making him a symbolic figure for church music, praise, and worship. Performers: Lydia Tjore Hoen, soprano Mathias Gillebo, tenor Bård Elias Nystøyl, alto Hulda Hein-Gutierrez, the witch Biskop Sunniva Gylver, narrator Stavanger Cathedral Boys Choir Trinity Girls Choir Oslo Cathedral Boys Choir Andreas Løken Taklo, piano Marcus André Berg, organ David Maiwald, organist and artistic director Accessibility: Dedicated wheelchair spaces are available in the south transept. Oslo Cathedral offers step-free access via a ramp and elevator. Please arrive at the main entrance, where our ushers will escort you to the wheelchair-accessible entrance. An accessible restroom is available near the main entrance. Companions may obtain a complimentary ticket. Please remember to bring a valid companion card/ID. If you have any questions, please contact the organizer, Oslo Cathedral Boys' Choir, at +47 930 43 232.",
+      "description": "Arthur Honegger (1892--1955) composed Le roi David in 1921 for a stage drama by René Morax. The work combines narrated text, soloists, choir, and instrumental ensemble in a form that lies somewhere between an oratorio and musical theatre. Its music brings together archaic elements, French modernism, and liturgically inspired choral writing, and the work has come to occupy an important place in the European sacred music repertoire. The story follows the biblical King David, from his youth as a shepherd and musician in the fields of Bethlehem to his reign as King of Israel. It is a narrative of triumph, doubt, and human vulnerability. In the Christian tradition, David is also associated with the authorship of several of the Psalms, making him a symbolic figure for church music, praise, and worship. Performers: Lydia Tjore Hoen, soprano Mathias Gillebo, tenor Bård Elias Nystøyl, alto Hulda Hein-Gutierrez, the witch Kristoffer Olsen, narrator Stavanger Cathedral Boys Choir Trinity Girls Choir Oslo Cathedral Boys Choir Andreas Løken Taklo, piano Marcus André Berg, organ David Maiwald, organist and artistic director Accessibility: Dedicated wheelchair spaces are available in the south transept. Oslo Cathedral offers step-free access via a ramp and elevator. Please arrive at the main entrance, where our ushers will escort you to the wheelchair-accessible entrance. An accessible restroom is available near the main entrance. Companions may obtain a complimentary ticket. Please remember to bring a valid companion card/ID. If you have any questions, please contact the organizer, Oslo Cathedral Boys' Choir, at +47 930 43 232.",
       "date": "2026-11-07",
       "time": "19:00",
       "endTime": null,
@@ -1074,12 +1052,33 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16v7w3fFe",
+      "title": "Prøysen tel by’n",
+      "description": "Prøysen tel by'n i kulturkirken Jakob mandag 23.november kl 19:00 En årlig feiring av Alf Prøysen i Oslo <> er en egen selvstendig forening som arrangerer årlige konserter på Alf Prøysens dødsdag 23 november i Kulturkirken Jakob. Det er initiativtagerne Håkon Paulsberg, Lars Martin Myhre(R.I.P.) og Jørn Simen Øverli som satte i gang dette arrangementet som vi har gjennomført siden 2013. En årlig markering i Oslo bidrar til å løfte fram vår største sangpoet og gi ham den plassen han fortjener. Formålet med denne konserten er å sette lys på Prøysen, hvor ulike artister fra ulike sjangre lager sine egne versjoner av hans sanger. Fra 2016 har dette også blitt en arena for utdeling av Prøysenprisen, ellers er konserten lagt opp som en dugnad i samarbeid mellom arrangør og arister. Noen av årets artister: Elias Akselsen Iren Reppen Symre Magnus Staveland Zakarias Meyer Øverli og Bethany Forseth-Reichberg (Riversun) Kari Svendsen Stian Carstensen",
+      "date": "2026-11-23",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Kulturkirken Jakob, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/proysen-tel-byn-tickets/1132494202?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/proysen-tel-byn-tickets/1132494202?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/fd6/03364234-0ae3-41be-8977-291e5a471fd6_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 50,
-    "fetchedAt": "2026-10-26T10:45:32.693Z",
+    "fetchedAt": "2026-10-27T10:11:55.913Z",
     "sources": {
       "ticketmaster": 50,
       "scrape": 0

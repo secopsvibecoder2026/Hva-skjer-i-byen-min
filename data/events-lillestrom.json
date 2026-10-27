@@ -351,7 +351,7 @@
     {
       "id": "scrape-gen--faen-d-martha-med-martha-leivestad-2026-11-07",
       "title": "«Faen då, Martha!» med Martha Leivestad",
-      "description": "Utsolgt",
+      "description": "Få billetter igjen",
       "date": "2026-11-07",
       "time": null,
       "endTime": null,
@@ -971,6 +971,27 @@
       "source": "scrape"
     },
     {
+      "id": "scrape-gen-ett-fett-storband-den-tradisjonelle-jule-2026-11-29",
+      "title": "Ett Fett storband: Den tradisjonelle julekonserten 2026",
+      "description": "Søndag 29. november\nkl. 19.30",
+      "date": "2026-11-29",
+      "time": null,
+      "endTime": null,
+      "location": "Lillestrøm",
+      "categories": [
+        "konsert"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/18395-ett-fett-storband-den-tradisjonelle-julekonserten-2026/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/18395-ett-fett-storband-den-tradisjonelle-julekonserten-2026/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
       "id": "scrape-gen-f-rjulskos-med-norsk-ballettinstitutt-2026-11-30",
       "title": "Førjulskos med Norsk Ballettinstitutt",
       "description": "30. nov. – 3. des.\n4 forestillinger",
@@ -1030,7 +1051,7 @@
     {
       "id": "scrape-gen-avantgarde-med-espen-abrahamsen-2026-12-04",
       "title": "Avantgarde med Espen Abrahamsen",
-      "description": "Utsolgt",
+      "description": "Få billetter igjen",
       "date": "2026-12-04",
       "time": null,
       "endTime": null,
@@ -1250,7 +1271,7 @@
     {
       "id": "scrape-gen-for-v-r-jord-en-julekonsert-2026-12-17",
       "title": "For vår jord – en julekonsert",
-      "description": "Få billetter igjen",
+      "description": "Utsolgt",
       "date": "2026-12-17",
       "time": null,
       "endTime": null,
@@ -1849,6 +1870,25 @@
       "source": "scrape"
     },
     {
+      "id": "scrape-gen-bjarte-hjelmeland-alene-hjemme-2027-04-01",
+      "title": "Bjarte Hjelmeland – Alene hjemme",
+      "description": "Torsdag 1. april 2027\nkl. 19.00",
+      "date": "2027-04-01",
+      "time": null,
+      "endTime": null,
+      "location": "Lillestrøm",
+      "categories": [],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/18042-bjarte-hjelmeland-alene-hjemme/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/18042-bjarte-hjelmeland-alene-hjemme/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
       "id": "scrape-gen-iselin-guttormsen-kommer-2027-04-02",
       "title": "Iselin Guttormsen – Kommer",
       "description": "Fredag 2. april 2027\nkl. 18.30",
@@ -2009,11 +2049,11 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 103,
-    "fetchedAt": "2026-10-26T10:46:00.257Z",
+    "count": 105,
+    "fetchedAt": "2026-10-27T10:12:18.549Z",
     "sources": {
       "ticketmaster": 0,
-      "scrape": 106
+      "scrape": 108
     }
   }
 }
