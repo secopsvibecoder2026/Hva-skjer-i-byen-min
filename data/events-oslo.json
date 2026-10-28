@@ -1,113 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z16vbZrKON",
-      "title": "Razorlight",
-      "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's.",
-      "date": "2026-10-27",
-      "time": "19:00",
-      "endTime": null,
-      "location": "John Dee, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/razorlight-tickets/1600793823?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/razorlight-tickets/1600793823?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/574/bb076aa6-5610-44d1-9259-bd1ec99ae574_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16v8x4abt",
-      "title": "Unnskyld - Et requiem med Svein Tindberg og Kjetil Bjerkestrand",
-      "description": "UNNSKYLD - et requiem Av og med Svein Tindberg og Kjetil Bjerkestrand En maidag i 2024 fikk komponist og musiker Kjetil Bjerkestrand (70) en tanke han ikke klarte å riste av seg: Fortjener ikke resten av menneskeheten en unnskyldning fra vår generasjon? Fra menn over sytti. For unnfallenhet i møte med klimakrise, urettferdighet, sult og fattigdom. For dårlige bent frem umoralske valg. For likegyldigheten. For å ha tålt urett i over syv tiår. Der mange vender blikket vekk, velger Bjerkestrand og Svein Tindberg å se det rett i øynene og gjøre det til kunst. <> er et requiem som ikke bare sørger, men også søker. Med Tindbergs tekster og Bjerkestrands musikk, og Beate S. Lechs stemme som bærer det hele, er dette en forestilling som tør å stille de vanskelige spørsmålene, og gir deg rom til å sitte med dem. Hva slags håp finnes det for menn over 70, og for alle oss andre? Medvirkende Svein Tindberg (skuespiller) Kjetil Bjerkestrand (piano og keys) Beate S. Lech (vokal) + 2 musikere Tekst: Svein Tindberg Musikk: Kjetil Bjerkestrand",
-      "date": "2026-10-27",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Kulturkirken Jakob, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/unnskyld-et-requiem-med-svein-tindberg-og-kjetil-bjerkestrand-tickets/1422549629?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/unnskyld-et-requiem-med-svein-tindberg-og-kjetil-bjerkestrand-tickets/1422549629?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/6a4/e7bbb906-1a86-48ee-b7a0-a50637b426a4_SOURCE",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16vOtPtjz",
-      "title": "Myles Sanko - Flyttet Til Kulturhuset",
-      "description": "Den internasjonalt anerkjente soul- og jazzartisten Myles Sanko slipper sitt syvende studioalbum, I See My Light, 11. september 2026. Albumet bygger videre på den personlige og kunstneriske reisen som startet med Let It Unfold (2024), og utforsker temaer som selvkjærlighet, vekst og indre styrke. Med sin karakteristiske blanding av soul, jazz og hiphop, inspirert av sine ghanesiske røtter, leverer Sanko et album preget av varme, ærlighet og håp. I See My Light markerer neste kapittel i hans uavhengige karriere, utgitt på eget plateselskap, 213 Music. I forbindelse med albumslippet legger Myles Sanko ut på en omfattende europaturné, I See My Light Tour, og kommer til SALT i Oslo torsdag 23. oktober 2026 sammen med sitt faste band. Dørene åpner kl. 19.30. Konsertstart kl. 20.00. ID: 18+. Myles Sanko har etablert seg som en av Europas mest særegne soulstemmer, og har fått ros fra blant andre MOJO Magazine, Rolling Stone og BBC Radio 6 for sin unike kombinasjon av soul, jazz og moderne uttrykk.",
-      "date": "2026-10-27",
-      "time": "20:00",
-      "endTime": null,
-      "location": "Oslo",
-      "categories": [
-        "teater"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/myles-sanko-flyttet-til-kulturhuset-tickets/1829969738?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/myles-sanko-flyttet-til-kulturhuset-tickets/1829969738?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/545/447dd0b0-207b-4868-98e9-1e0fbabea545_SOURCE",
-      "imageEmoji": "🎭",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z1kGpJb0O",
-      "title": "Oslo World: Marcel Khalife - Promises of the Storm",
-      "description": "A Lebanese legend opens Oslo World. The Lebanese oud player, singer, and composer Marcel Khalife is a folk hero in the Arab world. With a career spanning six decades, he has combined effortless mastery of his instrument with political outspokenness and poetry. When he first set the words of the great Palestinian poet Mahmoud Darwish to music, he had no idea it was the prelude to a meeting that would forge a deep and enduring friendship between the two men a few years later---even as the songs themselves resonated across the globe. Promises of the Storm was influenced by Arab-Andalusian traditions and contemporary Middle Eastern politics. Channeling the poetry by Dahrwish and his Palestinian compatriot Izzidine Al Munassrah, Khalifé sung in colloquial Arabic. It was his way of dignifying the common people. The album became iconic in the Arab community and beyond, and to mark the fiftieth anniversary, Marcel Khalife has re-recorded it as a solo project. To have Marcel Khalife opening our festival has been a dream for many years. We are proud to present him this year, in a format stripped down to its bare essential: his magnificently seasoned tenor voice accompanied solely by his most faithful companion, the oud. After the concert in the Chateau Neuf Auditorium, the Swiss/Moroccan multi-instrumentalist Sami Galbi will play at Betong, where the opening party continues. All tickets for Marcel Khalife automatically include entry to Sami Galbi's concert at Betong later that night. Please note: The concert with Sami Galbi has an 18+ age limit, with no guardian exception.",
-      "date": "2026-10-27",
-      "time": "20:00",
-      "endTime": null,
-      "location": "Chateau Neuf,Storsalen, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/oslo-world-marcel-khalife-promises-of-the-storm-tickets/316998920?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/oslo-world-marcel-khalife-promises-of-the-storm-tickets/316998920?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/a9e/e96dbebb-8e4f-4056-865b-e690f1363a9e_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z1kA0PsOe",
-      "title": "Oslo World: Sami Galbi",
-      "description": "Futuristic North African dance party. The Swiss and Moroccan multi-instrumentalist and producer Sami Galbi draws on the music of his childhood, which he rediscovered as an adult in the Cabarets of Casablanca: raï and chaâbi music, interpreted in Galbi's own way, with analog machines, guitar effects and synthesizer. He has emerged from the alternative scenes of Switzerland in recent years, drawing on parallel musical influences such as US hip-hop, UK bass, house and Afro-Caribbean dance music. The North African folk music of his childhood is modulated, given pop texture and a dense club atmosphere. On his debut album, YLH BYE BYE, the listener is immersed in a rich poetic where Sami Galbi's storytelling unfolds through hypnotic refrains and soaring melodies. Entirely produced by the artist, the music was mixed by Tunisian producer Ammar 808. In concert, Sami Galbi delivers high energy performances, well suited for the opening party of this years Oslo World. All tickets to the opening concert with Marcel Khalife at Chateau Neuf also automatically include admission to Sami Galbi's concert at Betong later that same evening. Please note, however, that the concert with Sami Galbi has an 18+ age limit, with no guardian exception. Therefore, children's tickets purchased for the Marcel Khalife concert cannot be used for the Sami Galbi concert.",
-      "date": "2026-10-27",
-      "time": "22:00",
-      "endTime": null,
-      "location": "Chateau Neuf, Betong, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/oslo-world-sami-galbi-tickets/164971802?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/oslo-world-sami-galbi-tickets/164971802?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/501/55f5feae-1ae7-478a-84c8-ece28d397501_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z1kAoq4Zf",
       "title": "Benny Borg – 60 år på scenen",
       "description": "Benny Borg feirer 60 år på scenen med en jubileumskonsert i Kulturkirken Jakob. Det blir en kveld med nye låter fra hans kommende album, sanger fra et langt artistliv, og flere gjester. Benny Borg begynte sitt liv på scenen for 60 år siden, og kom til Norge noen få år etter. Siden har han vært en bauta i norsk musikkliv. Han var blant vinnerne av den aller første Spellemannprisen, og nådde toppen av Norsktoppen med <>. Han har skrevet klassikere for seg selv og for andre -- blant dem <>, <> og <> -- og mange kjenner ham fra scenen sammen med Dizzie Tunes. For ti år siden gjorde han comeback på plate med <>, og <> er siden blitt en hit som måler seg med <>. Men Benny er en utrettelig låtskriver. Sammen med Rune Berg og Åge Reite i Lydbroderiet -- som også er med som musikere denne kvelden -- har han gitt ut tre album, inkludert en ny Spellemann-nominasjon, og nå er de aktuelle med enda en plate. Innspillingen startet en kald januarhelg på Bennys hytte i Hemsedal. Gjester som har vært en del av Bennys musikalske liv gjennom disse 60 årene vil delta -- annonseres etter hvert. Velkommen til en stor konsertopplevelse i Jakob! Foto: Julie Pike",
@@ -1073,12 +966,119 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16v0bjp_v",
+      "title": "KRISTIANSEN // VEMØY: Hymns for Shepherds and Kings",
+      "description": "For tredje år på rad ønsker vi velkommen til en stemningsfull og meditativ julekonsert med KRISTIANSEN // VEMØY -- to av landets mest spennende musikalske formidlere. Denne kvelden blir en unik mulighet til å oppleve en musikalsk reise gjennom nytolkninger av julens hymner, i brytningen mellom budskapet om glede og håp, og den brutale virkeligheten vi lever i. Konserten er en kontemplativ opplevelse for både sjel og sinn -- i kirkerommet der albumet er spilt inn. Med inspirasjon fra jazz, klassisk musikk og elektronika skaper KRISTIANSEN // VEMØY et unikt lydunivers der det urolige og utydelige møter det beroligende og klare. Kontrasten mellom elektroniske underlag og akustiske elementer gir en dyptgående opplevelse som favner spekteret av menneskelige følelser. KRISTIANSEN // VEMØY er begge anerkjente musikere som har markert seg i ulike musikalske sammenhenger, både som utøvere, komponister og gjennom sine egne prosjekter. Deres samarbeid har røtter i arbeidet med Jakobmessene i Kulturkirken Jakob, og har siden 2021 resultert i tre albumutgivelser og 55 konserter i Norge og Danmark. KRISTIANSEN // VEMØY Øyvind Kristiansen [tangenter & programmering] Jonas Kilmork Vemøy [trompet & elektronikk] Om <> <> (Dagsavisen) <> (Nettavisen) <<[Blant] de beste platene i desember [2024]>> (Vårt Land)",
+      "date": "2026-11-24",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Kulturkirken Jakob, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/kristiansen-vemy-hymns-for-shepherds-and-kings-tickets/1918716641?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/kristiansen-vemy-hymns-for-shepherds-and-kings-tickets/1918716641?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/f7c/c6a6f020-7751-4324-a919-a31e5c7f4f7c_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vC37VOY",
+      "title": "Destinations // Danseshow med OSI Gruppedans",
+      "description": "OSI Gruppedans is thrilled to invite you to this autumn's danceshow \"Destinations\"! We will bring you along on an unforgettable journey through a variety of different destinations, both from our world and beyond. The audience can expect to experience the city life, outer space and magical dance pavilions, all without having to do any of the planning! All 24 numbers are choreographed by our talented instructors, and offer an array of dance styles, from ballet, jazz, modern and contemporary fusion to hiphop, girly and female dancehall -- all performed by dance-loving students! If you need to daydream yourself away from studies and work, are looking for a new holiday destination or if you're just a big dance enthusiast, all you've got to do is pack your suitcase, have your ticket ready and prepare for take-off! OSI Gruppedans is a student dance association for Oslo students under the OSI umbrella (Oslo Students Sports Club), offering dance courses in jazz, hip hop, house, modern, contemporary fusion, classical ballet, female dancehall, girly jazz and girly hip hop every semester. The courses are offered at different levels, allowing everyone to be challenged and experience the joy of dance. We work towards a dance performance every semester where the dancers can shine on stage like the stars they are! Photography: Horgen_foto Design: Iselin Charlotte Rabben Nilsen",
+      "date": "2026-11-24",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Chateau Neuf,Storsalen, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/destinations-danseshow-med-osi-gruppedans-tickets/1392134830?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/destinations-danseshow-med-osi-gruppedans-tickets/1392134830?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/824/6595b2ea-d54a-4582-86ca-61b24609f824_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kovbKbE",
+      "title": "Hanna & de heldige - «Samma det vel!»",
+      "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's.",
+      "date": "2026-11-26",
+      "time": "17:00",
+      "endTime": null,
+      "location": "Sentrum Scene, Oslo",
+      "categories": [
+        "teater"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/hanna--de-heldige-samma-det-vel-tickets/441613627?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/hanna--de-heldige-samma-det-vel-tickets/441613627?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/30d/c11f7fbf-af5d-45f7-b3c8-f39151c0130d_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16v4fbJ44",
+      "title": "The Sheepdogs",
+      "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's. Read the organizer's terms of purchase here. See www.rockefeller.no for the complete program.. Practical information about the concerts can be found here. The nearest transport hub is Storgata and/or Jernbanetorget. See ruter.no for more info.",
+      "date": "2026-11-26",
+      "time": "19:00",
+      "endTime": null,
+      "location": "John Dee, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/the-sheepdogs-tickets/1554626555?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/the-sheepdogs-tickets/1554626555?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/393/4d699cc3-36d5-4ff5-98ee-ad8d74ed6393_TABLET_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vuA8pfd",
+      "title": "VAMP",
+      "description": "Doors Open kl. 19.00. The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's Read the organizer's terms of purchase here. See www.rockefeller.no for the complete program.. Practical information about the concerts can be found here. The nearest transport hub is Storgata and/or Jernbanetorget. See ruter.no for more info.",
+      "date": "2026-11-26",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Rockefeller, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/vamp-tickets/1345416503?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/vamp-tickets/1345416503?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/41a/b114b0ec-2390-4dd2-b7c3-6111ec96c41a_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 50,
-    "fetchedAt": "2026-10-27T10:11:55.913Z",
+    "fetchedAt": "2026-10-28T10:57:55.041Z",
     "sources": {
       "ticketmaster": 50,
       "scrape": 0

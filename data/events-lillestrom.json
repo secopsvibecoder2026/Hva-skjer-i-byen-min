@@ -1,28 +1,9 @@
 {
   "events": [
     {
-      "id": "scrape-gen-one-night-only-2026-10-27",
-      "title": "One Night Only",
-      "description": "Få billetter igjen",
-      "date": "2026-10-27",
-      "time": null,
-      "endTime": null,
-      "location": "Lillestrøm",
-      "categories": [],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17538-one-night-only/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17538-one-night-only/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
       "id": "scrape-gen-lillestr-m-kulturkonferanse-2026-2026-10-28",
       "title": "Lillestrøm kulturkonferanse 2026",
-      "description": "Onsdag 28. oktober\nkl. 08.30",
+      "description": "Ons. 28. okt.\n0 forestillinger",
       "date": "2026-10-28",
       "time": null,
       "endTime": null,
@@ -912,20 +893,18 @@
       "source": "scrape"
     },
     {
-      "id": "scrape-gen-jul-med-elvis-en-varm-og-stemningsfull-j-2026-11-28",
-      "title": "Jul med Elvis – en varm og stemningsfull julekonsert",
+      "id": "scrape-gen-jul-med-elvis-2026-11-28",
+      "title": "Jul med Elvis",
       "description": "Lørdag 28. november\nkl. 20.00",
       "date": "2026-11-28",
       "time": null,
       "endTime": null,
       "location": "Lillestrøm",
-      "categories": [
-        "konsert"
-      ],
+      "categories": [],
       "priceFrom": null,
       "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17615-jul-med-elvis-en-varm-og-stemningsfull-julekonsert/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17615-jul-med-elvis-en-varm-og-stemningsfull-julekonsert/?ref=hvaSkjerIByenMin",
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17615-jul-med-elvis/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17615-jul-med-elvis/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -1750,6 +1729,25 @@
       "source": "scrape"
     },
     {
+      "id": "scrape-gen-di-derre-anonyme-akustikere-2027-03-04",
+      "title": "Di derre – Anonyme akustikere",
+      "description": "Torsdag 4. mars 2027\nkl. 19.00",
+      "date": "2027-03-04",
+      "time": null,
+      "endTime": null,
+      "location": "Lillestrøm",
+      "categories": [],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16700-di-derre-anonyme-akustikere/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16700-di-derre-anonyme-akustikere/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
       "id": "scrape-gen-rundt-et-flygel-for-barn-trollmannen-col-2027-03-06",
       "title": "Rundt et flygel for barn – Trollmannen Colas og den magiske blomst",
       "description": "Lørdag 6. mars 2027\nkl. 13.00",
@@ -2050,7 +2048,7 @@
   "meta": {
     "city": "lillestrom",
     "count": 105,
-    "fetchedAt": "2026-10-27T10:12:18.549Z",
+    "fetchedAt": "2026-10-28T10:58:18.788Z",
     "sources": {
       "ticketmaster": 0,
       "scrape": 108
