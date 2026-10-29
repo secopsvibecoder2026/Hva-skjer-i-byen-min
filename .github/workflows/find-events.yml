@@ -1,0 +1,105 @@
+# .github/workflows/find-events.yml
+# Søkeagent: lar Claude søke på nettet etter kommende arrangementer per by.
+#
+# Kjøres MANUELT (foreløpig ingen tidsplan):
+#   GitHub → Actions → "Finn arrangementer (agent)" → Run workflow
+#
+# Nødvendig GitHub Secret (Settings → Secrets and variables → Actions):
+#   ANTHROPIC_API_KEY – API-nøkkel fra https://platform.claude.com
+#
+# Kostnad: $10 per 1000 websøk + tokens. Med standardvalgene (6 søk per by)
+# koster søkene maks ca. $1.40 for alle 23 byer; tokens kommer i tillegg.
+# Start gjerne med noen få byer eller tørrkjøring.
+
+name: Finn arrangementer (agent)
+
+on:
+  workflow_dispatch:
+    inputs:
+      cities:
+        description: "Byer, kommaseparert (f.eks. bergen,voss). Tomt = alle byer."
+        required: false
+        default: ""
+      under:
+        description: "Bare byer med færre enn N arrangementer i dag. Tomt = ingen grense."
+        required: false
+        default: ""
+      max_searches:
+        description: "Maks websøk per by"
+        required: false
+        default: "6"
+      model:
+        description: "Claude-modell"
+        required: false
+        default: "claude-opus-5-5"
+      dry_run:
+        description: "Tørrkjøring – vis funn i loggen, lagre ingenting"
+        type: boolean
+        default: false
+
+# Samme gruppe som den nattlige scraperen, så de aldri pusher samtidig
+concurrency:
+  group: data-writes
+  cancel-in-progress: false
+
+jobs:
+  find:
+    name: Søk etter arrangementer
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+
+    permissions:
+      contents: write   # Nødvendig for å committe data/-filene
+
+    steps:
+      - name: Hent kode
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Sett opp Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Installer avhengigheter
+        run: npm ci
+
+      - name: Kjør søkeagenten
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          # Inputs går via miljøvariabler – aldri rett inn i skriptet
+          IN_CITIES:       ${{ inputs.cities }}
+          IN_UNDER:        ${{ inputs.under }}
+          IN_MAX_SEARCHES: ${{ inputs.max_searches }}
+          IN_MODEL:        ${{ inputs.model }}
+          IN_DRY_RUN:      ${{ inputs.dry_run }}
+        run: |
+          args=()
+          [ -n "$IN_CITIES" ]       && args+=(--city "$IN_CITIES")
+          [ -n "$IN_UNDER" ]        && args+=(--under "$IN_UNDER")
+          [ -n "$IN_MAX_SEARCHES" ] && args+=(--max-searches "$IN_MAX_SEARCHES")
+          [ -n "$IN_MODEL" ]        && args+=(--model "$IN_MODEL")
+          [ "$IN_DRY_RUN" = "true" ] && args+=(--dry-run)
+          node scripts/agent/find-events.mjs "${args[@]}"
+
+      - name: Generer by-sider (SEO)
+        if: ${{ !inputs.dry_run }}
+        run: node scripts/generate-city-pages.mjs
+
+      - name: Commit og push
+        if: ${{ !inputs.dry_run }}
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/ sitemap.xml robots.txt index.html
+          git add $(node -e 'import("./scripts/cities.mjs").then(m => console.log(m.CITY_IDS.map(id => id + "/").join(" ")))')
+          if git diff --staged --quiet; then
+            echo "Ingen endringer – hopper over commit."
+          else
+            git commit -m "data: søkeagent fant arrangementer $(date +%Y-%m-%d)"
+            git pull --rebase origin main
+            git push origin main
+            echo "✓ Agentens funn pushet til main."
+          fi

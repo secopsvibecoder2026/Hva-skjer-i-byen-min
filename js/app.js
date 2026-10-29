@@ -394,11 +394,21 @@ function buildEventCard(event) {
   const affiliate = safeUrl(event.affiliateUrl);
   const ticket    = safeUrl(event.ticketUrl);
 
-  // Pris er det folk lurer mest på – vis den på knappen når vi vet den
-  const price      = formatPrice(event);
-  const priceLabel = price
-    ? `${icon("ticket")}Billetter <span class="btn__price">${escapeHtml(price)}</span>`
-    : `${icon("ticket")}Kj\u00f8p billetter`;
+  // Pris er det folk lurer mest på – vis den på knappen når vi vet den.
+  // Knappeteksten skal si hva lenken faktisk er: søkeagentens lenker går ofte
+  // til en programside eller kommunekalender, ikke et billettsalg, og et
+  // gratis arrangement har ingen billetter å kjøpe.
+  const price = formatPrice(event);
+  let priceLabel;
+  if (price) {
+    priceLabel = `${icon("ticket")}Billetter <span class="btn__price">${escapeHtml(price)}</span>`;
+  } else if (event.priceFrom === 0) {
+    priceLabel = `${icon("gratis")}Gratis \u00b7 les mer`;
+  } else if (event.source === "agent") {
+    priceLabel = `${icon("arrowRight")}Se arrangementet`;
+  } else {
+    priceLabel = `${icon("ticket")}Kj\u00f8p billetter`;
+  }
 
   let ticketBtn;
   if (affiliate) {

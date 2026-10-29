@@ -4,9 +4,12 @@
   "description": "Lokal aktivitetsguide for norske byer",
   "type": "module",
   "scripts": {
-    "scrape": "node scripts/scrape.mjs"
+    "scrape": "node scripts/scrape.mjs",
+    "agent": "node scripts/agent/find-events.mjs",
+    "test": "node --test"
   },
   "dependencies": {
+    "@anthropic-ai/sdk": "^1.3.0",
     "node-html-parser": "^6.1.13"
   },
   "engines": {

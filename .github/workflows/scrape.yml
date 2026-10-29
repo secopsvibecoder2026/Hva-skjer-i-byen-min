@@ -20,6 +20,11 @@ on:
   # Tillat manuell kjøring fra Actions-fanen
   workflow_dispatch:
 
+# Samme gruppe som søkeagenten (find-events.yml), så de aldri pusher samtidig
+concurrency:
+  group: data-writes
+  cancel-in-progress: false
+
 jobs:
   scrape:
     name: Hent og lagre event-data

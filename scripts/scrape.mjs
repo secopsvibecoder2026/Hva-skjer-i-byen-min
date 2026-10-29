@@ -22,6 +22,7 @@ import { readFile, writeFile, mkdir } from "node:fs/promises";
 import { fetchTicketmaster } from "./sources/ticketmaster.js";
 import { scrapeLocalSites }  from "./sources/scrape.js";
 import { CITY_IDS }          from "./cities.mjs";
+import { deduplicate, sortEvents, loadAgentEvents } from "./lib/events.mjs";
 
 const CITIES = CITY_IDS;
 
@@ -44,8 +45,12 @@ for (const city of CITIES) {
   if (tmResult.status     === "rejected") console.warn(`  ⚠ Ticketmaster: ${tmResult.reason?.message}`);
   if (scrapeResult.status === "rejected") console.warn(`  ⚠ Scraping:     ${scrapeResult.reason?.message}`);
 
+  // Søkeagentens funn (scripts/agent/) ligger i en egen hurtigbuffer og
+  // flettes inn her – ellers ville denne kjøringen skrevet over dem.
+  const agentEvents = await loadAgentEvents(city, today);
+
   const sourcesGotData = tmEvents.length + scrapeEvents.length > 0;
-  console.log(`  Ticketmaster: ${tmEvents.length} | Scraping: ${scrapeEvents.length}`);
+  console.log(`  Ticketmaster: ${tmEvents.length} | Scraping: ${scrapeEvents.length} | Agent (buffer): ${agentEvents.length}`);
 
   const outputPath = `data/events-${city}.json`;
 
@@ -73,13 +78,7 @@ for (const city of CITIES) {
   }
 
   // Slå sammen, dedupliser og sorter
-  const merged = deduplicate([...tmEvents, ...scrapeEvents]);
-  merged.sort((a, b) => {
-    if (a.sponsored && !b.sponsored) return -1;
-    if (!a.sponsored && b.sponsored) return  1;
-    return new Date(a.date + "T" + (a.time || "00:00"))
-         - new Date(b.date + "T" + (b.time || "00:00"));
-  });
+  const merged = sortEvents(deduplicate([...tmEvents, ...scrapeEvents, ...agentEvents]));
 
   // Fjern utløpte events
   const upcoming = merged.filter((e) => e.date >= today);
@@ -95,6 +94,7 @@ for (const city of CITIES) {
         sources: {
           ticketmaster: tmEvents.length,
           scrape:       scrapeEvents.length,
+          agent:        upcoming.filter((e) => e.source === "agent").length,
         },
       },
     }, null, 2),
@@ -106,17 +106,3 @@ for (const city of CITIES) {
 }
 
 console.log(`\n✅ Ferdig! ${totalEvents} events for ${CITIES.length} byer.\n`);
-
-function deduplicate(events) {
-  const priority = { ticketmaster: 0, scrape: 1, local: 2 };
-  const seen     = new Map();
-  for (const event of events) {
-    const key = `${event.title.toLowerCase().trim()}|${event.date}`;
-    if (!seen.has(key)) {
-      seen.set(key, event);
-    } else if ((priority[event.source] ?? 99) < (priority[seen.get(key).source] ?? 99)) {
-      seen.set(key, event);
-    }
-  }
-  return [...seen.values()];
-}

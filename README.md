@@ -16,6 +16,7 @@ En lokal aktivitetsguide for norske byer – konserter, familieaktiviteter, grat
 - [Deploy til GitHub Pages](#deploy-til-github-pages)
 - [Konfigurer scraping](#konfigurer-scraping)
 - [Datahåndtering](#datahåndtering)
+- [Søkeagent](#søkeagent)
 - [Legg til ny by](#legg-til-ny-by)
 - [Inntjening](#inntjening)
 - [Personvern og GDPR](#personvern-og-gdpr)
@@ -123,6 +124,8 @@ hva-skjer-i-byen-min/
 │   └── events-{by}.json  (22 stk)
 ├── scripts/
 │   ├── cities.mjs                  # By-register: navn, koordinater, region (én kilde)
+│   ├── agent/                      # Søkeagent (Claude + web search), kjøres manuelt
+│   ├── lib/events.mjs              # Felles sammenslåing og deduplisering
 │   ├── scrape.mjs                  # Henter event-data (kjøres av GitHub Actions)
 │   ├── generate-city-pages.mjs     # Genererer by-sider, by-piller og sitemap
 │   └── sources/
@@ -328,6 +331,65 @@ annerledes, så siden ikke ser ødelagt ut og Google ikke indekserer tomme sider
   som har innhold
 
 Alt reverseres automatisk neste kjøring så snart byen får data.
+
+## Søkeagent
+
+Den nattlige scraperen dekker bare byene som har Ticketmaster-arrangementer
+eller en kilde med kjent HTML-struktur. Søkeagenten tetter hullet: den lar
+Claude søke på nettet etter kommende arrangementer i hver by, lese
+kulturhusenes og kommunenes programsider, og levere funnene strukturert.
+
+**Kjøres manuelt** foreløpig (ingen tidsplan):
+
+- **GitHub:** Actions → «Finn arrangementer (agent)» → Run workflow
+- **Lokalt:** `npm run agent -- --city voss --dry-run`
+
+| Valg | Hva | Standard |
+|------|-----|----------|
+| `--city` | By-id-er, kommaseparert (`bergen,voss`) | alle byer |
+| `--under N` | Bare byer som i dag har færre enn N arrangementer | ingen grense |
+| `--max-searches N` | Maks websøk per by | 6 |
+| `--days N` | Hvor langt frem i tid det letes | 90 |
+| `--model` | Claude-modell | `claude-opus-5-5` |
+| `--dry-run` | Vis funn i loggen, lagre ingenting | av |
+
+**Oppsett:** legg til `ANTHROPIC_API_KEY` under Settings → Secrets and
+variables → Actions. Nøkkelen lages på [platform.claude.com](https://platform.claude.com).
+Web search er slått på for organisasjoner som standard, men en administrator
+kan ha skrudd det av under Console → Settings → Capabilities.
+
+**Kostnad:** $10 per 1000 websøk, pluss tokens for søkeresultatene modellen
+leser. Med standardvalgene koster søkene maks ca. $1.40 for alle 23 byer.
+Tokenforbruket kommer i tillegg og er som regel den største posten. Det vises
+i oppsummeringen etter hver kjøring. For å holde kostnaden nede: kjør med
+`--under 5`, eller velg `claude-sonnet-5-5`.
+
+**Hvordan funnene kontrolleres** (`scripts/agent/validate.mjs`): alt agenten
+leverer er tolket fra tilfeldige nettsider, så hvert arrangement må ha en
+lenke til et domene som faktisk dukket opp i websøkene i samme kjøring. En
+modell kan dikte opp en tittel og en dato, men den kan ikke få et domene den
+aldri så til å stå i søkeresultatene. I tillegg avvises passerte og ugyldige
+datoer, HTML, oversiktssider («Hva skjer i …») og duplikater, og ukjente
+kategorier fjernes. Avviste funn og begrunnelsen står i loggen.
+
+**Hvor funnene lagres:**
+
+- `data/agent/events-{by}.json`: agentens egen buffer, med metadata om
+  søk, tokenbruk og avviste funn
+- `data/events-{by}.json`: funnene flettes inn her, der nettsiden leser dem
+
+Bufferen er nødvendig fordi scraperen skriver byfilene på nytt hver natt.
+`scrape.mjs` fletter bufferen inn igjen, så funnene lever videre til
+arrangementene er passert. Finnes samme arrangement hos Ticketmaster, vinner
+Ticketmaster. Gir en kjøring null funn for en by, beholdes de forrige.
+
+**Begrensninger:** agenten kan bare kontrollere at kilden finnes, ikke at
+den har lest datoen riktig. Kjør gjerne med `--dry-run` for nye byer først og
+se over funnene. Agent-arrangementer viser «Se arrangementet» i stedet for
+«Kjøp billetter», siden lenken ofte går til en programside og ikke et
+billettsalg.
+
+---
 
 ## Legg til ny by
 
