@@ -1,44 +1,6 @@
 {
   "events": [
     {
-      "id": "scrape-gen-lillestr-m-kulturkonferanse-2026-2026-10-28",
-      "title": "Lillestrøm kulturkonferanse 2026",
-      "description": "Ons. 28. okt.\n0 forestillinger",
-      "date": "2026-10-28",
-      "time": null,
-      "endTime": null,
-      "location": "Lillestrøm",
-      "categories": [],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17631-lillestrom-kulturkonferanse-2026/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17631-lillestrom-kulturkonferanse-2026/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
-      "id": "scrape-gen-fra-vikingtokt-til-jappetid-en-smakfull--2026-10-28",
-      "title": "Fra vikingtokt til jappetid – En smakfull reise gjennom norsk drikkehistorie",
-      "description": "Onsdag 28. oktober\nkl. 19.00",
-      "date": "2026-10-28",
-      "time": null,
-      "endTime": null,
-      "location": "Lillestrøm",
-      "categories": [],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17469-fra-vikingtokt-til-jappetid-en-smakfull-reise-gjennom-norsk-drikkehistorie/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17469-fra-vikingtokt-til-jappetid-en-smakfull-reise-gjennom-norsk-drikkehistorie/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
       "id": "scrape-gen-stjernesp-kelset-2026-10-30",
       "title": "Stjernespøkelset",
       "description": "Fredag 30. oktober\nkl. 17.30",
@@ -905,6 +867,29 @@
       "currency": null,
       "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17615-jul-med-elvis/",
       "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17615-jul-med-elvis/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-sn-f-nn-gratis-vinterfestival-for-hele-f-2026-11-29",
+      "title": "SnøFønn – GRATIS vinterfestival for hele familien!",
+      "description": "Gratis",
+      "date": "2026-11-29",
+      "time": null,
+      "endTime": null,
+      "location": "Lillestrøm",
+      "categories": [
+        "konsert",
+        "familie",
+        "gratis"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/18429-snofonn-gratis-vinterfestival-for-hele-familien/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/18429-snofonn-gratis-vinterfestival-for-hele-familien/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -2047,11 +2032,11 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 105,
-    "fetchedAt": "2026-10-28T10:58:18.788Z",
+    "count": 104,
+    "fetchedAt": "2026-10-29T11:18:07.387Z",
     "sources": {
       "ticketmaster": 0,
-      "scrape": 108
+      "scrape": 107
     }
   }
 }
