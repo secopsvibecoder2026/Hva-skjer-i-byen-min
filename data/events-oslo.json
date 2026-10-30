@@ -1,28 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z1keo_poS",
-      "title": "Oslo World: KALEM",
-      "description": "Kalem Name a more dynamic Balkan duo. The ensemble Kalem performs traditional and composed songs, with an unmistakable, personal voice rooted in their home lands. A virtuoso meeting between violin and guitar, inspired by several musical traditions. Stefan Ilic, the singer and violinist of Kalem, grew up surrounded by folk songs. From his earliest days, every activity in his home was accompanied by Balkan melodies passed down through generations. It led him to enroll in music school for gifted children in Cuprija, and later graduate in violin from the Music Academy in Kragujevac. Dusan Popovic Lipovac grew up in a home dominated by heavy sounds, epic guitar solos, and complex harmonies, blues and jazz, while he also discovered flamenco and fado. During his studies in Spain, Dusan decided to explore what his own homeland had to offer. It turned out to be much more than he initially thought. In 2017, Stefan and Dusan's paths crossed. After a few rehearsals, they realized their musical sensibilities resonated perfectly, and the repertoire they started building included the most beautiful traditional and composed songs from the Balkans. A few months later, Kalem was an ensemble performing traditional and composed songs, with a voice unmistakably rooted in these lands, colored by the sound of a guitar inspired by the folk music of the world. The release of \"Mesece\", in 2021, was named after an original song. It became a song that people still sing at concerts. Their journey continued to evolve, leading to the release of their second album in 2023, \"Tragom snova i predanja\" (\"Following Dreams and Legends\"), which produced several highly popular arrangements and original compositions, paving the way for Kalem in 2024 to hold sold-out concerts in Belgrade, Kragujevac, Novi Sad, again in Kragujevac, and even in Oslo and Paris. This year, the ensemble is returning to Oslo.",
-      "date": "2026-10-29",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Kulturkirken Jakob, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/oslo-world-kalem-tickets/91656473?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/oslo-world-kalem-tickets/91656473?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/256/af31cae1-4396-44d4-b102-4261df688256_SOURCE",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z16vu_PYbV",
       "title": "UTSOLGT: Oslo World: Nai Barghouti/Tord Gustavsen m.fl.",
       "description": "Nai Barghouti w/ Ruven Ruppik, Tord Gustavsen & Steinar Raknes NaiStrumentation meets Norwegian jazz heavy weights. This year at Oslo World, we are proud to present a spontaneous meeting between four remarkable musicians, spearheaded by the young Palestinian singer, composer and flutist Nai Barghouti. Born in Jerusalem, Barghouti played her first concerts in Ramallah and Cairo at the age of 14, and has studied both classical music and jazz. In her studies, she explored the nexus between Arabic Tarab music and jazz improvisation, developing a distinct vocal technique, a wordless and highly ornamented style she has dubbed NaiStrumentation. Her virtuosity evokes legendary Arab singers such as Asmahan, Umm Kulthoum and Fairouz, and she has gone on to perform packed concerts in cities all over the world. She has a remarkably varied output, incorporating ballads, folk music, electronic landscapes and improvisation. And when she briefly met the Norwegian musicians Tord Gustavsen and Steinar Raknes a couple of years ago, it soon became obvious there was room to explore more. Pianist Tord Gustavsen is one of the most lauded and successful Norwegian jazz musicians of the last decades. His trio has become one of the defining ECM acts, and they perform for sold out concert halls all over Europe and beyond. As well as being a member of Gustavsen's trio, the bass player Steinar Raknes is one of the defining musicians of his generation. A stellar instrumentalist known from a long and varied range of jazz collaborations, as well as a burgeoning career as genre crossing solo artist and singer. Joining them on stage is Ruven Ruppik, a dutch percussionist with a highly original approach to drumming, ranging from classical techniques and jazz to a vast pallet of different traditional styles. At Oslo World this year, we are proud to present this intriguing project, capable of great beauty and unexpected moments of musical magic. Doors: 17:30",
@@ -1074,12 +1052,34 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16v38kfe3",
+      "title": "beabadoobee: The Powerlines Tour",
+      "description": null,
+      "date": "2026-11-27",
+      "time": "18:30",
+      "endTime": null,
+      "location": "Oslo Spektrum, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/beabadoobee-the-powerlines-tour-tickets/1490194092?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/beabadoobee-the-powerlines-tour-tickets/1490194092?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/696/f8aa5376-37a5-42a1-aec2-c6886ca22696_SOURCE",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 50,
-    "fetchedAt": "2026-10-29T11:17:42.793Z",
+    "fetchedAt": "2026-10-30T11:10:35.579Z",
     "sources": {
       "ticketmaster": 50,
       "scrape": 0
