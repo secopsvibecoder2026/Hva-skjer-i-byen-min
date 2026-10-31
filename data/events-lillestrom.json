@@ -1,44 +1,6 @@
 {
   "events": [
     {
-      "id": "scrape-gen-stjernesp-kelset-2026-10-30",
-      "title": "Stjernespøkelset",
-      "description": "Fredag 30. oktober\nkl. 17.30",
-      "date": "2026-10-30",
-      "time": null,
-      "endTime": null,
-      "location": "Lillestrøm",
-      "categories": [],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16728-stjernespokelset/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16728-stjernespokelset/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
-      "id": "scrape-gen-halloween-sp-kelsesvandring-2026-10-30",
-      "title": "Halloween spøkelsesvandring",
-      "description": "Fre. 30. okt.\n10 forestillinger",
-      "date": "2026-10-30",
-      "time": null,
-      "endTime": null,
-      "location": "Lillestrøm",
-      "categories": [],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17196-halloween-spokelsesvandring/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17196-halloween-spokelsesvandring/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
       "id": "scrape-gen-legally-blonde-2026-10-31",
       "title": "Legally Blonde",
       "description": "31. okt. – 1. nov.\n2 forestillinger",
@@ -1756,6 +1718,25 @@
       "source": "scrape"
     },
     {
+      "id": "scrape-gen-pulse-of-floyd-2027-03-06",
+      "title": "Pulse of Floyd",
+      "description": "Lørdag 6. mars 2027\nkl. 20.00",
+      "date": "2027-03-06",
+      "time": null,
+      "endTime": null,
+      "location": "Lillestrøm",
+      "categories": [],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17331-pulse-of-floyd/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17331-pulse-of-floyd/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
       "id": "scrape-gen-rundt-et-flygel-trio-no-treble-2027-03-10",
       "title": "Rundt et flygel – Trio no Treble",
       "description": "Onsdag 10. mars 2027\nkl. 19.00",
@@ -2070,11 +2051,11 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 106,
-    "fetchedAt": "2026-10-30T11:10:55.542Z",
+    "count": 105,
+    "fetchedAt": "2026-10-31T10:43:44.968Z",
     "sources": {
       "ticketmaster": 0,
-      "scrape": 109
+      "scrape": 108
     }
   }
 }

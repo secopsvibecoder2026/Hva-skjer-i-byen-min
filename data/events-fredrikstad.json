@@ -1,28 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-LvZ18QN7uK65_AYZ0ZeXB",
-      "title": "Bakpå Presenterer Køber @ Savoy Terrasse",
-      "description": null,
-      "date": "2026-10-30",
-      "time": "20:00",
-      "endTime": null,
-      "location": "Savoy Terrasse, Fredrikstad",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.universe.com/events/bakpa-presenterer-kober-savoy-terrasse-tickets-V6TKRN?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/bakpa-presenterer-kober-savoy-terrasse-tickets-V6TKRN?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/80b/f3cd8d24-c3ae-4fa0-b4bc-1ba99f9b380b_106091_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-LvZ18QN7CBt944ZvarskD",
       "title": "Bakpå Presenterer Svartepetter @ Savoy Terrasse",
       "description": null,
@@ -47,10 +25,10 @@
   ],
   "meta": {
     "city": "fredrikstad",
-    "count": 2,
-    "fetchedAt": "2026-10-30T11:10:52.907Z",
+    "count": 1,
+    "fetchedAt": "2026-10-31T10:43:42.090Z",
     "sources": {
-      "ticketmaster": 2,
+      "ticketmaster": 1,
       "scrape": 0
     }
   }
