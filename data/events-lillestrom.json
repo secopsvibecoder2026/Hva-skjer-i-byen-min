@@ -1,10 +1,10 @@
 {
   "events": [
     {
-      "id": "scrape-gen-legally-blonde-2026-10-31",
+      "id": "scrape-gen-legally-blonde-2026-11-01",
       "title": "Legally Blonde",
-      "description": "31. okt. – 1. nov.\n2 forestillinger",
-      "date": "2026-10-31",
+      "description": "Få billetter igjen",
+      "date": "2026-11-01",
       "time": null,
       "endTime": null,
       "location": "Lillestrøm",
@@ -13,46 +13,6 @@
       "currency": null,
       "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17485-legally-blonde/",
       "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17485-legally-blonde/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
-      "id": "scrape-gen-jazzkaf-gyldenl-we-brygge-2026-10-31",
-      "title": "Jazzkafé – Gyldenløwe Brygge",
-      "description": "Lørdag 31. oktober\nkl. 15.00",
-      "date": "2026-10-31",
-      "time": null,
-      "endTime": null,
-      "location": "Lillestrøm",
-      "categories": [
-        "konsert"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16894-jazzkafe-gyldenlowe-brygge/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16894-jazzkafe-gyldenlowe-brygge/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
-      "id": "scrape-gen-ras-i-prijatelji-2026-10-31",
-      "title": "RAS i Prijatelji",
-      "description": "Lørdag 31. oktober\nkl. 17.00",
-      "date": "2026-10-31",
-      "time": null,
-      "endTime": null,
-      "location": "Lillestrøm",
-      "categories": [],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17338-ras-i-prijatelji/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17338-ras-i-prijatelji/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -2051,11 +2011,11 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 105,
-    "fetchedAt": "2026-10-31T10:43:44.968Z",
+    "count": 103,
+    "fetchedAt": "2026-11-01T11:40:54.560Z",
     "sources": {
       "ticketmaster": 0,
-      "scrape": 108
+      "scrape": 106
     }
   }
 }
