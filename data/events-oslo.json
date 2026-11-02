@@ -1,27 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z16vuNZY87",
-      "title": "Requiem by Torbjørn Dyrud - All Saints' Day concert",
-      "description": "This year's All Saints' concert features the world premiere of the final work by Torbjørn Dyrud. The piece is scored for choir, narrator, string trio, and wind trio, and was commissioned by Oslo Cathedral Choir and Bergen Cathedral Choir. Between the movements, texts describing near-death experiences will be read aloud. The work will be performed simultaneously in Oslo Cathedral and Bergen Cathedral, in addition to concerts at Hoff Church on November 14 and Bragernes Church on November 15. Composer and musician Torbjørn Dyrud lived with a serious cancer diagnosis for seven years. He passed away on July 19 this year, shortly after delivering the completed work to us. During his final years, he found great comfort in accounts of near-death experiences and other similarly incomprehensible phenomena. Torbjørn was a deeply optimistic person, and part of the intention behind this work was to encourage us, here on earth, to recognize more clearly that the world is in fact filled with light and love. Near-death experiences are stories and encounters that challenge our understanding of reality at a fundamental level. Many people who have had such experiences insist that who we truly are continues to exist even after the death of the physical body. In the void left by Torbjørn's passing, we return to the intention behind the work and read what Torbjørn himself wrote in a new light: \"For me, as a church musician, this literature has opened up my spiritual life in a fundamental way. It seems increasingly credible that accounts of a more real reality, beyond time and space, a state in which unconditional love fills everything, are simply true. Something within me opens up when I read these personal narratives in the light of the Bible and other historical sources.\" Requiem lasts approximately 45 minutes. The concert will also feature three of Torbjørn's other well-known songs and hymns composed for choir. The total duration of the concert is approximately one hour. Program: Soon She Kisses Her Friend in the Rose Garden (Snart kysser hun sin venn i rosenhagen) by Torbjørn Dyrud, with text by Inger Hagerup. Come, Breath of Life (Kom livspust) by Torbjørn Dyrud, with text by Ingrid B. Melve With a Bouquet (Med en bukett) by Torbjørn Dyrud, with text by Henrik Wergeland Requiem by Torbjørn Dyrud, with readings from accounts of near-death experiences Performers: Oslo Cathedral Choir Vivianne Sydnes, conductor Eldar Skar, Actor Brass players: Tormod Åsgård, Sverre Stang Christiansen, and Lars Brynestad String players: Sølve Sigerland, Henninge Landaas, and Ellen Margrete Flesjø (Ssens Trio) Dedicated wheelchair spaces can be purchased in the south transept. Here you can choose whether you are accompanied by a companion or not. Companions are admitted free of charge upon presentation of a companion certificate. The companion will be seated directly behind the wheelchair space. Oslo Cathedral has both a ramp and a lift to ensure step-free access. Please arrive at the main entrance, where our staff will guide you to the wheelchair entrance. A wheelchair-accessible restroom is available near the main entrance. If you wish to purchase a companion ticket without it being linked to a wheelchair space, select the ticket category \"companion seat\" for any other seat in the Cathedral. For questions, please contact the organizer, Oslo Cathedral Choir, at +47 977 95 450.",
-      "date": "2026-11-01",
-      "time": "18:00",
-      "endTime": null,
-      "location": "Oslo domkirke, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/requiem-by-torbjorn-dyrud-all-saints-day-concert-tickets/1363030404?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/requiem-by-torbjorn-dyrud-all-saints-day-concert-tickets/1363030404?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/22d/80da6303-6dd9-47cd-9a2f-7c9b907ea22d_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z1k_VeF4_",
       "title": "Xibalba 2026 – Road to Mictlan",
       "description": "Xibalba 2026 -- Road to Mictlan This year, Xibalba takes you deep into the ancient world of Aztec cosmology and the Mexican tradition of Día de Muertos --- bringing the colours, stories and spirit of Mexico to Oslo. Step into a world where death is not the end, but the beginning of a journey. Follow the ancient path through the different stations of the afterlife and discover what awaits beyond this world. Experience live music, visual art, powerful performances and ancient stories, inspired by the rich cultural heritage of Mexico. Enjoy authentic Mexican food and drinks as the show unfolds around you, taking you on a journey between the world of the living and the world of the dead. A celebration of life. A tribute to those we remember. A journey into the unknown. Welcome to Xibalba 2026. For more information: https://Xibalba.noXibalba 2026 -- Road to Mictlan",
@@ -461,8 +440,7 @@
       "endTime": null,
       "location": "Unity Arena, Fornebu",
       "categories": [
-        "konsert",
-        "uteliv"
+        "konsert"
       ],
       "priceFrom": null,
       "currency": null,
@@ -1059,8 +1037,8 @@
   ],
   "meta": {
     "city": "oslo",
-    "count": 49,
-    "fetchedAt": "2026-11-01T11:40:35.248Z",
+    "count": 48,
+    "fetchedAt": "2026-11-02T13:05:31.263Z",
     "sources": {
       "ticketmaster": 50,
       "scrape": 0

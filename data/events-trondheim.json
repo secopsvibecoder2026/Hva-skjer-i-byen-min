@@ -53,8 +53,7 @@
       "endTime": null,
       "location": "Sverresborg Museum, Trondheim",
       "categories": [
-        "konsert",
-        "uteliv"
+        "konsert"
       ],
       "priceFrom": null,
       "currency": null,
@@ -70,7 +69,7 @@
   "meta": {
     "city": "trondheim",
     "count": 3,
-    "fetchedAt": "2026-11-01T11:40:36.897Z",
+    "fetchedAt": "2026-11-02T13:05:33.199Z",
     "sources": {
       "ticketmaster": 3,
       "scrape": 0

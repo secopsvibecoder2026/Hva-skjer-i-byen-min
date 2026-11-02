@@ -1,44 +1,6 @@
 {
   "events": [
     {
-      "id": "scrape-gen-legally-blonde-2026-11-01",
-      "title": "Legally Blonde",
-      "description": "Få billetter igjen",
-      "date": "2026-11-01",
-      "time": null,
-      "endTime": null,
-      "location": "Lillestrøm",
-      "categories": [],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17485-legally-blonde/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17485-legally-blonde/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
-      "id": "scrape-gen-ole-edvard-antonsen-tour-de-force-2026-11-01",
-      "title": "Ole Edvard Antonsen – Tour de Force",
-      "description": "Søndag 1. november\nkl. 19.00",
-      "date": "2026-11-01",
-      "time": null,
-      "endTime": null,
-      "location": "Lillestrøm",
-      "categories": [],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17682-ole-edvard-antonsen-tour-de-force/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17682-ole-edvard-antonsen-tour-de-force/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
       "id": "scrape-gen-ahusrevy1-alltid-beredt--2026-11-02",
       "title": "Ahusrevy1 – Alltid beredt!?",
       "description": "2. nov. – 6. nov.\n5 forestillinger",
@@ -505,7 +467,7 @@
     {
       "id": "scrape-gen-dance-with-a-stranger-2026-11-19",
       "title": "Dance with a Stranger",
-      "description": "Torsdag 19. november\nkl. 20.00",
+      "description": "Få billetter igjen",
       "date": "2026-11-19",
       "time": null,
       "endTime": null,
@@ -2011,11 +1973,11 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 103,
-    "fetchedAt": "2026-11-01T11:40:54.560Z",
+    "count": 101,
+    "fetchedAt": "2026-11-02T13:05:52.398Z",
     "sources": {
       "ticketmaster": 0,
-      "scrape": 106
+      "scrape": 104
     }
   }
 }

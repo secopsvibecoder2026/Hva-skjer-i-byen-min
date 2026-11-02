@@ -139,8 +139,7 @@
       "endTime": null,
       "location": "Bergen",
       "categories": [
-        "konsert",
-        "uteliv"
+        "konsert"
       ],
       "priceFrom": null,
       "currency": null,
@@ -265,7 +264,7 @@
   "meta": {
     "city": "bergen",
     "count": 12,
-    "fetchedAt": "2026-11-01T11:40:34.384Z",
+    "fetchedAt": "2026-11-02T13:05:30.155Z",
     "sources": {
       "ticketmaster": 12,
       "scrape": 0
