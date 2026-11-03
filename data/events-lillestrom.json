@@ -1,10 +1,10 @@
 {
   "events": [
     {
-      "id": "scrape-gen-ahusrevy1-alltid-beredt--2026-11-02",
+      "id": "scrape-gen-ahusrevy1-alltid-beredt--2026-11-03",
       "title": "Ahusrevy1 – Alltid beredt!?",
-      "description": "2. nov. – 6. nov.\n5 forestillinger",
-      "date": "2026-11-02",
+      "description": "3. nov. – 6. nov.\n4 forestillinger",
+      "date": "2026-11-03",
       "time": null,
       "endTime": null,
       "location": "Lillestrøm",
@@ -15,27 +15,6 @@
       "currency": null,
       "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16161-ahusrevy1-alltid-beredt/",
       "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16161-ahusrevy1-alltid-beredt/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
-      "id": "scrape-gen-allehelgenskonsert-med-anita-skorgan-2026-11-02",
-      "title": "Allehelgenskonsert med Anita Skorgan",
-      "description": "Gratis",
-      "date": "2026-11-02",
-      "time": null,
-      "endTime": null,
-      "location": "Lillestrøm",
-      "categories": [
-        "konsert"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17355-allehelgenskonsert-med-anita-skorgan/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17355-allehelgenskonsert-med-anita-skorgan/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -467,7 +446,7 @@
     {
       "id": "scrape-gen-dance-with-a-stranger-2026-11-19",
       "title": "Dance with a Stranger",
-      "description": "Få billetter igjen",
+      "description": "Torsdag 19. november\nkl. 20.00",
       "date": "2026-11-19",
       "time": null,
       "endTime": null,
@@ -1973,11 +1952,11 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 101,
-    "fetchedAt": "2026-11-02T13:05:52.398Z",
+    "count": 100,
+    "fetchedAt": "2026-11-03T12:37:22.782Z",
     "sources": {
       "ticketmaster": 0,
-      "scrape": 104
+      "scrape": 103
     }
   }
 }
