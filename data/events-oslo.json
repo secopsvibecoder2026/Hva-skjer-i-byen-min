@@ -1,46 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z1kbt_baA",
-      "title": "Maren Davidsen - This Is Where I Leave You",
-      "description": "Rogalendingen Maren Davidsen flyttet til London for å følge drømmen sin. Nå er hun tilbake i Norge med albumet This Is Where I Leave You i bagasjen. Siden første slipp av den nydelige låten Tennessee On My Mind i april har hun fått mye internasjonal oppmerksomhet. \"Et vakkert stykke nordisk americana, som treffer deg rett i hjertet\" skriver den canadiske musikkjournalisten Eric Alper. This Is Where I Leave You er et personlig og sårbart album om å miste seg selv i en relasjon, og om å finne veien tilbake. Mange av låtene er skrevet fra et mørkt sted, om kjærlighet, brudd og følelsen av å ikke lenger kjenne sin egen verdi. Samtidig handler tittelen om mer enn å forlate en person: For Maren handler den om å forlate livet hun hadde i London, gamle mønstre og den versjonen av seg selv hun ikke lenger ville være. I oktober legger hun ut på album-turné som avsluttes i Oslo intimt og ærlig på gølvet i Kulturkirken Jakob. Support: Nora Legrand Med røtter som strekker seg fra Romsdalen via Frankrike til Appalachia, har Nora Legrand etablert seg som en av de mest spennende stemmene i norsk country. I 2025 ble hun Spellemannsnominert for debutalbumet Paper Sky, nominert til Fjordingprisen for <<årets album>> og kåret til Årets Gjennombrudd av Norsk Americanaforum. Singelen \"Wherever She's Running\" ble en ekte radiohit med 24 uker på P1s A-liste, og hennes sjelfulle stemme og sterke låtskriving trekkes stadig frem av både presse og publikum. Nora studerte Bluegrass og Country Music ved East Tennessee State University, og er inspirert av artister som Brandi Carlile, Sierra Ferrell og Townes Van Zandt. På scenen formidler hun ektefølte historier med en helt særegen nerve som treffer rett i hjertet. OM \"PÅ GØLVET\"-serien Hvorfor skal konserter være på scenen? På avstand, opphøyet og bak sterke lys? Hvorfor skal vi bare se hverandres rygger? Jada, vi vet de tekniske, praktiske forklaringene og svarene på dette. Men vi har lyst til å få i pose og sekk i Jakob fremover. Noe på scenen -- og noe helt nedpå. PÅ GØLVET. Midt blant publikum. Så vi kan se svettedråper på gitarister, se notater og vannglass -- og se hvem som ellers er på konsert. På samme nivå. Nær. Kjenne trøkket. Sammen. På gølvet. \"På gølvet\" er en serie akustiske/semiakustiske konserter i Kulturkirken Jakob hvor vi flytter scene, artister og instrumenter ned på kirkegulvet og lager stoloppsett helt tett innpå. Disse konserten blir unike og intime opplevelser hvor du kan få møte noen av landets fineste artister og musikere på helt nært hold.",
-      "date": "2026-11-03",
-      "time": "20:00",
-      "endTime": null,
-      "location": "Kulturkirken Jakob, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/maren-davidsen-this-is-where-i-leave-you-tickets/629658245?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/maren-davidsen-this-is-where-i-leave-you-tickets/629658245?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/958/aa834c9b-1263-4d90-8397-0492f826c958_TABLET_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16v04jOr6",
-      "title": "Mellomvalg på Neuf: Debrif med Thomas Seltzer og Ole Øyvind Sand Holth",
-      "description": "Klassekampen og Chateau Neuf inviterer på valgvake og live podkast for mellomvalget i USA! Med utenriksredaktør Ole Øyvind Sand Holth og programleder Thomas Seltzer. Arrangementet er gratis, men man må holde av billett for tilgang til Storsalen. Se neuf.no for mer informasjon om Mellomvalget på Neuf. Arrangementsstart : 21:00 Dørene åpner : 30 min før Varighet : 60 min Aldersgrense : 18 Ledsager : Gratis med billett Arrangementer i Storsalen har garderobeplikt. Adkomst : Kollektiv transport til Majorstuen, 3 minutters gange.",
-      "date": "2026-11-03",
-      "time": "21:00",
-      "endTime": null,
-      "location": "Chateau Neuf,Storsalen, Oslo",
-      "categories": [],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/mellomvalg-pa-neuf-debrif-med-thomas-seltzer-og-ole-yvind-sand-holth-tickets/1915720787?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/mellomvalg-pa-neuf-debrif-med-thomas-seltzer-og-ole-yvind-sand-holth-tickets/1915720787?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/9f0/dedbf068-6595-4593-ae08-8650c39919f0_TABLET_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z16vJko_77",
       "title": "Runar Netland - releasekonsert (Support: Haldor Røyne)",
       "description": "Trommeslager, komponist og musiker Runar Netland debuterer med sitt første soloalbum First, Everything -- et helhetlig og sanselig verk som utforsker rytme, struktur og improvisasjon med en organisk tilnærming til jazz. Albumet presenteres live i Kulturkirken Jakob 4. november. First, Everything er bygget som en reise. Musikken utvikler seg fra det enkle til det komplekse, fra stillhet til bevegelse, gjennom kontraster og forandring: fra mono til stereo, fra optimisme til pessimisme, fra ensomhet til fellesskap, fra å føle seg fortvilet til å finne håp. Resultatet er et uttrykk som balanserer ro og transformasjon, inspirert av naturens rytmiske mønstre og den uendelige syklusen i omgivelsene våre. Med trommesett, piano, synther, trommemaskiner, perkusjon og elektroniske elementer som utgangspunkt, har Netland utviklet et tydelig og personlig musikalsk språk. Filosofien bak musikken er forankret i en enkel, ren tilstedeværelse -- før alt annet bygger seg på. Albumets struktur og rytmer speiler denne tankegangen og gir rom for både fri improvisasjon og meditativ ro, samtidig som musikken trekker veksler på naturens dynamikk og konstante endring. Albumet inviterer lytteren til å være til stede, lytte og føle -- i takt med både naturens pulserende rytmer og den indre roen mindfulness kan gi. First, Everything er ment både som en fordypende lytteopplevelse og som en musikalsk reisefølge: på toget, på flyet, på løpeturen, fjellturen eller skituren. Store deler av musikken er inspirert av Runar Netlands mange skiturer i Nordmarka i Oslo - et sted som har blitt et slags andre hjem. Albumet er spilt inn sammen med et stjernelag av musikere, som også blir med på scenen denne kvelden: Andreas Ulvo (tangenter) - Mathias Marstrander (pedalsteel, gitar) - Lyder Øvreås Røed (trompet), Sunniva Lilian Shaw Of-Tordarroch (cello) og Martin Ulltang (kontrabass). First, Everything er komponert og produsert av Runar Netland og er resultatet av hans masterstudium i musikk ved NLA Staffeldtsgate. Albumet er en invitasjon til å senke tempoet, lytte dypere og bevege seg varsomt -- fra start til slutt. Support: Haldor Røyne Vi er så heldige å få høre gitarist Haldor Røyne varme opp før Runar Netland og bandet går på scenen. Haldor er kanskje mest kjent som gitarist for Frida Ånnevik, men soloalbumet hans fra 2017 <> er en av Runars mest spilte album i hjemmet. Både Runar og vi er så heldige å få høre noen Valdres-slåtter på kassegitaren til Haldor. Foto: Helge Brekke",
@@ -754,6 +714,27 @@
       "source": "ticketmaster"
     },
     {
+      "id": "tm-LvZ18QmEHm4ogXsDfsZ6W",
+      "title": "Bli kjent med Espen Lee!",
+      "description": null,
+      "date": "2026-11-24",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Angst Bar, Oslo",
+      "categories": [
+        "teater"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.universe.com/events/bli-kjent-med-espen-lee-tickets-YF1RTP?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/bli-kjent-med-espen-lee-tickets-YF1RTP?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/393/b74d3ddc-a5f3-4e09-a801-89c36b774393_106071_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎭",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
       "id": "tm-Z698xZb_Z16v0bjp_v",
       "title": "KRISTIANSEN // VEMØY: Hymns for Shepherds and Kings",
       "description": "For tredje år på rad ønsker vi velkommen til en stemningsfull og meditativ julekonsert med KRISTIANSEN // VEMØY -- to av landets mest spennende musikalske formidlere. Denne kvelden blir en unik mulighet til å oppleve en musikalsk reise gjennom nytolkninger av julens hymner, i brytningen mellom budskapet om glede og håp, og den brutale virkeligheten vi lever i. Konserten er en kontemplativ opplevelse for både sjel og sinn -- i kirkerommet der albumet er spilt inn. Med inspirasjon fra jazz, klassisk musikk og elektronika skaper KRISTIANSEN // VEMØY et unikt lydunivers der det urolige og utydelige møter det beroligende og klare. Kontrasten mellom elektroniske underlag og akustiske elementer gir en dyptgående opplevelse som favner spekteret av menneskelige følelser. KRISTIANSEN // VEMØY er begge anerkjente musikere som har markert seg i ulike musikalske sammenhenger, både som utøvere, komponister og gjennom sine egne prosjekter. Deres samarbeid har røtter i arbeidet med Jakobmessene i Kulturkirken Jakob, og har siden 2021 resultert i tre albumutgivelser og 55 konserter i Norge og Danmark. KRISTIANSEN // VEMØY Øyvind Kristiansen [tangenter & programmering] Jonas Kilmork Vemøy [trompet & elektronikk] Om <> <> (Dagsavisen) <> (Nettavisen) <<[Blant] de beste platene i desember [2024]>> (Vårt Land)",
@@ -1032,12 +1013,33 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kk8aJJA",
+      "title": "Familiejulekonsert med Sarah Camille",
+      "description": "Julekonsert med Sarah Camille Sarah Camille er en prisvinnende artist med et særegent uttrykk og en varm utstråling. Musikalsk beveger hun seg mellom jazz, visetradisjon og folk. 29. November inviterer hun til en stemningsfull julekonsert i Kulturkirken Jakob. Store og små kan glede seg til denne stunden der publikum tas inn i varmen av musikk og historier. Sarah har med seg både egne låter, og julesanger hun har et nært forhold til. Scenen deler hun med strålende musikere. Velkommen ! Alder : passer best fra 5 år og oppover Tid : ca 45 min Sarah Camille - vokal Sidiki Camara - perkusjon Jørn Erik Ahlsen Alkanger - gitar Tuva Færden - fele Anders Hjemmen - bass",
+      "date": "2026-11-29",
+      "time": "13:00",
+      "endTime": null,
+      "location": "Kulturkirken Jakob, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/familiejulekonsert-med-sarah-camille-tickets/190266985?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/familiejulekonsert-med-sarah-camille-tickets/190266985?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/256/af31cae1-4396-44d4-b102-4261df688256_SOURCE",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 48,
-    "fetchedAt": "2026-11-03T12:36:54.704Z",
+    "fetchedAt": "2026-11-04T12:46:24.066Z",
     "sources": {
       "ticketmaster": 50,
       "scrape": 0
