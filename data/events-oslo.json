@@ -1,28 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z16vJko_77",
-      "title": "Runar Netland - releasekonsert (Support: Haldor Røyne)",
-      "description": "Trommeslager, komponist og musiker Runar Netland debuterer med sitt første soloalbum First, Everything -- et helhetlig og sanselig verk som utforsker rytme, struktur og improvisasjon med en organisk tilnærming til jazz. Albumet presenteres live i Kulturkirken Jakob 4. november. First, Everything er bygget som en reise. Musikken utvikler seg fra det enkle til det komplekse, fra stillhet til bevegelse, gjennom kontraster og forandring: fra mono til stereo, fra optimisme til pessimisme, fra ensomhet til fellesskap, fra å føle seg fortvilet til å finne håp. Resultatet er et uttrykk som balanserer ro og transformasjon, inspirert av naturens rytmiske mønstre og den uendelige syklusen i omgivelsene våre. Med trommesett, piano, synther, trommemaskiner, perkusjon og elektroniske elementer som utgangspunkt, har Netland utviklet et tydelig og personlig musikalsk språk. Filosofien bak musikken er forankret i en enkel, ren tilstedeværelse -- før alt annet bygger seg på. Albumets struktur og rytmer speiler denne tankegangen og gir rom for både fri improvisasjon og meditativ ro, samtidig som musikken trekker veksler på naturens dynamikk og konstante endring. Albumet inviterer lytteren til å være til stede, lytte og føle -- i takt med både naturens pulserende rytmer og den indre roen mindfulness kan gi. First, Everything er ment både som en fordypende lytteopplevelse og som en musikalsk reisefølge: på toget, på flyet, på løpeturen, fjellturen eller skituren. Store deler av musikken er inspirert av Runar Netlands mange skiturer i Nordmarka i Oslo - et sted som har blitt et slags andre hjem. Albumet er spilt inn sammen med et stjernelag av musikere, som også blir med på scenen denne kvelden: Andreas Ulvo (tangenter) - Mathias Marstrander (pedalsteel, gitar) - Lyder Øvreås Røed (trompet), Sunniva Lilian Shaw Of-Tordarroch (cello) og Martin Ulltang (kontrabass). First, Everything er komponert og produsert av Runar Netland og er resultatet av hans masterstudium i musikk ved NLA Staffeldtsgate. Albumet er en invitasjon til å senke tempoet, lytte dypere og bevege seg varsomt -- fra start til slutt. Support: Haldor Røyne Vi er så heldige å få høre gitarist Haldor Røyne varme opp før Runar Netland og bandet går på scenen. Haldor er kanskje mest kjent som gitarist for Frida Ånnevik, men soloalbumet hans fra 2017 <> er en av Runars mest spilte album i hjemmet. Både Runar og vi er så heldige å få høre noen Valdres-slåtter på kassegitaren til Haldor. Foto: Helge Brekke",
-      "date": "2026-11-04",
-      "time": "20:00",
-      "endTime": null,
-      "location": "Kulturkirken Jakob, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/runar-netland-releasekonsert-support-haldor-royne--tickets/1986459104?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/runar-netland-releasekonsert-support-haldor-royne--tickets/1986459104?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/256/af31cae1-4396-44d4-b102-4261df688256_SOURCE",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z1kff84qY",
       "title": "Hammok",
       "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's.",
@@ -1034,12 +1012,34 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vvEuf7s",
+      "title": "Julekonsert med Oslokoret",
+      "description": "In the mail hall the event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's.",
+      "date": "2026-11-29",
+      "time": "17:00",
+      "endTime": null,
+      "location": "Sentrum Scene, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/julekonsert-med-oslokoret-tickets/1067354131?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/julekonsert-med-oslokoret-tickets/1067354131?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/c0a/d6ddd70b-6b04-4d18-95a0-f2e02993cc0a_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 48,
-    "fetchedAt": "2026-11-04T12:46:24.066Z",
+    "fetchedAt": "2026-11-05T12:55:50.799Z",
     "sources": {
       "ticketmaster": 50,
       "scrape": 0
