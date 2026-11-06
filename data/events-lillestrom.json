@@ -1,46 +1,6 @@
 {
   "events": [
     {
-      "id": "scrape-gen-ahusrevy1-alltid-beredt--2026-11-05",
-      "title": "Ahusrevy1 – Alltid beredt!?",
-      "description": "Utsolgt",
-      "date": "2026-11-05",
-      "time": null,
-      "endTime": null,
-      "location": "Lillestrøm",
-      "categories": [
-        "teater"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16161-ahusrevy1-alltid-beredt/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16161-ahusrevy1-alltid-beredt/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
-      "id": "scrape-gen-bj-rnov-tar-det-piano-2026-11-05",
-      "title": "Bjørnov tar det piano",
-      "description": "Få billetter igjen",
-      "date": "2026-11-05",
-      "time": null,
-      "endTime": null,
-      "location": "Lillestrøm",
-      "categories": [],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16477-bjornov-tar-det-piano/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16477-bjornov-tar-det-piano/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
       "id": "scrape-gen-odd-nordstoga-f-r-du-g-r-2026-11-06",
       "title": "Odd Nordstoga – Før du går",
       "description": "Fredag 6. november\nkl. 19.00",
@@ -53,6 +13,27 @@
       "currency": null,
       "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17372-odd-nordstoga-for-du-gar/",
       "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17372-odd-nordstoga-for-du-gar/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-ahusrevy1-alltid-beredt--2026-11-06",
+      "title": "Ahusrevy1 – Alltid beredt!?",
+      "description": "Utsolgt",
+      "date": "2026-11-06",
+      "time": null,
+      "endTime": null,
+      "location": "Lillestrøm",
+      "categories": [
+        "teater"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16161-ahusrevy1-alltid-beredt/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16161-ahusrevy1-alltid-beredt/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -1100,7 +1081,7 @@
     {
       "id": "scrape-gen-maja-lunde-og-lisa-aisatos-sn-s-steren-e-2026-12-20",
       "title": "Maja Lunde og Lisa Aisatos «Snøsøsteren – en julefortelling»",
-      "description": "Søn. 20. des.\n2 forestillinger",
+      "description": "20. des. – 21. des.\n3 forestillinger",
       "date": "2026-12-20",
       "time": null,
       "endTime": null,
@@ -1851,6 +1832,46 @@
       "source": "scrape"
     },
     {
+      "id": "scrape-gen-rundt-et-flygel-trio-safino-og-magnus-ta-2027-09-15",
+      "title": "Rundt et flygel – Trio Safino og Magnus Takvam",
+      "description": "Onsdag 15. september 2027\nkl. 19.00",
+      "date": "2027-09-15",
+      "time": null,
+      "endTime": null,
+      "location": "Lillestrøm",
+      "categories": [],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17714-rundt-et-flygel-trio-safino-og-magnus-takvam/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17714-rundt-et-flygel-trio-safino-og-magnus-takvam/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-henning-kvitnes-poul-krebs-to-legender-e-2027-10-13",
+      "title": "Henning Kvitnes & Poul Krebs: To legender – en scene",
+      "description": "Onsdag 13. oktober 2027\nkl. 19.00",
+      "date": "2027-10-13",
+      "time": null,
+      "endTime": null,
+      "location": "Lillestrøm",
+      "categories": [
+        "teater"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17785-henning-kvitnes-poul-krebs-to-legender-en-scene/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17785-henning-kvitnes-poul-krebs-to-legender-en-scene/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
       "id": "scrape-gen-keep-it-country-concert-2027-10-17",
       "title": "Keep It Country Concert",
       "description": "Søndag 17. oktober 2027\nkl. 19.00",
@@ -1863,6 +1884,25 @@
       "currency": null,
       "ticketUrl": "https://www.lillestrom-kultursenter.no/program/18234-keep-it-country-concert/",
       "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/18234-keep-it-country-concert/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-rundt-et-flygel-savannah-fremf-rer-tre-n-2027-10-20",
+      "title": "Rundt et flygel – Savannah fremfører tre norske komponister",
+      "description": "Onsdag 20. oktober 2027\nkl. 19.00",
+      "date": "2027-10-20",
+      "time": null,
+      "endTime": null,
+      "location": "Lillestrøm",
+      "categories": [],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17715-rundt-et-flygel-savannah-fremforer-tre-norske-komponister/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17715-rundt-et-flygel-savannah-fremforer-tre-norske-komponister/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -1933,11 +1973,11 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 99,
-    "fetchedAt": "2026-11-05T12:56:11.461Z",
+    "count": 101,
+    "fetchedAt": "2026-11-06T12:43:08.523Z",
     "sources": {
       "ticketmaster": 0,
-      "scrape": 102
+      "scrape": 104
     }
   }
 }

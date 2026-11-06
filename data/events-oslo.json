@@ -1,50 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z1kff84qY",
-      "title": "Hammok",
-      "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's.",
-      "date": "2026-11-05",
-      "time": "19:00",
-      "endTime": null,
-      "location": "John Dee, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/hammok-tickets/514415770?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/hammok-tickets/514415770?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/3b3/1f988879-2f8c-4afa-abb5-5ffe06d8a3b3_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z1kObj_8_",
-      "title": "Olga Myko",
-      "description": "Olga Myko rørte lyttere over hele verden og ble et kjent navn, nærmest over natten. 5. november kommer det svenske stjerneskuddet til Kulturkirken Jakob, klar for å fylle rommet med ny musikk og en konsertopplevelse som garantert vil sette spor i hjertet. Med en fot i barokkens strykere, ukrainske folkeeventyr og lyden av bestemoren på kjøkkenet, og den andre i et Stockholm i konstant bevegelse, omfavner Olga Myko både det tidløse og samtidig slående moderne. Musikken hennes oppstår i møtet mellom disse kontrastene. Mellom det gamle og det nye, det skjøre og det voldsomme, det vonde og det fine. Tekstene er tett på de følelsene som gjør vondt, det som sårer, og følelsene vi ofte mangler ord for. Med en unik åpenhet, forvandler hun uro, lengsel og kjærlighetssorg til låter som finner veien inn i andres liv og resonerer med mennesker på tvers av alder og landegrenser. Gjennombruddet kom omtrent over natten med hiten <>. Her fanget hun oppmerksomheten til både TikTok-publikum, musikkritikere og etablerte en stadig voksende internasjonal fanskare. Siden har hun blitt nominert til Grammis, varmet opp for etablerte internasjonale artister og tatt steget opp på stadig større scener. Nå er hun klar for å legge ut på sin første headlinerturné. På den nyeste EP-en How Dare You Tryna Love Me (2026) forteller Olga Myko i en historie født ut av kjærlighetssorg. Gjennom tvil, indre konflikt og motstand, tar hun oss med på en personlig reise mot å våge å akseptere kjærlighet, og erkjennelsen av at også hun fortjener å bli elsket. Når Olga Myko inntar Kulturkirken Jakob 5. november, åpner hun dørene til et musikalsk univers som er mørkt, varmt og omfavnende. Under kirkehvelvingene kombinerer hun cembalo og synthesizere med en stemme som rommer både sårbarhet og styrke. Stående/sittende: Stående konsert Ledsager: Gratis med billett Aldersgrense: 18 år",
-      "date": "2026-11-05",
-      "time": "20:00",
-      "endTime": null,
-      "location": "Kulturkirken Jakob, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/olga-myko-tickets/818719419?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/olga-myko-tickets/818719419?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/256/af31cae1-4396-44d4-b102-4261df688256_SOURCE",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z16vFtPOjP",
       "title": "Fontaines D.C.",
       "description": null,
@@ -1034,12 +990,33 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16v_Yuf_Z",
+      "title": "Händels Messias in Oslo Cathedral",
+      "description": "George Frideric Handel's Messiah is, for many, an essential part of Christmas. When Oslo Cathedral presents the work with its own church music forces, it becomes both grand and delightful! The work Messiah can almost be described as a baroque \"hit-parade\". Joining us are Barokkanerne and a group of top international soloists. On the first weekend of Advent, there will be plenty of festive pre-Christmas atmosphere --- a perfect start to the Advent season and the concert period leading up to Christmas. George Frideric Handel: Messiah Participants: Beate Mordal, soprano. Mari Askvik, alto. Eirik Grøtvedt, tenor. Håvard Stensvold, bass. Oslo Cathedral Boys' Choir, Oslo Cathedral Youth Choir, Trefoldighet Girls' Choir, Consortium Vocale Oslo and Oslo Cathedral Choir Barokkanerne. Oddgeir Kjetilstad, conductor. Accessibility: Dedicated wheelchair spaces can be purchased in the south nave. Here you can choose whether you are accompanied by a companion or not. Companions are admitted free of charge upon presentation of a companion certificate. The companion will be seated directly behind the wheelchair space. Oslo Cathedral has both a ramp and a lift to ensure step-free access. Please arrive at the main entrance, where our staff will guide you to the wheelchair entrance. A wheelchair-accessible restroom is available near the main entrance. If you wish to reserve a companion ticket without it being linked to a wheelchair space, select the ticket category \"companion-ticket\" for any other seat in the Cathedral. For questions, please contact the organizer, Oslo Cathedral Choir, at +47 977 95 450.",
+      "date": "2026-11-29",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Oslo domkirke, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/handels-messias-in-oslo-cathedral-tickets/1670354640?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/handels-messias-in-oslo-cathedral-tickets/1670354640?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/af5/0bd606ab-08b4-4e0d-852c-0c3324e25af5_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
-    "count": 48,
-    "fetchedAt": "2026-11-05T12:55:50.799Z",
+    "count": 47,
+    "fetchedAt": "2026-11-06T12:42:47.524Z",
     "sources": {
       "ticketmaster": 50,
       "scrape": 0
