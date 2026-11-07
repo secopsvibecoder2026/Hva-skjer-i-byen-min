@@ -1,27 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z16vFtPOjP",
-      "title": "Fontaines D.C.",
-      "description": null,
-      "date": "2026-11-06",
-      "time": "19:30",
-      "endTime": null,
-      "location": "Oslo Spektrum, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/fontaines-dc-tickets/1229960725?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/fontaines-dc-tickets/1229960725?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/9f3/cda7f635-ebbc-4a5d-9988-7e7db1ab39f3_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z1k-SvoQ8",
       "title": "NyNorsk Messingkvintett 10 år - en jubileumsfestival",
       "description": "NyNorsk Messingkvintett 10 år -- en jubileumsfestival Kulturkirken JAKOB, lørdag 7. november 2026 kl. 16.00 10 år er gått siden NyNorsk Messingkvintett entret scenen for aller første gang, og dette er selvsagt en begivenhet som må feires med brask og bram. Ensemblet inviterer til en storslagen jubileumsfestival i Kulturkirken JAKOB, der de sammen med en stjernerekke av artister fremfører smakebiter fra nye og gamle prosjekter. På menyen står også et helt nyskrevet jubileumsverk, signert komponisten Trond Reinholdtsen. I likhet med ensemblets filosofi blir dette en kveld der musikere og sangere kjører slalåm mellom etablerte sjangergrenser og blåser en lang marsj i alle konvensjoner. Bli med på en heidundrende bursdagsfeiring for en ikke lenger fullt så Ny Norsk Messingkvintett! Gjesteartister: Tora Augestad, (mezzosopran) Trygve Seim, (saksofoner) Frode Haltli, (akkordeon) Julie Kleive, (vokal) Silje Aker Johnsen (sopran) Geir Strande Syrrist (slagverk) DEL 1 (kl. 16.00) My favorite thing -- verk av Smørdal og Asheim Vi åpner festivalkvelden med Jan Martin Smørdals verk <> fra det eksperimentelle samarbeidet med sopranen Silje Aker Johnsen. Det blir også gjenhør med <> Hornflowers, skrevet av Nils Henrik Asheim til vårt debutalbum med samme navn. DEL 2 (ca. 17.15) Reinholdtsens jubileumsverk og Trygve Seim/Frode Haltli Duo NyNorsk Messingkvintett urfremfører kveldens jubileumsverk, signert Trond Reinholdtsen. Trygve Seim og Frode Haltli byr på musikk fra sitt kritikerroste duo-prosjekt, utgitt på ECM. DEL 3 (ca. 18.15) Fenghuang -- musikk av Haltli, Hannevold og Ratkje Frode Haltli, slagverker Geir Strande Syrrist og NyNorsk Messingkvintett fremfører utdrag fra prosjektet <> med verk av Frode Haltli og Anders Hannevold, inspirert av øst-asiatiske myter og folklore. Sammen med sangerne Tora Augestad, Julie Kleive og Silje Aker Johnsen fremfører Frode Haltli tre tangoer han og Maja Ratkje har skrevet til tekster av den svenske forfatteren Gunnar Ekelöf. DEL 4 (ca. 19.30) Fløgstad-songar og andre sanger Tora Augestad, Trygve Seim og NyNorsk Messingkvintett fremfører utdrag fra Seims sangsyklus Fløgstad-songar, komponert til dikt av Kjartan Fløgstad. Tora Augestad og Geir Strande Syrrist fremfører <> av Donald Trump (!) tonesatt av Marcus Paus. Før kvelden avsluttes med fellesnummer, får vi smakebiter fra <> - det nye samarbeidet mellom vokalist og komponist Julie Kleive og NyNorsk Messingkvintett. Det blir åpen bar, med salg av mat og drikke gjennom kvelden. Vel møtt! NyNorsk Messingkvintett: Jørgen Arnesen, trompet Erlend Aagaard-Nilsen, trompet Marie Solum Gran, horn Ingebjørg Bruket, trombone Berger Iver Færder, tub Barn i følge med voksen ledsager kommer inn gratis. Kontakt Kulturkirken Jakob for registrering i forkant: jakob@kkv.no",
@@ -111,7 +90,7 @@
     {
       "id": "tm-Z698xZb_Z16vb3qSfV",
       "title": "Beth Hart - flyttet fra 20.10.25 til 09.11.26",
-      "description": "Doors Open kl. 19.00. The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's Read the organizer's terms of purchase here. See www.rockefeller.no for the complete program.. Practical information about the concerts can be found here. The nearest transport hub is Storgata and/or Jernbanetorget. See ruter.no for more info.",
+      "description": "Doors Open kl. 19.00. This is the rescheduled date for the concert originally scheduled to take place at Sentrum Scene on October 20, 2025. Tickets that have not been refunded remain valid and have been automatically updated in the ticket purchaser's Ticketmaster account. Tickets give access to both standing room in the main hall and unnumbered seats in the gallery, available on a first-come, first-served basis. The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's Read the organizer's terms of purchase here. See www.rockefeller.no for the complete program.. Practical information about the concerts can be found here. The nearest transport hub is Storgata and/or Jernbanetorget. See ruter.no for more info.",
       "date": "2026-11-09",
       "time": "19:00",
       "endTime": null,
@@ -1011,12 +990,33 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16v3aqoPI",
+      "title": "A New Voices XMAS 2026",
+      "description": "Velkommen til julekonsert med gospelkoret New Voices! New Voices har hatt stor suksess med utsolgte konserter i Oslo de siste fem årene -- og mandag 30. november kommer de tilbake til Kulturkirken Jakob! Julen synges inn med kjente julelåter, i tillegg til R&B- og poplåter av store amerikanske artister. Ta med en venn eller hele familien, og kom på årets julekonsert med New Voices i Oslo! Koret stiller med fullt band, som hvert år, og vi kan garantere en nydelig julestemning! Dørene åpner kl. 19.00, konserten starter kl. 20.00. NB! Det anbefales å komme i god tid før arrangementet starter, da det kan bli kø.",
+      "date": "2026-11-30",
+      "time": "20:00",
+      "endTime": null,
+      "location": "Kulturkirken Jakob, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/a-new-voices-xmas-2026-tickets/1489751968?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/a-new-voices-xmas-2026-tickets/1489751968?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/256/af31cae1-4396-44d4-b102-4261df688256_SOURCE",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 47,
-    "fetchedAt": "2026-11-06T12:42:47.524Z",
+    "fetchedAt": "2026-11-07T11:30:35.753Z",
     "sources": {
       "ticketmaster": 50,
       "scrape": 0

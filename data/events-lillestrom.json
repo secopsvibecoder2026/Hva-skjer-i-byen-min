@@ -1,46 +1,6 @@
 {
   "events": [
     {
-      "id": "scrape-gen-odd-nordstoga-f-r-du-g-r-2026-11-06",
-      "title": "Odd Nordstoga – Før du går",
-      "description": "Fredag 6. november\nkl. 19.00",
-      "date": "2026-11-06",
-      "time": null,
-      "endTime": null,
-      "location": "Lillestrøm",
-      "categories": [],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17372-odd-nordstoga-for-du-gar/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17372-odd-nordstoga-for-du-gar/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
-      "id": "scrape-gen-ahusrevy1-alltid-beredt--2026-11-06",
-      "title": "Ahusrevy1 – Alltid beredt!?",
-      "description": "Utsolgt",
-      "date": "2026-11-06",
-      "time": null,
-      "endTime": null,
-      "location": "Lillestrøm",
-      "categories": [
-        "teater"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16161-ahusrevy1-alltid-beredt/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16161-ahusrevy1-alltid-beredt/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
       "id": "scrape-gen-sandshowet-askepott-et-eventyr-i-lys-og--2026-11-07",
       "title": "Sandshowet «Askepott» – Et eventyr i lys og sand",
       "description": "Lørdag 7. november\nkl. 14.00",
@@ -528,7 +488,7 @@
     {
       "id": "scrape-gen-bori-presenterer-scrooge-et-juleeventyr-2026-11-26",
       "title": "BORI presenterer Scrooge – et juleeventyr",
-      "description": "Få billetter igjen",
+      "description": "Utsolgt",
       "date": "2026-11-26",
       "time": null,
       "endTime": null,
@@ -764,7 +724,7 @@
     {
       "id": "scrape-gen-romerike-sparebank-presenterer-scrooge-e-2026-12-03",
       "title": "Romerike Sparebank presenterer Scrooge – et juleeventyr",
-      "description": "Torsdag 3. desember\nkl. 18.00",
+      "description": "Få billetter igjen",
       "date": "2026-12-03",
       "time": null,
       "endTime": null,
@@ -1043,7 +1003,7 @@
     {
       "id": "scrape-gen-sporsem-og-brungot-h-y-og-m-rk-2026-12-18",
       "title": "Sporsem og Brungot – Høy og Mørk",
-      "description": "Fredag 18. desember\nkl. 19.00",
+      "description": "Få billetter igjen",
       "date": "2026-12-18",
       "time": null,
       "endTime": null,
@@ -1167,6 +1127,27 @@
       "currency": null,
       "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17664-kulturkafe-the-sound-of-simon-garfunkel/",
       "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17664-kulturkafe-the-sound-of-simon-garfunkel/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-nytt-rskonsert-med-demenskoret-i-lillest-2027-01-21",
+      "title": "Nyttårskonsert med demenskoret i Lillestrøm",
+      "description": "Torsdag 21. januar 2027\nkl. 16.00",
+      "date": "2027-01-21",
+      "time": null,
+      "endTime": null,
+      "location": "Lillestrøm",
+      "categories": [
+        "konsert"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/18217-nyttarskonsert-med-demenskoret-i-lillestrom/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/18217-nyttarskonsert-med-demenskoret-i-lillestrom/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -1973,11 +1954,11 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 101,
-    "fetchedAt": "2026-11-06T12:43:08.523Z",
+    "count": 100,
+    "fetchedAt": "2026-11-07T11:30:58.119Z",
     "sources": {
       "ticketmaster": 0,
-      "scrape": 104
+      "scrape": 103
     }
   }
 }
