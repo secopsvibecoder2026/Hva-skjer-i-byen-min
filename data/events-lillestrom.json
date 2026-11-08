@@ -1,63 +1,6 @@
 {
   "events": [
     {
-      "id": "scrape-gen-sandshowet-askepott-et-eventyr-i-lys-og--2026-11-07",
-      "title": "Sandshowet «Askepott» – Et eventyr i lys og sand",
-      "description": "Lørdag 7. november\nkl. 14.00",
-      "date": "2026-11-07",
-      "time": null,
-      "endTime": null,
-      "location": "Lillestrøm",
-      "categories": [],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17707-sandshowet-askepott-et-eventyr-i-lys-og-sand/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17707-sandshowet-askepott-et-eventyr-i-lys-og-sand/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
-      "id": "scrape-gen-dora-thorhallsdottir-f-kk-2026-11-07",
-      "title": "Dora Thorhallsdottir – FØKK",
-      "description": "Lørdag 7. november\nkl. 19.00",
-      "date": "2026-11-07",
-      "time": null,
-      "endTime": null,
-      "location": "Lillestrøm",
-      "categories": [],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17526-dora-thorhallsdottir-fokk/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17526-dora-thorhallsdottir-fokk/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
-      "id": "scrape-gen--faen-d-martha-med-martha-leivestad-2026-11-07",
-      "title": "«Faen då, Martha!» med Martha Leivestad",
-      "description": "Få billetter igjen",
-      "date": "2026-11-07",
-      "time": null,
-      "endTime": null,
-      "location": "Lillestrøm",
-      "categories": [],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17834-faen-da-martha-med-martha-leivestad/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17834-faen-da-martha-med-martha-leivestad/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
       "id": "scrape-gen-dansedr-mmer-med-norsk-ballettinstitutt-2026-11-08",
       "title": "Dansedrømmer med Norsk Ballettinstitutt",
       "description": "Søn. 8. nov.\n3 forestillinger",
@@ -1954,11 +1897,11 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 100,
-    "fetchedAt": "2026-11-07T11:30:58.119Z",
+    "count": 97,
+    "fetchedAt": "2026-11-08T11:41:34.953Z",
     "sources": {
       "ticketmaster": 0,
-      "scrape": 103
+      "scrape": 100
     }
   }
 }
