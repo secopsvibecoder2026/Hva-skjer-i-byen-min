@@ -174,6 +174,27 @@
       "source": "ticketmaster"
     },
     {
+      "id": "tm-Z698xZb_Z16vGzpeaO",
+      "title": "Bergen Calling: RAYE",
+      "description": "Bergen Calling - one-day festival at Bergenhus Fortress on Monday, june 28th, 2027. PLEASE NOTE! Standing only - including Front Floor. Front Floor is a limited-capacity ticket category that provides access to an area in front of the stage, with its own entrance, bars and toilets. There is a maximum ticket limit of 6 tickets per person. Age restriction: 18+ with a guardian scheme. The minimum age when accompanied by a guardian is 15. Guests under the age of 18 must be accompanied by a sober adult aged 23 or over. The guardian form is available on Bergen Live's website and must be completed before arriving at the concert venue. Tickets for the accessible area (including a companion, if applicable) are available via this accessible ticket link. Wheelchair users are directed to a dedicated area or platform that provides a good view of the stage and a safe concert experience. Capacity is limited. Priority is given to wheelchair users, followed by guests with other mobility impairments. If the platform reaches capacity, companions will be required to stand in the surrounding area. Read more about this here. Food and beverages are available for purchase inside the concert area. Read more practical concert information from the promoter, Bergen Live, here. When purchasing beer or wine, ID checks will be carried out at the entrances to the bar areas, as well as through random checks within the concert area. Violations of alcohol regulations (guests under the age of 18 consuming alcohol and guests purchasing alcohol for anyone under the age of 18) will result in removal from the concert area and will be reported to the police on site. Earplugs are available free of charge at selected outlets within the concert area. Food, beverages, bottles, cans, umbrellas, folding chairs, animals, weapons and laser pointers are prohibited inside the concert area. Please note that guests will not be permitted to re-enter the concert area if they leave, unless there is a particularly valid reason and this has been agreed with a member of the promoter's staff at the entrance. For more information about the concert, please visit Bergen Live's (promoter) website or Facebook page.",
+      "date": "2027-06-28",
+      "time": "18:00",
+      "endTime": null,
+      "location": "Bergenhus Festning - Koengen, Bergen",
+      "categories": [
+        "konsert"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/bergen-calling-raye-tickets/1338582260?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/bergen-calling-raye-tickets/1338582260?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/704/a26b9afc-2955-4e6b-885c-69aa2fcf8704_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
       "id": "tm-Z698xZb_Z16vqbP-f9",
       "title": "Beyond the Gates XV - 4 Day Festival Pass GOLD",
       "description": "4 day metal festival located in the heart of Bergen, Norway. 2027 marks the festivals 15th anniversary. Mulitple stages and venues, black metal, doom metal, heavy metal and more. Arrangementstidspunkt/konsertstart : 17:30 Dørene åpner : 60 min før Servering : Mat Øl / Vin Aldersgrense : 18 Ledsager : Ledsager gratis med billett - Maks antall: 10 Rullestol : Ja Parkeringsmuligheter : Ja Linker: Arrangørens nettside Instagram Facebook",
@@ -285,10 +306,10 @@
   ],
   "meta": {
     "city": "bergen",
-    "count": 13,
-    "fetchedAt": "2026-11-08T11:41:14.274Z",
+    "count": 14,
+    "fetchedAt": "2026-11-09T13:37:07.583Z",
     "sources": {
-      "ticketmaster": 13,
+      "ticketmaster": 14,
       "scrape": 0
     }
   }

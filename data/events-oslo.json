@@ -1,28 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z1kQ8Ogf8",
-      "title": "DON TOLIVER: NITROUS - OCTANE WORLD TOUR LEG 2",
-      "description": "Ticket Information: - Maximum 8 tickets per person. - Bottles, cans, and laser pointers are prohibited inside the concert area. Tickets will be available as mobile tickets (QR codes) via the Ticketmaster app and your user account well in advance of the concert (about 30 days). Learn more about delayed delivery of admission passes here. Wheelchair and companion seats are sold through Ticketmaster. For assistance, contact customer support here. Use public transportation to Unity Arena. Visit unityarena.no or ruter.no for travel options. For more details about the concert, artists, and entry times, visit unityarena.no or livenation.no. Schedule: - Box Office opens: 17:00 - Doors open: 18:00 General Information: The organizer reserves the right to deny entry to individuals who refuse personal inspection (this may include a body search and baggage check). See unityarena.no for details about prohibited items. Ejected individuals are not entitled to a ticket refund. There is no minimum age for the concert, but children under 15 must be accompanied by an adult (as per the Police Act in Bærum Municipality).",
-      "date": "2026-11-08",
-      "time": "18:00",
-      "endTime": null,
-      "location": "Unity Arena, Fornebu",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/don-toliver-nitrous-octane-world-tour-leg-2-tickets/690835510?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/don-toliver-nitrous-octane-world-tour-leg-2-tickets/690835510?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/4d1/d0bc76d6-02e3-4e46-96fc-658377e464d1_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z16vb3qSfV",
       "title": "Beth Hart - flyttet fra 20.10.25 til 09.11.26",
       "description": "Doors Open kl. 19.00. This is the rescheduled date for the concert originally scheduled to take place at Sentrum Scene on October 20, 2025. Tickets that have not been refunded remain valid and have been automatically updated in the ticket purchaser's Ticketmaster account. Tickets give access to both standing room in the main hall and unnumbered seats in the gallery, available on a first-come, first-served basis. The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's Read the organizer's terms of purchase here. See www.rockefeller.no for the complete program.. Practical information about the concerts can be found here. The nearest transport hub is Storgata and/or Jernbanetorget. See ruter.no for more info.",
@@ -132,7 +110,7 @@
     },
     {
       "id": "tm-Z698xZb_Z16voUa_C9",
-      "title": "Sophie Zelmani",
+      "title": "Sophie Zelmani (FÅ BILL)",
       "description": "Sophie Zelmani til Kulturkirken Jakob! Sophie Zelmani har genom alla år varit konsekvent i sitt skapande på många sätt. Hennes musik, karaktäristiska röst och personliga uttryck känns igen på mils avstånd. Hon har också konsekvent spelat med fullt band tillsammans med samma musiker. Men när idén på en kyrkoturné föddes så blev det tydligt att kyrkorummet behövde en annan musikalisk inramning. Denna turné kommer Sophie göra med sin producent och gitarrist Lars Halapi, bara dom två på duo tillsammans med kyrkans akustik. Detta kräver också sin egen låtlista där låtar som tidigare inte passat kan passa bättre, eller låtar som behöver ett nytt arrangemang för att fungera i kyrkans rum. Denne konserten var tidligere lagt til \"På Gølvet\" serien, men er nå flyttet opp på scenen grunnet høy etterspørsel etter billetter.",
       "date": "2026-11-11",
       "time": "20:00",
@@ -143,8 +121,8 @@
       ],
       "priceFrom": null,
       "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/sophie-zelmani-tickets/1476259397?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/sophie-zelmani-tickets/1476259397?language=en-us&ref=hvaSkjerIByenMin",
+      "ticketUrl": "https://www.ticketmaster.no/event/sophie-zelmani-fa-bill--tickets/1476259397?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/sophie-zelmani-fa-bill--tickets/1476259397?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/e/b7a/c88c63d9-f9af-4e29-bd3a-6c828f05bb7a_TABLET_LANDSCAPE_16_9.jpg",
       "imageEmoji": "🎵",
       "sponsored": false,
@@ -269,8 +247,7 @@
       "endTime": null,
       "location": "Kulturkirken Jakob, Oslo",
       "categories": [
-        "konsert",
-        "uteliv"
+        "konsert"
       ],
       "priceFrom": null,
       "currency": null,
@@ -576,7 +553,7 @@
       "currency": null,
       "ticketUrl": "https://www.universe.com/events/bli-kjent-med-espen-lee-tickets-YF1RTP?ref=ticketmaster",
       "affiliateUrl": "https://www.universe.com/events/bli-kjent-med-espen-lee-tickets-YF1RTP?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/393/b74d3ddc-a5f3-4e09-a801-89c36b774393_106071_RETINA_LANDSCAPE_16_9.jpg",
+      "imageUrl": "https://s1.ticketm.net/dam/c/393/b74d3ddc-a5f3-4e09-a801-89c36b774393_106071_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "imageEmoji": "🎭",
       "sponsored": false,
       "featured": false,
@@ -928,19 +905,20 @@
     },
     {
       "id": "tm-Z698xZb_Z16v3aqoPI",
-      "title": "A New Voices XMAS 2026",
+      "title": "A New Voices XMAS 2026 (FÅ BILL)",
       "description": "Velkommen til julekonsert med gospelkoret New Voices! New Voices har hatt stor suksess med utsolgte konserter i Oslo de siste fem årene -- og mandag 30. november kommer de tilbake til Kulturkirken Jakob! Julen synges inn med kjente julelåter, i tillegg til R&B- og poplåter av store amerikanske artister. Ta med en venn eller hele familien, og kom på årets julekonsert med New Voices i Oslo! Koret stiller med fullt band, som hvert år, og vi kan garantere en nydelig julestemning! Dørene åpner kl. 19.00, konserten starter kl. 20.00. NB! Det anbefales å komme i god tid før arrangementet starter, da det kan bli kø.",
       "date": "2026-11-30",
       "time": "20:00",
       "endTime": null,
       "location": "Kulturkirken Jakob, Oslo",
       "categories": [
-        "konsert"
+        "konsert",
+        "uteliv"
       ],
       "priceFrom": null,
       "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/a-new-voices-xmas-2026-tickets/1489751968?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/a-new-voices-xmas-2026-tickets/1489751968?language=en-us&ref=hvaSkjerIByenMin",
+      "ticketUrl": "https://www.ticketmaster.no/event/a-new-voices-xmas-2026-fa-bill--tickets/1489751968?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/a-new-voices-xmas-2026-fa-bill--tickets/1489751968?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/a/256/af31cae1-4396-44d4-b102-4261df688256_SOURCE",
       "imageEmoji": "🎵",
       "sponsored": false,
@@ -1010,12 +988,34 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kA97zkZ",
+      "title": "Hellbillies",
+      "description": "Doors Open kl. 19.00. The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's Read the organizer's terms of purchase here. See www.rockefeller.no for the complete program.. Practical information about the concerts can be found here. The nearest transport hub is Storgata and/or Jernbanetorget. See ruter.no for more info.",
+      "date": "2026-12-03",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Sentrum Scene, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/hellbillies-tickets/157138180?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/hellbillies-tickets/157138180?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/1c3/6ec6a106-a4ce-4323-bbf5-128fe981e1c3_SOURCE",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 47,
-    "fetchedAt": "2026-11-08T11:41:14.800Z",
+    "fetchedAt": "2026-11-09T13:37:08.939Z",
     "sources": {
       "ticketmaster": 50,
       "scrape": 0

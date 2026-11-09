@@ -1,46 +1,6 @@
 {
   "events": [
     {
-      "id": "scrape-gen-dansedr-mmer-med-norsk-ballettinstitutt-2026-11-08",
-      "title": "Dansedrømmer med Norsk Ballettinstitutt",
-      "description": "Søn. 8. nov.\n3 forestillinger",
-      "date": "2026-11-08",
-      "time": null,
-      "endTime": null,
-      "location": "Lillestrøm",
-      "categories": [],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17288-dansedrommer-med-norsk-ballettinstitutt/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17288-dansedrommer-med-norsk-ballettinstitutt/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
-      "id": "scrape-gen-lillestr-m-skolekorps-inviterer-n-billet-2026-11-08",
-      "title": "Lillestrøm skolekorps inviterer: Én billett – to konserter",
-      "description": "Søndag 8. november\nkl. 14.00",
-      "date": "2026-11-08",
-      "time": null,
-      "endTime": null,
-      "location": "Lillestrøm",
-      "categories": [
-        "konsert"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17056-lillestrom-skolekorps-inviterer-en-billett-to-konserter/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17056-lillestrom-skolekorps-inviterer-en-billett-to-konserter/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
       "id": "scrape-gen-bjelleklang-i-et-evig-ekko-2026-11-10",
       "title": "Bjelleklang – I et evig ekko",
       "description": "Få billetter igjen",
@@ -138,7 +98,7 @@
     {
       "id": "scrape-gen-jonas-fjeld-setter-bagen-fra-seg-2026-11-13",
       "title": "Jonas Fjeld setter bagen fra seg",
-      "description": "Utsolgt",
+      "description": "Få billetter igjen",
       "date": "2026-11-13",
       "time": null,
       "endTime": null,
@@ -330,7 +290,7 @@
     {
       "id": "scrape-gen-barnas-teaterl-rdag-n-r-alle-sover-2026-11-21",
       "title": "Barnas teaterlørdag – Når alle sover",
-      "description": "Lørdag 21. november\nkl. 13.00",
+      "description": "Få billetter igjen",
       "date": "2026-11-21",
       "time": null,
       "endTime": null,
@@ -431,7 +391,7 @@
     {
       "id": "scrape-gen-bori-presenterer-scrooge-et-juleeventyr-2026-11-26",
       "title": "BORI presenterer Scrooge – et juleeventyr",
-      "description": "Utsolgt",
+      "description": "Få billetter igjen",
       "date": "2026-11-26",
       "time": null,
       "endTime": null,
@@ -1079,7 +1039,7 @@
     {
       "id": "scrape-gen-nytt-rskonsert-med-demenskoret-i-lillest-2027-01-21",
       "title": "Nyttårskonsert med demenskoret i Lillestrøm",
-      "description": "Torsdag 21. januar 2027\nkl. 16.00",
+      "description": "Torsdag 21. januar 2027\nkl. 18.00",
       "date": "2027-01-21",
       "time": null,
       "endTime": null,
@@ -1378,6 +1338,25 @@
       "currency": null,
       "ticketUrl": "https://www.lillestrom-kultursenter.no/program/18284-evig-ung/",
       "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/18284-evig-ung/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-svanesj-en-en-kveld-med-ballett-i-verden-2027-02-21",
+      "title": "Svanesjøen – en kveld med ballett i verdensklasse",
+      "description": "Søndag 21. februar 2027\nkl. 18.00",
+      "date": "2027-02-21",
+      "time": null,
+      "endTime": null,
+      "location": "Lillestrøm",
+      "categories": [],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17553-svanesjoen-en-kveld-med-ballett-i-verdensklasse/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17553-svanesjoen-en-kveld-med-ballett-i-verdensklasse/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -1897,11 +1876,11 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 97,
-    "fetchedAt": "2026-11-08T11:41:34.953Z",
+    "count": 96,
+    "fetchedAt": "2026-11-09T13:37:27.676Z",
     "sources": {
       "ticketmaster": 0,
-      "scrape": 100
+      "scrape": 99
     }
   }
 }
