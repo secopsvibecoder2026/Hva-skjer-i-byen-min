@@ -1,50 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z16vb3qSfV",
-      "title": "Beth Hart - flyttet fra 20.10.25 til 09.11.26",
-      "description": "Doors Open kl. 19.00. This is the rescheduled date for the concert originally scheduled to take place at Sentrum Scene on October 20, 2025. Tickets that have not been refunded remain valid and have been automatically updated in the ticket purchaser's Ticketmaster account. Tickets give access to both standing room in the main hall and unnumbered seats in the gallery, available on a first-come, first-served basis. The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's Read the organizer's terms of purchase here. See www.rockefeller.no for the complete program.. Practical information about the concerts can be found here. The nearest transport hub is Storgata and/or Jernbanetorget. See ruter.no for more info.",
-      "date": "2026-11-09",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Sentrum Scene, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/beth-hart-flyttet-fra-201025-til-091126-tickets/1612773534?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/beth-hart-flyttet-fra-201025-til-091126-tickets/1612773534?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/0e5/ed161267-bfd8-444d-be9a-49e314d9c0e5_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16vaYpkAN",
-      "title": "LEVI.SCT",
-      "description": "LEVI.SCT til Kulturkirken Jakob Den prisvinnende pianosensasjonen kommer til Oslo 9. november 2026 Den tyske pianisten og komponisten Levi Schechtmann, bedre kjent som LEVI.SCT, kommer til Kulturkirken Jakob 9. november 2026. Med sitt sjangerbrytende uttrykk og eksplosive liveshow har han raskt blitt en av Europas mest omtalte nye artister innen moderne piano og crossover-musikk. LEVI.SCT kombinerer klassiske komponister som Chopin og Rachmaninov med elementer fra hip-hop, house, jazz og elektronisk musikk. Resultatet er en konsertopplevelse som både er emosjonell, rytmisk og visuelt sterk. Musikken hans truffet et stort publikum verden over. Den 25 år gamle pianisten har de siste årene opplevd en enorm internasjonal suksess. Med over 1,7 millioner følgere på Instagram og millioner av visninger på sosiale medier har han introdusert klassisk piano til et nytt publikum. I 2025 ble han kåret til \"Contemporary Pianist of the Year\" under Pianote Awards. I januar 2026 startet LEVI.SCT sin første verdensturné, som allerede har inkludert utsolgte konserter i blant annet Paris og London. Han har også opptrådt på anerkjente scener som Elbphilharmonie i Hamburg og Flagey i Brussel. Flere kommende konserter i Europa er allerede utsolgt, og ekstra datoer har blitt annonsert i blant annet Wien, Lyon, Istanbul og Manchester. Nå kommer han til Oslo og Kulturkirken Jakob for det som blir en helt spesiell kveld høsten 2026. \"The 25-year-old rising star impresses with his re-interpretations of classical music, which he blends with hip-hop and electronic beats.\" -- Rolling Stone",
-      "date": "2026-11-09",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Kulturkirken Jakob, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/levisct-tickets/1270586163?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/levisct-tickets/1270586163?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/256/af31cae1-4396-44d4-b102-4261df688256_SOURCE",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z1kvkCAfY",
       "title": "Kneecap",
       "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's Read the organizer's terms of purchase here. See www.rockefeller.no for the complete program.. Practical information about the concerts can be found here. The nearest transport hub is Storgata and/or Jernbanetorget. See ruter.no for more info.",
@@ -204,7 +160,8 @@
       "endTime": null,
       "location": "Unity Arena, Fornebu",
       "categories": [
-        "konsert"
+        "konsert",
+        "uteliv"
       ],
       "priceFrom": null,
       "currency": null,
@@ -1010,12 +967,55 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kaKO7je",
+      "title": "Mnek",
+      "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's.",
+      "date": "2026-12-03",
+      "time": "19:00",
+      "endTime": null,
+      "location": "John Dee, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/mnek-tickets/253804702?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/mnek-tickets/253804702?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/e2b/c285be50-7af8-4c75-9ca6-80086309ee2b_TABLET_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kPZvP_3",
+      "title": "Spårtsklubben podder jula inn!",
+      "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's.",
+      "date": "2026-12-04",
+      "time": "19:30",
+      "endTime": null,
+      "location": "Sentrum Scene, Oslo",
+      "categories": [
+        "teater"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/spartsklubben-podder-jula-inn-tickets/940065652?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/spartsklubben-podder-jula-inn-tickets/940065652?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/b6c/f76e3604-023c-400c-87bd-acd14ff08b6c_TABLET_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎭",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 47,
-    "fetchedAt": "2026-11-09T13:37:08.939Z",
+    "fetchedAt": "2026-11-10T13:15:05.529Z",
     "sources": {
       "ticketmaster": 50,
       "scrape": 0

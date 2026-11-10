@@ -1155,7 +1155,7 @@
     {
       "id": "scrape-gen-christer-bettan-sammen-igjen-2027-01-30",
       "title": "Christer & Bettan – Sammen igjen",
-      "description": "Lørdag 30. januar 2027\nkl. 18.00",
+      "description": "Få billetter igjen",
       "date": "2027-01-30",
       "time": null,
       "endTime": null,
@@ -1754,8 +1754,8 @@
       "source": "scrape"
     },
     {
-      "id": "scrape-gen-henning-kvitnes-poul-krebs-to-legender-e-2027-10-13",
-      "title": "Henning Kvitnes & Poul Krebs: To legender – en scene",
+      "id": "scrape-gen-henning-kvitnes-poul-krebs-to-legender-n-2027-10-13",
+      "title": "Henning Kvitnes & Poul Krebs: To legender – én scene",
       "description": "Onsdag 13. oktober 2027\nkl. 19.00",
       "date": "2027-10-13",
       "time": null,
@@ -1877,7 +1877,7 @@
   "meta": {
     "city": "lillestrom",
     "count": 96,
-    "fetchedAt": "2026-11-09T13:37:27.676Z",
+    "fetchedAt": "2026-11-10T13:15:28.003Z",
     "sources": {
       "ticketmaster": 0,
       "scrape": 99
