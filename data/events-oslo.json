@@ -1,48 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z1kvkCAfY",
-      "title": "Kneecap",
-      "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's Read the organizer's terms of purchase here. See www.rockefeller.no for the complete program.. Practical information about the concerts can be found here. The nearest transport hub is Storgata and/or Jernbanetorget. See ruter.no for more info.",
-      "date": "2026-11-10",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Sentrum Scene, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/kneecap-tickets/46385530?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/kneecap-tickets/46385530?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/0ae/ef45203c-6ea5-4a1b-9ab6-8395bc4250ae_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z1kCK0t87",
-      "title": "Claudio Constantini",
-      "description": "Piano og bandoneon står i sentrum når Claudio Constantini inntar Kulturkirken Jakob med sitt nyeste album Fragile. Her møter vi en artist som beveger seg sømløst mellom det skjøre og det kraftfulle. Med en karriere fra noen av verdens største scener, en Latin Grammy-nominasjon og flere internasjonale priser, retter Constantini nå fullt fokus mot egne komposisjoner. Repertoaret henter materiale fra albumet Fragile. Musikken utfolder seg i kontraster, og tar publikum med på en reise gjennom uro, refleksjon og stillhet. Dette er en sjelden mulighet til å oppleve Claudio Constantini i et nært og stemningsfullt rom.",
-      "date": "2026-11-10",
-      "time": "20:00",
-      "endTime": null,
-      "location": "Kulturkirken Jakob, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/claudio-constantini-tickets/393929404?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/claudio-constantini-tickets/393929404?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/1ed/2569e5d4-4e3e-4934-b9a5-e90c4e0941ed_TABLET_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z16vOxG_83",
       "title": "Tayc",
       "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's.",
@@ -90,7 +48,7 @@
       "title": "J. Cole: The Fall-Off Tour",
       "description": "Ticket Information: - Maximum 8 tickets per person. - Bottles, cans, and laser pointers are prohibited inside the concert area. Tickets will be available as mobile tickets (QR codes) via the Ticketmaster app and your user account well in advance of the concert (about 30 days). Learn more about delayed delivery of admission passes here. Wheelchair and companion seats are sold through Ticketmaster. For assistance, contact customer support here. Use public transportation to Unity Arena. Visit unityarena.no or ruter.no for travel options. For more details about the concert, artists, and entry times, visit unityarena.no or livenation.no. Schedule: - Box Office opens: 17:00 - Doors open: 18:00 - Concert starts: 19:00 General Information: The organizer reserves the right to deny entry to individuals who refuse personal inspection (this may include a body search and baggage check). See unityarena.no for details about prohibited items. Ejected individuals are not entitled to a ticket refund. There is no minimum age for the concert, but children under 15 must be accompanied by an adult (as per the Police Act in Bærum Municipality).",
       "date": "2026-11-12",
-      "time": "19:00",
+      "time": "20:00",
       "endTime": null,
       "location": "Unity Arena, Fornebu",
       "categories": [
@@ -160,8 +118,7 @@
       "endTime": null,
       "location": "Unity Arena, Fornebu",
       "categories": [
-        "konsert",
-        "uteliv"
+        "konsert"
       ],
       "priceFrom": null,
       "currency": null,
@@ -991,6 +948,28 @@
       "source": "ticketmaster"
     },
     {
+      "id": "tm-Z698xZb_Z1kvt7-_N",
+      "title": "Triathlon Tickets | Spårtsklubben podder jula inn!",
+      "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's.",
+      "date": "2026-12-04",
+      "time": "00:00",
+      "endTime": null,
+      "location": "Sentrum Scene, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/triathlon-tickets-%7C-spartsklubben-podder-jula-inn-tickets/69121663?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/triathlon-tickets-%7C-spartsklubben-podder-jula-inn-tickets/69121663?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/47f/eaec5dca-a4f1-48e2-a09c-b2e4d2dfb47f_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
       "id": "tm-Z698xZb_Z1kPZvP_3",
       "title": "Spårtsklubben podder jula inn!",
       "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's.",
@@ -1014,8 +993,8 @@
   ],
   "meta": {
     "city": "oslo",
-    "count": 47,
-    "fetchedAt": "2026-11-10T13:15:05.529Z",
+    "count": 46,
+    "fetchedAt": "2026-11-11T12:25:29.675Z",
     "sources": {
       "ticketmaster": 50,
       "scrape": 0
