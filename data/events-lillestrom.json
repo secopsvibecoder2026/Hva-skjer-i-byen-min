@@ -1,63 +1,6 @@
 {
   "events": [
     {
-      "id": "scrape-gen-rundt-et-flygel-vivaldis-fire-rstider-2026-11-11",
-      "title": "Rundt et flygel – Vivaldis fire årstider",
-      "description": "Onsdag 11. november\nkl. 19.00",
-      "date": "2026-11-11",
-      "time": null,
-      "endTime": null,
-      "location": "Lillestrøm",
-      "categories": [],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16647-rundt-et-flygel-vivaldis-fire-arstider/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16647-rundt-et-flygel-vivaldis-fire-arstider/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
-      "id": "scrape-gen-noman-mubashir-m-rke-menn-som-pusher-50-2026-11-11",
-      "title": "Noman Mubashir – Mørke menn som pusher 50",
-      "description": "Få billetter igjen",
-      "date": "2026-11-11",
-      "time": null,
-      "endTime": null,
-      "location": "Lillestrøm",
-      "categories": [],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/18064-noman-mubashir-morke-menn-som-pusher-50/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/18064-noman-mubashir-morke-menn-som-pusher-50/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
-      "id": "scrape-gen-kulturkaf-beranek-trio-2026-11-12",
-      "title": "Kulturkafé – Beranek trio",
-      "description": "Torsdag 12. november\nkl. 12.00",
-      "date": "2026-11-12",
-      "time": null,
-      "endTime": null,
-      "location": "Lillestrøm",
-      "categories": [],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16639-kulturkafe-beranek-trio/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16639-kulturkafe-beranek-trio/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
       "id": "scrape-gen-en-musikalsk-reise-gjennom-70-tallet-med-2026-11-12",
       "title": "En musikalsk reise gjennom 70-tallet med LillCanto og Palle Wagnberg",
       "description": "Torsdag 12. november\nkl. 19.30",
@@ -1857,11 +1800,11 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 95,
-    "fetchedAt": "2026-11-11T12:25:48.518Z",
+    "count": 92,
+    "fetchedAt": "2026-11-12T13:31:38.351Z",
     "sources": {
       "ticketmaster": 0,
-      "scrape": 98
+      "scrape": 97
     }
   }
 }
