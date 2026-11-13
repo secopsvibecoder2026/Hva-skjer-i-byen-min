@@ -1,28 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z16vjd8I18",
-      "title": "J. Cole: The Fall-Off Tour",
-      "description": "Ticket Information: - Maximum 8 tickets per person. - Bottles, cans, and laser pointers are prohibited inside the concert area. Tickets will be available as mobile tickets (QR codes) via the Ticketmaster app and your user account well in advance of the concert (about 30 days). Learn more about delayed delivery of admission passes here. Wheelchair and companion seats are sold through Ticketmaster. For assistance, contact customer support here. Use public transportation to Unity Arena. Visit unityarena.no or ruter.no for travel options. For more details about the concert, artists, and entry times, visit unityarena.no or livenation.no. Schedule: - Box Office opens: 17:00 - Doors open: 18:00 - Concert starts: 19:00 General Information: The organizer reserves the right to deny entry to individuals who refuse personal inspection (this may include a body search and baggage check). See unityarena.no for details about prohibited items. Ejected individuals are not entitled to a ticket refund. There is no minimum age for the concert, but children under 15 must be accompanied by an adult (as per the Police Act in Bærum Municipality).",
-      "date": "2026-11-12",
-      "time": "20:00",
-      "endTime": null,
-      "location": "Unity Arena, Fornebu",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/j-cole-the-fall-off-tour-tickets/1703428290?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/j-cole-the-fall-off-tour-tickets/1703428290?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/1cf/35295096-05e5-484f-a33d-8054f660e1cf_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z16vAzCefy",
       "title": "The Good the Bad and the Zugly",
       "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's. Read the organizer's terms of purchase here. See www.rockefeller.no for the complete program.. Practical information about the concerts can be found here. The nearest transport hub is Storgata and/or Jernbanetorget. See ruter.no for more info.",
@@ -987,12 +965,34 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vZ84xpe",
+      "title": "Fokus & Rahim | Paktofonika",
+      "description": "On December 5th, the Amaru club in Oslo will become the venue for a unique event for fans of Polish hip-hop. Fokus and Rahim, co-founders of the legendary Paktofonika, will take the stage, artists who have been among the most important figures in the Polish rap scene for over two decades.?? The concert will be part of a tour promoting the latest album, \"Katharsis,\" a long-awaited project that marks a new era for the duo. The audience will hear premiere material, but there will also be songs that have become a permanent part of Polish hip-hop history. The program will include Paktofonika's greatest classics and selected compositions from Fokus and Rahim's oeuvre.?? This will be an evening that will connect generations of fans---from those who grew up with the albums \"Kinematografia\" and \"Archiwum Kinematografii\" to listeners discovering the artists' work through their latest releases. The energy of Fokus and Rahim's concerts, their distinctive sound, and timeless lyrics have made their performances among the most important events on the Polish hip-hop scene for years.?? On December 5th, Oslo will have the opportunity to hear both the new face of the duo and the songs that forever changed the history of Polish rap.",
+      "date": "2026-12-05",
+      "time": "20:30",
+      "endTime": null,
+      "location": "Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/fokus--rahim-%7C-paktofonika-tickets/1010562582?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/fokus--rahim-%7C-paktofonika-tickets/1010562582?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/17d/73c10d71-ad92-4a40-92e5-0a12b820817d_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 46,
-    "fetchedAt": "2026-11-12T13:31:17.896Z",
+    "fetchedAt": "2026-11-13T12:51:26.819Z",
     "sources": {
       "ticketmaster": 50,
       "scrape": 0
