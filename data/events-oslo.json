@@ -1,50 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z16vAzCefy",
-      "title": "The Good the Bad and the Zugly",
-      "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's. Read the organizer's terms of purchase here. See www.rockefeller.no for the complete program.. Practical information about the concerts can be found here. The nearest transport hub is Storgata and/or Jernbanetorget. See ruter.no for more info.",
-      "date": "2026-11-13",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Sentrum Scene, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/the-good-the-bad-and-the-zugly-tickets/1178382539?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/the-good-the-bad-and-the-zugly-tickets/1178382539?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/653/a4d82b63-9071-4e54-a927-438de8e50653_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16vf_vkF4",
-      "title": "Delillos",
-      "description": "Doors Open kl. 19.00. The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's Read the organizer's terms of purchase here. See www.rockefeller.no for the complete program.. Practical information about the concerts can be found here. The nearest transport hub is Storgata and/or Jernbanetorget. See ruter.no for more info.",
-      "date": "2026-11-13",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Rockefeller, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/delillos-tickets/1519046215?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/delillos-tickets/1519046215?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/e1e/7a0a1f0a-febb-46cb-8f92-7f15a10e2e1e_SOURCE",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z16eZM1K1a",
       "title": "The Prodigy",
       "description": "Ticket Information: - Maximum 6 tickets per person. - Bottles, cans, and laser pointers are prohibited inside the concert area. Tickets will be available as mobile tickets (QR codes) via the Ticketmaster app and your user account well in advance of the concert (about 30 days). Learn more about delayed delivery of admission passes here. Wheelchair and companion seats are sold through Ticketmaster. For assistance, contact customer support here. Use public transportation to Unity Arena. Visit unityarena.no or ruter.no for travel options. For more details about the concert, artists, and entry times, visit unityarena.no or livenation.no. Schedule: - Doors open: 18:00 General Information: The organizer reserves the right to deny entry to individuals who refuse personal inspection (this may include a body search and baggage check). See unityarena.no for details about prohibited items. Ejected individuals are not entitled to a ticket refund. There is no minimum age for the concert, but children under 15 must be accompanied by an adult (as per the Police Act in Bærum Municipality).",
@@ -987,12 +943,55 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vfbOz0g",
+      "title": "Tønes, I år gjør me det heilt enkelt",
+      "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's.",
+      "date": "2026-12-06",
+      "time": "17:00",
+      "endTime": null,
+      "location": "Rockefeller, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/tones-i-ar-gjor-me-det-heilt-enkelt-tickets/1518838935?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/tones-i-ar-gjor-me-det-heilt-enkelt-tickets/1518838935?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/ba0/0acaf7a7-3977-4358-ada2-40e883a1fba0_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vJACbFf",
+      "title": "ROM i herberget",
+      "description": "Rom i Herberget For ellevte år på rad inviterer Solfrid Molland og Gjertruds sigøynerorkester til en stemningsfull og annerledes julekonsert sammen med HjerteRom-koret. Konserten er en hyllest til styrken og spiritualiteten i den romske musikken. Vi får høre norske og østeuropeiske julesanger i tillegg til ildfull og vakker tradisjonell sigøynermusikk. Julens budskap og historien om et fattig par som mangler husrom veves varsomt inn i vår egen tid. Erik Hillestad har skrevet sangen <> spesielt til konserten. Gjertruds sigøynerorkester (GSO) er et fyrverkeri av et live-band og Solfrid Molland har et sterkt nærvær på scenen. Men høydepunktet for mange er likevel opptredenen til HjerteRom-koret med romske kvinner fra Romania som lever av å tigge på gata i Oslo. Mer om utøverne: Gjertruds sigøynerorkester (GSO) har fordypet seg i ungarsk, russisk og rumensk sigøynermusikk i over 30 år. De har tilegnet seg musikken i direkte møte med sigøynermusikere i Budapest og samarbeider fast med en av de beste ungarske cimbalom-spillerne i Ungarn; Ernest Bango. I tillegg til syv egne utgivelser, har ensemblet spilt inn jiddisch musikk med Bente Kahan, tatermusikk med Elias Akselsen, Chopins Mazurka med komponist og pianist Nils Henrik Asheim, sigøynersanger med Britt Synnøve Johansen og spiller konserter med Helge Jordal. Ensemblet mottar ensemblestøtte fra Norsk kulturråd. Solfrid Molland er sanger, pianist og komponist, og har gitt ut fire album ved Kirkelig Kulturverksted. Solfrid vokste opp med russisk folkemusikk og europeisk kunstmusikk. På reise som gatemusiker i Europa lærte hun sigøynersanger av romske musikere og komponerte musikk til ulike europeiske katedraler. Denne musikken ga hun ut ved KKV i sammen med det rumenske ensemblet Taraf de Haidouks, romske gatemusikere og HjerteRom koret. Hun ble tildelt Oslo Bys Kunstnerpris for dette arbeidet. HjerteRom-koret består av tolv kvinner fra Romania med søstrene Simona og Lidia Vaduva i spissen. Koret sang på Solfrid Mollands album Musikken er Mitt Fedreland i 2014 og har siden opptrådt med henne på konserter på alt fra Holocaustsenteret til Henie Onstad kunstsenter. Våren 2027 skal de ha egen konsert på Riksscenen.",
+      "date": "2026-12-06",
+      "time": "18:30",
+      "endTime": null,
+      "location": "Kulturkirken Jakob, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/rom-i-herberget-tickets/1985398214?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/rom-i-herberget-tickets/1985398214?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/256/af31cae1-4396-44d4-b102-4261df688256_SOURCE",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 46,
-    "fetchedAt": "2026-11-13T12:51:26.819Z",
+    "fetchedAt": "2026-11-14T11:55:55.633Z",
     "sources": {
       "ticketmaster": 50,
       "scrape": 0
