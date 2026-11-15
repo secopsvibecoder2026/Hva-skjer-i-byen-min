@@ -1,113 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z16eZM1K1a",
-      "title": "The Prodigy",
-      "description": "Ticket Information: - Maximum 6 tickets per person. - Bottles, cans, and laser pointers are prohibited inside the concert area. Tickets will be available as mobile tickets (QR codes) via the Ticketmaster app and your user account well in advance of the concert (about 30 days). Learn more about delayed delivery of admission passes here. Wheelchair and companion seats are sold through Ticketmaster. For assistance, contact customer support here. Use public transportation to Unity Arena. Visit unityarena.no or ruter.no for travel options. For more details about the concert, artists, and entry times, visit unityarena.no or livenation.no. Schedule: - Doors open: 18:00 General Information: The organizer reserves the right to deny entry to individuals who refuse personal inspection (this may include a body search and baggage check). See unityarena.no for details about prohibited items. Ejected individuals are not entitled to a ticket refund. There is no minimum age for the concert, but children under 15 must be accompanied by an adult (as per the Police Act in Bærum Municipality).",
-      "date": "2026-11-14",
-      "time": "18:00",
-      "endTime": null,
-      "location": "Unity Arena, Fornebu",
-      "categories": [
-        "konsert"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/the-prodigy-tickets/2037293289?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/the-prodigy-tickets/2037293289?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/652/868502f4-0eaa-4b89-a48f-c98299b4b652_SOURCE",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z1kq4O6eF",
-      "title": "Delillos",
-      "description": "Doors Open kl. 19.00. The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's Read the organizer's terms of purchase here. See www.rockefeller.no for the complete program.. Practical information about the concerts can be found here. The nearest transport hub is Storgata and/or Jernbanetorget. See ruter.no for more info.",
-      "date": "2026-11-14",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Rockefeller, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/delillos-tickets/755807088?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/delillos-tickets/755807088?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/bfa/33185b57-d553-4a87-a5fd-90b277d0cbfa_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z1k1oadpf",
-      "title": "GRAND PIANO THEATER. MUSIC BY HANS ZIMMER, LUDOVICO EINAUDI & MORE",
-      "description": "GRAND PIANO THEATER Musikk av Hans Zimmer * Ludovico Einaudi * Ramin Djawadi * Yann Tiersen En konsertkveld fylt med lydpoesi og filmatisk magi Bli med inn i atmosfæren av en ekstraordinær kveld viet til de store komponistene i vår tid. Deres musikk får utfolde sin fulle emosjonelle kraft i et unikt klaverprogram - en hyllest til melodiene som har ledsaget de mest gripende øyeblikkene i filmhistorien og fortsatt lever i vår hukommelse. Konserten finner sted i en historisk sal, hvor arkitektur og atmosfære har inspirert musikk og kunst gjennom generasjoner. Den spesielle akustikken gir liv til hver tone - klaveret blir en forteller: kraftfullt, følsomt og direkte. Fremført av Alise Sapega, solist i GLOBAL SYMPHONY Orchestra. Hennes tolkninger kombinerer teknisk briljans med emosjonell dybde og evnen til å gjøre lyd om til historier. På programmet: * Hans Zimmer * Ludovico Einaudi * Ramin Djawadi * Yann Tiersen * samt musikalske overraskelser Sikre deg billetter nå - antall plasser er begrenset. En kveld fylt med skjønnhet, følelser og inspirasjon venter på deg. Merk: Setene i Kulturkirken Jakob er er unummerert.",
-      "date": "2026-11-14",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Kulturkirken Jakob, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/grand-piano-theater-music-by-hans-zimmer-ludovico-einaudi--more-tickets/291243594?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/grand-piano-theater-music-by-hans-zimmer-ludovico-einaudi--more-tickets/291243594?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/256/af31cae1-4396-44d4-b102-4261df688256_SOURCE",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18QEE7nHvatzixnMhG",
-      "title": "Avind // Parksalongen",
-      "description": null,
-      "date": "2026-11-14",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.universe.com/events/avind-parksalongen-tickets-08FHLY?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/avind-parksalongen-tickets-08FHLY?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z1kC6fZoe",
-      "title": "Fri Da Tarab",
-      "description": "Fri Da Tarab is a night of Arabic song. Frida Marida and Ahmad Alak take the old tarab classics and today's Arab pop, and set them beside international songs everyone already knows --- reworked with a Middle Eastern twist. Two hours, acoustic, with Ashuri on guitar. Familiar melodies in unfamiliar colours, and a room that sings along whether or not it knows the words. Event start time / concert start time : 20:00 Doors open : 60 min før Length : 60 min Catering:: Beer / Wine Age limit : 18 Companion ticket : If you hold a companion certificate, you are eligible for a companion ticket. To request a companion ticket, please email billett@oslonye.no. A valid companion certificate must be presented upon arrival at the performance. Wheelchair access: No Parking available: No Organizer's website",
-      "date": "2026-11-14",
-      "time": "20:00",
-      "endTime": null,
-      "location": "Oslo Nye Teaterkjelleren, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/fri-da-tarab-tickets/387500442?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/fri-da-tarab-tickets/387500442?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/1f1/2b1deed2-fb15-4b51-8e22-d727c62701f1_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z16ve83ovU",
       "title": "Nøtteknekkeren – klassisk julbalett med strykekvartett",
       "description": "World-class performance by Etoile Production. The world-famous ballet Nutcracker performed by Ukrainian ballet stars will be a magical Christmas gift for the whole family! A beautiful fairy tale about the adventures of young Clara and the Nutcracker Prince, full of exciting stories, was transformed by Pyotr Tchaikovsky in 1892 into the world's most popular classical ballet. Today, the Nutcracker has become a global Christmas tradition, and this performance is staged annually on theater and opera stages around the world. The universal language of dance is understood without translation by any audience - the stage will present a coming-of-age story about children, revealing a young girl's fragile dream and the struggle between good and evil, where love ultimately triumphs. Dancing snowflakes, the Nutcracker Prince, toy soldiers and the Sugar Plum Fairy come to life in this magical family classic. Experience a wonderful adventure with the little girl Clara, who falls asleep on Christmas Eve. She meets her prince, faces a battle against enormous mice and rats, and is transported to the lush Sugar Land. The story is much more than just a Christmas fairy tale. It is a tale of growing up, which is also reflected in the dance. Now is the time to immerse yourself in this magical world, forget about worries and stress, remember childhood dreams and fill your soul with inspiration, warmth and new dreams. The perfect ballet for children The Nutcracker is an ideal ballet for children to experience for the first time. If you are going to the ballet with a child, we recommend reading Hoffman's Nutcracker and The Musketeer together. You can also read the libretto at https://www.kulturforfolket.com/performance/the-nutcracker, where you will find descriptions of each ballet scene that can help you answer your child's questions. In addition, this ballet will bring a sense of wonder and beauty to both young and adult audience members, filling everyone with the Christmas spirit! Authentic Classical Ballet The performance of Marius Petipa's classical choreography is performed by Etoile Production -- a company organized in Kyiv by soloists of the Kharkiv Opera and Ballet Theatre of Ukraine, Irina and Anatoly Khandazhevsky. The performers include professional ballet dancers of the highest level -- winners of international ballet competitions, Honored Artists of Ukraine, soloists of Ukrainian, and from February 2022, European theatres. The company uses authentic, handmade theatre costumes and decor in its productions. The costumes are real professional ballet costumes, carefully designed so that they do not constrain the dancers' movements and allow them to fully demonstrate their skill on stage. A professional theatre lighting designer accompanies the ballet performance and creates an unforgettable atmosphere during the show. There are no cheap decorations or flashy decorations -- only true high art of professional theatre performance. The ballet is accompanied live by a string quartet, which gives the performance an intimate and warm Christmas atmosphere. The quartet performs on stage as part of the production and plays during key scenes, creating a close connection between music and dance. In addition, the performance uses a high-quality recording of the Kharkiv Opera Orchestra, which is combined with the live quartet to support the action on stage. This is a unique opportunity to see real classical ballet of the highest level, performed by world ballet stars, with live music on stage. Ballet soloists: Irina Khandazhevskaya, prima ballerina, Honored Artist of Ukraine, soloist of the Kharkiv Opera and Ballet Theater, choreographer, diploma winner of the International Ballet Competition \"Premio Roma\". Honorary Prize \"People's Recognition 2010\" in the artist category. Awarded the \"P. Virsky Prize\" in the choreography category in 2007. @irinakhandazhevskaya Anatoly Khandazhevsky, soloist of the Kharkiv Opera and Ballet Theater (Ukraine), choreographer, 2nd prize winner of the international competition in Tallinn. @anatoliikhandazhevskii Maria Shupilova, soloist of the Kyiv Opera. @shupilova_maria Kristina Kadashevich, first soloist of the Kharkiv Opera and Ballet Theatre, laureate of international ballet competitions. Katerina Andrenko, soloist of the Odessa National Opera, Hamburg Chamber Ballet, Opera Poznan. @andrenko_kate Dmitry Lazovik, soloist of the Belarusian State Academic Musical Theatre, laureate of international ballet competitions. Vsevolod Maievskyi, soloist of the Dutch National Ballet, former soloist of the English National Ballet, Ukrainian-born former dancer of the Mariinsky Ballet. @vsevolod_maievskyi Larisa Hrytsay, soloist of the Kharkiv Opera and Ballet Theatre (Ukraine), soloist of the Odessa National Opera. @lorikeets89 Audience feedback: Birgitta: A wonderful break from everyday life! Beautiful costumes, skillful dancing, beautiful music and everything took me to a dream world for a while. Ami: Fantastic! The Grand Pas de deux was so beautiful that I started to cry! Ingrid: Fantastically beautiful dance and music, and beautiful costumes! The tour is presented by the Norwegian organization Kultur for Folket, a company focused on delivering high-quality cultural events. More information about the ballet and the artists can be found on the website https://www.kulturforfolket.com. Event time/concert start: 18:00 Doors open: 30 min before Duration: 130 min Serving: Kiosk Beer / Wine Age limit: No age limit Wheelchair/companion. Dedicated spaces for wheelchairs and companions for wheelchair users at the back of field A/F. Companions pay regular price. For Group bookings, fill out this form: Group sales",
@@ -986,12 +879,119 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vAd0YZe",
+      "title": "Blow",
+      "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's. Read the organizer's terms of purchase here. See www.rockefeller.no for the complete program.. Practical information about the concerts can be found here. The nearest transport hub is Storgata and/or Jernbanetorget. See ruter.no for more info.",
+      "date": "2026-12-07",
+      "time": "19:00",
+      "endTime": null,
+      "location": "John Dee, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/blow-tickets/1143930002?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/blow-tickets/1143930002?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/c7a/2f3c3cf9-4d53-4331-815b-ad22e9084c7a_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vGY7Ope",
+      "title": "Mørketidskonsert med Akerselva Kvinnekor",
+      "description": "Mørketidskonserten er blitt en juletradisjon for mange som ikke går på julekonsert. Når det er mørkt ute, samles vi i lyset inne. Akerselva kvinnekor er et feministisk og sosialistisk kor med varierte sanger. I en urolig verden vil vi synge for fred. I år samler koret alle sangene vi har sunget om fred, kvinnekamp og frihet gjennom våre ti år som kor. Velkommen til Mørketidskonsert - fredssang spesial! Dirigent: Sølvi Elise Halvorsen>> Dørene åpner 19:00, konsertstart 20:00. Ledsagerbilletter: Ledsager går gratis dersom de viser ledsagerbevis. Personen med ledsager kjøper normal billett. Send en mail til jakob(at)kkv.no hvis du har spørsmål eller kommer med rullestol.",
+      "date": "2026-12-07",
+      "time": "20:00",
+      "endTime": null,
+      "location": "Kulturkirken Jakob, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/morketidskonsert-med-akerselva-kvinnekor-tickets/1330120582?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/morketidskonsert-med-akerselva-kvinnekor-tickets/1330120582?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/256/af31cae1-4396-44d4-b102-4261df688256_SOURCE",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vk78_O4",
+      "title": "Knut Anders Sørum - Jul",
+      "description": "I desember 2026 kommer Knut Anders Sørum og hans band tilbake til Kulturkirken Jakob for å spille julekonsert. Her får du som sist en blanding av kjente og kjære julesanger sammen med sanger fra albumet <> (2021). Sørum har med seg et band bestående av Jon Anders Narum på gitar, Jan Tore Øverstad på bass, Trond Augland på trommer og Bård Kristian Kylland/Benjamin Medhaug på orgel. Dette er en gjeng meget dyktige musikere som både er følsomme og groovy på samme tid og du kommer til å oppleve både de store, mektige øyeblikkene men også de intime og lavmælte stundene der historiene fra julen både i vår tid og tidligere tider blir fortalt av den etterhvert erfarne formidleren Knut Anders Sørum. Publikum vil få et møte med noen av de aller vakreste julesangene som er skrevet, både fra Prøysen, salmeboka og nyere tider. I tillegg vil Sørum selvfølgelig gjøre julesanger han selv har vært med og skrevet de siste årene, som for eksempel \"Uten deg\" (2018) og fra albumet \"Jul\". I 2021 gav Knut Anders Sørum ut albumet \"Jul\" og høstet gode kritikker. Tor Hammerø skriver for Nettavisen at \"Jula swinges heldigvis inn igjen\" og kvitterer med terningkast seks. Aftenposten skriver i tillegg til \"Sjelfull jul\" at \"Det er fint med ærlig julesang, spesielt en som er såpas fengende\". Om albumet \"Jul\" (2021) Albumet \"Jul\" fra 2021 inneholder i hovedsak nyskrevne julesanger men også noen klassikere. Sørum gjør sin egen vri på julemusikken, og med sin sjelfulle røst utforsker han høytidstematikken med underfundige tekster i et musikalsk landskap som kan beskrives som småfunky visesoul på totendialekt. Sørum er ikke redd for å berøre vanskelige temaer og er innom både flyktingtematikk, ensomhet og tro, eller mangel på tro, i disse sangene. Blant de klassiske sangene er en nyinnspilling av Alf Prøysens \"Julekveldsvise\" på plass, sammen med en live i studio - innspilling av \"Deilig er jorden\" der Sørum både viser en ettertenksom side men samtidig tar stemmeprakten til nye høyder. Akkompagnert på magisk vis av den fantastiske pianisten og organisten Iver Olav Erstad. Høsten 2024 dukket det plutselig opp tre nye låter i jule-serien fra Knut Anders Sørum. To norske juleklassikere og en nyskrevet låt. \"Jula heme\", en ny versjon av Maria Menas udødelige klassiker \"Home for Christmas\" med norsk tekst av Trygve Skaug. Dumdum boys \"Stjernesludd\" og \"Det hadde vørd enklere å dri\" som er en ny låt skrevet sammen med Jan Tore Øverstad, Jan Petter og Colleen McFarland Ringvold. Velkommen til årets julekonsert med Knut Anders Sørum i Kulturkirken Jakob!",
+      "date": "2026-12-08",
+      "time": "19:30",
+      "endTime": null,
+      "location": "Kulturkirken Jakob, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/knut-anders-sorum-jul-tickets/1184419815?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/knut-anders-sorum-jul-tickets/1184419815?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/b4b/693fbec3-2834-4fc2-86d3-c65c1a8a4b4b_TABLET_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vp9O0Ps",
+      "title": "Zimmermann - Julekonsert (UTSOLGT)",
+      "description": "Zimmermann legger ut på juleturné Etter en sommer fylt med festivaler er Zimmermann klar for å skru opp julestemningen. Til vinteren legger han ut på juleturné og spiller i 16 byer over hele landet. Julekonsertene har blitt en tradisjon for den 26 år gamle artisten. De siste tre årene har han spilt for utsolgte hus, og hvert år har konserten fått vokse litt. I 2023 sto han alene på scenen med gitaren. Året etter fikk han med seg en gitarist, før en pianist også ble en del av laget i 2025. Nå tar han julekonserten videre rundt i landet. \"Det som er så magisk ved å reise rundt på juleturné, er at vi får møte publikum på så nært hold! Jeg elsker å gjøre akustiske versjoner av låtene og la tekstene få enda bedre plass. Dessuten har alle glede av å samles rundt musikken i årets mørkeste tid. Det jeg merket de siste årene. Dette skal bli så gøy!\">>, sier Amund Zimmermann Siden debuten med <> i 2022 har det gått fort for sandefjordingen. Låten lå 16 uker på A-lista til NRK P1, og siden har han gitt ut låter som <>, <> og <>. Debutalbumet In medias res ble nominert til Spellemannprisen for <<Årets gjennombrudd>>, og i 2025 solgte han over 10.000 konsertbilletter. På kort tid har han rukket å bli publikumsfavoritt, og i august slapp han <> sammen med selveste Bjørn Eidsvåg. Duetten gikk rett til topps på den norske singellista. Med låter som spenner fra drømmende og sentimentale ballader til fengende poplåter, har historiefortelling blitt en viktig del av uttrykket hans. Det er låter som inviterer til både allsang og de litt stillere øyeblikkene. Det blir en nær og intim kveld, der julemusikk møter egne låter og historier. Publikum får høre både julefavoritter og det Amund selv kaller <> -- låter fra hans eget repertoar. Aldersgrense: 18 år Sittende/stående konsert: Sittende Dørene åpner 60 minutter før konserten begynner.",
+      "date": "2026-12-09",
+      "time": "18:00",
+      "endTime": null,
+      "location": "Kulturkirken Jakob, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/zimmermann-julekonsert-utsolgt--tickets/1597824971?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/zimmermann-julekonsert-utsolgt--tickets/1597824971?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/8ea/e733da16-7b02-41d3-a5eb-50bc267cf8ea_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vFx0fvb",
+      "title": "Pubkor - Julespesial på Rockefeller",
+      "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's.",
+      "date": "2026-12-09",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Rockefeller, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/pubkor-julespesial-pa-rockefeller-tickets/1222914058?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/pubkor-julespesial-pa-rockefeller-tickets/1222914058?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/28f/06f5c888-4a6b-4f68-a090-bc9e056ec28f_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 46,
-    "fetchedAt": "2026-11-14T11:55:55.633Z",
+    "fetchedAt": "2026-11-15T12:29:05.502Z",
     "sources": {
       "ticketmaster": 50,
       "scrape": 0
