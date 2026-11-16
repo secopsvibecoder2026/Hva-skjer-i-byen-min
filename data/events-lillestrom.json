@@ -1,25 +1,6 @@
 {
   "events": [
     {
-      "id": "scrape-gen-solokveld-med-norsk-ballettinstitutt-2026-11-15",
-      "title": "Solokveld med Norsk Ballettinstitutt",
-      "description": "Søndag 15. november\nkl. 12.00",
-      "date": "2026-11-15",
-      "time": null,
-      "endTime": null,
-      "location": "Lillestrøm",
-      "categories": [],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17683-solokveld-med-norsk-ballettinstitutt/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17683-solokveld-med-norsk-ballettinstitutt/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
       "id": "scrape-gen-testshow-med-martin-lepper-d-og-henrik-f-2026-11-17",
       "title": "Testshow med Martin Lepperød og Henrik Fladseth",
       "description": "Tirsdag 17. november\nkl. 19.00",
@@ -218,7 +199,7 @@
     {
       "id": "scrape-gen-bori-presenterer-scrooge-et-juleeventyr-2026-11-26",
       "title": "BORI presenterer Scrooge – et juleeventyr",
-      "description": "Få billetter igjen",
+      "description": "Utsolgt",
       "date": "2026-11-26",
       "time": null,
       "endTime": null,
@@ -454,7 +435,7 @@
     {
       "id": "scrape-gen-romerike-sparebank-presenterer-scrooge-e-2026-12-03",
       "title": "Romerike Sparebank presenterer Scrooge – et juleeventyr",
-      "description": "Utsolgt",
+      "description": "Få billetter igjen",
       "date": "2026-12-03",
       "time": null,
       "endTime": null,
@@ -1663,8 +1644,8 @@
       "source": "scrape"
     },
     {
-      "id": "scrape-gen-swan-lake-symphony-of-lights-2027-11-17",
-      "title": "Swan Lake – Symphony of lights",
+      "id": "scrape-gen-svanesj-en-symphony-of-lights-2027-11-17",
+      "title": "Svanesjøen – Symphony of lights",
       "description": "Onsdag 17. november 2027\nkl. 19.00",
       "date": "2027-11-17",
       "time": null,
@@ -1673,8 +1654,8 @@
       "categories": [],
       "priceFrom": null,
       "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17629-swan-lake-symphony-of-lights/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17629-swan-lake-symphony-of-lights/?ref=hvaSkjerIByenMin",
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17629-svanesjoen-symphony-of-lights/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17629-svanesjoen-symphony-of-lights/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -1683,7 +1664,7 @@
     },
     {
       "id": "scrape-gen-n-tteknekkeren-symphony-of-lights-2027-12-21",
-      "title": "Nøtteknekkeren: Symphony of Lights",
+      "title": "Nøtteknekkeren – Symphony of Lights",
       "description": "Tirsdag 21. desember 2027\nkl. 19.00",
       "date": "2027-12-21",
       "time": null,
@@ -1703,11 +1684,11 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 87,
-    "fetchedAt": "2026-11-15T12:29:25.495Z",
+    "count": 86,
+    "fetchedAt": "2026-11-16T13:21:19.783Z",
     "sources": {
       "ticketmaster": 0,
-      "scrape": 92
+      "scrape": 91
     }
   }
 }

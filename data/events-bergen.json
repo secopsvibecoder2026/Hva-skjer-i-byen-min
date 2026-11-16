@@ -1,27 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z1kqAekuk",
-      "title": "MACY GRAY - THE TROUBLE WITH THE TRUTH TOUR",
-      "description": "On November 15, 2026, one of modern soul's most distinctive voices takes the stage at Røkeriet. With her raspy, unmistakable vocals, funky energy, and uncompromising approach to soul, Macy Gray has been in a league of her own ever since her breakthrough in the late '90s. Her music is direct, honest, and full of personality -- with songs that hit just as hard on the dance floor as they do in the heart. Gray achieved her international breakthrough in 1999 with her triple-platinum debut album On How Life Is. The album featured the global hit \"I Try,\" which earned her a Grammy Award for Best Female Pop Vocal Performance. Since then, she has sold more than 25 million albums, received five Grammy nominations and two BRIT Awards, and built a devoted fan base around the world. Throughout her career, she has collaborated with artists including Ariana Grande, Bobby Brown, and Galactic, while cementing her reputation as a formidable live performer. On stage, she blends soul, R&B, and funk with raw presence, humor, and a voice you recognize from the very first note. In addition to her music career, Macy Gray has also made her mark as an actress, appearing in films and TV series including Training Day, For Colored Girls, and Fuller House. Show time: 8:00 PM Doors open: 60 minutes before showtime Duration: 75 minutes Food & beverage: Fully licensed bar Age restriction: 18+ Companion: Free admission for companions with a valid companion ticket Wheelchair accessible: Yes Parking: Yes Links: YouTube Spotify Instagram Facebook",
-      "date": "2026-11-15",
-      "time": "20:00",
-      "endTime": null,
-      "location": "Røkeriet, USF Verftet, Bergen",
-      "categories": [
-        "konsert"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/macy-gray-the-trouble-with-the-truth-tour-tickets/745086346?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/macy-gray-the-trouble-with-the-truth-tour-tickets/745086346?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/90d/6d1db0ea-5f58-47ec-9016-ae90300e990d_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z1kqy88ua",
       "title": "Fjorden Baby!",
       "description": "Røkeriet, USF Verftet Standing tickets Age limit 18 years Bar with beer and wine Photo and audio recording prohibited Please check event date and time on your ticket, doors usually open 1 hour before. Wheelchair and Companion: Guests with a valid companion certificate may bring up to one companion free of charge. The companion does not need a separate ticket. Please go to the ticket check on arrival to register the companion before entering the concert. A valid, publicly issued companion certificate must be brought and presented upon request. Bergen Live (organizer) website and Facebook page",
@@ -161,7 +140,8 @@
       "endTime": null,
       "location": "Bergen",
       "categories": [
-        "konsert"
+        "konsert",
+        "uteliv"
       ],
       "priceFrom": null,
       "currency": null,
@@ -328,10 +308,10 @@
   ],
   "meta": {
     "city": "bergen",
-    "count": 15,
-    "fetchedAt": "2026-11-15T12:29:04.370Z",
+    "count": 14,
+    "fetchedAt": "2026-11-16T13:20:56.871Z",
     "sources": {
-      "ticketmaster": 15,
+      "ticketmaster": 14,
       "scrape": 0
     }
   }
