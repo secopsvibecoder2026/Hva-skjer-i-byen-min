@@ -534,7 +534,7 @@
     {
       "id": "scrape-gen-christmas-with-nordic-tenors-2026-12-06",
       "title": "Christmas with Nordic Tenors",
-      "description": "Søndag 6. desember\nkl. 18.00",
+      "description": "Få billetter igjen",
       "date": "2026-12-06",
       "time": null,
       "endTime": null,
@@ -714,7 +714,7 @@
     {
       "id": "scrape-gen-sporsem-og-brungot-h-y-og-m-rk-2026-12-18",
       "title": "Sporsem og Brungot – Høy og Mørk",
-      "description": "Få billetter igjen",
+      "description": "Fredag 18. desember\nkl. 19.00",
       "date": "2026-12-18",
       "time": null,
       "endTime": null,
@@ -733,7 +733,7 @@
     {
       "id": "scrape-gen-swinging-christmas-2026-12-19",
       "title": "Swinging Christmas",
-      "description": "Lørdag 19. desember\nkl. 19.00",
+      "description": "Få billetter igjen",
       "date": "2026-12-19",
       "time": null,
       "endTime": null,
@@ -752,7 +752,7 @@
     {
       "id": "scrape-gen-maja-lunde-og-lisa-aisatos-sn-s-steren-e-2026-12-20",
       "title": "Maja Lunde og Lisa Aisatos «Snøsøsteren – en julefortelling»",
-      "description": "20. des. – 21. des.\n3 forestillinger",
+      "description": "Få billetter igjen",
       "date": "2026-12-20",
       "time": null,
       "endTime": null,
@@ -819,6 +819,25 @@
       "currency": null,
       "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17488-rundt-et-flygel-tine-thing-helseth-med-gunnar-flagstad/",
       "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17488-rundt-et-flygel-tine-thing-helseth-med-gunnar-flagstad/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-bittersweet-et-soloshow-av-og-med-vidar--2027-01-15",
+      "title": "BitterSweet – Et soloshow av og med Vidar Hodnekvam PRØVESHOW",
+      "description": "Fredag 15. januar 2027\nkl. 19.00",
+      "date": "2027-01-15",
+      "time": null,
+      "endTime": null,
+      "location": "Lillestrøm",
+      "categories": [],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/18431-bittersweet-et-soloshow-av-og-med-vidar-hodnekvam-proveshow/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/18431-bittersweet-et-soloshow-av-og-med-vidar-hodnekvam-proveshow/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -1684,11 +1703,11 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 86,
-    "fetchedAt": "2026-11-16T13:21:19.783Z",
+    "count": 87,
+    "fetchedAt": "2026-11-17T14:06:30.601Z",
     "sources": {
       "ticketmaster": 0,
-      "scrape": 91
+      "scrape": 92
     }
   }
 }
