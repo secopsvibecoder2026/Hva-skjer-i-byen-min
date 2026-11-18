@@ -1,68 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z16eZAPO-7",
-      "title": "Alle fugler // Kanskje du behøver noen",
-      "description": "Alle fugler er en ideell organisasjon og et nystartet korprosjekt som ønsker å skape sangglede og sangfelleskap for alle -- uavhengig av hvem du er, og hvor du kommer fra. På konserten skal korene fremføre sanger både sammen, og hver for seg. Repertoaret består av norsk og engelsk rock, pop og progrock fra 80- og 90-tallet og mange av sangene har nok aldri tidligere blitt fremført som korsanger. Her får man blant annet høre sanger av Raga Rockers, Kjøtt, Dumdum Boys, CC Cowboys og Ole Paus. Alle fugler er også så heldige å få med seg musiker og felespiller Tuva Livsdatter Syvertsen med på konserten. Hun er blant annet kjent som frontfigur og vokalist i Valkyrien Allstars og skal både være konferansier, og synge noen av sine egne sanger. I tillegg kommer biskopen i Oslo Sunniva Gylver og deler noen ord til ettertanke. Det blir også andre kunstneriske innslag på konserten som diktlesning og en egen kunstutstilling med arbeider laget av innsatte i norske fengsler. Alle fugler drives i samarbeid med blant annet Røde Kors, Værestedet Kjeller'n T33, Norsk sangerforum, Stiftelsen Petter Uteligger og Musikken studieforbund har vi startet to kvitrende kor som øver ukentlig. Kom og vær sammen med oss! Konserten er gratis.",
-      "date": "2026-11-17",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Kulturkirken Jakob, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/alle-fugler-kanskje-du-behover-noen-tickets/2005960844?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/alle-fugler-kanskje-du-behover-noen-tickets/2005960844?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/256/af31cae1-4396-44d4-b102-4261df688256_SOURCE",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16vf03ZbI",
-      "title": "UTSOLGT Naomi Klein og Astra Taylor: End Times Fascism",
-      "description": "Naomi Klein og Astra Taylor: End times Fascism Tirsdag 17. november kommer Naomi Klein og Astra Taylor til Chateau Neuf for å prate om sin nyeste bok End Times Fascism: And the Fight for the Living World. En ny, apokalyptisk allianse av religiøse fundamentalister, milliardærene i Silicon Valleys teknologielite og etnonasjonalister er på frammarsj. De er forent i troen på at en eller annen form for rensende katastrofe er på vei, og de ønsker en framtid preget av sjokk, knapphet og sammenbrudd velkommen, overbevist om at de selv vil være blant de frelste på den andre siden. Dette er verdenen til endetidsfascismen. Siden utgivelsen 12. september har boka alt blitt en bestselger i USA. Arrangementstidspunkt/konsertstart: 19:00 Dørene åpner: 30 min før Varighet: 90 min Aldersgrense: 18 Arrangementer i Storsalen har garderobeplikt. Garderobeavgift er inkludert i billetten. Ledsager : Som ordinær pris Ønsker du å bestille med faktura for flere personer 10> ta kontakt med gruppesalg",
-      "date": "2026-11-17",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Chateau Neuf,Storsalen, Oslo",
-      "categories": [],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/utsolgt-naomi-klein-og-astra-taylor-end-times-fascism-tickets/1524480628?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/utsolgt-naomi-klein-og-astra-taylor-end-times-fascism-tickets/1524480628?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/217/7df0c184-4430-446c-8b17-47655929e217_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16vAdb3Px",
-      "title": "Tove Lo – ESTRUS",
-      "description": null,
-      "date": "2026-11-17",
-      "time": "19:30",
-      "endTime": null,
-      "location": "Oslo Spektrum, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/tove-lo--estrus-tickets/1143612962?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/tove-lo--estrus-tickets/1143612962?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/586/506e13bd-ea87-4976-949b-48eb9afb1586_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z16vCvue04",
       "title": "Kampen skoles musikkorps 120 års festkonsert",
       "description": "Velkommen til festkonsert! Kampen Skoles Musikkorps er ikke bare et skolekorps. Det er et levende stykke Oslo-historie og et av landets aller eldste korps. I 2026 fyller Kampen Skoles Musikkorps hele 120 år. Korpset, som ble stiftet i 1906 av musikkpioneren William Farre, er en av Oslos eldste og mest tradisjonsrike korpsinstitusjoner. Og korpset var det første i landet med drillpiker. Nå er det tid for feiring, og barna i korpset inviterer til festkonsert med spesialskrevet musikk, ærverdige gjester og enorme mengder spilleglede. Dørene åpner 30 minutter før konsertstart Ingen aldersgrense",
@@ -903,6 +841,27 @@
       "source": "ticketmaster"
     },
     {
+      "id": "tm-LvZ18QR5-RvQwnXbVa0-S",
+      "title": "NASJONALE LESEFAVORITTER PÅ NASJONALGALLERIET",
+      "description": null,
+      "date": "2026-12-08",
+      "time": "18:30",
+      "endTime": null,
+      "location": "Nasjonalgalleriet, Oslo",
+      "categories": [
+        "teater"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.universe.com/events/nasjonale-lesefavoritter-pa-nasjonalgalleriet-tickets-FDBWYJ?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/nasjonale-lesefavoritter-pa-nasjonalgalleriet-tickets-FDBWYJ?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/c/6f4/e1c4766b-fa7f-4fb4-a539-6638fd7856f4_106171_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎭",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
       "id": "tm-Z698xZb_Z16vk78_O4",
       "title": "Knut Anders Sørum - Jul",
       "description": "I desember 2026 kommer Knut Anders Sørum og hans band tilbake til Kulturkirken Jakob for å spille julekonsert. Her får du som sist en blanding av kjente og kjære julesanger sammen med sanger fra albumet <> (2021). Sørum har med seg et band bestående av Jon Anders Narum på gitar, Jan Tore Øverstad på bass, Trond Augland på trommer og Bård Kristian Kylland/Benjamin Medhaug på orgel. Dette er en gjeng meget dyktige musikere som både er følsomme og groovy på samme tid og du kommer til å oppleve både de store, mektige øyeblikkene men også de intime og lavmælte stundene der historiene fra julen både i vår tid og tidligere tider blir fortalt av den etterhvert erfarne formidleren Knut Anders Sørum. Publikum vil få et møte med noen av de aller vakreste julesangene som er skrevet, både fra Prøysen, salmeboka og nyere tider. I tillegg vil Sørum selvfølgelig gjøre julesanger han selv har vært med og skrevet de siste årene, som for eksempel \"Uten deg\" (2018) og fra albumet \"Jul\". I 2021 gav Knut Anders Sørum ut albumet \"Jul\" og høstet gode kritikker. Tor Hammerø skriver for Nettavisen at \"Jula swinges heldigvis inn igjen\" og kvitterer med terningkast seks. Aftenposten skriver i tillegg til \"Sjelfull jul\" at \"Det er fint med ærlig julesang, spesielt en som er såpas fengende\". Om albumet \"Jul\" (2021) Albumet \"Jul\" fra 2021 inneholder i hovedsak nyskrevne julesanger men også noen klassikere. Sørum gjør sin egen vri på julemusikken, og med sin sjelfulle røst utforsker han høytidstematikken med underfundige tekster i et musikalsk landskap som kan beskrives som småfunky visesoul på totendialekt. Sørum er ikke redd for å berøre vanskelige temaer og er innom både flyktingtematikk, ensomhet og tro, eller mangel på tro, i disse sangene. Blant de klassiske sangene er en nyinnspilling av Alf Prøysens \"Julekveldsvise\" på plass, sammen med en live i studio - innspilling av \"Deilig er jorden\" der Sørum både viser en ettertenksom side men samtidig tar stemmeprakten til nye høyder. Akkompagnert på magisk vis av den fantastiske pianisten og organisten Iver Olav Erstad. Høsten 2024 dukket det plutselig opp tre nye låter i jule-serien fra Knut Anders Sørum. To norske juleklassikere og en nyskrevet låt. \"Jula heme\", en ny versjon av Maria Menas udødelige klassiker \"Home for Christmas\" med norsk tekst av Trygve Skaug. Dumdum boys \"Stjernesludd\" og \"Det hadde vørd enklere å dri\" som er en ny låt skrevet sammen med Jan Tore Øverstad, Jan Petter og Colleen McFarland Ringvold. Velkommen til årets julekonsert med Knut Anders Sørum i Kulturkirken Jakob!",
@@ -986,12 +945,34 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vQ91dfA",
+      "title": "Makosir",
+      "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's.",
+      "date": "2026-12-10",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Sentrum Scene, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/makosir-tickets/1697283505?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/makosir-tickets/1697283505?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/85e/419737ef-b0e0-46ca-983d-3d07f6a3785e_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
-    "count": 46,
-    "fetchedAt": "2026-11-17T14:06:05.175Z",
+    "count": 45,
+    "fetchedAt": "2026-11-18T13:39:39.644Z",
     "sources": {
       "ticketmaster": 50,
       "scrape": 0

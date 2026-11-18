@@ -1,6 +1,25 @@
 {
   "events": [
     {
+      "id": "tm-Z698xZb_Z1k89pFOK",
+      "title": "Kristiansand Vinfestival",
+      "description": "Kristiansand Wine Festival returns to Kunstsilo! Following several editions at Kunstsilo and Kilden, Kristiansand Wine Festival has become a regular meeting place for wine enthusiasts, importers and producers from Norway and abroad. We are proud to see how the festival has grown and look forward to welcoming both returning and new visitors to our spring edition on Saturday, 27 February 2027. In Kunstsilo's distinctive surroundings, we will bring together more than 35 importers and producers for an evening featuring over 300 different wines from countries and wine regions around the world. Local producers of beer, cider, soft drinks and other beverages will also be represented, adding variety to the festival and strengthening its local connection. Kristiansand Wine Festival is a place where visitors can explore different wine styles and drinking traditions, meet the people behind the products and learn more about the producers' work. We look forward to another festival and to continuing a tradition that has become part of Kristiansand's cultural life. Your ticket includes: - Admission to the festival - Access to all exhibitors and tasting areas - Tastings at the exhibitors' stands - A festival glass for use during the event, to be returned afterwards Tickets are limited. Welcome to Kristiansand Wine Festival 2027! Event starts: 18:00 Duration: Approximately 150 minutes Age limit: 18 years Companion to a person with valid companion documentation: Regular ticket price Wheelchair accessible: Yes Parking: No For more information gvino.no, Facebook eller Instagram",
+      "date": "2027-02-27",
+      "time": "18:00",
+      "endTime": null,
+      "location": "Kristiansand Kunstsilo, Kristiansand S",
+      "categories": [],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/kristiansand-vinfestival-tickets/417588813?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/kristiansand-vinfestival-tickets/417588813?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/147/7c8aefec-83b5-4778-8b07-60038d1c0147_SOURCE",
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
       "id": "tm-Z698xZb_Z16vA3vUu-",
       "title": "KARPE (DIEM) - OVERTIME/OVERKILL (2000-2028)",
       "description": null,
@@ -47,10 +66,10 @@
   ],
   "meta": {
     "city": "kristiansand",
-    "count": 2,
-    "fetchedAt": "2026-11-17T14:06:15.721Z",
+    "count": 3,
+    "fetchedAt": "2026-11-18T13:39:43.843Z",
     "sources": {
-      "ticketmaster": 2,
+      "ticketmaster": 3,
       "scrape": 0
     }
   }
