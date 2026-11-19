@@ -1,25 +1,6 @@
 {
   "events": [
     {
-      "id": "scrape-gen-viljeskallen-petter-northug-i-samtale-me-2026-11-18",
-      "title": "Viljeskallen – Petter Northug i samtale med Thor Gotaas",
-      "description": "Få billetter igjen",
-      "date": "2026-11-18",
-      "time": null,
-      "endTime": null,
-      "location": "Lillestrøm",
-      "categories": [],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17619-viljeskallen-petter-northug-i-samtale-med-thor-gotaas/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17619-viljeskallen-petter-northug-i-samtale-med-thor-gotaas/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
       "id": "scrape-gen-dance-with-a-stranger-2026-11-19",
       "title": "Dance with a Stranger",
       "description": "Torsdag 19. november\nkl. 20.00",
@@ -102,7 +83,7 @@
     {
       "id": "scrape-gen-jule-lsmaking-med-sigurd-borge-kristoffe-2026-11-21",
       "title": "Juleølsmaking med Sigurd Borge Kristoffersen",
-      "description": "Få billetter igjen",
+      "description": "Lørdag 21. november\nkl. 14.00",
       "date": "2026-11-21",
       "time": null,
       "endTime": null,
@@ -904,6 +885,28 @@
       "source": "scrape"
     },
     {
+      "id": "scrape-gen-l-rdagsjazz-ella-meets-django-2027-01-23",
+      "title": "Lørdagsjazz – Ella meets Django",
+      "description": "Lørdag 23. januar 2027\nkl. 15.00",
+      "date": "2027-01-23",
+      "time": null,
+      "endTime": null,
+      "location": "Lillestrøm",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17586-lordagsjazz-ella-meets-django/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17586-lordagsjazz-ella-meets-django/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
       "id": "scrape-gen-ivana-uten-baller-2027-01-28",
       "title": "Ivana uten baller",
       "description": "Torsdag 28. januar 2027\nkl. 19.00",
@@ -1058,6 +1061,27 @@
       "source": "scrape"
     },
     {
+      "id": "scrape-gen-l-rdagsjazz-yvind-bremnes-compagnie-2027-02-06",
+      "title": "Lørdagsjazz – Øyvind Bremnes Compagnie",
+      "description": "Lørdag 6. februar 2027\nkl. 15.00",
+      "date": "2027-02-06",
+      "time": null,
+      "endTime": null,
+      "location": "Lillestrøm",
+      "categories": [
+        "konsert"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17588-lordagsjazz-oyvind-bremnes-compagnie/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17588-lordagsjazz-oyvind-bremnes-compagnie/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
       "id": "scrape-gen-ballett-fra-r-lingen-2027-02-06",
       "title": "Ballett fra Rælingen",
       "description": "Lørdag 6. februar 2027\nkl. 18.00",
@@ -1146,6 +1170,27 @@
       "currency": null,
       "ticketUrl": "https://www.lillestrom-kultursenter.no/program/18284-evig-ung/",
       "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/18284-evig-ung/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-l-rdagsjazz-lillestr-m-storband-2027-02-20",
+      "title": "Lørdagsjazz – Lillestrøm Storband",
+      "description": "Lørdag 20. februar 2027\nkl. 15.00",
+      "date": "2027-02-20",
+      "time": null,
+      "endTime": null,
+      "location": "Lillestrøm",
+      "categories": [
+        "konsert"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17590-lordagsjazz-lillestrom-storband/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17590-lordagsjazz-lillestrom-storband/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -1254,6 +1299,27 @@
       "source": "scrape"
     },
     {
+      "id": "scrape-gen-l-rdagsjazz-paul-wagnberg-organ-unit-2027-03-06",
+      "title": "Lørdagsjazz – Paul Wagnberg Organ Unit",
+      "description": "Lørdag 6. mars 2027\nkl. 15.00",
+      "date": "2027-03-06",
+      "time": null,
+      "endTime": null,
+      "location": "Lillestrøm",
+      "categories": [
+        "konsert"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17592-lordagsjazz-paul-wagnberg-organ-unit/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17592-lordagsjazz-paul-wagnberg-organ-unit/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
       "id": "scrape-gen-pulse-of-floyd-2027-03-06",
       "title": "Pulse of Floyd",
       "description": "Lørdag 6. mars 2027\nkl. 20.00",
@@ -1349,6 +1415,27 @@
       "source": "scrape"
     },
     {
+      "id": "scrape-gen-l-rdagsjazz-l-vs-quarter-med-fru-paulsen-2027-03-13",
+      "title": "Lørdagsjazz – LØVs Quarter med fru Paulsen",
+      "description": "Lørdag 13. mars 2027\nkl. 15.00",
+      "date": "2027-03-13",
+      "time": null,
+      "endTime": null,
+      "location": "Lillestrøm",
+      "categories": [
+        "konsert"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17593-lordagsjazz-lovs-quarter-med-fru-paulsen/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17593-lordagsjazz-lovs-quarter-med-fru-paulsen/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
       "id": "scrape-gen-kulturkaf-olav-stedje-2027-03-18",
       "title": "Kulturkafé – Olav Stedje",
       "description": "Torsdag 18. mars 2027\nkl. 12.00",
@@ -1427,6 +1514,27 @@
       "source": "scrape"
     },
     {
+      "id": "scrape-gen-l-rdagsjazz-we-take-requests-trio-2027-04-03",
+      "title": "Lørdagsjazz – We Take Requests Trio",
+      "description": "Lørdag 3. april 2027\nkl. 15.00",
+      "date": "2027-04-03",
+      "time": null,
+      "endTime": null,
+      "location": "Lillestrøm",
+      "categories": [
+        "konsert"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17594-lordagsjazz-we-take-requests-trio/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17594-lordagsjazz-we-take-requests-trio/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
       "id": "scrape-gen-vitenshitshow-2027-04-04",
       "title": "VitenShitShow",
       "description": "Søndag 4. april 2027\nkl. 14.00",
@@ -1458,6 +1566,27 @@
       "currency": null,
       "ticketUrl": "https://www.lillestrom-kultursenter.no/program/18048-hans-wilhelm-steinfeld-russland-var-dystre-natid/",
       "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/18048-hans-wilhelm-steinfeld-russland-var-dystre-natid/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-l-rdagsjazz-elevkonsert-med-lillestr-m-v-2027-04-17",
+      "title": "Lørdagsjazz – Elevkonsert med Lillestrøm vgs musikklinjen",
+      "description": "Lørdag 17. april 2027\nkl. 15.00",
+      "date": "2027-04-17",
+      "time": null,
+      "endTime": null,
+      "location": "Lillestrøm",
+      "categories": [
+        "konsert"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17596-lordagsjazz-elevkonsert-med-lillestrom-vgs-musikklinjen/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17596-lordagsjazz-elevkonsert-med-lillestrom-vgs-musikklinjen/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -1503,6 +1632,27 @@
       "source": "scrape"
     },
     {
+      "id": "scrape-gen-l-rdagsjazz-jazz-og-s-nt-2027-05-01",
+      "title": "Lørdagsjazz – Jazz og sånt",
+      "description": "Lørdag 1. mai 2027\nkl. 15.00",
+      "date": "2027-05-01",
+      "time": null,
+      "endTime": null,
+      "location": "Lillestrøm",
+      "categories": [
+        "konsert"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17599-lordagsjazz-jazz-og-sant/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17599-lordagsjazz-jazz-og-sant/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
       "id": "scrape-gen-erika-fatland-ukraina-en-vinterreise-2027-05-11",
       "title": "Erika Fatland – Ukraina – En vinterreise",
       "description": "Tirsdag 11. mai 2027\nkl. 19.00",
@@ -1515,6 +1665,27 @@
       "currency": null,
       "ticketUrl": "https://www.lillestrom-kultursenter.no/program/18344-erika-fatland-ukraina-en-vinterreise/",
       "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/18344-erika-fatland-ukraina-en-vinterreise/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-l-rdagsjazz-pieces-of-silver-kvintett-2027-05-22",
+      "title": "Lørdagsjazz – Pieces of Silver kvintett",
+      "description": "Lørdag 22. mai 2027\nkl. 15.00",
+      "date": "2027-05-22",
+      "time": null,
+      "endTime": null,
+      "location": "Lillestrøm",
+      "categories": [
+        "konsert"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17598-lordagsjazz-pieces-of-silver-kvintett/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17598-lordagsjazz-pieces-of-silver-kvintett/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -1536,6 +1707,27 @@
       "currency": null,
       "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17902-fredskonsert-med-sangkoret-oyeren/",
       "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17902-fredskonsert-med-sangkoret-oyeren/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
+      "id": "scrape-gen-l-rdagsjazz-how-sweet-it-is-en-hyllest-t-2027-06-05",
+      "title": "Lørdagsjazz – «How Sweet It Is! – En hyllest til James Taylor & Carole King»",
+      "description": "Lørdag 5. juni 2027\nkl. 15.00",
+      "date": "2027-06-05",
+      "time": null,
+      "endTime": null,
+      "location": "Lillestrøm",
+      "categories": [
+        "konsert"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17600-lordagsjazz-how-sweet-it-is-en-hyllest-til-james-taylor-carole-king/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17600-lordagsjazz-how-sweet-it-is-en-hyllest-til-james-taylor-carole-king/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -1684,11 +1876,11 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 86,
-    "fetchedAt": "2026-11-18T13:39:55.857Z",
+    "count": 95,
+    "fetchedAt": "2026-11-19T14:07:24.814Z",
     "sources": {
       "ticketmaster": 0,
-      "scrape": 91
+      "scrape": 100
     }
   }
 }
