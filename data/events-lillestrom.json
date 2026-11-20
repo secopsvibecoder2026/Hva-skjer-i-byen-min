@@ -1,25 +1,6 @@
 {
   "events": [
     {
-      "id": "scrape-gen-dance-with-a-stranger-2026-11-19",
-      "title": "Dance with a Stranger",
-      "description": "Torsdag 19. november\nkl. 20.00",
-      "date": "2026-11-19",
-      "time": null,
-      "endTime": null,
-      "location": "Lillestrøm",
-      "categories": [],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17678-dance-with-a-stranger/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17678-dance-with-a-stranger/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
       "id": "scrape-gen-bj-rn-bjarte-den-t-ffe-og-den-sarte-2026-11-20",
       "title": "Bjørn & Bjarte – den tøffe og den sarte",
       "description": "Fredag 20. november\nkl. 19.00",
@@ -83,7 +64,7 @@
     {
       "id": "scrape-gen-jule-lsmaking-med-sigurd-borge-kristoffe-2026-11-21",
       "title": "Juleølsmaking med Sigurd Borge Kristoffersen",
-      "description": "Lørdag 21. november\nkl. 14.00",
+      "description": "Få billetter igjen",
       "date": "2026-11-21",
       "time": null,
       "endTime": null,
@@ -199,7 +180,7 @@
     {
       "id": "scrape-gen-scrooge-et-juleeventyr-2026-11-27",
       "title": "Scrooge – et juleeventyr",
-      "description": "27. nov. – 13. des.\n14 forestillinger",
+      "description": "27. nov. – 13. des.\n15 forestillinger",
       "date": "2026-11-27",
       "time": null,
       "endTime": null,
@@ -496,7 +477,7 @@
     {
       "id": "scrape-gen-christmas-with-nordic-tenors-2026-12-06",
       "title": "Christmas with Nordic Tenors",
-      "description": "Få billetter igjen",
+      "description": "Søndag 6. desember\nkl. 18.00",
       "date": "2026-12-06",
       "time": null,
       "endTime": null,
@@ -695,7 +676,7 @@
     {
       "id": "scrape-gen-swinging-christmas-2026-12-19",
       "title": "Swinging Christmas",
-      "description": "Få billetter igjen",
+      "description": "Lørdag 19. desember\nkl. 19.00",
       "date": "2026-12-19",
       "time": null,
       "endTime": null,
@@ -1120,6 +1101,25 @@
       "source": "scrape"
     },
     {
+      "id": "scrape-gen-comgoy-ritmos-de-cuba-2027-02-13",
+      "title": "COMGOYÁ – Ritmos de Cuba",
+      "description": "Lørdag 13. februar 2027\nkl. 20.00",
+      "date": "2027-02-13",
+      "time": null,
+      "endTime": null,
+      "location": "Lillestrøm",
+      "categories": [],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17884-comgoya-ritmos-de-cuba/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17884-comgoya-ritmos-de-cuba/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
       "id": "scrape-gen-are-sende-osen-vikingtiden-fra-aaaah-til-2027-02-16",
       "title": "Are Sende Osen – Vikingtiden fra aaaah til ååååh",
       "description": "Tirsdag 16. februar 2027\nkl. 19.00",
@@ -1177,8 +1177,8 @@
       "source": "scrape"
     },
     {
-      "id": "scrape-gen-l-rdagsjazz-lillestr-m-storband-2027-02-20",
-      "title": "Lørdagsjazz – Lillestrøm Storband",
+      "id": "scrape-gen-l-rdagsjazz-stein-ingebrigtsen-med-lille-2027-02-20",
+      "title": "Lørdagsjazz – Stein Ingebrigtsen med Lillestrøm Storband",
       "description": "Lørdag 20. februar 2027\nkl. 15.00",
       "date": "2027-02-20",
       "time": null,
@@ -1189,8 +1189,8 @@
       ],
       "priceFrom": null,
       "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17590-lordagsjazz-lillestrom-storband/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17590-lordagsjazz-lillestrom-storband/?ref=hvaSkjerIByenMin",
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17590-lordagsjazz-stein-ingebrigtsen-med-lillestrom-storband/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17590-lordagsjazz-stein-ingebrigtsen-med-lillestrom-storband/?ref=hvaSkjerIByenMin",
       "imageUrl": null,
       "imageEmoji": "🎪",
       "sponsored": false,
@@ -1877,7 +1877,7 @@
   "meta": {
     "city": "lillestrom",
     "count": 95,
-    "fetchedAt": "2026-11-19T14:07:24.814Z",
+    "fetchedAt": "2026-11-20T13:49:50.412Z",
     "sources": {
       "ticketmaster": 0,
       "scrape": 100

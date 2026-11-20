@@ -1,28 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z1kk3Atjs",
-      "title": "Saint Levant - AFANDI WORLD TOUR",
-      "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's.",
-      "date": "2026-11-19",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Rockefeller, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/saint-levant-afandi-world-tour-tickets/192169731?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/saint-levant-afandi-world-tour-tickets/192169731?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/023/94d3e3a2-ff1c-491f-8137-10e4c6529023_TABLET_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z1k__k4vd",
       "title": "Side Brok",
       "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's.",
@@ -201,7 +179,7 @@
       "date": "2026-11-24",
       "time": "19:00",
       "endTime": null,
-      "location": "Chateau Neuf,Storsalen, Oslo",
+      "location": "Chateau Neuf, Storsalen, Oslo",
       "categories": [
         "konsert"
       ],
@@ -966,12 +944,31 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-LvZ18QmsOVfHSyexxv8VY",
+      "title": "FUNKED UP XMAS / so flye & friends",
+      "description": null,
+      "date": "2026-12-10",
+      "time": "21:00",
+      "endTime": null,
+      "location": "Angst Bar, Oslo",
+      "categories": [],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.universe.com/events/funked-up-xmas-so-flye-friends-tickets-SXK2FM?ref=ticketmaster",
+      "affiliateUrl": "https://www.universe.com/events/funked-up-xmas-so-flye-friends-tickets-SXK2FM?ref=ticketmaster&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://images.universe.com/ef66ce44-981d-446f-8e85-41b654c1eddb/-/resize/1200x/-/crop/848x848/164,0/-/format/jpeg/-/scale_crop/1024x576/center/-/progressive/yes/-/inline/yes/",
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 45,
-    "fetchedAt": "2026-11-19T14:07:08.655Z",
+    "fetchedAt": "2026-11-20T13:49:37.971Z",
     "sources": {
       "ticketmaster": 50,
       "scrape": 0
