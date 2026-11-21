@@ -1,71 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z1k__k4vd",
-      "title": "Side Brok",
-      "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's.",
-      "date": "2026-11-20",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Sentrum Scene, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/side-brok-tickets/659195043?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/side-brok-tickets/659195043?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/98e/a01a8912-71c9-4e4b-913d-5adc01fbf98e_TABLET_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16v0aAoop",
-      "title": "Dirty Oppland",
-      "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's. Read the organizer's terms of purchase here. See www.rockefeller.no for the complete program.. Practical information about the concerts can be found here. The nearest transport hub is Storgata and/or Jernbanetorget. See ruter.no for more info.",
-      "date": "2026-11-20",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Rockefeller, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/dirty-oppland-tickets/1909151456?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/dirty-oppland-tickets/1909151456?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/dac/3b759cc4-faa6-4eff-af5c-e2e4784e5dac_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-LvZ18QR6WFABZGTyDjgW3",
-      "title": "OMG Eternal Life",
-      "description": null,
-      "date": "2026-11-20",
-      "time": "20:00",
-      "endTime": null,
-      "location": "Nasjonalgalleriet, Oslo",
-      "categories": [
-        "teater"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.universe.com/events/omg-eternal-life-tickets-27JRHN?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/omg-eternal-life-tickets-27JRHN?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://images.universe.com/c66cde5a-bf0e-421b-a775-39b8d4acaa1f/-/format/jpeg/-/scale_crop/1024x576/center/-/progressive/yes/-/inline/yes/",
-      "imageEmoji": "🎭",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z1k8aZb4S",
       "title": "CC Cowboys",
       "description": "Doors Open kl. 19.00. The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's Read the organizer's terms of purchase here. See www.rockefeller.no for the complete program.. Practical information about the concerts can be found here. The nearest transport hub is Storgata and/or Jernbanetorget. See ruter.no for more info.",
@@ -963,12 +898,76 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16veeQbq9",
+      "title": "Di Derre",
+      "description": "Doors Open kl. 19.00. The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's Read the organizer's terms of purchase here. See www.rockefeller.no for the complete program.. Practical information about the concerts can be found here. The nearest transport hub is Storgata and/or Jernbanetorget. See ruter.no for more info.",
+      "date": "2026-12-11",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Sentrum Scene, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/di-derre-tickets/1082698757?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/di-derre-tickets/1082698757?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/b38/51477d18-826e-4921-be9b-f2a105f70b38_TABLET_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kfkQFp7",
+      "title": "Klinge skal et jubelkor",
+      "description": "Oslo Cathedral's traditional Christmas concert is experienced as both grand and quiet, solemn and beautiful. Here, generations come together from all the Cathedral's choirs to greet the Christmas season with song. The program features beloved and well-known carols, and you will also have the opportunity to join in singing several of them. We present five concerts, and they are always sold out -- secure your ticket now! All seating is reserved, and the best seats go first. Friday, December 11 at 7:00 PM Saturday, December 12 at 4:00 PM and 6:00 PM Sunday, December 13 at 4:00 PM and 6:00 PM We look forward to welcoming you! Participants: Oslo Cathedral Boys' Choir, Trefoldighet Girls' Choir, Oslo Cathedral Youth Choir, Consortium Vocale Oslo, Oslo Cathedral Choir. Tormod Åsgård and Gry Aubert Bang, trumpet. Marie and Joar Nøkleby Lemme, trombone. Teodor Berg, timpani. Sidsel Walstad, harp. Marcus André Berg and Tjark Pinne, organ. Oddgeir Kjetilstad, Sindre Hugo Bjerkestrand, David Maiwald and Edle Stray-Pedersen, conductors. A warm welcome! Accessibility: Dedicated wheelchair-tickets can be purchased in the south nave. Here you can choose whether you are accompanied by a companion or not. Companions are admitted free of charge upon presentation of a companion certificate. The companion will be seated directly behind the wheelchair space. Oslo Cathedral has a ramp and lift to ensure step-free access. Please arrive at the main entrance, where our staff will guide you to the wheelchair entrance. A wheelchair-accessible restroom is available near the main entrance. If you wish to reserve a companion ticket without it being linked to a wheelchair space, select the ticket category \"companion-ticket\" for any other seat in the Cathedral. For questions, please contact the organizer, Oslo Cathedral Choir, at +47 977 95 450.",
+      "date": "2026-12-11",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Oslo domkirke, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/klinge-skal-et-jubelkor-tickets/506688584?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/klinge-skal-et-jubelkor-tickets/506688584?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/6a8/8aa7fb52-c1b0-433d-acec-f1fbc70976a8_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kakOkuS",
+      "title": "Penthouse Playboys vrikker julen inn",
+      "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's.",
+      "date": "2026-12-11",
+      "time": "20:00",
+      "endTime": null,
+      "location": "Rockefeller, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/penthouse-playboys-vrikker-julen-inn-tickets/246806373?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/penthouse-playboys-vrikker-julen-inn-tickets/246806373?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/d27/21f9b625-15a9-4fcc-972c-1aeac0189d27_SOURCE",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 45,
-    "fetchedAt": "2026-11-20T13:49:37.971Z",
+    "fetchedAt": "2026-11-21T13:14:15.707Z",
     "sources": {
       "ticketmaster": 50,
       "scrape": 0
