@@ -1,28 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z1k8aZb4S",
-      "title": "CC Cowboys",
-      "description": "Doors Open kl. 19.00. The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's Read the organizer's terms of purchase here. See www.rockefeller.no for the complete program.. Practical information about the concerts can be found here. The nearest transport hub is Storgata and/or Jernbanetorget. See ruter.no for more info.",
-      "date": "2026-11-21",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Sentrum Scene, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/cc-cowboys-tickets/409018573?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/cc-cowboys-tickets/409018573?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/098/80f9e904-c213-4e28-94b0-924136297098_SOURCE",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z1krF8o_U",
       "title": "glaive with kurtains: God Save The Three Tour",
       "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's.",
@@ -962,12 +940,33 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1k-fvZaI",
+      "title": "Oslo School of Burlesque presents the 2026 Winter Showcase!",
+      "description": "Oslo School of Burlesque presents the 2026 Winter Showcase! A glitter soaked celebration of creativity, courage, and first time stage magic. On December 11th, Oslo Nye Teaterkjelleren transforms into a playground of character, glamour, and pure performance joy as the students of the Oslo School of Burlesquedebut brand new acts created this season. Expect a vibrant mix of burlesque styles; classic tease, character driven storytelling, humor, drama, and everything in between. You'll see both group choreographies and solo acts from our newcomers, many stepping onto a burlesque stage for the very first time. Join us for an evening filled with heart, heat, and the unmistakable energy of a community cheering each other on. Come celebrate the next generation of burlesque artists in Oslo, and feel the sparkle from the front row Arrangementstidspunkt/konsertstart : 20:30 Dørene åpner : 60 min før Varighet : 120 min Servering : Øl / Vin Aldersgrense : 18 Ledsager : Ledsager gratis med billett Hvis man har ledsagerbevis er man berettiget til ledsagerbillett. Bestilles på e-post til billett@oslonye.no. Gyldig ledsagerbevis må tas med og vises når man kommer på forestilling. Rullestol : Nei Parkeringsmuligheter : Nei Unummererte plasser. Oslo Nye Teater",
+      "date": "2026-12-11",
+      "time": "20:30",
+      "endTime": null,
+      "location": "Oslo Nye Teaterkjelleren, Oslo",
+      "categories": [
+        "teater"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/oslo-school-of-burlesque-presents-the-2026-winter-showcase-tickets/854040268?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/oslo-school-of-burlesque-presents-the-2026-winter-showcase-tickets/854040268?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/3b2/ce626ee9-4f0c-41d3-ab69-94c7ce8d33b2_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageEmoji": "🎭",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 45,
-    "fetchedAt": "2026-11-21T13:14:15.707Z",
+    "fetchedAt": "2026-11-22T13:03:36.804Z",
     "sources": {
       "ticketmaster": 50,
       "scrape": 0
