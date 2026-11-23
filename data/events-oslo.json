@@ -1,28 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z1krF8o_U",
-      "title": "glaive with kurtains: God Save The Three Tour",
-      "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's.",
-      "date": "2026-11-22",
-      "time": "19:00",
-      "endTime": null,
-      "location": "John Dee, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/glaive-with-kurtains-god-save-the-three-tour-tickets/788411676?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/glaive-with-kurtains-god-save-the-three-tour-tickets/788411676?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/35b/d16bb569-f7ab-4492-9377-220907e4d35b_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z16v7w3fFe",
       "title": "Prøysen tel by’n",
       "description": "Prøysen tel by'n i kulturkirken Jakob mandag 23.november kl 19:00 En årlig feiring av Alf Prøysen i Oslo <> er en egen selvstendig forening som arrangerer årlige konserter på Alf Prøysens dødsdag 23 november i Kulturkirken Jakob. Det er initiativtagerne Håkon Paulsberg, Lars Martin Myhre(R.I.P.) og Jørn Simen Øverli som satte i gang dette arrangementet som vi har gjennomført siden 2013. En årlig markering i Oslo bidrar til å løfte fram vår største sangpoet og gi ham den plassen han fortjener. Formålet med denne konserten er å sette lys på Prøysen, hvor ulike artister fra ulike sjangre lager sine egne versjoner av hans sanger. Fra 2016 har dette også blitt en arena for utdeling av Prøysenprisen, ellers er konserten lagt opp som en dugnad i samarbeid mellom arrangør og arister. Noen av årets artister: Elias Akselsen Iren Reppen Symre Magnus Staveland Zakarias Meyer Øverli og Bethany Forseth-Reichberg (Riversun) Kari Svendsen Stian Carstensen",
@@ -31,7 +9,8 @@
       "endTime": null,
       "location": "Kulturkirken Jakob, Oslo",
       "categories": [
-        "konsert"
+        "konsert",
+        "uteliv"
       ],
       "priceFrom": null,
       "currency": null,
@@ -302,28 +281,6 @@
       "source": "ticketmaster"
     },
     {
-      "id": "tm-Z698xZb_Z16v-AFk7N",
-      "title": "Bjørn Hellfuck",
-      "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's. Read the organizer's terms of purchase here. See www.rockefeller.no for the complete program.. Practical information about the concerts can be found here. The nearest transport hub is Storgata and/or Jernbanetorget. See ruter.no for more info.",
-      "date": "2026-11-28",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Rockefeller, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/bjorn-hellfuck-tickets/1845206123?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/bjorn-hellfuck-tickets/1845206123?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/d9c/1b712fc9-3cd8-4b3f-8567-efc6d17f6d9c_665551_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z16ve_f9G4",
       "title": "Gjermund Larsen Trio: Christmas Sessions",
       "description": "I et vakkert, folkemusikkpreget musikalsk landskap, tolker trioen kjente og kjære julesanger på sin måte. Gjermund Larsen Trio, som består av Gjermund Larsen (fele), Andreas Utnem (trøorgel/piano) og Sondre Meisfjord (kontrabass), har siden sin første utgivelse i 2008 høstet lovord, jubel og en rekke priser, herunder både Spellemannpris (2008), German phonographic critics award (2015) og TONOs komponistpris (2016). Trioen hadde lenge hatt et ønske om å lage julealbum, men har ikke hatt tid til å realisere prosjektet før i fjor. Da Gjermund Larsen Trio spilte med Det Norske Solistkor på deres julealbum <> i 2022, ga det mersmak og ekstra motivasjon til å sette i gang med eget juleprosjekt. Velkommen til konsert 28. november i Kulturkirken Jakob!",
@@ -353,7 +310,8 @@
       "endTime": null,
       "location": "Kulturkirken Jakob, Oslo",
       "categories": [
-        "konsert"
+        "konsert",
+        "uteliv"
       ],
       "priceFrom": null,
       "currency": null,
@@ -961,12 +919,54 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1k-KuJFb",
+      "title": "Klinge skal et jubelkor",
+      "description": "Oslo Cathedral's traditional Christmas concert is experienced as both grand and quiet, solemn and beautiful. Here, generations come together from all the Cathedral's choirs to greet the Christmas season with song. The program features beloved and well-known carols, and you will also have the opportunity to join in singing several of them. We present five concerts, and they are always sold out -- secure your ticket now! All seating is reserved, and the best seats go first. Friday, December 11 at 7:00 PM Saturday, December 12 at 4:00 PM and 6:00 PM Sunday, December 13 at 4:00 PM and 6:00 PM We look forward to welcoming you! Participants: Oslo Cathedral Boys' Choir, Trefoldighet Girls' Choir, Oslo Cathedral Youth Choir, Consortium Vocale Oslo, Oslo Cathedral Choir. Tormod Åsgård and Gry Aubert Bang, trumpet. Marie and Joar Nøkleby Lemme, trombone. Teodor Berg, timpani. Sidsel Walstad, harp. Marcus André Berg and Tjark Pinne, organ. Oddgeir Kjetilstad, Sindre Hugo Bjerkestrand, David Maiwald and Edle Stray-Pedersen, conductors. A warm welcome! Accessibility: Dedicated wheelchair-tickets can be purchased in the south nave. Here you can choose whether you are accompanied by a companion or not. Companions are admitted free of charge upon presentation of a companion certificate. The companion will be seated directly behind the wheelchair space. Oslo Cathedral has a ramp and lift to ensure step-free access. Please arrive at the main entrance, where our staff will guide you to the wheelchair entrance. A wheelchair-accessible restroom is available near the main entrance. If you wish to reserve a companion ticket without it being linked to a wheelchair space, select the ticket category \"companion-ticket\" for any other seat in the Cathedral. For questions, please contact the organizer, Oslo Cathedral Choir, at +47 977 95 450.",
+      "date": "2026-12-12",
+      "time": "16:00",
+      "endTime": null,
+      "location": "Oslo domkirke, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/klinge-skal-et-jubelkor-tickets/853366218?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/klinge-skal-et-jubelkor-tickets/853366218?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/8a4/23faeec9-a7db-4b64-8e39-ace8a19ea8a4_TABLET_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16eZp498J",
+      "title": "Klinge skal et jubelkor - FEW TICKETS",
+      "description": "Oslo Cathedral's traditional Christmas concert is experienced as both grand and quiet, solemn and beautiful. Here, generations come together from all the Cathedral's choirs to greet the Christmas season with song. The program features beloved and well-known carols, and you will also have the opportunity to join in singing several of them. We present five concerts, and they are always sold out -- secure your ticket now! All seating is reserved, and the best seats go first. Friday, December 11 at 7:00 PM Saturday, December 12 at 4:00 PM and 6:00 PM Sunday, December 13 at 4:00 PM and 6:00 PM We look forward to welcoming you! Participants: Oslo Cathedral Boys' Choir, Trefoldighet Girls' Choir, Oslo Cathedral Youth Choir, Consortium Vocale Oslo, Oslo Cathedral Choir. Tormod Åsgård and Gry Aubert Bang, trumpet. Marie and Joar Nøkleby Lemme, trombone. Teodor Berg, timpani. Sidsel Walstad, harp. Marcus André Berg and Tjark Pinne, organ. Oddgeir Kjetilstad, Sindre Hugo Bjerkestrand, David Maiwald and Edle Stray-Pedersen, conductors. A warm welcome! Accessibility: Dedicated wheelchair-tickets can be purchased in the south nave. Here you can choose whether you are accompanied by a companion or not. Companions are admitted free of charge upon presentation of a companion certificate. The companion will be seated directly behind the wheelchair space. Oslo Cathedral has a ramp and lift to ensure step-free access. Please arrive at the main entrance, where our staff will guide you to the wheelchair entrance. A wheelchair-accessible restroom is available near the main entrance. If you wish to reserve a companion ticket without it being linked to a wheelchair space, select the ticket category \"companion-ticket\" for any other seat in the Cathedral. For questions, please contact the organizer, Oslo Cathedral Choir, at +47 977 95 450.",
+      "date": "2026-12-12",
+      "time": "18:00",
+      "endTime": null,
+      "location": "Oslo domkirke, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/klinge-skal-et-jubelkor-few-tickets-tickets/2016557426?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/klinge-skal-et-jubelkor-few-tickets-tickets/2016557426?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/f64/83cde564-12d1-4a16-9751-8122f7a99f64_TABLET_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 45,
-    "fetchedAt": "2026-11-22T13:03:36.804Z",
+    "fetchedAt": "2026-11-23T15:40:48.622Z",
     "sources": {
       "ticketmaster": 50,
       "scrape": 0
