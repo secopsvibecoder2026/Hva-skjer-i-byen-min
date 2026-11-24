@@ -1,6 +1,25 @@
 {
   "events": [
     {
+      "id": "scrape-gen-julemarked-og-gjenbruksjuleverksted-2026-11-29",
+      "title": "Julemarked og gjenbruksjuleverksted",
+      "description": "Bygdetunet, venneforeningen og næringsforeningen ønsker velkommen til en koselig førjulsdag første søndagen i advent. Det blir utendørs julemarked og åpen kafé med blant annet julegrøt. Bygdetunet arrangerer også gjenbruksjuleverksted inne på Sandmo. Velkommen!",
+      "date": "2026-11-29",
+      "time": "13:00",
+      "endTime": null,
+      "location": "Aurskog-Høland bygdetun",
+      "categories": [],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "//mia.no/ahbygdetun/julemarked-og-gjenbruksjuleverksted-pa-bygdetunet",
+      "affiliateUrl": "//mia.no/ahbygdetun/julemarked-og-gjenbruksjuleverksted-pa-bygdetunet?ref=hvaSkjerIByenMin",
+      "imageUrl": "https://ems.dimu.org/image/069EGMCN4Yw8Y?dimension=600x600",
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
       "id": "tm-LvZ18Qiy1x9JkkblWrEZi",
       "title": "Sangkoret Øyerens julekonsert",
       "description": null,
@@ -44,11 +63,11 @@
   ],
   "meta": {
     "city": "aurskog-holand",
-    "count": 2,
-    "fetchedAt": "2026-11-23T15:41:21.258Z",
+    "count": 3,
+    "fetchedAt": "2026-11-24T15:31:27.587Z",
     "sources": {
       "ticketmaster": 3,
-      "scrape": 0
+      "scrape": 1
     }
   }
 }

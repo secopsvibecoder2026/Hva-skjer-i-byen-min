@@ -1,28 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z16v7w3fFe",
-      "title": "Prøysen tel by’n",
-      "description": "Prøysen tel by'n i kulturkirken Jakob mandag 23.november kl 19:00 En årlig feiring av Alf Prøysen i Oslo <> er en egen selvstendig forening som arrangerer årlige konserter på Alf Prøysens dødsdag 23 november i Kulturkirken Jakob. Det er initiativtagerne Håkon Paulsberg, Lars Martin Myhre(R.I.P.) og Jørn Simen Øverli som satte i gang dette arrangementet som vi har gjennomført siden 2013. En årlig markering i Oslo bidrar til å løfte fram vår største sangpoet og gi ham den plassen han fortjener. Formålet med denne konserten er å sette lys på Prøysen, hvor ulike artister fra ulike sjangre lager sine egne versjoner av hans sanger. Fra 2016 har dette også blitt en arena for utdeling av Prøysenprisen, ellers er konserten lagt opp som en dugnad i samarbeid mellom arrangør og arister. Noen av årets artister: Elias Akselsen Iren Reppen Symre Magnus Staveland Zakarias Meyer Øverli og Bethany Forseth-Reichberg (Riversun) Kari Svendsen Stian Carstensen",
-      "date": "2026-11-23",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Kulturkirken Jakob, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/proysen-tel-byn-tickets/1132494202?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/proysen-tel-byn-tickets/1132494202?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/fd6/03364234-0ae3-41be-8977-291e5a471fd6_RETINA_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-LvZ18QmEHm4ogXsDfsZ6W",
       "title": "Bli kjent med Espen Lee!",
       "description": null,
@@ -961,12 +939,33 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kGE_yZK",
+      "title": "Di Derre",
+      "description": "Doors Open kl. 19.00. The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's Read the organizer's terms of purchase here. See www.rockefeller.no for the complete program.. Practical information about the concerts can be found here. The nearest transport hub is Storgata and/or Jernbanetorget. See ruter.no for more info.",
+      "date": "2026-12-12",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Sentrum Scene, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/di-derre-tickets/327679013?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/di-derre-tickets/327679013?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/b38/51477d18-826e-4921-be9b-f2a105f70b38_TABLET_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 45,
-    "fetchedAt": "2026-11-23T15:40:48.622Z",
+    "fetchedAt": "2026-11-24T15:30:58.993Z",
     "sources": {
       "ticketmaster": 50,
       "scrape": 0
