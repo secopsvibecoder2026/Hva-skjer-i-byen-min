@@ -1,69 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-LvZ18QmEHm4ogXsDfsZ6W",
-      "title": "Bli kjent med Espen Lee!",
-      "description": null,
-      "date": "2026-11-24",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Angst Bar, Oslo",
-      "categories": [
-        "teater"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.universe.com/events/bli-kjent-med-espen-lee-tickets-YF1RTP?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/bli-kjent-med-espen-lee-tickets-YF1RTP?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/393/b74d3ddc-a5f3-4e09-a801-89c36b774393_106071_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "imageEmoji": "🎭",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16v0bjp_v",
-      "title": "KRISTIANSEN // VEMØY: Hymns for Shepherds and Kings",
-      "description": "For tredje år på rad ønsker vi velkommen til en stemningsfull og meditativ julekonsert med KRISTIANSEN // VEMØY -- to av landets mest spennende musikalske formidlere. Denne kvelden blir en unik mulighet til å oppleve en musikalsk reise gjennom nytolkninger av julens hymner, i brytningen mellom budskapet om glede og håp, og den brutale virkeligheten vi lever i. Konserten er en kontemplativ opplevelse for både sjel og sinn -- i kirkerommet der albumet er spilt inn. Med inspirasjon fra jazz, klassisk musikk og elektronika skaper KRISTIANSEN // VEMØY et unikt lydunivers der det urolige og utydelige møter det beroligende og klare. Kontrasten mellom elektroniske underlag og akustiske elementer gir en dyptgående opplevelse som favner spekteret av menneskelige følelser. KRISTIANSEN // VEMØY er begge anerkjente musikere som har markert seg i ulike musikalske sammenhenger, både som utøvere, komponister og gjennom sine egne prosjekter. Deres samarbeid har røtter i arbeidet med Jakobmessene i Kulturkirken Jakob, og har siden 2021 resultert i tre albumutgivelser og 55 konserter i Norge og Danmark. KRISTIANSEN // VEMØY Øyvind Kristiansen [tangenter & programmering] Jonas Kilmork Vemøy [trompet & elektronikk] Om <> <> (Dagsavisen) <> (Nettavisen) <<[Blant] de beste platene i desember [2024]>> (Vårt Land)",
-      "date": "2026-11-24",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Kulturkirken Jakob, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/kristiansen-vemy-hymns-for-shepherds-and-kings-tickets/1918716641?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/kristiansen-vemy-hymns-for-shepherds-and-kings-tickets/1918716641?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/f7c/c6a6f020-7751-4324-a919-a31e5c7f4f7c_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16vC37VOY",
-      "title": "Destinations // Danseshow med OSI Gruppedans",
-      "description": "OSI Gruppedans is thrilled to invite you to this autumn's danceshow \"Destinations\"! We will bring you along on an unforgettable journey through a variety of different destinations, both from our world and beyond. The audience can expect to experience the city life, outer space and magical dance pavilions, all without having to do any of the planning! All 24 numbers are choreographed by our talented instructors, and offer an array of dance styles, from ballet, jazz, modern and contemporary fusion to hiphop, girly and female dancehall -- all performed by dance-loving students! If you need to daydream yourself away from studies and work, are looking for a new holiday destination or if you're just a big dance enthusiast, all you've got to do is pack your suitcase, have your ticket ready and prepare for take-off! OSI Gruppedans is a student dance association for Oslo students under the OSI umbrella (Oslo Students Sports Club), offering dance courses in jazz, hip hop, house, modern, contemporary fusion, classical ballet, female dancehall, girly jazz and girly hip hop every semester. The courses are offered at different levels, allowing everyone to be challenged and experience the joy of dance. We work towards a dance performance every semester where the dancers can shine on stage like the stars they are! Photography: Horgen_foto Design: Iselin Charlotte Rabben Nilsen",
-      "date": "2026-11-24",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Chateau Neuf, Storsalen, Oslo",
-      "categories": [
-        "konsert"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/destinations-danseshow-med-osi-gruppedans-tickets/1392134830?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/destinations-danseshow-med-osi-gruppedans-tickets/1392134830?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/824/6595b2ea-d54a-4582-86ca-61b24609f824_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z1kovbKbE",
       "title": "Hanna & de heldige - «Samma det vel!»",
       "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's.",
@@ -960,12 +897,77 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1k7wf-AF",
+      "title": "Ila Auto",
+      "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's.",
+      "date": "2026-12-12",
+      "time": "19:00",
+      "endTime": null,
+      "location": "John Dee, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/ila-auto-tickets/132521148?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/ila-auto-tickets/132521148?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/5dd/ad1bda09-0d0f-479b-bdde-0779cda055dd_TABLET_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16v8IZdjw",
+      "title": "Julebobler med Cava // En julekonsert med popkoret Cava og gjester",
+      "description": "Kom i julestemning med Cava i Kulturkirken Jakob. Vi byr på en miks av kjente og kjære juletoner og helt ferske favoritter. Dere som har vært på julekonsertene våre tidligere vil få et gjenhør med noen av Cavas signaturlåter, men vi har også flere helt nye sanger i repertoaret som vi gleder oss til å vise frem for aller første gang. Og som alltid har det sneket seg inn et par popperler i programmet som ikke handler om jul, men fordi kjærlighet, livet sjæl og deilig musikk er like aktuelt året rundt. I år byr vi på et musikalsk spenn fra blant annet Stevie Wonder, Joni Mitchel og Disney, til Raye, Mariah Carey og The Darkness - så her er det noe for enhver smak. Låtene er arrangert og skreddersydd for oss, ofte med en egen Cava-tvist. I år er vi så heldige at vi har fått med oss de vakre herrerøstene i acapellagruppen Digresjon, som skal bidra til å løfte førjulsmagien til nye høyder (og dype bunner). De tar noen sanger sammen med oss, og noen alene. Vi gleder oss til å synge julen inn for dere, både gamle og nye Cava-venner! OM DIGRESJON: Digresjon er en åttemanns acapellagruppe som synger spennende arrangementer av musikk de selv liker, primært innenfor jazz- og popsjangeren. De kombinerer høyt musikalsk nivå med en uformell atmosfære, noe som skaper en unik opplevelse og trekker publikum tilbake år etter år. Cavas dirigent Erlend Leinan Lund synger i Digresjon. Info: Sittende/stående konsert: Sittende Dørene åpner: 30 minutter før konserten begynner Aldersgrense: 18 år (kontakt jakob@kkv.no for vergeskjema)",
+      "date": "2026-12-12",
+      "time": "19:30",
+      "endTime": null,
+      "location": "Kulturkirken Jakob, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/julebobler-med-cava-en-julekonsert-med-popkoret-cava-og-gjester-tickets/1428003732?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/julebobler-med-cava-en-julekonsert-med-popkoret-cava-og-gjester-tickets/1428003732?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/ed0/e71a94fe-f79d-4cdd-af81-02bdc3bebed0_SOURCE",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z1kJ3P0bt",
+      "title": "Penthouse Playboys vrikker julen inn",
+      "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's.",
+      "date": "2026-12-12",
+      "time": "20:00",
+      "endTime": null,
+      "location": "Rockefeller, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/penthouse-playboys-vrikker-julen-inn-tickets/992964629?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/penthouse-playboys-vrikker-julen-inn-tickets/992964629?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/251/f22f2016-c3a4-4dc8-8866-ae7522bcc251_RETINA_PORTRAIT_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
     "count": 45,
-    "fetchedAt": "2026-11-24T15:30:58.993Z",
+    "fetchedAt": "2026-11-25T15:17:27.758Z",
     "sources": {
       "ticketmaster": 50,
       "scrape": 0

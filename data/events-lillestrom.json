@@ -768,6 +768,27 @@
       "source": "scrape"
     },
     {
+      "id": "scrape-gen-nytt-rskonsert-med-romerike-symfoniorkes-2027-01-24",
+      "title": "Nyttårskonsert med Romerike symfoniorkester",
+      "description": "Søndag 24. januar 2027\nkl. 18.00",
+      "date": "2027-01-24",
+      "time": null,
+      "endTime": null,
+      "location": "Lillestrøm",
+      "categories": [
+        "konsert"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/16988-nyttarskonsert-med-romerike-symfoniorkester/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/16988-nyttarskonsert-med-romerike-symfoniorkester/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
       "id": "scrape-gen-ivana-uten-baller-2027-01-28",
       "title": "Ivana uten baller",
       "description": "Torsdag 28. januar 2027\nkl. 19.00",
@@ -1775,11 +1796,11 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 90,
-    "fetchedAt": "2026-11-24T15:31:13.282Z",
+    "count": 91,
+    "fetchedAt": "2026-11-25T15:17:38.355Z",
     "sources": {
       "ticketmaster": 0,
-      "scrape": 95
+      "scrape": 96
     }
   }
 }
