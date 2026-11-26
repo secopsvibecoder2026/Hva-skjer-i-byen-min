@@ -1,28 +1,9 @@
 {
   "events": [
     {
-      "id": "scrape-gen-thon-senter-str-mmen-presenterer-scrooge-2026-11-25",
-      "title": "Thon Senter Strømmen presenterer Scrooge – et juleeventyr",
-      "description": "Gratis",
-      "date": "2026-11-25",
-      "time": null,
-      "endTime": null,
-      "location": "Lillestrøm",
-      "categories": [],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/18323-thon-senter-strommen-presenterer-scrooge-et-juleeventyr/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/18323-thon-senter-strommen-presenterer-scrooge-et-juleeventyr/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
       "id": "scrape-gen-bori-presenterer-scrooge-et-juleeventyr-2026-11-26",
       "title": "BORI presenterer Scrooge – et juleeventyr",
-      "description": "Få billetter igjen",
+      "description": "Utsolgt",
       "date": "2026-11-26",
       "time": null,
       "endTime": null,
@@ -218,7 +199,7 @@
     {
       "id": "scrape-gen-ett-fett-storband-den-tradisjonelle-jule-2026-11-29",
       "title": "Ett Fett storband: Den tradisjonelle julekonserten 2026",
-      "description": "Søndag 29. november\nkl. 19.30",
+      "description": "Få billetter igjen",
       "date": "2026-11-29",
       "time": null,
       "endTime": null,
@@ -1119,7 +1100,7 @@
     },
     {
       "id": "scrape-gen-svanesj-en-en-kveld-med-ballett-i-verden-2027-02-21",
-      "title": "Svanesjøen – en kveld med ballett i verdensklasse",
+      "title": "Svanesjøen – En kveld med ballett i verdensklasse",
       "description": "Søndag 21. februar 2027\nkl. 18.00",
       "date": "2027-02-21",
       "time": null,
@@ -1298,7 +1279,7 @@
     },
     {
       "id": "scrape-gen-christel-alsos-til-nord-skal-du-bli-2027-03-12",
-      "title": "Christel Alsos – til Nord skal du bli",
+      "title": "Christel Alsos – Til Nord skal du bli",
       "description": "Fredag 12. mars 2027\nkl. 19.00",
       "date": "2027-03-12",
       "time": null,
@@ -1695,6 +1676,25 @@
       "source": "scrape"
     },
     {
+      "id": "scrape-gen-hanne-s-rv-g-hyller-dolly-parton-2027-10-15",
+      "title": "Hanne Sørvåg hyller Dolly Parton",
+      "description": "Fredag 15. oktober 2027\nkl. 19.00",
+      "date": "2027-10-15",
+      "time": null,
+      "endTime": null,
+      "location": "Lillestrøm",
+      "categories": [],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/18261-hanne-sorvag-hyller-dolly-parton/",
+      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/18261-hanne-sorvag-hyller-dolly-parton/?ref=hvaSkjerIByenMin",
+      "imageUrl": null,
+      "imageEmoji": "🎪",
+      "sponsored": false,
+      "featured": false,
+      "source": "scrape"
+    },
+    {
       "id": "scrape-gen-keep-it-country-concert-2027-10-17",
       "title": "Keep It Country Concert",
       "description": "Søndag 17. oktober 2027\nkl. 19.00",
@@ -1797,7 +1797,7 @@
   "meta": {
     "city": "lillestrom",
     "count": 91,
-    "fetchedAt": "2026-11-25T15:17:38.355Z",
+    "fetchedAt": "2026-11-26T14:43:01.322Z",
     "sources": {
       "ticketmaster": 0,
       "scrape": 96
