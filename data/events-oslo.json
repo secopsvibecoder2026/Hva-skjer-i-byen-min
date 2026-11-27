@@ -1,93 +1,6 @@
 {
   "events": [
     {
-      "id": "tm-Z698xZb_Z1kovbKbE",
-      "title": "Hanna & de heldige - «Samma det vel!»",
-      "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's.",
-      "date": "2026-11-26",
-      "time": "17:00",
-      "endTime": null,
-      "location": "Sentrum Scene, Oslo",
-      "categories": [
-        "teater"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/hanna--de-heldige-samma-det-vel-tickets/441613627?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/hanna--de-heldige-samma-det-vel-tickets/441613627?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/30d/c11f7fbf-af5d-45f7-b3c8-f39151c0130d_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16v4fbJ44",
-      "title": "The Sheepdogs",
-      "description": "The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's. Read the organizer's terms of purchase here. See www.rockefeller.no for the complete program.. Practical information about the concerts can be found here. The nearest transport hub is Storgata and/or Jernbanetorget. See ruter.no for more info.",
-      "date": "2026-11-26",
-      "time": "19:00",
-      "endTime": null,
-      "location": "John Dee, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/the-sheepdogs-tickets/1554626555?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/the-sheepdogs-tickets/1554626555?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/393/4d699cc3-36d5-4ff5-98ee-ad8d74ed6393_TABLET_LANDSCAPE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z16vuA8pfd",
-      "title": "VAMP",
-      "description": "Doors Open kl. 19.00. The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's Read the organizer's terms of purchase here. See www.rockefeller.no for the complete program.. Practical information about the concerts can be found here. The nearest transport hub is Storgata and/or Jernbanetorget. See ruter.no for more info.",
-      "date": "2026-11-26",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Rockefeller, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/vamp-tickets/1345416503?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/vamp-tickets/1345416503?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/a/41a/b114b0ec-2390-4dd2-b7c3-6111ec96c41a_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
-      "id": "tm-Z698xZb_Z1kaS_3jx",
-      "title": "Det Norske Kammerorkester // Amnesty og Kammerorkesteret",
-      "description": "Gjennom 2026 har Det Norske Kammerorkester hatt et tett samarbeid med Amnesty International Norge. Gjennom ulike konserter har orkesteret løftet frem temaer fra Amnestys arbeid med menneskerettigheter. Denne kvelden er viet samarbeidet i sin helhet. Med inspirasjon fra den klassiske symfonien er konserten bygget opp i fire deler, som til sammen danner en musikalsk bevegelse. Vi begynner med å tegne opp et landskap. Deretter følger en roligere del, der vi kommer tettere på det menneskelige. Så åpner det seg igjen, med mer bevegelse og energi. Til slutt peker musikken fremover -- mot handling og håp. Med et særlig fokus på kvinners rettigheter denne kvelden, er det naturlig å la stemmene til Katarina Barruk og Ghawgha Taban bære mye av det vi ønsker å formidle. Program J. S. Bach / Max Reger - O Mensch, bewein dein Sünde gross Erkki-Sven Tüür - Action for string orchestra Ghawgha - Man Kabulam Boat Sing for me Franz Schubert - Fra Døden og piken, op. 7 no. 3 Missy Mazzoli - Vespers for Violin Arvo Pärt - Fratres for violin, strings and percussion Sanger av Katarina Barruk Medvirkende Pekka Kuusisto, kunstnerisk leder Katarina Barruk, vokal Ghawgha, vokal",
-      "date": "2026-11-26",
-      "time": "19:00",
-      "endTime": null,
-      "location": "Kulturkirken Jakob, Oslo",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/det-norske-kammerorkester-amnesty-og-kammerorkesteret-tickets/273652722?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/det-norske-kammerorkester-amnesty-og-kammerorkesteret-tickets/273652722?language=en-us&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/e/151/86c45ee2-91a9-4d0e-991d-74d0d3ef1151_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    },
-    {
       "id": "tm-Z698xZb_Z16v38kfe3",
       "title": "beabadoobee: The Powerlines Tour",
       "description": null,
@@ -347,7 +260,7 @@
     },
     {
       "id": "tm-Z698xZb_Z1k16ok-z",
-      "title": "Mot Lys - En middels jul med Inge Bremnes",
+      "title": "Mot Lys - En middels jul med Inge Bremnes (FÅ BILLETTER)",
       "description": "Mot Lys - En middels jul med Inge Bremnes Julen er tradisjoner, forventninger og glitter. Men la oss være ærlige: Den kan også være stress, mas og en aldri så liten dose skuffelse. Og midt i alt kjas og mas drar Inge Bremnes ut på veien igjen. Hvis du er ute etter engler i hvite kjoler, røkelse og smilende nisser -- da er du på feil konsert. Hvis du derimot vil ha en middels jul med varme låter, selvironi og en artist som tør å si at desember kan være litt mye -- da er Mot Lys -- En middels jul med Inge Bremnes akkurat det du trenger. Med seg har Inge sitt trofaste band, som i over ti år har vært både musikalske medsammensvorne og reisefølge på kryss og tvers av landet. Sammen serverer de en julekonsert som ikke lover gull, røkelse og myrra -- men heller noe mye bedre: en ærlig, varm og musikalsk kveld som anerkjenner at jula ikke alltid er perfekt... men som oftest blir ganske fin likevel. I tillegg til kjente Inge Bremnes-låter fra hele katalogen hans, blir det nye og gamle julelåter i ny drakt, humoristiske anekdoter fra artistens skråblikk på livet -- og kanskje en liten påminnelse om at håpet alltid ligger der, selv i mørketida. I år som i fjor samarbeider vi med Mental Helse, en viktig organisasjon som i 45 år har arbeidet for økt åpenhet, forebygging av psykiske helseutfordringer og et bedre psykisk helsetilbud for alle, noe som gjenspeiler tematikken og ønsket vårt med denne turnéen. Det vil være mulig å donere et beløp når du kjøper billett og vi vil oppfordre alle til å bidra på sin måte. I tillegg vil vi også selge årets julekule, som dekker en viktig telefonsamtale for noen som trenger det i juletiden. Hvem er Inge Bremnes? Inge Bremnes slo gjennom midt på 2010-tallet med låter som Ikaros, Meire Vi og Himmelblå, og har siden fylt alt fra samfunnshus i Nord-Norge til Rockefeller i Oslo. Med tekster som balanserer mellom underfundig humor og brutal ærlighet, og en særegen evne til å treffe både P1- og P3-publikummet, har han etablert seg som en av landets mest markante låtskrivere. Oppvokst i Kvæfjord, men bosatt i Oslo, er han kjent for å kombinere det nære og jordnære med et moderne popspråk -- alltid med en lite selvhøytidelig tone. I 2023 hadde han også tittellåten til NRK-julekalenderen \"Snøfall 2\" og i 2026 ga han ut sitt femte studio album \"Burde æ skrive det ned\", tett etterfulgt av turnéer og festivalopptredener. Hvorfor \"middels\"? Fordi vi alle har opplevd en jul som ikke ble helt som planlagt. Fordi det er lov å senke skuldrene og droppe kravet om den <>. Men det er også lov å ikke grave seg helt ned i stress og alt man måtte grue seg til. Så vi sikter på et sted midt i mellom. Og fordi \"middels\" i godt lag ofte blir ganske magisk. Turneen besøker både store og små scener, fra kulturhus i storbyen til samfunnshus i bygda, og tar også turen innom steder der juleturneer sjelden stopper. På veien blir det latter, ettertanke, og forhåpentligvis en følelse av fellesskap i mørketida. Så ta med deg en venn, senk skuldrene og bli med på en middels jul -- det kan fort bli høydepunktet i desember.",
       "date": "2026-12-02",
       "time": "21:00",
@@ -358,8 +271,8 @@
       ],
       "priceFrom": null,
       "currency": null,
-      "ticketUrl": "https://www.ticketmaster.no/event/mot-lys-en-middels-jul-med-inge-bremnes-tickets/287446878?language=en-us",
-      "affiliateUrl": "https://www.ticketmaster.no/event/mot-lys-en-middels-jul-med-inge-bremnes-tickets/287446878?language=en-us&ref=hvaSkjerIByenMin",
+      "ticketUrl": "https://www.ticketmaster.no/event/mot-lys-en-middels-jul-med-inge-bremnes-fa-billetter--tickets/287446878?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/mot-lys-en-middels-jul-med-inge-bremnes-fa-billetter--tickets/287446878?language=en-us&ref=hvaSkjerIByenMin",
       "imageUrl": "https://s1.ticketm.net/dam/e/a0c/7c2da9b4-ae2f-4210-b548-44a2f0575a0c_RETINA_PORTRAIT_16_9.jpg",
       "imageEmoji": "🎵",
       "sponsored": false,
@@ -962,12 +875,76 @@
       "sponsored": false,
       "featured": false,
       "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vFJQFfM",
+      "title": "Klinge skal et jubelkor SOLD OUT",
+      "description": "Oslo Cathedral's traditional Christmas concert is experienced as both grand and quiet, solemn and beautiful. Here, generations come together from all the Cathedral's choirs to greet the Christmas season with song. The program features beloved and well-known carols, and you will also have the opportunity to join in singing several of them. We present five concerts, and they are always sold out -- secure your ticket now! All seating is reserved, and the best seats go first. Friday, December 11 at 7:00 PM Saturday, December 12 at 4:00 PM and 6:00 PM Sunday, December 13 at 4:00 PM and 6:00 PM We look forward to welcoming you! Participants: Oslo Cathedral Boys' Choir, Trefoldighet Girls' Choir, Oslo Cathedral Youth Choir, Consortium Vocale Oslo, Oslo Cathedral Choir. Tormod Åsgård and Gry Aubert Bang, trumpet. Marie and Joar Nøkleby Lemme, trombone. Teodor Berg, timpani. Sidsel Walstad, harp. Marcus André Berg and Tjark Pinne, organ. Oddgeir Kjetilstad, Sindre Hugo Bjerkestrand, David Maiwald and Edle Stray-Pedersen, conductors. A warm welcome! Accessibility: Dedicated wheelchair-tickets can be purchased in the south nave. Here you can choose whether you are accompanied by a companion or not. Companions are admitted free of charge upon presentation of a companion certificate. The companion will be seated directly behind the wheelchair space. Oslo Cathedral has a ramp and lift to ensure step-free access. Please arrive at the main entrance, where our staff will guide you to the wheelchair entrance. A wheelchair-accessible restroom is available near the main entrance. If you wish to reserve a companion ticket without it being linked to a wheelchair space, select the ticket category \"companion-ticket\" for any other seat in the Cathedral. For questions, please contact the organizer, Oslo Cathedral Choir, at +47 977 95 450.",
+      "date": "2026-12-13",
+      "time": "16:00",
+      "endTime": null,
+      "location": "Oslo domkirke, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/klinge-skal-et-jubelkor-sold-out-tickets/1226688537?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/klinge-skal-et-jubelkor-sold-out-tickets/1226688537?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/62f/21a8fdb0-1823-43ee-ad79-fa0a048ee62f_RETINA_LANDSCAPE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16vGvqF_K",
+      "title": "Natt i Desember // Knut Reiersrud og Iver Kleive",
+      "description": "Etter fjorårets suksess med to utsolgte konserter kommer de tilbake med julekonserten \"Natt i Desember\" til Kulturkirken Jakob! Natt i Desember har hvert år siden albumet ble gitt ut i 2018, sørget for at publikum kommer skikkelig i julestemning. Iver Kleive (orgel) og Knut Reiersrud (gitarer og oud) har mange års erfaring med å lage mektig lyd i katedraler. Mange husker deres utgivelser <>, <> og <> som vakre bautaer over møtet mellom europeisk kirkemusikk og afroamerikansk rytmikk og tonefølelse. <> (KKV 2018) er juleversjonen: Meningstunge, stemningsskapende versjoner av velkjente julesanger. På repertoaret står blant annet <>, <>, <>, <> og <>. Den nyskrevne <> av Iver Kleive og en jiddisk folkemelodi som her har tittelen <> har også fått plass. Velkommen til årets julekonsert i Kulturkirken Jakob",
+      "date": "2026-12-13",
+      "time": "16:00",
+      "endTime": null,
+      "location": "Kulturkirken Jakob, Oslo",
+      "categories": [
+        "konsert"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/natt-i-desember-knut-reiersrud-og-iver-kleive-tickets/1301748653?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/natt-i-desember-knut-reiersrud-og-iver-kleive-tickets/1301748653?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/a/256/af31cae1-4396-44d4-b102-4261df688256_SOURCE",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
+    },
+    {
+      "id": "tm-Z698xZb_Z16evv_40z",
+      "title": "Brad Williams",
+      "description": "Doors Open kl. 19.00. The event has an 18-year age limit with ID requirement. No guardian arrangement. Identification will be checked for all attendees assumed to be under 25. Valid identification includes a physical national ID card, passport, physical driver's license, or a photo ID bank card. Digital identification or photo of identification is not valid identification. The photo on the ID must be easily identifiable as the user's Read the organizer's terms of purchase here. See www.rockefeller.no for the complete program.. Practical information about the concerts can be found here. The nearest transport hub is Storgata and/or Jernbanetorget. See ruter.no for more info.",
+      "date": "2026-12-13",
+      "time": "19:00",
+      "endTime": null,
+      "location": "Sentrum Scene, Oslo",
+      "categories": [
+        "konsert",
+        "uteliv"
+      ],
+      "priceFrom": null,
+      "currency": null,
+      "ticketUrl": "https://www.ticketmaster.no/event/brad-williams-tickets/2041655938?language=en-us",
+      "affiliateUrl": "https://www.ticketmaster.no/event/brad-williams-tickets/2041655938?language=en-us&ref=hvaSkjerIByenMin",
+      "imageUrl": "https://s1.ticketm.net/dam/e/5fc/50a23264-6241-4477-8b45-65051454a5fc_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageEmoji": "🎵",
+      "sponsored": false,
+      "featured": false,
+      "source": "ticketmaster"
     }
   ],
   "meta": {
     "city": "oslo",
-    "count": 45,
-    "fetchedAt": "2026-11-26T14:42:50.373Z",
+    "count": 44,
+    "fetchedAt": "2026-11-27T14:42:00.913Z",
     "sources": {
       "ticketmaster": 50,
       "scrape": 0
