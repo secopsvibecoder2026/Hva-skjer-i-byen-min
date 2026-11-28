@@ -1,10 +1,10 @@
 {
   "events": [
     {
-      "id": "scrape-gen-scrooge-et-juleeventyr-2026-11-27",
-      "title": "Scrooge – Et juleeventyr",
-      "description": "27. nov. – 13. des.\n15 forestillinger",
-      "date": "2026-11-27",
+      "id": "scrape-gen-scrooge-et-juleeventyr-2026-11-28",
+      "title": "Scrooge – et juleeventyr",
+      "description": "28. nov. – 13. des.\n13 forestillinger",
+      "date": "2026-11-28",
       "time": null,
       "endTime": null,
       "location": "Lillestrøm",
@@ -20,28 +20,9 @@
       "source": "scrape"
     },
     {
-      "id": "scrape-gen-b-rd-tufte-johansen-pr-ver-v-re-positiv-2026-11-27",
-      "title": "Bård Tufte Johansen – Prøver å være positiv",
-      "description": "Fre. 27. nov.\n2 forestillinger",
-      "date": "2026-11-27",
-      "time": null,
-      "endTime": null,
-      "location": "Lillestrøm",
-      "categories": [],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.lillestrom-kultursenter.no/program/17351-bard-tufte-johansen-prover-a-vaere-positiv/",
-      "affiliateUrl": "https://www.lillestrom-kultursenter.no/program/17351-bard-tufte-johansen-prover-a-vaere-positiv/?ref=hvaSkjerIByenMin",
-      "imageUrl": null,
-      "imageEmoji": "🎪",
-      "sponsored": false,
-      "featured": false,
-      "source": "scrape"
-    },
-    {
       "id": "scrape-gen-jazzkaf-helene-og-happy-jazz-band-2026-11-28",
       "title": "Jazzkafé – Helene og Happy Jazz Band",
-      "description": "Lørdag 28. november\nkl. 13.00",
+      "description": "Lør. 28. nov.\n0 forestillinger",
       "date": "2026-11-28",
       "time": null,
       "endTime": null,
@@ -556,7 +537,7 @@
     {
       "id": "scrape-gen-n-tteknekkeren-symphony-of-lights-2026-12-21",
       "title": "Nøtteknekkeren – Symphony of Lights",
-      "description": "Mandag 21. desember\nkl. 19.00",
+      "description": "Få billetter igjen",
       "date": "2026-12-21",
       "time": null,
       "endTime": null,
@@ -1758,11 +1739,11 @@
   ],
   "meta": {
     "city": "lillestrom",
-    "count": 89,
-    "fetchedAt": "2026-11-27T14:42:14.619Z",
+    "count": 88,
+    "fetchedAt": "2026-11-28T13:53:40.265Z",
     "sources": {
       "ticketmaster": 0,
-      "scrape": 94
+      "scrape": 93
     }
   }
 }

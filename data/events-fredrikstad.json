@@ -1,32 +1,9 @@
 {
-  "events": [
-    {
-      "id": "tm-LvZ18QN7CBt944ZvarskD",
-      "title": "Bakpå Presenterer Svartepetter @ Savoy Terrasse",
-      "description": null,
-      "date": "2026-11-27",
-      "time": "20:00",
-      "endTime": null,
-      "location": "Savoy Terrasse, Fredrikstad",
-      "categories": [
-        "konsert",
-        "uteliv"
-      ],
-      "priceFrom": null,
-      "currency": null,
-      "ticketUrl": "https://www.universe.com/events/bakpa-presenterer-svartepetter-savoy-terrasse-tickets-K9CBS7?ref=ticketmaster",
-      "affiliateUrl": "https://www.universe.com/events/bakpa-presenterer-svartepetter-savoy-terrasse-tickets-K9CBS7?ref=ticketmaster&ref=hvaSkjerIByenMin",
-      "imageUrl": "https://s1.ticketm.net/dam/c/80b/f3cd8d24-c3ae-4fa0-b4bc-1ba99f9b380b_106091_RETINA_PORTRAIT_16_9.jpg",
-      "imageEmoji": "🎵",
-      "sponsored": false,
-      "featured": false,
-      "source": "ticketmaster"
-    }
-  ],
+  "events": [],
   "meta": {
     "city": "fredrikstad",
-    "count": 1,
-    "fetchedAt": "2026-11-27T14:42:11.202Z",
+    "count": 0,
+    "fetchedAt": "2026-11-28T13:53:37.257Z",
     "sources": {
       "ticketmaster": 1,
       "scrape": 0
